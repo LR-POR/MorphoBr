@@ -14,7 +14,7 @@ http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html
 The tagset used in the above project was converted to a more
 mnemonical one which generally follows the notational conventions of
 the descriptive linguistic and finite-state morphology literatures,
-see tag_mapping.txt file.
+see tag-map.org file.
 
 In order to use MorphoBr resources for morphological analysis in XFST,
 or in XLE in the context of syntactic parsing (e.g. with BrGram), they
