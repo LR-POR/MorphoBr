@@ -1,7 +1,9 @@
-* Convertion table between the DELAF_PB computational dictionary and the MorphoBr tagsets
+#+TITLE: Convertion table between the DELAF_PB computational dictionary and the MorphoBr tagsets
+#+AUTHOR: Leonel F. de Alencar
+
 - For information on DELAF_PB, visit [[http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html][their website]].
 
-BrMorph generally follows the format proposed by Beesley and
+MorphoBr generally follows the format proposed by Beesley and
 Karttunen's XFST book, using [[http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/statiques/Abreviations_gloses-fra.pdf][a tagset]] based on the Leipzig Glossing
 Rules and other abbrevations for morphological glosses commonly
 adopted in the linguistic literature:
