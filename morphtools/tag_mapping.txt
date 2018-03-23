@@ -1,0 +1,27 @@
+# this table is used for building a Python dictionary with the 
+# module BuildPairsFromDELAF
+
+D DIM	  diminutive
+A AUG	  augmentative
+S SUPER	  superlative
+m M	  masculine
+s SG	  singular
+f F	  feminine
+p PL	  plural
+W INF infinitive
+G GRD gerund
+K PTPASS passive participle (PTPST forms, i.e. past participles without gender and number tags, must be included)
+P PRS  present indicative
+I IMPF imperfect indicative
+J PRF  perfect indicative
+F FUT  future indicative
+Q PQP  plusquamperfect indicative
+S SBJR present subjunctive
+T SBJP imperfect subjunctive
+U SBJF future subjunctive
+Y IMP  imperative
+C COND conditional (preterite future indicative)
+1 1 first person
+2 2 second person
+3 3 third person
+

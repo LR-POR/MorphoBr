@@ -1,0 +1,21 @@
+# this table is used for building a Python dictionary with the 
+# module BuildPairsFromDELAF
+
+a	ele.ACC.3.F.SG
+as	ele.ACC.3.F.PL
+la	ele.ACC.3.F.SG
+las	ele.ACC.3.F.PL
+lhe	ele.DAT.3.SG
+lhes	ele.DAT.3.PL
+lo	ele.ACC.3.M.SG
+los	ele.ACC.3.M.PL
+me	eu.AD.1.SG
+na	ele.ACC.3.F.SG
+nas	ele.ACC.3.F.PL
+no	ele.ACC.3.M.SG
+nos	ele.ACC.3.M.PL/nós.AD.1.PL
+o	ele.ACC.3.M.SG
+os	ele.ACC.3.M.PL
+se	ele.REFL
+te	tu.AD.2.SG
+vos	vós.AD.2.PL
