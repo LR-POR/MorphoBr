@@ -22,31 +22,37 @@ e.g. /mantinhas:,manter.V:I2s/ and /abstinhas:-lhe,abster.V+PRO:I2s/.
 | AD   | accusative or dative                              | case    |
 | REFL | reflexive pronoun (3rd person singular or plurar) | pronoun |
 
-* notes
-- =c X/Y= :: "clitic c is ambiguous between X and Y readings"
-- the other tags are explained in =tag-map.org=
-- Note that a feature is not specified when it is not explicitly
+* Notes
+- The other tags are explained in =tag-map.org=.
+- The annotation has up to 5 parts, separated by a dot, namely lemma, case, person,
+gender, and number. 
+- A feature is not specified when it is not explicitly.
   marked, e.g. "lhe", "me", etc. are not marked for gender. In this
-  respect, compare these forms, for example, with "a" and "o".
+  respect, compare these forms, for example, with "a" and "o". 
+  The reflexive only receives the tag REFL, since there is no other reflexive clitic.
+- =c X/Y= :: "clitic c is ambiguous between X and Y readings" (this generates 
+  two different verb entries). 
+
 
 | clitic | annotation         |
 |--------+--------------------|
-| a      | ACC.3.F.SG         |
-| a      | ACC.3.F.SG         |
-| as     | ACC.3.F.PL         |
-| la     | ACC.3.F.SG         |
-| las    | ACC.3.F.PL         |
-| lhe    | DAT.3.SG           |
-| lhes   | DAT.3.PL           |
-| lo     | ACC.3.M.SG         |
-| los    | ACC.3.M.PL         |
-| me     | AD.1.SG            |
-| na     | ACC.3.F.SG         |
-| nas    | ACC.3.F.PL         |
-| no     | ACC.3.M.SG         |
-| nos    | ACC.3.M.PL/AD.1.PL |
-| o      | ACC.3.M.SG         |
-| os     | ACC.3.M.PL         |
-| se     | REFL               |
-| te     | AD.2.SG            |
-| vos    | AD.2.PL            |
+| a      | ele.ACC.3.F.SG         |
+| a      | ele.ACC.3.F.SG         |
+| as     | ele.ACC.3.F.PL         |
+| la     | ele.ACC.3.F.SG         |
+| las    | ele.ACC.3.F.PL         |
+| lhe    | ele.DAT.3.SG           |
+| lhes   | ele.DAT.3.PL           |
+| lo     | ele.ACC.3.M.SG         |
+| los    | ele.ACC.3.M.PL         |
+| me     | eu.AD.1.SG            |
+| na     | ele.ACC.3.F.SG         |
+| nas    | ele.ACC.3.F.PL         |
+| no     | ele.ACC.3.M.SG         |
+| nos    | ele.ACC.3.M.PL/nós.AD.1.PL |
+| o      | ele.ACC.3.M.SG         |
+| os     | ele.ACC.3.M.PL         |
+| se     | ele.REFL               |
+| te     | tu.AD.2.SG            |
+| vos    | vós.AD.2.PL            |
+
