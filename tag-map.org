@@ -5,7 +5,7 @@
 
 MorphoBr generally follows the format proposed by Beesley and
 Karttunen's XFST book, using [[http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/statiques/Abreviations_gloses-fra.pdf][a tagset]] based on the Leipzig Glossing
-Rules and other abbrevations for morphological glosses commonly
+Rules and other abbreviations for morphological glosses commonly
 adopted in the linguistic literature:
 
 | DELAF_PB | MorphoBr | meaning                                                                                                   |
