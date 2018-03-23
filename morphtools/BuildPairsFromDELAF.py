@@ -93,7 +93,10 @@ def ExtractClitic(word):
 
 def EndsInNasalDiphthong(word):
     pattern=r"\w+([õã][eo]\b|m\b)".decode("utf-8")
-    return re.match(pattern,word)
+    if re.match(pattern,word):
+        return True
+    else:
+        return False
 
 def AppendCliticFeatures(word,cat):
     return "%s.%s" % (cat.split(PRO)[0], CLITIC_MAPPING.get(ExtractClitic(word)))
@@ -123,12 +126,15 @@ def ConvertEntry(entry,dic):
         cat_list= AppendCliticFeatures(word,cat).split("/")
         # print cat_list
         # handling ambiguity of clitic "nos" after nasal diphthong
-        if len(cat_list)==2 and EndsInNasalDiphthong(word):
-            cat_list[1]="%s.%s" % (cat_list[0].split(".")[0],cat_list[1])
-            entries=[]
-            for c in cat_list:
-                entries.append("%s\t%s+%s+%s" % (word,lemma,c,ConcatenateFeatures(dic,feats)))
-            return "\n".join(entries)
+        if len(cat_list)==2:
+            if EndsInNasalDiphthong(word):
+                cat_list[1]="%s.%s" % (cat_list[0].split(".")[0],cat_list[1])
+                entries=[]
+                for c in cat_list:
+                    entries.append("%s\t%s+%s+%s" % (word,lemma,c,ConcatenateFeatures(dic,feats)))
+                return "\n".join(entries)
+            else:
+                cat=cat_list[1]
         else:
             cat=cat_list[0]
     return "%s\t%s+%s+%s" % (word,lemma,cat,ConcatenateFeatures(dic,feats))
