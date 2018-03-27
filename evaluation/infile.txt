@@ -1,0 +1,17 @@
+casas,casa.N:fp
+casinhas,casa.N:Dfp
+casarões,casa.N:Amp
+sabidos,saber.V:Kmp
+sabidos,sabido.A:mp
+sabiam,saber.V:I3p
+elogiava-os,elogiar.V+PRO:I1s
+elogiava-os,elogiar.V+PRO:I3s
+elogiavam-lhe,elogiar.V+PRO:I3p
+elogiava-nos,elogiar.V+PRO:I1s
+elogiava-nos,elogiar.V+PRO:I2s
+elogiava-nos,elogiar.V+PRO:I3s
+elogiavam-nos,elogiar.V+PRO:I3p
+expõe-nos,expor.V+PRO:P2s
+expõe-nos,expor.V+PRO:P3s
+expõe-nos,expor.V+PRO:Y2s
+dão-nos,dar.V+PRO:P3p
