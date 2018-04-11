@@ -1,6 +1,6 @@
 abstract Morpho = {
   cat S ; -- entry
-      NF ; VF ; -- class features
+      NF ; VF ; AF ; -- class features
       -- features
       Gender ; Number ; Degree ;
       MT ; -- Mood + Tense
@@ -23,5 +23,8 @@ abstract Morpho = {
     -- V
     mkV : String -> String -> VF -> S ;
     mkVF : MT -> Person -> Number -> Gender -> VF ;
+    -- A
+    mkA : String -> String -> AF -> S ;
+    mkAF : Degree -> Gender -> Number -> AF ;
 
 } ;

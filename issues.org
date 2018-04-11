@@ -1,0 +1,7 @@
+#+TITLE: issues
+
+1. [ ] use C runtime in order to handle whitespace correctly (how to
+   get it to work, though?)
+2. [ ] check the several missing features of the freeling dictionary
+3. [ ] change the adjective diminutive tag to "D", as is the noun
+   diminutive tag

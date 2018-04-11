@@ -1,7 +1,7 @@
 concrete MorphoEag of Morpho = open Prelude, Predef in {
   lincat
     S = SS ; -- entry
-    NF, VF = SS ; -- class features
+    NF, VF, AF = SS ; -- class features
     Gender, Number, Degree, MT, Person = SS ; -- features
   lin
     ---
@@ -18,7 +18,7 @@ concrete MorphoEag of Morpho = open Prelude, Predef in {
     InvN = ss "N" ;
     ZNumber = ss "0" ;
     -- degree
-    Dim = ss "D" ;
+    Dim = ss ("D" | "C") ;
     Aug = ss "A" ;
     Super = ss "S" ;
     ZDegree = ss "0" ;
@@ -51,6 +51,9 @@ concrete MorphoEag of Morpho = open Prelude, Predef in {
     -- V
     mkV = mkEntry ;
     mkVF mt p n g = ss ("V" ++ ("M" | "A" | "S") ++ mt.s ++ p.s ++ n.s ++ g.s) ;
+    -- A
+    mkA = mkEntry ;
+    mkAF d g n = ss ("A" ++ ("O" | "Q" | "P") ++ d.s ++ g.s ++ n.s ++ "0" ++ "0") ;
 
   oper
     mkEntry : SS -> SS -> SS -> SS ;

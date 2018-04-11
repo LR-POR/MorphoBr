@@ -1,7 +1,7 @@
 concrete MorphoBra of Morpho = open Prelude, Predef in {
   lincat
     S = SS ; -- entry
-    NF, VF = SS ; -- class features
+    NF, VF, AF = SS ; -- class features
     Gender, Number, Degree, MT, Person = SS ; -- features
   lin
     ---
@@ -51,6 +51,9 @@ concrete MorphoBra of Morpho = open Prelude, Predef in {
     -- V
     mkV = mkEntry ;
     mkVF mt p n g = ss ("+V" ++ mt.s ++ p.s ++ g.s ++ n.s) ;
+    -- A
+    mkA = mkEntry ;
+    mkAF d g n = ss ("+A" ++ d.s ++ g.s ++ n.s) ;
 
   oper
     mkEntry : SS -> SS -> SS -> SS ;
