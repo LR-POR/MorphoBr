@@ -1,15 +1,27 @@
 abstract Morpho = {
-  cat S ; NF ; Gender ; Number ; Degree ; VF ;
+  cat S ; -- entry
+      NF ; VF ; -- class features
+      -- features
+      Gender ; Number ; Degree ;
       MT ; -- Mood + Tense
       Person ;
   fun
+    ---
+    -- features
+    Masc, Fem, Common, ZGender : Gender ; -- gender
+    Sg, Pl, InvN, ZNumber : Number ; -- number
+    Dim, Aug, Super, ZDegree : Degree ; -- degree
+    P1, P2, P3, ZPerson: Person ; -- person
+    Inf, Ger, PPart, Pres, Impf, Perf, Fut, Pqp, SPres, SImpf, SFut, Imp, Cond : MT ; -- mood/tense
+
+    ---
+    -- classes
+
+    -- N
     mkN : String -> String -> NF -> S ;
     mkNF : Gender -> Number -> Degree -> NF ;
-    Masc, Fem, Common, ZGender : Gender ;
-    Sg, Pl, InvN, ZNumber : Number ;
-    Dim, Aug, Super, ZDegree : Degree ;
+    -- V
     mkV : String -> String -> VF -> S ;
     mkVF : MT -> Person -> Number -> Gender -> VF ;
-    Inf, Ger, PPart, Pres, Impf, Perf, Fut, Pqp, SPres, SImpf, SFut, Imp, Cond : MT ;
-    P1, P2, P3, ZPerson: Person ;
+
 } ;

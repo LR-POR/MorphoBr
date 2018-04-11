@@ -1,25 +1,33 @@
 concrete MorphoBra of Morpho = open Prelude, Predef in {
   lincat
-    S = SS ;
-    NF, VF = SS ;
-    Gender, Number, Degree, MT, Person = SS ;
+    S = SS ; -- entry
+    NF, VF = SS ; -- class features
+    Gender, Number, Degree, MT, Person = SS ; -- features
   lin
-    mkN = mkEntry ;
-    mkNF g n d = ss ("+N" ++ d.s ++ g.s ++ n.s) ;
+    ---
+    -- features
+
+    -- gender
     Masc = ss "+M" ;
     Fem = ss "+F" ;
     ZGender = ss "" ;
     Common = ss ("+M" | "+F") ;
+    -- number
     Sg = ss "+S" ;
     Pl = ss "+P" ;
     InvN = ss ("+S" | "+P") ;
     ZNumber = ss "" ;
+    -- degree
     Dim = ss "+DIM" ;
     Aug = ss "+AUG" ;
     Super = ss "+SUPER" ;
     ZDegree = ss "" ;
-    mkV = mkEntry ;
-    mkVF mt p n g = ss ("+V" ++ mt.s ++ p.s ++ g.s ++ n.s) ;
+    -- person
+    P1 = ss "+1" ;
+    P2 = ss "+2" ;
+    P3 = ss "+3" ;
+    ZPerson = ss "" ;
+    -- mood/tense
     Inf = ss "+INF" ;
     Ger = ss "+GRD" ;
     PPart = ss "+PTPASS" ;
@@ -33,10 +41,17 @@ concrete MorphoBra of Morpho = open Prelude, Predef in {
     SFut = ss "+SBJF" ;
     Imp = ss "+IMP" ;
     Cond = ss "+COND" ;
-    P1 = ss "+1" ;
-    P2 = ss "+2" ;
-    P3 = ss "+3" ;
-    ZPerson = ss "" ;
+
+    ---
+    -- classes
+
+    -- N
+    mkN = mkEntry ;
+    mkNF g n d = ss ("+N" ++ d.s ++ g.s ++ n.s) ;
+    -- V
+    mkV = mkEntry ;
+    mkVF mt p n g = ss ("+V" ++ mt.s ++ p.s ++ g.s ++ n.s) ;
+
   oper
     mkEntry : SS -> SS -> SS -> SS ;
     mkEntry fo l fs = ss (fo.s ++ "\t" ++ l.s ++ fs.s) ;

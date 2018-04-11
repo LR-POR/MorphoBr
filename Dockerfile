@@ -1,8 +1,10 @@
 FROM odanoburu/gf-deb:3.9
 
-RUN wget -q https://github.com/TALP-UPC/FreeLing/raw/master/data/pt/dictionary/entries/nouns https://github.com/TALP-UPC/FreeLing/raw/master/data/pt/dictionary/entries/verbs
+ENV LANG C.UTF-8
 
 WORKDIR /home/gfer
+
+RUN wget -q https://github.com/TALP-UPC/FreeLing/raw/master/data/pt/dictionary/entries/nouns https://github.com/TALP-UPC/FreeLing/raw/master/data/pt/dictionary/entries/verbs
 
 COPY ./ /home/gfer
 
