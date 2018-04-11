@@ -2,3 +2,4 @@
 i MorphoEag.gf MorphoBra.gf
 rf -file=nouns.preproc -lines | p -lang=Eag | l -lang=Bra -all | wf -file=nouns.proc
 ! cat nouns.proc | tr -d ' ' > nouns.bra
+! rm nouns.proc nouns.preproc
