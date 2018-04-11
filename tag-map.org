@@ -1,0 +1,35 @@
+#+TITLE: Convertion table between the DELAF_PB computational dictionary and the MorphoBr tagsets
+#+AUTHOR: Leonel F. de Alencar
+
+- For information on DELAF_PB, visit [[http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html][their website]].
+
+MorphoBr generally follows the format proposed by Beesley and
+Karttunen's XFST book, using [[http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/statiques/Abreviations_gloses-fra.pdf][a tagset]] based on the Leipzig Glossing
+Rules and other abbreviations for morphological glosses commonly
+adopted in the linguistic literature:
+
+| DELAF_PB | MorphoBr | meaning                                                                                                   |
+|----------+----------+-----------------------------------------------------------------------------------------------------------|
+| D        | DIM      | diminutive                                                                                                |
+| A        | AUG      | augmentative                                                                                              |
+| S        | SUPER    | superlative                                                                                               |
+| m        | M        | masculine                                                                                                 |
+| f        | F        | feminine                                                                                                  |
+| s        | SG       | singular                                                                                                  |
+| p        | PL       | plural                                                                                                    |
+| W        | INF      | infinitive                                                                                                |
+| G        | GRD      | gerund                                                                                                    |
+| K        | PTPASS   | passive participle (PTPST forms, i.e., past participles without gender and number tags, must be included) |
+| P        | PRS      | present indicative                                                                                        |
+| I        | IMPF     | imperfect indicative                                                                                      |
+| J        | PRF      | perfect indicative                                                                                        |
+| F        | FUT      | future indicative                                                                                         |
+| Q        | PQP      | plusquamperfect indicative                                                                                |
+| S        | SBJR     | present subjunctive                                                                                       |
+| T        | SBJP     | imperfect subjunctive                                                                                     |
+| U        | SBJF     | future subjunctive                                                                                        |
+| Y        | IMP      | imperative                                                                                                |
+| C        | COND     | conditional (preterite future indicative)                                                                 |
+| 1        | 1        | first person                                                                                              |
+| 2        | 2        | second person                                                                                             |
+| 3        | 3        | third person                                                                                              |

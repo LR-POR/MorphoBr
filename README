@@ -1,0 +1,26 @@
+MorphoBr - resources for morphological analysis of Portuguese https://github.com/LFG-PTBR/MorphoBr
+
+Authors: Leonel F. de Alencar <leonel.de.alencar@ufc.br>,
+         Alexandre Rademaker,
+         Bruno Cuconato
+
+License: see the licenses of the respective sources
+
+Unless otherwise stated, the present resources are derived from the
+dictionaries of the Unitex-PB project:
+
+http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html
+
+The tagset used in the above project was converted to a more
+mnemonical one which generally follows the notational conventions of
+the descriptive linguistic and finite-state morphology literatures,
+see tag-map.org file.
+
+In order to use MorphoBr resources for morphological analysis in XFST,
+or in XLE in the context of syntactic parsing (e.g. with BrGram), they
+must be compiled into finite-state transducers. Python modules as well
+as XFST and bash scripts for performing this task will be made
+available in the /tools folder. Inadequacies and errors found in the
+Unitex-PB dictionaries were corrected using these tools. See the
+respective incode documentation for a detailed description of the
+changes made to the source entries.

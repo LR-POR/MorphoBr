@@ -1,0 +1,58 @@
+#+TITLE: Clitic pronoun tagset
+#+AUTHOR: Leonel F. de Alencar
+#+DATE: 2018-03-20
+
+The entries in this directory contain verb forms conjoined with
+pronouns in enclisis or mesoclisis. This document explains the tags
+used for describing clitic pronouns in Portuguese.
+
+In the DELAF-PB dictionary, such clitics receive the tag =PRO=, which
+does not specify type, case, gender, and number of the pronoun. These
+informations are important for e.g. syntactic parsing with the XLE/LFG
+grammar. Therefore, =PRO= was substituted for the tags explained here,
+which specify these features. Alongside these changes, incorrect
+formating in many entries was corrected. These errors involve a
+spurious colon appended to the word form,
+e.g. /mantinhas:,manter.V:I2s/ and /abstinhas:-lhe,abster.V+PRO:I2s/.
+
+| tag  | meaning                                           | type    |
+|------+---------------------------------------------------+---------|
+| ACC  | accusative                                        | case    |
+| DAT  | dative                                            | case    |
+| AD   | accusative or dative                              | case    |
+| REFL | reflexive pronoun (3rd person singular or plurar) | pronoun |
+
+* Notes
+- The other tags are explained in =tag-map.org=.
+- The annotation has up to 5 parts, separated by a dot, namely lemma, case, person,
+gender, and number. 
+- A feature is not specified when it is not explicitly.
+  marked, e.g. "lhe", "me", etc. are not marked for gender. In this
+  respect, compare these forms, for example, with "a" and "o". 
+  The reflexive only receives the tag REFL, since there is no other reflexive clitic.
+- =c X/Y= :: "clitic c is ambiguous between X and Y readings" (this generates 
+  two different verb entries). 
+
+
+| clitic | annotation         |
+|--------+--------------------|
+| a      | ele.ACC.3.F.SG         |
+| a      | ele.ACC.3.F.SG         |
+| as     | ele.ACC.3.F.PL         |
+| la     | ele.ACC.3.F.SG         |
+| las    | ele.ACC.3.F.PL         |
+| lhe    | ele.DAT.3.SG           |
+| lhes   | ele.DAT.3.PL           |
+| lo     | ele.ACC.3.M.SG         |
+| los    | ele.ACC.3.M.PL         |
+| me     | eu.AD.1.SG            |
+| na     | ele.ACC.3.F.SG         |
+| nas    | ele.ACC.3.F.PL         |
+| no     | ele.ACC.3.M.SG         |
+| nos    | ele.ACC.3.M.PL/nós.AD.1.PL |
+| o      | ele.ACC.3.M.SG         |
+| os     | ele.ACC.3.M.PL         |
+| se     | ele.REFL               |
+| te     | tu.AD.2.SG            |
+| vos    | vós.AD.2.PL            |
+
