@@ -1,8 +1,8 @@
 concrete MorphoBra of Morpho = open Prelude, Predef in {
   lincat
     S = SS ; -- entry
-    NF, VF, AF = SS ; -- class features
-    Gender, Number, Degree, MT, Person = SS ; -- features
+    NF, VF, AF, AdvF = SS ; -- class features
+    Gender, Number, Degree, Person, VT, AdvT = SS ; -- features
   lin
     ---
     -- features
@@ -27,7 +27,7 @@ concrete MorphoBra of Morpho = open Prelude, Predef in {
     P2 = ss "+2" ;
     P3 = ss "+3" ;
     ZPerson = ss "" ;
-    -- mood/tense
+    -- V type
     Inf = ss "+INF" ;
     Ger = ss "+GRD" ;
     PPart = ss "+PTPASS" ;
@@ -41,6 +41,9 @@ concrete MorphoBra of Morpho = open Prelude, Predef in {
     SFut = ss "+SBJF" ;
     Imp = ss "+IMP" ;
     Cond = ss "+COND" ;
+    -- Adv type
+    GAdv = ss "" ;
+    NAdv = ss "+NEG" ;
 
     ---
     -- classes
@@ -54,6 +57,9 @@ concrete MorphoBra of Morpho = open Prelude, Predef in {
     -- A
     mkA = mkEntry ;
     mkAF d g n = ss ("+A" ++ d.s ++ g.s ++ n.s) ;
+    -- Adv
+    mkAdv = mkEntry ;
+    mkAdvF at = ss ("+ADV" ++ at.s) ;
 
   oper
     mkEntry : SS -> SS -> SS -> SS ;

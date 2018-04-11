@@ -1,10 +1,10 @@
 abstract Morpho = {
   cat S ; -- entry
-      NF ; VF ; AF ; -- class features
+      NF ; VF ; AF ; AdvF ; -- class features
       -- features
-      Gender ; Number ; Degree ;
-      MT ; -- Mood + Tense
-      Person ;
+      Gender ; Number ; Degree ; Person ;
+      VT ; -- Mood + Tense
+      AdvT ; -- general or negative
   fun
     ---
     -- features
@@ -12,7 +12,8 @@ abstract Morpho = {
     Sg, Pl, InvN, ZNumber : Number ; -- number
     Dim, Aug, Super, ZDegree : Degree ; -- degree
     P1, P2, P3, ZPerson: Person ; -- person
-    Inf, Ger, PPart, Pres, Impf, Perf, Fut, Pqp, SPres, SImpf, SFut, Imp, Cond : MT ; -- mood/tense
+    Inf, Ger, PPart, Pres, Impf, Perf, Fut, Pqp, SPres, SImpf, SFut, Imp, Cond : VT ; -- V type
+    GAdv, NAdv : AdvT ;
 
     ---
     -- classes
@@ -22,9 +23,12 @@ abstract Morpho = {
     mkNF : Gender -> Number -> Degree -> NF ;
     -- V
     mkV : String -> String -> VF -> S ;
-    mkVF : MT -> Person -> Number -> Gender -> VF ;
+    mkVF : VT -> Person -> Number -> Gender -> VF ;
     -- A
     mkA : String -> String -> AF -> S ;
     mkAF : Degree -> Gender -> Number -> AF ;
+    -- Adv
+    mkAdv : String -> String -> AdvF -> S ;
+    mkAdvF : AdvT -> AdvF ;
 
 } ;
