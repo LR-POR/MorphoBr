@@ -1,0 +1,4 @@
+#+TITLE: translating between morphology dictionary formats
+
+to translate the nouns from the Freeling/EAGLES format to MorphoBR's:
+: gf --run < translate-nouns.gfs
