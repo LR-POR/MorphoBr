@@ -1,0 +1,4 @@
+! grep -v " +" verbs | awk -F ' ' -f preprocess.awk > verbs.preproc
+i MorphoEag.gf MorphoBra.gf
+rf -file=verbs.preproc -lines | p -lang=Eag | l -lang=Bra -all | wf -file=verbs.proc
+! cat verbs.proc | tr -d ' ' > verbs.bra
