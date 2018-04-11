@@ -1,0 +1,6 @@
+# Script for generating diminutives in Portuguese with XFST
+
+source suff02.xfst
+down < test-upper.txt > test-upper.out
+up < inho.txt > inho.out
+ss suff02-xfst.fst
