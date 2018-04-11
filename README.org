@@ -1,4 +1,7 @@
 #+TITLE: translating between morphology dictionary formats
 
-to translate the nouns from the Freeling/EAGLES format to MorphoBR's:
-: gf --run < translate-nouns.gfs
+to translate classes from the Freeling/EAGLES format to MorphoBR's:
+- make sure you have the files from [[https://github.com/TALP-UPC/FreeLing/tree/master/data/pt/dictionary/entries][Freeling's Portuguese data]] in the
+  root directory, and run
+  : sh translate-all.sh
+only nouns and simple verbs work for now.
