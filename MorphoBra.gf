@@ -4,7 +4,7 @@ concrete MorphoBra of Morpho = open Prelude, Predef in {
     S, Gender, Number, Degree = SS ;
   lin
     mkN f l nf  = ss (f.s ++ "\t" ++ l.s ++ nf.s) ;
-    mkNF g n d = ss ("N" ++ d.s ++ g.s ++ n.s) ;
+    mkNF g n d = ss ("+N" ++ d.s ++ g.s ++ n.s) ;
     Masc = ss "+M" ;
     Fem = ss "+F" ;
     Common = ss ("+M" | "+F") ;
