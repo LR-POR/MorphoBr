@@ -11,11 +11,11 @@ concrete MorphoBra of Morpho = open Prelude, Predef in {
     Masc = ss "+M" ;
     Fem = ss "+F" ;
     ZGender = ss "" ;
-    Common = ss ("+M" | "+F") ;
+    Common = Masc | Fem ;
     -- number
-    Sg = ss "+S" ;
-    Pl = ss "+P" ;
-    InvN = ss ("+S" | "+P") ;
+    Sg = ss "+SG" ;
+    Pl = ss "+PL" ;
+    InvN = Sg | Pl ;
     ZNumber = ss "" ;
     -- degree
     Dim = ss "+DIM" ;
