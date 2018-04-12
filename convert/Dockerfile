@@ -8,4 +8,4 @@ RUN wget -q https://github.com/TALP-UPC/FreeLing/raw/master/data/pt/dictionary/e
 
 COPY ./ /home/gfer
 
-RUN gf --run < translate-all.gfs
+RUN bash translate-all.sh
