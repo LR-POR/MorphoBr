@@ -12,7 +12,7 @@ Rules and other abbreviations for morphological glosses commonly
 adopted in the linguistic literature.
 
 * Features
-** Verb type (mood + tense)
+** Mood/Tense
 | DELAF_PB | Freeling | MorphoBr | meaning                                                                                                   |
 |----------+----------+----------+-----------------------------------------------------------------------------------------------------------|
 | W        | N0       | INF      | infinitive                                                                                                |
@@ -79,9 +79,12 @@ Aditionally,
 - some features are optional, and there is no marker for their
   absence, like in the Freeling PT dictionary (where a =0= is placed
   where the feature would have been).
+- features of the same type may appear more than once in the same
+  entry, for instance:
+  : casarãozinho	casa+N+AUG+DIM+M+SG
 
 ** verbs (V)
-*feature order*: VerbType+Person+Gender+Number
+*feature order*: Mood/Tense+Person+Gender+Number
 
 *** examples
 : abrutalharás	abrutalhar+V+FUT+2+SG
