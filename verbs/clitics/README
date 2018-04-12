@@ -1,3 +1,4 @@
+# -*- mode: org -*-
 #+TITLE: Clitic pronoun tagset
 #+AUTHOR: Leonel F. de Alencar
 #+DATE: 2018-03-20
@@ -23,7 +24,8 @@ e.g. /mantinhas:,manter.V:I2s/ and /abstinhas:-lhe,abster.V+PRO:I2s/.
 | REFL | reflexive pronoun (3rd person singular or plurar) | pronoun |
 
 * Notes
-- The other tags are explained in =tag-map.org=.
+- The other tags are explained in the =TAGSET= file at the root
+  directory.
 - The annotation has up to 5 parts, separated by a dot, namely lemma, case, person,
 gender, and number.
 - A feature is not specified when it is not explicitly.
