@@ -46,6 +46,8 @@ lápis+N+DIM+M+SG
 lápis+N+DIM+M+PL
 rapaz+N+DIM+M+SG
 rapaz+N+DIM+M+PL
+canal+N+DIM+M+SG
+canal+N+DIM+M+PL
 homem+N+AUG+DIM+M+SG
 homem+N+AUG+DIM+M+PL
 agulha+N+AUG+DIM+M+SG
