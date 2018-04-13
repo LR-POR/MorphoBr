@@ -12,7 +12,8 @@ Rules and other abbreviations for morphological glosses commonly
 adopted in the linguistic literature.
 
 * Features
-** Mood/Tense
+** Flectional features
+*** Mood/Tense
 | DELAF_PB | Freeling | MorphoBr | meaning                                                                                                   |
 |----------+----------+----------+-----------------------------------------------------------------------------------------------------------|
 | W        | N0       | INF      | infinitive                                                                                                |
@@ -29,35 +30,37 @@ adopted in the linguistic literature.
 | Y        | M0       | IMP      | imperative                                                                                                |
 | C        | IC       | COND     | conditional (preterite future indicative)                                                                 |
 
-** Gender
+*** Gender
 | DELAF_PB | Freeling | MorphoBr | meaning   |
 |----------+----------+----------+-----------|
 | m        | M        | M        | masculine |
 | f        | F        | F        | feminine  |
 | -        | C        | -        | common    |
 
-** Number
+*** Number
 | DELAF_PB | Freeling | MorphoBr | meaning    |
 |----------+----------+----------+------------|
 | s        | S        | SG       | singular   |
 | p        | P        | PL       | plural     |
 | -        | N        | -        | invariable |
 
-** Degree
-| DELAF_PB | Freeling | MorphoBr | meaning      |
-|----------+----------+----------+--------------|
-| D        | D/C      | DIM      | diminutive   |
-| A        | A        | AUG      | augmentative |
-| S        | S        | SUPER    | superlative  |
-
-** Number
+*** Number
 | DELAF_PB | Freeling | MorphoBr | meaning       |
 |----------+----------+----------+---------------|
 |        1 |        1 |        1 | first person  |
 |        2 |        2 |        3 | second person |
 |        3 |        3 |        3 | third person  |
 
-** Adverb type
+** Derivational Features
+*** Degree
+| DELAF_PB | Freeling | MorphoBr | meaning      |
+|----------+----------+----------+--------------|
+| D        | D/C      | DIM      | diminutive   |
+| A        | A        | AUG      | augmentative |
+| S        | S        | SUPER    | superlative  |
+
+** Other features
+*** Adverb type
 | DELAF_PB | Freeling | MorphoBr | meaning  |
 |----------+----------+----------+----------|
 | -        | N        | NEG      | negative |
@@ -75,12 +78,13 @@ where
 - the parentheses and =*= indicate that there might be zero or more
   features present.
 Aditionally,
+- each entry can only have one class;
 - each class has a fixed order for its features ;
 - some features are optional, and there is no marker for their
   absence, like in the Freeling PT dictionary (where a =0= is placed
   where the feature would have been).
-- features of the same type may appear more than once in the same
-  entry, for instance:
+- derivational features may appear more than once in the same entry,
+  for instance:
   : casarãozinho	casa+N+AUG+DIM+M+SG
 
 ** verbs (V)
