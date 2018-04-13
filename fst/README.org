@@ -1,0 +1,40 @@
+Author: Leonel F. de Alencar, Federal University of Ceará
+Date: April 12, 2018
+
+This folder contains finite-state grammars, scripts, and lexical material for compliling unweighted finite-state transducers (FSTs) modeling Portuguese derivational morphology, using the free software/open source finite-state packages Foma (Hulden 2009) and its proprietary counterpart XFST (Beesley & Karttunen 2003), freely available for non-commercial purposes. The focus is the formation of diminutives, augmentatives, and superlatives (so called evaluative suffixes, according to Villalva & Silvestre 2014, among others). The lexical material contains word-lemma pairs in the space-text format, which can be directly compiled into FSTs. These word-lemma pairs were extracted from DELAF-PB and FreeLing and converted to spaced-text using the Python module in the tools folder. 
+This implementation of derivational morphology is work in progress. Beginning with the diminutives, we will progressively include the other suffixes.
+It is assumed some familiarity with the paradigm of finite-state morphology to understand the source files and eventually customize them to exclude or include some derivations to suit a particular dialect of Portuguese. For a birds-eye view on Foma basics, see, for example, the first part of the following tutorial, which deals with unweighted finite-state transducers:
+
+http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
+
+Foma is concisely described in this paper:
+
+http://dingo.sbs.arizona.edu/~mhulden/hulden_foma_2009.pdf
+
+Since Foma is practically a clone of XFST, they share the same formalism (with minor exceptions) and virtually all  commands. For an in-depth understanding of finite-state morphology and XFST, see:
+
+Beesley, K. R., Karttunen, L.: Finite State Morphology. CSLI, Stanford (2003).
+
+To compile the FST with Foma and XFST, run the bash script
+
+BuildTestTransducers.sh
+
+The FST is applied in both directions (i.e. generation and analysis) to two test files.
+To load the compiled FST binary in Foma and test it interactively, run the following
+commands:
+
+foma -e "load suff02-foma.fst" 
+
+and then in the Foma shell:
+
+foma[1]: up manguinhas
+manga+N+DIM+F+PL
+foma[1]: down elefante+N+DIM+M+SG
+elefantezinho
+elefantinho
+foma[1]: 
+
+The corresponding commands in XFST are the same, only the binary file name is different:
+
+xfst -e "load suff02-xfst.fst"
+
