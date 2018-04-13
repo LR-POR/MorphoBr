@@ -1,0 +1,4 @@
+# Script for generating diminutives in Portuguese with Foma
+
+source suff02.xfst
+ss suff02-foma.fst

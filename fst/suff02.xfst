@@ -1,0 +1,70 @@
+#
+# Script for generating diminutives in Portuguese
+#
+# This script runs in both Foma and XFST. It first 
+# compiles the lexc grammar defined in suff02.lexc.
+# This grammar defines a lexicon transducer 
+# (Beesley & Karttunen 2003), mapping lexical analyses 
+# to intermediate forms. These intermediate forms are then 
+# mapped to the final strings by composing the lexicon transduceer 
+# with a cascade of alternation rules. For more information on
+# finite-state morphology, see Beesley & Karttunen (2003).
+
+# Author: Leonel F. de Alencar, Federal University of Ceará
+# Date: April 11, 2018
+
+set flag-is-epsilon ON
+clear
+# define AccVow [ á | ã | é | ê | ó | ô |  i | u ] ;
+define AntVow [ e | i ] ;
+define PostVow [ a | o | u ] ;
+define Vow [ AntVow | PostVow ] ;
+define MorphSep %^ ;
+define ThemVow [ a | e | o ] ;
+define PhonC [c -> %[ s %] || _ AntVow MorphSep  ]  ;
+define OrthC %[ s %] -> c ;
+define DeleteCedilla  [ ç -> c || _ MorphSep AntVow ];
+define NasalBilabAssim m -> n || _ MorphSep \[p|b];
+define ThemVowDel ThemVow -> 0 || _ MorphSep Vow ;
+define ChangeC c -> {qu} || _ MorphSep AntVow ;
+define ChangeG g -> {gu} || _ MorphSep AntVow ;
+define OptDelEStemZ e (->) 0 || [z | s] _ s MorphSep z ;
+define OptDelEStemR e (->) 0 || r _ s MorphSep z ;
+define OptDelE OptDelEStemZ .o. OptDelEStemR ;
+define SDeletion s  -> 0 || _ MorphSep z ;
+define ZDeletion z-> 0 || _ MorphSep z ;
+define IDeletion i-> 0 || _ MorphSep i ;
+define DeleteMorphSep MorphSep -> 0 ;
+define Unaccent [[á -> a] .o. [é -> e] .o. [ê -> e] .o. [ó -> o]
+       		       	     	.o. [ô -> o] .o. [í -> i] .o. [ú -> u]
+				.o. [â -> a ]];
+define AltRules NasalBilabAssim .o. 
+       				PhonC
+				.o.
+       				ThemVowDel 
+				.o. 
+				ChangeC 
+				.o.
+				OrthC
+				.o.
+				ChangeG 
+				.o.
+				OptDelE
+				.o.
+				SDeletion 
+				.o.
+				ZDeletion
+				.o.
+				IDeletion
+				.o.
+				Unaccent
+				.o.
+				DeleteCedilla
+				.o.
+				DeleteMorphSep ;
+define RealizeDim [ %+DIM -> {^inh} || \[ã|õ] ThemVow _ ] ;
+read lexc < suff02.lexc 
+define Lex
+define Filter ~ [$ %+DIM ] ;
+regex Lex .o. RealizeDim .o. Filter .o. AltRules ;
+
