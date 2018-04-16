@@ -1,4 +1,5 @@
 # Script for generating diminutives in Portuguese with Foma
+# Usage: foma -f build-suff.foma
 
 source suff02.xfst
 ss suff02-foma.fst
