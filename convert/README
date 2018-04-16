@@ -1,3 +1,4 @@
+# # -*- mode: org -*-
 #+TITLE: translating between morphology dictionary formats
 
 to translate classes from the Freeling/EAGLES format to MorphoBR's you
