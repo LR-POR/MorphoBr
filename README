@@ -3,15 +3,15 @@
 #+AUTHOR: Leonel F. de Alencar, Alexandre Rademaker, Bruno Cuconato
 #+EMAIL: <leonel.de.alencar@ufc.br>
 
-canonic repository: https://github.com/LFG-PTBR/MorphoBr
+- Canonic repository :: https://github.com/LFG-PTBR/MorphoBr
 
-LICENSE: see the licenses of the respective sources
+- LICENSE :: see the licenses of the respective sources
 
 Unless otherwise stated, the present resources are derived from the
 dictionaries of the:
 
 - Unitex-PB project :: http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html
-- Freeling Portuguse data :: https://github.com/TALP-UPC/FreeLing/tree/master/data/pt/dictionary/entries
+- Freeling Portuguese data :: https://github.com/TALP-UPC/FreeLing/tree/master/data/pt/dictionary/entries
 
 * Repository contents
 Entries are separated by class, each in its own directory. Entries are
