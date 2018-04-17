@@ -1,3 +1,4 @@
+# -*- mode: org -*-
 #+AUTHOR: Leonel F. de Alencar
 #+DATE: April 5, 2018
 
