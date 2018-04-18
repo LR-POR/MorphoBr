@@ -20,6 +20,9 @@ processed in less powerful computers. The repository structure is
 meant for development: if you would like a copy of the data, you
 should go to our [[https://github.com/LFG-PTBR/MorphoBr/releases][releases page]].
 
+Code (and its documentation) employed in the resource's development
+can be found in the =tools/= directory.
+
 * Tagset
 The tagset used in the above projects was converted to a more
 mnemonical one which generally follows the notational conventions of
