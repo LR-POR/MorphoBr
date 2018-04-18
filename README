@@ -12,6 +12,9 @@ dictionaries of the:
 
 - Unitex-PB project :: http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html
 - Freeling Portuguese data :: https://github.com/TALP-UPC/FreeLing/tree/master/data/pt/dictionary/entries
+     - which is itself derived from [[http://label.ist.utl.pt/pt/labellex_pt.php][LABEL-LEX]]
+     - using unpublished data from /Garcia, Marcos et al./: available
+       from commit [[https://github.com/LFG-PTBR/MorphoBr/tree/a0ebdbc496035642277788cecb156a169bae309b/tmp][a0ebdbc49603564227778]]
 
 * Repository contents
 Entries are separated by class, each in its own directory. Entries are
