@@ -1,0 +1,15 @@
+# -*- mode: org -*-
+#+AUTHOR: Leonel F. de Alencar
+#+DATE: April 5, 2018
+
+This directory contains new word-parse pairs automatically created by
+applying word-formation rules to existing DELAF-PB entries.  These
+rules were formalized in the paradigm of finite-state morphology using
+XFST, a free proprietary finite-state package (Beesley and Karttunen
+2003). XFST transducers in binary format can be used for morphological
+analysis in the context of syntactic parsing with XLE.  The source
+code of the rules, which will soon be made available, can be compiled
+into a finite-state transducer with XFST as well as with [[https://fomafst.github.io][Foma]], a
+free/open source finite-state package (Hulden 2009). The word-parse
+pairs were generated with Foma, since the non-commercial version of
+XFST doesn't allow generation from very large automata.

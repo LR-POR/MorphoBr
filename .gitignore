@@ -3,3 +3,5 @@
 *.proc
 *.preproc
 *.bra
+**.DS_Store
+

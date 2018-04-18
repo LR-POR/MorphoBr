@@ -1,26 +1,39 @@
-MorphoBr - resources for morphological analysis of Portuguese https://github.com/LFG-PTBR/MorphoBr
+# -*- mode: org -*-
+#+TITLE: MorphoBr - resources for morphological analysis of Portuguese
+#+AUTHOR: Leonel F. de Alencar, Alexandre Rademaker, Bruno Cuconato
+#+EMAIL: <leonel.de.alencar@ufc.br>
 
-Authors: Leonel F. de Alencar <leonel.de.alencar@ufc.br>,
-         Alexandre Rademaker,
-         Bruno Cuconato
+- Canonic repository :: https://github.com/LFG-PTBR/MorphoBr
 
-License: see the licenses of the respective sources
+- LICENSE :: see the licenses of the respective sources
 
 Unless otherwise stated, the present resources are derived from the
-dictionaries of the Unitex-PB project:
+dictionaries of the:
 
-http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html
+- Unitex-PB project :: http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html
+- Freeling Portuguese data :: https://github.com/TALP-UPC/FreeLing/tree/master/data/pt/dictionary/entries
 
-The tagset used in the above project was converted to a more
+* Repository contents
+Entries are separated by class, each in its own directory. Entries are
+divided in small files, so that they can be previewed on github and
+processed in less powerful computers. The repository structure is
+meant for development: if you would like a copy of the data, you
+should go to our [[https://github.com/LFG-PTBR/MorphoBr/releases][releases page]].
+
+* Tagset
+The tagset used in the above projects was converted to a more
 mnemonical one which generally follows the notational conventions of
 the descriptive linguistic and finite-state morphology literatures,
-see tag-map.org file.
+see the =TAGSET= file.
 
+* Morphological analysis
 In order to use MorphoBr resources for morphological analysis in XFST,
 or in XLE in the context of syntactic parsing (e.g. with BrGram), they
 must be compiled into finite-state transducers. Python modules as well
 as XFST and bash scripts for performing this task will be made
 available in the /tools folder. Inadequacies and errors found in the
-Unitex-PB dictionaries were corrected using these tools. See the
+source dictionaries were corrected using these tools. See the
 respective incode documentation for a detailed description of the
 changes made to the source entries.
+* Download
+See our [[https://github.com/LFG-PTBR/MorphoBr/releases][releases page]].

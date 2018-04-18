@@ -1,0 +1,8 @@
+# Script for generating and testing the analysis of diminutives in Portuguese with XFST
+# Usage: xfst -f build-suff.xfst -q 
+
+source suff02.xfst
+down < test-upper.txt > test-upper.out
+# inho.txt contains all diminutives in inho and zinho from DELAF-PB
+up < inho.txt > inho.out
+ss suff02-xfst.fst
