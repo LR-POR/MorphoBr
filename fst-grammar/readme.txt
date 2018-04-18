@@ -1,0 +1,63 @@
+Author: Leonel F. de Alencar, Federal University of Ceará
+Date: April 16, 2018
+
+This folder contains finite-state grammars, scripts, and lists of nominal and adejctival bases for compliling unweighted finite-state transducers (FSTs) modeling Portuguese derivational morphology, using the free software/open source finite-state packages Foma (Hulden 2009) and its proprietary counterpart XFST (Beesley & Karttunen 2003), freely available for non-commercial purposes. The focus is the formation of diminutives, augmentatives, and superlatives (so called evaluative suffixes, according to Villalva & Silvestre 2014, among others). The lists of bases consist of word-parse pairs in the so called spaced-text format, which can directly be compiled into FSTs (Beesley & Karttunen 2003). These pairs were extracted from DELAF-PB and FreeLing and converted to spaced-text using the Python module BuildSpacedText.py in the tools folder. 
+This implementation of derivational morphology is work in progress. Beginning with the diminutives, we will progressively include the other suffixes.
+It is assumed some familiarity with the paradigm of finite-state morphology to understand the source files and their documentation, so as to eventually customize them to exclude or include some derivations to suit a particular dialect of Portuguese. However, just a basic familiarity with the unix command line is needed to compile the final FST and use it for morphological analysis or generation. 
+For a birds-eye view on Foma basics, see, for example, the first part of the following tutorial, which deals with unweighted finite-state transducers:
+
+http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
+
+Foma is concisely described in this paper:
+
+http://dingo.sbs.arizona.edu/~mhulden/hulden_foma_2009.pdf
+
+Since Foma is practically a clone of XFST, they share the same formalism (with minor exceptions) and virtually all  interface commands. For an in-depth understanding of finite-state morphology and XFST, see:
+
+Beesley, K. R., Karttunen, L.: Finite State Morphology. CSLI, Stanford (2003).
+
+To compile and test the final FST with Foma and XFST, run the bash script
+
+BuildTestTransducers.sh
+
+The FST is applied in both directions (i.e. generation and analysis) to two test files.
+See the script's incode documentation for more details.
+
+To load the compiled FST binary in Foma and test it interactively, run the following
+commands:
+
+foma -e "load foma.fst" 
+
+and then in the Foma shell:
+
+foma[1]: up manguinhas
+manga+N+DIM+F+PL
+foma[1]: down elefante+N+DIM+M+SG
+elefantezinho
+elefantinho
+foma[1]: 
+
+To write the Foma FST in the att and Prolog raw text formats, execute the command:
+
+foma -e "load foma.fst" -e "write att > foma.att" -e "write prolog > foma.pl" -s
+
+Both formats are very useful to store and distribute transucer files because they are, differently than the binary format, operating system independent. Besides, the prolog format can be read by XFST:
+
+xfst -e "read prolog foma.pl" -e "up piresinhos" -stop
+Opening input file 'foma.pl'
+April 18, 2018 21:53:39 GMT
+Reading UTF-8 text from 'foma.pl' 
+Closing 'foma.pl'
+pires+N+DIM+M+PL
+
+
+The corresponding commands in XFST are the same, only the binary file name is different:
+
+xfst -e "load xfst.fst"
+
+To generate all paths (i.e. word-parse pairs) from the Foma FST's binary, run the bash script
+
+BuildPairsFromFomaFST.sh foma.fst 
+
+The output is saved in the file foma.fst.pairs. These word-parse pairs can also be retrieved from the dict/diminutives directory.
+

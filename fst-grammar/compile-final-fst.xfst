@@ -1,0 +1,39 @@
+# Author: Leonel F. de Alencar, Federal University of Ceará
+# Date: April 16, 2018
+
+
+# Implementation of diminutive formation in Portuguese in the paradigm 
+# of finite-state morphology (Beesley & Karttunen 2003)
+
+# Script for compiling the final lexical transducer
+# for analyzing or generating diminutives in Portuguese
+#
+# This script runs in both Foma and XFST. It first 
+# compiles the lexc grammar defined in morphotactic-grammar.lexc.
+# This grammar defines a lexicon transducer 
+# (Beesley & Karttunen 2003), which mapps lexical strings 
+# (abstract representations consisting of lemma and features)
+# to intermediate forms. These intermediate forms are then mapped
+# to the final strings (inflected words) by composing the lexicon transduceer 
+# with the cascade of alternation rules defined in the script alternation-rules.xfst.
+# For more information on finite-state morphology, see Beesley & Karttunen (2003).
+# Further references in the README.org file.
+
+set flag-is-epsilon ON
+clear
+
+source alternation-rules.xfst
+ 
+# compiling lexc grammar
+read lexc < morphotactic-grammar.lexc
+
+# assigning resulting transducer to variable Lex
+define Lex
+
+# compose everything into the final lexical transducer
+# mapping lexical strings like pão+N+DIM+M+PL
+# to surface strings (i.e. inflected words) like 
+# pãezinhos (plural diminutive of bread)
+
+regex Lex .o. RealizeDim .o. Filter .o. AltRules ;
+

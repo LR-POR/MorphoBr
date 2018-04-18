@@ -1,0 +1,5 @@
+# Foma script for compiling the final transducer modeling the formation of diminutives in Portuguese
+# Usage: foma -f build-fst.foma
+
+source compile-final-fst.xfst
+ss foma.fst
