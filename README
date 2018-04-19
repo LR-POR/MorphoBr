@@ -12,6 +12,9 @@ dictionaries of the:
 
 - Unitex-PB project :: http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html
 - Freeling Portuguese data :: https://github.com/TALP-UPC/FreeLing/tree/master/data/pt/dictionary/entries
+     - which is itself derived from [[http://label.ist.utl.pt/pt/labellex_pt.php][LABEL-LEX]]
+     - using unpublished data from /Garcia, Marcos et al./: available
+       from commit [[https://github.com/LFG-PTBR/MorphoBr/tree/a0ebdbc496035642277788cecb156a169bae309b/tmp][a0ebdbc49603564227778]]
 
 * Repository contents
 Entries are separated by class, each in its own directory. Entries are
@@ -19,6 +22,9 @@ divided in small files, so that they can be previewed on github and
 processed in less powerful computers. The repository structure is
 meant for development: if you would like a copy of the data, you
 should go to our [[https://github.com/LFG-PTBR/MorphoBr/releases][releases page]].
+
+Code (and its documentation) employed in the resource's development
+can be found in the =tools/= directory.
 
 * Tagset
 The tagset used in the above projects was converted to a more
