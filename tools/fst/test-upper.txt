@@ -44,6 +44,12 @@ homem+N+DIM+M+PL
 ânimo+N+DIM+M+PL
 lápis+N+DIM+M+SG
 lápis+N+DIM+M+PL
+pires+N+DIM+M+SG
+pires+N+DIM+M+PL
+burguês+N+DIM+M+SG
+burguês+N+DIM+M+PL
+adeus+N+DIM+M+SG
+adeus+N+DIM+M+PL
 rapaz+N+DIM+M+SG
 rapaz+N+DIM+M+PL
 canal+N+DIM+M+SG
