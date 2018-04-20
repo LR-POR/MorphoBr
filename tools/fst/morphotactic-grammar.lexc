@@ -1,0 +1,70 @@
+! Author: Leonel F. de Alencar, leonel.de.alencar@ufc.br, Federal University of Ceará
+! Date: April 16, 2018
+
+! Implementation of diminutive formation in Portuguese in the paradigm 
+! of finite-state morphology (Beesley & Karttunen 2003)
+
+! Morphotactic grammar in the Lexc formalism for generating diminutives from 
+! nouns and adjectives without and with an augmentative suffix. 
+! This grammar is a model of the well-formed combinations of morphemes to form
+! all possible diminutives from the given nominals. 
+! It can be compiled into a finite-state transducer both with Foma and XFST. 
+! This finite-state network represents a lexicon transducer,
+! encoding a regular relation consisting of pairs of lexical strings 
+! and intermediate strings. The latter is mapped onto surface strings by means 
+! of composition with the transducer defined in the alternation-rules.xfst script, running
+! the script compile-final-fst.xfst.
+
+
+LEXICON Root
+	Nouns ;
+
+LEXICON Nouns
+! This sublexicon contains nouns extracted from MorphoBr by the Python module
+! ExtractWordLemmaPairs.py. They are classified into three main categories:
+! (i) words with an augmentative suffix, word-lemma pairs with the stemm
+! ending in s, (iii) all other words. Each category is divided in four files in spaced-text
+! format according to gender and number. All files are compiled into finite-state
+! transducers. 
+
+! category (i)
+< @stxt"aug_m_sg.stxt" "@U.GEND.M@" "@U.NUM.SG@" "@U.AUG.Y@" >	Suff ;
+< @stxt"aug_m_pl.stxt" "@U.GEND.M@" "@U.NUM.PL@" "@U.AUG.Y@" >	Suff ;
+< @stxt"aug_f_sg.stxt" "@U.GEND.F@" "@U.NUM.SG@" "@U.AUG.Y@" >	Suff ;
+< @stxt"aug_f_pl.stxt" "@U.GEND.F@" "@U.NUM.PL@" "@U.AUG.Y@" >	Suff ;
+
+! category (ii)
+< @stxt"wdlm_in_s_m_sg.stxt"  "@U.GEND.M@" "@U.NUM.SG@" "@U.ENDING.S@" > StemmS ;
+< @stxt"wdlm_in_s_m_pl.stxt"  "@U.GEND.M@" "@U.NUM.PL@"  "@U.ENDING.S@" > StemmS ;
+< @stxt"wdlm_in_s_f_sg.stxt"  "@U.GEND.F@" "@U.NUM.SG@"  "@U.ENDING.S@" > StemmS ;
+< @stxt"wdlm_in_s_m_pl.stxt"  "@U.GEND.F@" "@U.NUM.PL@"  "@U.ENDING.S@" > StemmS ;
+
+! category (iii)
+< @stxt"other_m_sg.stxt" "@U.GEND.M@" "@U.NUM.SG@" >	Suff ;
+< @stxt"other_m_pl.stxt" "@U.GEND.M@" "@U.NUM.PL@" >	Suff ;
+< @stxt"other_f_sg.stxt" "@U.GEND.F@" "@U.NUM.SG@" >	Suff ;
+< @stxt"other_f_pl.stxt" "@U.GEND.F@" "@U.NUM.PL@" >	Suff ;
+
+LEXICON StemmS
+! appending marker $ to words with stemms ending in s, e.g. "lápis" and "albanês"
+! (see alternation-rules.xfst for a detailed explanation about this marker)
+< 0:%$ >	Suff ;
+
+LEXICON Suff
+! The +DIM suffix is realized as -inh by one of the alternation rules.
+! This dimunitive suffix variant requires words  in singular with stemms
+! ending in one of the thematic vowels a, o or e.
+
+<%+DIM 0:%^ "@U.NUM.SG@" "@C.NUM@" >	Gend ;
+
+! The -zinh dimunitive suffix variant attaches to all singular and plural
+! word forms from the LEXICON Nouns (Adjectives will be later included).
+<%+DIM:{^zinh} 0:%^  >	Gend ;
+
+LEXICON Gend 
+< %+F:a 0:%^ "@U.GEND.F@" >	Num ;
+< %+M:o 0:%^ "@U.GEND.M@" >	Num ;
+
+LEXICON Num
+< %+SG:0 "@U.NUM.SG@" >	# ;
+< %+PL:s	"@U.NUM.PL@" > # ;
