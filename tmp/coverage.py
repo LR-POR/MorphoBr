@@ -3,10 +3,16 @@
 import freeling
 import sys
 
+def get_form(x):
+    return x.strip().split('\t')[0]
+
+def get_lemma(x):
+    return x.strip().split('\t')[1].split('+')[0]
+
 def load_wordlist(file):
     words = []
     with open(file, 'r') as f:
-        words = [ x.split('\t')[0].strip() for x in f ]
+        words = [ (get_form(x), get_lemma(x)) for x in f ]
     return words
 
 wordlist = load_wordlist(sys.argv[1])
@@ -25,12 +31,15 @@ freeling.util_init_locale("default");
 dic = freeling.dictionary("pt", DATA+LANG+"/dicc.src",
                     DATA+LANG+"/afixos.dat",
                     "")
-for form in wordlist:
-    w = freeling.word(form)
-    dic.annotate_word(w)
-    lemma = w.get_lemma()
-    if not lemma:
-        lemma = "_"
-    print ("\t".join([form, str(w.found_in_dict()), lemma]))
+for (wform,wlemma) in wordlist:
+    ww = freeling.word(wform)
+    wl = freeling.word(wlemma)
+    dic.annotate_word(ww)
+    dic.annotate_word(wl)
+    if wl.found_in_dict():
+        lemma = ww.get_lemma()
+        if not lemma:
+            lemma = "_"
+        print ("\t".join(["{}/{}".format(wform,wlemma), str(ww.found_in_dict()), lemma]))
 
 
