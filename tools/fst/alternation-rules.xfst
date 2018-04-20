@@ -1,0 +1,156 @@
+# Author: Leonel F. de Alencar, Federal University of Ceará
+# Date: April 16, 2018
+
+# Implementation of diminutive formation in Portuguese in the paradigm 
+# of finite-state morphology (Beesley & Karttunen 2003)
+
+# Script for compiling a finite-state transducer modeling
+# orthographic and morphophonological alternation rules
+# in Portuguese, e.g "manga" => "manguinha" (diminutive of 'mango'),
+# "rapazes" => "rapazezinhos" (diminutive of 'boy' in plural)
+
+# This script runs in both Foma and XFST. It compiles a cascade
+# of finite-state transducers modeling different alternation rules
+# in Portuguese. Most of these rules apply to other derivational
+# processes in Portuguese. The individual transducers are composed 
+# into a single transducer encoding all alternation rules.
+
+# Defining a marker for words with stemms ending in s, 
+# e.g. "lápis", "burguês", etc. In these words,
+# z of -zinho suffix is deleted after a stemm's s,
+# e. g. "lapisinho", "burguesinhos". In other cases,
+# the suffix form is preserved, e.g. "burguesezinhos".
+# This marker is just an implementational device which
+# distinguishes this word type from superficially similar cases 
+# where a final s represents the plural morpheme. 
+# Differently than a stemm's s, a plural s is deleted when the zinho
+# suffix is attached, e.g. "rapazes" => "rapazezinhos".
+define StemmS %$;
+
+# delete this marker
+define DelStemmS StemmS -> 0 ;
+
+# anterior vowels
+define AntVow [ e | i ] ;
+
+# posterior vowels
+define PostVow [ a | o | u ] ;
+
+# vowels
+define Vow [ AntVow | PostVow ] ;
+
+# morpheme separator
+define MorphSep %^ ;
+
+# thematic vowels
+define ThemVow [ a | e | o ] ;
+
+# convert letter c to phone [s] to prevent rule ChangeC
+# from applying in cases like face^inha (diminitive of face)
+define PhonC [c -> %[ s %] || _ AntVow MorphSep  ]  ;
+
+# convett back phone [s] to letter c
+define OrthC %[ s %] -> c ;
+
+# delete ç before morpheme separator and anterior vowel
+define DeleteCedilla  [ ç -> c || _ MorphSep AntVow ];
+
+# convert m to n before all letters except p or b
+define NasalBilabAssim m -> n || _ MorphSep \[p|b];
+
+# delete thematic vowel before morpheme separator and vowel
+# casa^inha => cas^inha (diminutive of house)
+define ThemVowDel ThemVow -> 0 || _ MorphSep Vow ;
+
+# Note that the mapping examples used throughout these comments are simplified, 
+# they should help grasping the functioning of the different alternation rules. 
+# They don't correspond to the actual intermediate strings generated
+# by the lexicon transducer.
+
+# faca^inha => fac^inha => faqu^inha (diminutive of knife)
+define ChangeC c -> {qu} || _ MorphSep AntVow ;
+
+# manga^inha => mang^inha => mangu^inha (diminutive of mango)
+define ChangeG g -> {gu} || _ MorphSep AntVow ;
+
+# optionally delete thematic vowel e in the plural of 
+# words with the stem ending in s or z, 
+# e.g. luzes^zinhas  (diminutive of "luz" 'light' in plural)
+# luzes^zinhas => luzs^zinhas
+define OptDelEStemZ e (->) 0 || [z | s] _ s MorphSep z ;
+
+# optionally delete  thematic vowel e  in the plural of 
+# words with the stem ending in r, 
+# e.g. flores^zinhas  (diminutive of "flor" 'flower' in plural)
+# flores^zinhas => flors^zinhas
+define OptDelEStemR e (->) 0 || r _ s MorphSep z ;
+
+# composing the two previous rules in one single FST
+define OptDelE OptDelEStemZ .o. OptDelEStemR ;
+
+# luzes^zinhas => luze^zinhas
+# burgueses^zinhos => burguese^zinhos
+define PluralSDeletion s  -> 0 || _ MorphSep z ;
+
+# luz^zinhas => luz^inhas
+# lápis$^zinho => lápis$^inho
+# burguês$^zinho => burguês$^inho
+# burgues^zinhos => burgues^inhos
+define SuffZDeletion z-> 0 || [z|s] (StemmS) MorphSep _ ;
+
+# ideia^inha => idei^inha => ide^inha (diminutive of idea)
+define IDeletion i-> 0 || _ MorphSep i ;
+ 
+# delete morpheme separator
+define DeleteMorphSep MorphSep -> 0 ;
+
+# remove accents (diacritics marking stress) from derived words
+define Unaccent [[á -> a] .o. [é -> e] .o. [ê -> e] .o. [ó -> o]
+       		       	     	.o. [ô -> o] .o. [í -> i] .o. [ú -> u]
+				.o. [â -> a ]];
+
+# compose the cascade of alternation rules in one single transducer
+define AltRules NasalBilabAssim .o. 
+       				PhonC
+				.o.
+       				ThemVowDel 
+				.o. 
+				ChangeC 
+				.o.
+				OrthC
+				.o.
+				ChangeG 
+				.o.
+				OptDelE
+				.o.
+				PluralSDeletion 
+				.o.
+				SuffZDeletion
+				.o.
+				IDeletion
+				.o.
+				Unaccent
+				.o.
+				DeleteCedilla
+				.o.
+				DelStemmS
+				.o.
+				DeleteMorphSep ;
+
+# convert abstract morpheme representation +DIM to inh suffix
+# before thematic vowel, e.g.:
+# casa^+DIM^a => cas^inh^a (diminutive of house)
+# exepting cases where the thematic vowel is preceded by ã or õ, e.g.:
+# pão => pão^+DIM^o => *pão^inh^o  (diminutive of bread)
+define RealizeDim [ %+DIM -> {^inh} || \[ã|õ] ThemVow _ ] ;
+
+# remove paths with +DIM in the transducer's lower language
+define Filter ~ [$ %+DIM ] ;
+# This prevents generation (and analysis) of ungrammatical forms like 
+# *cafeinho (cafezinho, diminutive of coffee), *pãinho (pãozinho),
+# *marinho (marzinho, diminutive of sea), *papelinho (papelzinho, 
+# diminutive of paper), etc. This is subject to some dialectal variation,
+# e.g. casalinho (diminutive of couple or town), which occurs in European Portuguese
+# (Villalva & Silvestre 2014:120), and mulherinha (diminutive of woman), 
+# which is used by some speakers of Brazilian Portuguese. These forms
+# can be generated by changing the left context of the RealizeDim rule.
