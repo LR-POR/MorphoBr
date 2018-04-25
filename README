@@ -11,14 +11,17 @@ Unless otherwise stated, the present resources are derived from the
 dictionaries of the:
 
 - Unitex-PB project :: http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html
+
 - Freeling Portuguese data :: https://github.com/TALP-UPC/FreeLing/tree/master/data/pt/dictionary/entries
+
      - which is itself derived from [[http://label.ist.utl.pt/pt/labellex_pt.php][LABEL-LEX]]
      - using unpublished data from /Garcia, Marcos et al./: available
        from commit [[https://github.com/LFG-PTBR/MorphoBr/tree/a0ebdbc496035642277788cecb156a169bae309b/tmp][a0ebdbc49603564227778]]
 
 * Repository contents
+
 Entries are separated by class, each in its own directory. Entries are
-divided in small files, so that they can be previewed on github and
+divided in small files, so that they can be previewed on GitHub and
 processed in less powerful computers. The repository structure is
 meant for development: if you would like a copy of the data, you
 should go to our [[https://github.com/LFG-PTBR/MorphoBr/releases][releases page]].
@@ -27,19 +30,22 @@ Code (and its documentation) employed in the resource's development
 can be found in the =tools/= directory.
 
 * Tagset
+
 The tagset used in the above projects was converted to a more
 mnemonical one which generally follows the notational conventions of
 the descriptive linguistic and finite-state morphology literatures,
 see the =TAGSET= file.
 
 * Morphological analysis
+
 In order to use MorphoBr resources for morphological analysis in XFST,
 or in XLE in the context of syntactic parsing (e.g. with BrGram), they
 must be compiled into finite-state transducers. Python modules as well
-as XFST and bash scripts for performing this task will be made
-available in the /tools folder. Inadequacies and errors found in the
-source dictionaries were corrected using these tools. See the
-respective incode documentation for a detailed description of the
-changes made to the source entries.
+as XFST and bash scripts for performing this task are available in the
+=tools/= folder. Inadequacies and errors found in the source
+dictionaries were corrected using these tools. See the respective
+incode documentation for a detailed description of the changes made to
+the source entries.
+
 * Download
 See our [[https://github.com/LFG-PTBR/MorphoBr/releases][releases page]].
