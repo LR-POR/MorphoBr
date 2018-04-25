@@ -63,7 +63,17 @@ ADD-LEMMAS> (hash-table-alist (gethash 'andar' dict))
                   (sentence-tokens s))) conllu)))
 
 (defun process-file (dict-file file-in file-out stats-file)
+  "Using the dictionaruy DICT-FILE, fill the lemmas of file FILE-IN,
+saving it on FILE-OUT while generating statistics about the lemmas in
+STATS-FILE.  The statistics file contains one line per lemma processed
+with the following status: 'single eq' means that the lemma in
+DICT-FILE is the same as the one already in FILE-IN; 'single ne' means
+that the lemma is different; 'multiple' means that multiple lemmas are
+possible for that particular word form; 'missing' means that we didn't
+find an entry for that particular word form in our dictionary."
   (let ((dict (load-usp-dict dict-file)))
     (write-conllu (fill-lemmas (read-conllu file-in) dict stats-file) file-out)))
 
-(process-file "/tmp/dict" "all" "all.l" "all.s")
+;; if using SBCL, you need at least 16 gb of memory:
+;; sbcl --dynamic-space-size 16gb --load add-lemmas.lisp
+(room (process-file "/tmp/dict" "all" "all.l" "all.s"))
