@@ -10,7 +10,7 @@ grep -Ev "\-" uniq.txt > no_hyphens.txt
 grep -E "\-" uniq.*.pairs | awk -F- '{print $2}' | awk '{print $1}' | sort | uniq > clitics.txt
 
 # testing regex matching all clitics from clitics.txt
-grep -E "[ln]?[ao]s?|lhes?|[mst]e|vos" clitics.txt  > clitics02.txt
+grep -Ew "[ln]?[ao]s?|lhes?|[mst]e|vos" clitics.txt  > clitics02.txt
 diff -bq clitics.txt clitics02.txt
 
 # inserting a hyphen separating verb and clitic
