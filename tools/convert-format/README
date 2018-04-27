@@ -1,6 +1,13 @@
 # -*- mode: org -*-
 #+Title: translating between morphology dictionary formats
 
+this GF grammar can convert from the DELAF and EAGLES-like formats to
+MorphoBr's format.
+
+* prerequisites
+you need Docker or GF installed.
+
+* EAGLES-like -> MorphoBR
 to translate classes from the Freeling/EAGLES format to MorphoBR's you
 can either run the Docker image and use the [[https://docs.docker.com/engine/reference/commandline/cp/][docker cp]] command to
 obtain the files, or:
@@ -12,3 +19,14 @@ obtain the files, or:
   : sh translate-all.sh
 
 only nouns, simple verbs, adjectives, and adverbs work for now.
+
+* DELAF -> MorphoBr
+
+* WARNING
+do note that although you *can* use this grammar to convert from
+MorphoBr to the other formats (there'll be some output, with no
+errors), the conversion will be wrong in the EAGLES-like format case,
+because GF can't use context awareness to make a female and a male
+entry become a common-gender entry. neither this or the
+DELAF->MorphoBr conversion has been tried, because we had no use for
+them.
