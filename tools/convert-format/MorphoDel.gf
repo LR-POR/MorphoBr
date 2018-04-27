@@ -10,13 +10,13 @@ concrete MorphoDel of Morpho = open Prelude, Predef in {
     -- gender
     Masc = ss "m" ;
     Fem = ss "f" ;
-    ZGender = ss nonExist ;
-    Common = ss "" ;
+    ZGender = ss "" ;
+    Common = ss nonExist ;
     -- number
     Sg = ss "s" ;
     Pl = ss "p" ;
-    InvN = ss "" ;
-    ZNumber = ss nonExist ;
+    InvN = ss nonExist ;
+    ZNumber = ss "" ;
     -- degree
     Dim = ss "D" ;
     Aug = ss "A" ;
@@ -64,4 +64,7 @@ concrete MorphoDel of Morpho = open Prelude, Predef in {
   oper
     mkEntry : SS -> SS -> SS -> SS ;
     mkEntry fo l fs = ss (fo.s ++ "," ++ l.s ++ "." ++ fs.s) ;
+
+    -- hack to get the same behaviour as from variants. parses both, linearizes the first.
+    vars : Str -> Str -> Str = \x,y -> pre { "" => x ; _ => y } ;
 } ;
