@@ -12,7 +12,7 @@
 (defun morphobr-pos (udpos)
   (cdr (assoc udpos *ud-conversion* :test #'equal)))
 
-(defun load-usp-dict (file)
+(defun load-morphobr-dict (file)
   "Load dictionary in MorphoBr format and creates a hash-table of hash-tables.  First level are the forms and second level are the POS.  Each pos will have a list of (LEMMA + FEATS).  Example:
 
 ADD-LEMMAS> (hash-table-alist (gethash 'andar' dict))
@@ -62,8 +62,8 @@ ADD-LEMMAS> (hash-table-alist (gethash 'andar' dict))
                             (format ss "missing: ~a [~a]~%" (token-form tk) mpos)))))
                   (sentence-tokens s))) conllu)))
 
-(defun process-file (dict-file file-in file-out stats-file)
-  "Using the dictionaruy DICT-FILE, fill the lemmas of file FILE-IN,
+(defun process-file (dict file-in file-out stats-file)
+  "Using the dictionary DICT, fill the lemmas of file FILE-IN,
 saving it on FILE-OUT while generating statistics about the lemmas in
 STATS-FILE.  The statistics file contains one line per lemma processed
 with the following status: 'single eq' means that the lemma in
@@ -71,9 +71,13 @@ DICT-FILE is the same as the one already in FILE-IN; 'single ne' means
 that the lemma is different; 'multiple' means that multiple lemmas are
 possible for that particular word form; 'missing' means that we didn't
 find an entry for that particular word form in our dictionary."
-  (let ((dict (load-usp-dict dict-file)))
-    (write-conllu (fill-lemmas (read-conllu file-in) dict stats-file) file-out)))
+  (write-conllu (fill-lemmas (read-conllu file-in) dict stats-file) file-out))
 
 ;; if using SBCL, you need at least 16 gb of memory:
 ;; sbcl --dynamic-space-size 16gb --load add-lemmas.lisp
-(room (process-file "/tmp/dict" "all" "all.l" "all.s"))
+(dolist (f (directory "*.conllu"))
+  (let ((dict (load-morphobr-dict "dict")))
+      (sb-ext:gc)
+      (process-file dict f (format nil "~a.l" f) (format nil "~a.s" f))))
+
+(sb-ext:exit)
