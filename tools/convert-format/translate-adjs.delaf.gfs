@@ -1,0 +1,5 @@
+! awk -F '[,.:]' -f preprocess.delaf.awk adjs.delaf > adjs.preproc
+i MorphoDel.gf MorphoBra.gf
+rf -file=adjs.preproc -lines | p -lang=Del | l -lang=Bra -all | wf -file=adjs.proc
+! cat adjs.proc | tr -d ' ' > adjs.bra
+! rm adjs.proc adjs.preproc

@@ -1,0 +1,5 @@
+! awk -F '[,.:]' -f preprocess.delaf.awk nouns.delaf > nouns.preproc
+i MorphoDel.gf MorphoBra.gf
+rf -file=nouns.preproc -lines | p -lang=Del | l -lang=Bra -all | wf -file=nouns.proc
+! cat nouns.proc | tr -d ' ' > nouns.bra
+! rm nouns.proc nouns.preproc
