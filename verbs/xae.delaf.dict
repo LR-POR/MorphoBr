@@ -1,8 +1,3 @@
-aluem	aluar+V+SBJR+3+PL
-aluem	aluir+V+PRS+3+PL
-aluemos	aluar+V+IMP+1+PL
-aluemos	aluar+V+SBJR+1+PL
-alues	aluar+V+SBJR+2+SG
 aluga	alugar+V+IMP+2+SG
 aluga	alugar+V+PRS+3+SG
 alugada	alugar+V+PTPASS+F+SG
@@ -95,7 +90,6 @@ aluíra	aluir+V+PQP+3+SG
 aluir	aluir+V+INF
 aluir	aluir+V+INF+1
 aluir	aluir+V+INF+3
-aluir	aluir+V+INF+3+1
 aluir	aluir+V+INF+3+SG
 aluir	aluir+V+SBJF+1+SG
 aluir	aluir+V+SBJF+3+SG
@@ -19998,3 +19992,9 @@ anilhaçaríamos	anilhaçar+V+COND+1+PL
 anilhaçarias	anilhaçar+V+COND+2+SG
 anilhaçaríeis	anilhaçar+V+COND+2+PL
 anilhaçarmos	anilhaçar+V+INF+1+PL
+anilhaçarmos	anilhaçar+V+SBJF+1+PL
+anilhaças	anilhaçar+V+PRS+2+SG
+anilhaçasse	anilhaçar+V+SBJP+1+SG
+anilhaçasse	anilhaçar+V+SBJP+3+SG
+anilhaçásseis	anilhaçar+V+SBJP+2+PL
+anilhaçassem	anilhaçar+V+SBJP+3+PL

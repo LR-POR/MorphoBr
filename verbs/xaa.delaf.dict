@@ -9978,7 +9978,6 @@ abluíra	abluir+V+PQP+3+SG
 abluir	abluir+V+INF
 abluir	abluir+V+INF+1
 abluir	abluir+V+INF+3
-abluir	abluir+V+INF+3+1
 abluir	abluir+V+INF+3+SG
 abluir	abluir+V+SBJF+1+SG
 abluir	abluir+V+SBJF+3+SG
@@ -10189,7 +10188,6 @@ abnuíra	abnuir+V+PQP+3+SG
 abnuir	abnuir+V+INF
 abnuir	abnuir+V+INF+1
 abnuir	abnuir+V+INF+3
-abnuir	abnuir+V+INF+3+1
 abnuir	abnuir+V+INF+3+SG
 abnuir	abnuir+V+SBJF+1+SG
 abnuir	abnuir+V+SBJF+3+SG
@@ -16960,7 +16958,6 @@ abstraíra	abstrair+V+PQP+3+SG
 abstrair	abstrair+V+INF
 abstrair	abstrair+V+INF+1
 abstrair	abstrair+V+INF+3
-abstrair	abstrair+V+INF+3+1
 abstrair	abstrair+V+INF+3+SG
 abstrair	abstrair+V+SBJF+1+SG
 abstrair	abstrair+V+SBJF+3+SG
@@ -17036,7 +17033,6 @@ abstruíra	abstruir+V+PQP+3+SG
 abstruir	abstruir+V+INF
 abstruir	abstruir+V+INF+1
 abstruir	abstruir+V+INF+3
-abstruir	abstruir+V+INF+3+1
 abstruir	abstruir+V+INF+3+SG
 abstruir	abstruir+V+SBJF+1+SG
 abstruir	abstruir+V+SBJF+3+SG
@@ -19998,3 +19994,7 @@ acairela	acairelar+V+IMP+2+SG
 acairela	acairelar+V+PRS+3+SG
 acairelada	acairelar+V+PTPASS+F+SG
 acaireladas	acairelar+V+PTPASS+F+PL
+acairelado	acairelar+V+PTPASS+M+SG
+acairelados	acairelar+V+PTPASS+M+PL
+acairelai	acairelar+V+IMP+2+PL
+acairelais	acairelar+V+PRS+2+PL

@@ -1,11 +1,3 @@
-aprazáramos	aprazar+V+PQP+1+PL
-aprazarão	aprazar+V+FUT+3+PL
-aprazar	aprazar+V+INF
-aprazar	aprazar+V+INF+1+SG
-aprazar	aprazar+V+INF+3+SG
-aprazar	aprazar+V+SBJF+1+SG
-aprazar	aprazar+V+SBJF+3+SG
-aprazarás	aprazar+V+FUT+2+SG
 aprazaras	aprazar+V+PQP+2+SG
 aprazardes	aprazar+V+INF+2+PL
 aprazardes	aprazar+V+SBJF+2+PL
@@ -9783,7 +9775,6 @@ arrairão	arrair+V+FUT+3+PL
 arrair	arrair+V+INF
 arrair	arrair+V+INF+1
 arrair	arrair+V+INF+3
-arrair	arrair+V+INF+3+1
 arrair	arrair+V+INF+3+SG
 arrair	arrair+V+SBJF+1+SG
 arrair	arrair+V+SBJF+3+SG
@@ -18334,7 +18325,6 @@ arruirão	arruir+V+FUT+3+PL
 arruir	arruir+V+INF
 arruir	arruir+V+INF+1
 arruir	arruir+V+INF+3
-arruir	arruir+V+INF+3+1
 arruir	arruir+V+INF+3+SG
 arruir	arruir+V+SBJF+1+SG
 arruir	arruir+V+SBJF+3+SG
@@ -19998,3 +19988,13 @@ ascuardes	ascuar+V+SBJF+2+PL
 ascuarei	ascuar+V+FUT+1+SG
 ascuareis	ascuar+V+FUT+2+PL
 ascuáreis	ascuar+V+PQP+2+PL
+ascuarem	ascuar+V+INF+3+PL
+ascuarem	ascuar+V+SBJF+3+PL
+ascuaremos	ascuar+V+FUT+1+PL
+ascuares	ascuar+V+INF+2+SG
+ascuares	ascuar+V+SBJF+2+SG
+ascuaria	ascuar+V+COND+1+SG
+ascuaria	ascuar+V+COND+3+SG
+ascuariam	ascuar+V+COND+3+PL
+ascuaríamos	ascuar+V+COND+1+PL
+ascuarias	ascuar+V+COND+2+SG

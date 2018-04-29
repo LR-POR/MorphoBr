@@ -1,7 +1,3 @@
-acairelado	acairelar+V+PTPASS+M+SG
-acairelados	acairelar+V+PTPASS+M+PL
-acairelai	acairelar+V+IMP+2+PL
-acairelais	acairelar+V+PRS+2+PL
 acairelam	acairelar+V+PRS+3+PL
 acairelamos	acairelar+V+PRF+1+PL
 acairelamos	acairelar+V+PRS+1+PL
@@ -19998,3 +19994,7 @@ adamasque	adamascar+V+SBJR+3+SG
 adamasquei	adamascar+V+PRF+1+SG
 adamasqueis	adamascar+V+SBJR+2+PL
 adamasquem	adamascar+V+IMP+3+PL
+adamasquem	adamascar+V+SBJR+3+PL
+adamasquemos	adamascar+V+IMP+1+PL
+adamasquemos	adamascar+V+SBJR+1+PL
+adamasques	adamascar+V+SBJR+2+SG
