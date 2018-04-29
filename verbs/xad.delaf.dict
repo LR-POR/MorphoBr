@@ -1,3 +1,13 @@
+agourentávamos	agourentar+V+IMPF+1+PL
+agourentavas	agourentar+V+IMPF+2+SG
+agourentáveis	agourentar+V+IMPF+2+PL
+agourente	agourentar+V+IMP+3+SG
+agourente	agourentar+V+SBJR+1+SG
+agourente	agourentar+V+SBJR+3+SG
+agourentei	agourentar+V+PRF+1+SG
+agourenteis	agourentar+V+SBJR+2+PL
+agourentem	agourentar+V+IMP+3+PL
+agourentem	agourentar+V+SBJR+3+PL
 agourentemos	agourentar+V+IMP+1+PL
 agourentemos	agourentar+V+SBJR+1+PL
 agourentes	agourentar+V+SBJR+2+SG
@@ -19988,13 +19998,3 @@ alue	aluar+V+SBJR+3+SG
 aluei	aluar+V+PRF+1+SG
 alueis	aluar+V+SBJR+2+PL
 aluem	aluar+V+IMP+3+PL
-aluem	aluar+V+SBJR+3+PL
-aluem	aluir+V+PRS+3+PL
-aluemos	aluar+V+IMP+1+PL
-aluemos	aluar+V+SBJR+1+PL
-alues	aluar+V+SBJR+2+SG
-aluga	alugar+V+IMP+2+SG
-aluga	alugar+V+PRS+3+SG
-alugada	alugar+V+PTPASS+F+SG
-alugadas	alugar+V+PTPASS+F+PL
-alugado	alugar+V+PTPASS+M+SG

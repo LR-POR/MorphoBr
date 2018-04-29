@@ -1,3 +1,11 @@
+adamasquem	adamascar+V+SBJR+3+PL
+adamasquemos	adamascar+V+IMP+1+PL
+adamasquemos	adamascar+V+SBJR+1+PL
+adamasques	adamascar+V+SBJR+2+SG
+adamasse	adamar+V+SBJP+1+SG
+adamasse	adamar+V+SBJP+3+SG
+adamásseis	adamar+V+SBJP+2+PL
+adamassem	adamar+V+SBJP+3+PL
 adamássemos	adamar+V+SBJP+1+PL
 adamasses	adamar+V+SBJP+2+SG
 adamaste	adamar+V+PRF+2+SG
@@ -12101,6 +12109,8 @@ afluirá	afluir+V+FUT+3+SG
 afluíra	afluir+V+PQP+1+SG
 afluíra	afluir+V+PQP+3+SG
 afluir	afluir+V+INF
+afluir	afluir+V+INF+1
+afluir	afluir+V+INF+3
 afluir	afluir+V+INF+3+1
 afluir	afluir+V+INF+3+SG
 afluir	afluir+V+SBJF+1+SG
@@ -19988,13 +19998,3 @@ agourentaste	agourentar+V+PRF+2+SG
 agourentastes	agourentar+V+PRF+2+PL
 agourentava	agourentar+V+IMPF+1+SG
 agourentavam	agourentar+V+IMPF+3+PL
-agourentávamos	agourentar+V+IMPF+1+PL
-agourentavas	agourentar+V+IMPF+2+SG
-agourentáveis	agourentar+V+IMPF+2+PL
-agourente	agourentar+V+IMP+3+SG
-agourente	agourentar+V+SBJR+1+SG
-agourente	agourentar+V+SBJR+3+SG
-agourentei	agourentar+V+PRF+1+SG
-agourenteis	agourentar+V+SBJR+2+PL
-agourentem	agourentar+V+IMP+3+PL
-agourentem	agourentar+V+SBJR+3+PL
