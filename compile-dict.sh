@@ -8,11 +8,11 @@ function cat-dict {
 }
 
 # adjectives
-cat-dict adjectives
+sort -u adjectives/*.dict diminutives/deadjectivals.mbr.dict > adjectives.dict
 # adverbs
 cat-dict adverbs
 # nouns
-cat nouns/*.dict diminutives/nouns/*.dict > nouns.dict
+sort -u nouns/*.dict diminutives/denominals.mbr.dict > nouns.dict
 # verbs
 cat-dict verbs
 # verb clitics
