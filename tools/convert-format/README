@@ -4,15 +4,21 @@
 this GF grammar can convert from the DELAF and EAGLES-like formats to
 MorphoBr's format.
 
+* preprocessing
+the raw files from the Freeling and DELAF project contain errors
+and/or inconsistencies that must be resolved before conversion.
+
+- DELAF :: see issues #43, #44
+- Freeling :: see issues #26
+
 * prerequisites
 you need Docker or GF installed.
 
-* EAGLES-like -> MorphoBR
-to translate classes from the Freeling/EAGLES format to MorphoBR's you
-can either run the Docker image and use the [[https://docs.docker.com/engine/reference/commandline/cp/][docker cp]] command to
-obtain the files, or:
+* conversion
+to translate classes from the a format to MorphoBR you can either run
+the Docker image and use the [[https://docs.docker.com/engine/reference/commandline/cp/][docker cp]] command to obtain the files.
 
-- install GF
+** EAGLES-like -> MorphoBR
 - make sure you have the files from [[https://github.com/TALP-UPC/FreeLing/tree/master/data/pt/dictionary/entries][Freeling's Portuguese data]] in this
   directory
 - run:
@@ -20,7 +26,11 @@ obtain the files, or:
 
 only nouns, simple verbs, adjectives, and adverbs work for now.
 
-* DELAF -> MorphoBr
+** DELAF -> MorphoBr
+separate class =x= (where =x= is one of nouns, adjectives, adverbs and
+verbs) in a file named =x.delaf=, then run
+: gf--run < translate-x.delaf.gfs
+and the output file =x.bra= will result.
 
 * WARNING
 do note that although you *can* use this grammar to convert from
