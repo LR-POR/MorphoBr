@@ -75,9 +75,9 @@ find an entry for that particular word form in our dictionary."
 
 ;; if using SBCL, you need at least 16 gb of memory:
 ;; sbcl --dynamic-space-size 16gb --load add-lemmas.lisp
-(dolist (f (directory "*.conllu"))
-  (let ((dict (load-morphobr-dict "dict")))
-      (sb-ext:gc)
-      (process-file dict f (format nil "~a.l" f) (format nil "~a.s" f))))
+(let ((dict (load-morphobr-dict "dict")))
+  (dolist (f (directory "*.conllu"))
+    (sb-ext:gc)
+    (process-file dict f (format nil "~a.l" f) (format nil "~a.s" f))))
 
 (sb-ext:exit)
