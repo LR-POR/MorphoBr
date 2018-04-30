@@ -1,3 +1,9 @@
+anilhaçássemos	anilhaçar+V+SBJP+1+PL
+anilhaçasses	anilhaçar+V+SBJP+2+SG
+anilhaçaste	anilhaçar+V+PRF+2+SG
+anilhaçastes	anilhaçar+V+PRF+2+PL
+anilhaçava	anilhaçar+V+IMPF+1+SG
+anilhaçavam	anilhaçar+V+IMPF+3+PL
 anilhaçávamos	anilhaçar+V+IMPF+1+PL
 anilhaçavas	anilhaçar+V+IMPF+2+SG
 anilhaçáveis	anilhaçar+V+IMPF+2+PL
@@ -4204,7 +4210,8 @@ anuíram	anuir+V+PQP+3+PL
 anuíram	anuir+V+PRF+3+PL
 anuíramos	anuir+V+PQP+1+PL
 anuir	anuir+V+INF
-anuir	anuir+V+INF+3+1
+anuir	anuir+V+INF+1
+anuir	anuir+V+INF+3
 anuir	anuir+V+INF+3+SG
 anuir	anuir+V+SBJF+1+SG
 anuir	anuir+V+SBJF+3+SG
@@ -18743,7 +18750,8 @@ apossuíram	apossuir+V+PRF+3+PL
 apossuíramos	apossuir+V+PQP+1+PL
 apossuirão	apossuir+V+FUT+3+PL
 apossuir	apossuir+V+INF
-apossuir	apossuir+V+INF+3+1
+apossuir	apossuir+V+INF+1
+apossuir	apossuir+V+INF+3
 apossuir	apossuir+V+INF+3+SG
 apossuir	apossuir+V+SBJF+1+SG
 apossuir	apossuir+V+SBJF+3+SG
@@ -19990,11 +19998,3 @@ aprazar	aprazar+V+INF+3+SG
 aprazar	aprazar+V+SBJF+1+SG
 aprazar	aprazar+V+SBJF+3+SG
 aprazarás	aprazar+V+FUT+2+SG
-aprazaras	aprazar+V+PQP+2+SG
-aprazardes	aprazar+V+INF+2+PL
-aprazardes	aprazar+V+SBJF+2+PL
-aprazarei	aprazar+V+FUT+1+SG
-aprazareis	aprazar+V+FUT+2+PL
-aprazáreis	aprazar+V+PQP+2+PL
-aprazarem	aprazar+V+INF+3+PL
-aprazarem	aprazar+V+SBJF+3+PL

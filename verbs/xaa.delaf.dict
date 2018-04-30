@@ -9976,7 +9976,8 @@ abluirá	abluir+V+FUT+3+SG
 abluíra	abluir+V+PQP+1+SG
 abluíra	abluir+V+PQP+3+SG
 abluir	abluir+V+INF
-abluir	abluir+V+INF+3+1
+abluir	abluir+V+INF+1
+abluir	abluir+V+INF+3
 abluir	abluir+V+INF+3+SG
 abluir	abluir+V+SBJF+1+SG
 abluir	abluir+V+SBJF+3+SG
@@ -10185,7 +10186,8 @@ abnuirá	abnuir+V+FUT+3+SG
 abnuíra	abnuir+V+PQP+1+SG
 abnuíra	abnuir+V+PQP+3+SG
 abnuir	abnuir+V+INF
-abnuir	abnuir+V+INF+3+1
+abnuir	abnuir+V+INF+1
+abnuir	abnuir+V+INF+3
 abnuir	abnuir+V+INF+3+SG
 abnuir	abnuir+V+SBJF+1+SG
 abnuir	abnuir+V+SBJF+3+SG
@@ -16954,7 +16956,8 @@ abstrairá	abstrair+V+FUT+3+SG
 abstraíra	abstrair+V+PQP+1+SG
 abstraíra	abstrair+V+PQP+3+SG
 abstrair	abstrair+V+INF
-abstrair	abstrair+V+INF+3+1
+abstrair	abstrair+V+INF+1
+abstrair	abstrair+V+INF+3
 abstrair	abstrair+V+INF+3+SG
 abstrair	abstrair+V+SBJF+1+SG
 abstrair	abstrair+V+SBJF+3+SG
@@ -17028,7 +17031,8 @@ abstruirá	abstruir+V+FUT+3+SG
 abstruíra	abstruir+V+PQP+1+SG
 abstruíra	abstruir+V+PQP+3+SG
 abstruir	abstruir+V+INF
-abstruir	abstruir+V+INF+3+1
+abstruir	abstruir+V+INF+1
+abstruir	abstruir+V+INF+3
 abstruir	abstruir+V+INF+3+SG
 abstruir	abstruir+V+SBJF+1+SG
 abstruir	abstruir+V+SBJF+3+SG
@@ -19994,7 +19998,3 @@ acairelado	acairelar+V+PTPASS+M+SG
 acairelados	acairelar+V+PTPASS+M+PL
 acairelai	acairelar+V+IMP+2+PL
 acairelais	acairelar+V+PRS+2+PL
-acairelam	acairelar+V+PRS+3+PL
-acairelamos	acairelar+V+PRF+1+PL
-acairelamos	acairelar+V+PRS+1+PL
-acairelando	acairelar+V+GRD

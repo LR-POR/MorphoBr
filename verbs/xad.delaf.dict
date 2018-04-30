@@ -1,3 +1,8 @@
+agourente	agourentar+V+SBJR+3+SG
+agourentei	agourentar+V+PRF+1+SG
+agourenteis	agourentar+V+SBJR+2+PL
+agourentem	agourentar+V+IMP+3+PL
+agourentem	agourentar+V+SBJR+3+PL
 agourentemos	agourentar+V+IMP+1+PL
 agourentemos	agourentar+V+SBJR+1+PL
 agourentes	agourentar+V+SBJR+2+SG
@@ -19993,8 +19998,3 @@ aluem	aluir+V+PRS+3+PL
 aluemos	aluar+V+IMP+1+PL
 aluemos	aluar+V+SBJR+1+PL
 alues	aluar+V+SBJR+2+SG
-aluga	alugar+V+IMP+2+SG
-aluga	alugar+V+PRS+3+SG
-alugada	alugar+V+PTPASS+F+SG
-alugadas	alugar+V+PTPASS+F+PL
-alugado	alugar+V+PTPASS+M+SG
