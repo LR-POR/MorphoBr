@@ -1,0 +1,7 @@
+coverage.py generates a list of files that Freeling recognizes in the following format (TSV):
+
+First column: wordform/lemma in MorphoBr
+Second column: if the wordform exists directly in Freeling dictionary
+Third column: lemma obtained from Freeling
+
+If second column is False but the third column contains lemma, then Freelings suffix rules were use to deduct the proper lemma.
