@@ -1,7 +1,12 @@
-coverage.py generates a list of files that Freeling recognizes in the following format (TSV):
+# coverage.py generates a list of files that Freeling recognizes in the following format (TSV):
 
 First column: wordform/lemma in MorphoBr
 Second column: if the wordform exists directly in Freeling dictionary
 Third column: lemma obtained from Freeling
 
-If second column is False but the third column contains lemma, then Freelings suffix rules were use to deduct the proper lemma.
+If second column is False but the third column contains a lemma, then Freelings suffix rules were use to deduct the proper lemma.
+# add-lemmas: updates the lemma field of a CoNLL-U with the lemmas from MorphoBr, as long as there is only one possible value for the wordform-POS tag pair.
+
+It also generates file for computing statistics indicating with there was only one option for lemma (single XX), multiple options (multiple), and no lemma (missing).
+
+In case there was only one option for lemma AND if the CoNLL-U already has a lemma, then we indicate whether our suggested lemma is the same as the one in the file (single eq), or different (single ne).
