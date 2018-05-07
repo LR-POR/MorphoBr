@@ -1,9 +1,13 @@
 #!/bin/bash
 
-total=$(cat $1 | wc -l)
-missing=$(cat $1 | awk -F$'\t' '$3 == "_" {print}'| wc -l)
-indict=$(cat $1 | awk -F$'\t' '$2 == "True" {print}'| wc -l)
-rules=$(cat $1 | awk -F$'\t' '$2 == "False" && $3 != "_" {print}'| wc -l)
+t=$(mktemp)
+
+gzcat $1 | sort | uniq > $t
+
+total=$(cat $t | wc -l)
+missing=$(cat $t | awk -F$'\t' '$3 == "_" {print}'| wc -l)
+indict=$(cat $t | awk -F$'\t' '$2 == "True" {print}'| wc -l)
+rules=$(cat $t | awk -F$'\t' '$2 == "False" && $3 != "_" {print}'| wc -l)
 
 echo "total: $total"
 echo "missing: $missing"
@@ -17,3 +21,4 @@ echo "scale=4;100*($indict/$total)" | bc
 echo "rules"
 echo "scale=4;100*($rules/$total)" | bc
 
+rm $t
