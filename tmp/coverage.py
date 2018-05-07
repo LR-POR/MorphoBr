@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+## TODO: make sure the wordform-lemma values in dictionary are UNIQUE!
+## Alternative make the output of this program unique by running it via sort|uniq
+
 import freeling
 import sys
 
