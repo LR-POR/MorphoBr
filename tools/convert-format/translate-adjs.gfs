@@ -1,5 +1,5 @@
 ! grep " AQ" adjs | awk -F ' ' -f preprocess.awk > adjs.preproc
 i MorphoEag.gf MorphoMbr.gf
 rf -file=adjs.preproc -lines | p -lang=Eag | l -lang=Mbr -all | wf -file=adjs.proc
-! cat adjs.proc | tr -d ' ' > adjs.mbr
+! sed 's/ &t /     /' adjs.proc | tr -d ' ' > adjs.mbr
 ! rm adjs.proc adjs.preproc
