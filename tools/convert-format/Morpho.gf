@@ -1,5 +1,6 @@
 abstract Morpho = {
   cat S ; -- entry
+      Form ; Lemma ;
       NF ; VF ; AF ; AdvF ; -- class features
       -- features
       Gender ; Number ; Degree ; Person ;
@@ -15,20 +16,23 @@ abstract Morpho = {
     Inf, Ger, PPart, Pres, Impf, Perf, Fut, Pqp, SPres, SImpf, SFut, Imp, Cond : VT ; -- V type
     GAdv, NAdv : AdvT ;
 
+    mkForm : String -> Form ;
+    mkLemma : String -> Lemma ;
+
     ---
     -- classes
 
     -- N
-    mkN : String -> String -> NF -> S ;
+    mkN : Form -> Lemma -> NF -> S ;
     mkNF : Gender -> Number -> Degree -> NF ;
     -- V
-    mkV : String -> String -> VF -> S ;
+    mkV : Form -> Lemma -> VF -> S ;
     mkVF : VT -> Person -> Number -> Gender -> VF ;
     -- A
-    mkA : String -> String -> AF -> S ;
+    mkA : Form -> Lemma -> AF -> S ;
     mkAF : Degree -> Gender -> Number -> AF ;
     -- Adv
-    mkAdv : String -> String -> AdvF -> S ;
+    mkAdv : Form -> Lemma -> AdvF -> S ;
     mkAdvF : AdvT -> AdvF ;
 
 } ;
