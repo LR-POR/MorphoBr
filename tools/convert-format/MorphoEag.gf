@@ -56,7 +56,7 @@ concrete MorphoEag of Morpho = open Prelude, Predef in {
     mkNF g n d = ss ("N" ++ ("C" | "P") ++ g.s ++ n.s ++ ("S" | "G" | "O" | "V" | "0") ++ "0" ++ d.s) ;
     -- V
     mkV = mkEntry ;
-    mkVF mt p n g = ss (("V" | "V+PRO") ++ ("M" | "A" | "S") ++ mt.s ++ p.s ++ n.s ++ g.s) ;
+    mkVF mt p n g = ss ("V" ++ ("M" | "A" | "S") ++ mt.s ++ p.s ++ n.s ++ g.s) ;
     -- A
     mkA = mkEntry ;
     mkAF d g n = ss ("A" ++ ("O" | "Q" | "P") ++ d.s ++ g.s ++ n.s ++ "0" ++ "0") ;
