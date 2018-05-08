@@ -3,6 +3,7 @@
 
 # Author: Leonel Figueiredo de Alencar
 # leonel.de.alencar@ufc.br
+# Date: Mai 8, 2018
 
 # Usage: python BuildPairsFromDELAF.py infile1 [infile2 ... infilen]
 
@@ -42,6 +43,7 @@ from cPickle import load,dump
 from BuildSpacedText import extract_entries
 
 SEPARATOR=r"[,.:]+"
+# edit paths to point to your local files
 PATH_TO_MAPPING_FILE=os.path.expanduser("~/morphtools/tag_mapping.txt")
 PATH_TO_MAPPING_FILE2=os.path.expanduser("~/morphtools/clitics.txt")
 
@@ -53,8 +55,9 @@ def UnpickleMapping(infile):
     f.close()
     return dic
 
-TAG_MAPPING=UnpickleMapping(os.path.expanduser("~/morphtools/tag_mapping.pkl"))
-CLITIC_MAPPING=UnpickleMapping(os.path.expanduser("~/morphtools/clitics.pkl"))
+# edit paths to point to your local files
+TAG_MAPPING=UnpickleMapping(os.path.expanduser("~/morphtools_data/tag_mapping.pkl"))
+CLITIC_MAPPING=UnpickleMapping(os.path.expanduser("~/morphtools_data/clitics.pkl"))
 
 def ExtractMapping(mapping_file=PATH_TO_MAPPING_FILE):
     return extract_entries(mapping_file)
@@ -92,7 +95,7 @@ def ExtractClitic(word):
 		return k
 
 def EndsInNasalDiphthong(word):
-    pattern=r"\w+([õã][eo]\b|m\b)".decode("utf-8")
+    pattern=r".+([õã][eo]\b|m\b)".decode("utf-8")
     if re.match(pattern,word):
         return True
     else:
@@ -120,15 +123,21 @@ def ConvertEntry(entry,dic):
     if len(parts) != 4:
         print entry
         return None
-    word,lemma,cat,feats=parts 
+    word,lemma,cat,feats=parts
+    # print parts
     # if +PRO in cat, then delete +PRO and append clitic features to cat
     if HasClitic(cat):
         cat_list= AppendCliticFeatures(word,cat).split("/")
         # print cat_list
         # handling ambiguity of clitic "nos" after nasal diphthong
+        # if the clitic has two feature sets
         if len(cat_list)==2:
+            # inserting category label into second features list
+            cat_list[1]="%s.%s" % (cat_list[0].split(".")[0],cat_list[1])
+            # if this condition is true, then clitic has two readings;
+            # else it has only the second reading
             if EndsInNasalDiphthong(word):
-                cat_list[1]="%s.%s" % (cat_list[0].split(".")[0],cat_list[1])
+                # print word
                 entries=[]
                 for c in cat_list:
                     entries.append("%s\t%s+%s+%s" % (word,lemma,c,ConcatenateFeatures(dic,feats)))
