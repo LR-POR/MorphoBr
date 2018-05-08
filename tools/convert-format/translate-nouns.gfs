@@ -1,5 +1,5 @@
 ! awk -F ' ' -f preprocess.awk nouns > nouns.preproc
-i MorphoEag.gf MorphoBra.gf
-rf -file=nouns.preproc -lines | p -lang=Eag | l -lang=Bra -all | wf -file=nouns.proc
-! cat nouns.proc | tr -d ' ' > nouns.bra
+i MorphoEag.gf MorphoMbr.gf
+rf -file=nouns.preproc -lines | p -lang=Eag | l -lang=Mbr -all | wf -file=nouns.proc
+! cat nouns.proc | tr -d ' ' > nouns.mbr
 ! rm nouns.proc nouns.preproc
