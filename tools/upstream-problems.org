@@ -1,0 +1,38 @@
+* DELAF-PB
+- 41 unique verb entries exhibit the following error, where a spurious
+  colon precedes the comma separator:
+  : mantinhas:,manter.V:I2s
+- 135 verb entries exhibit the following error, where a spurious colon
+  precedes the hyphen:
+  : abstinhas:-lhe,abster.V+PRO:I2s
+- removal of spurious and duplicate entries spurious entries:
+  : Gloria,Gloria.N:mp
+  : Gloria,Gloria.N:ms
+- filling of systematic gaps (missing tense forms):
+  - the paradigms of the 1st verb conjugation systematically lacks the
+    3rd person singular forms of two tenses: the imperfect indicative
+    (all forms missing) and the plusperfect (all but 5 forms missing).
+    These forms are identical to the corresponding ones of the 1st
+    person. There seems to be no reason for these gaps, since the
+    analog forms of the 2nd conjugation are present. These missing
+    forms were included in MophoBr.
+  - 2nd verb conjugation sistematically lacks SBJF 3 SG
+  - enrichment of the annotation of verbs with clitic pronouns:
+    DELAF-PB provides no lemma or morphosyntactic information for
+    clitic pronouns in enclisis or mesoclisis:
+    : compravam-nos,comprar.V+PRO:I3p
+- 4 entries of imperative forms of verbs has uppercase =s=, indicating
+  subjuntive instead of singular number:
+  : sorri,sorrir.V:Y2S
+- several hundred forms of infinitive had been marked as having two
+  persons, where these should have been in two lines instead:
+  : abstrair,abstrair.V:W31
+- several hundred forms missing hifen:
+  : protrairnos	protrair+V.None+SBJF+1+SG
+
+* freeling
+- wrong tag in number: =C= instead of =N= (3 entries)
+  : ônibus ônibus NCMC000
+- entries without clitics still in the dictionary
+  : ababadávamo ababadar+V+IMPF+1+PL
+- ambiguous tag for degree: can be =C= or =D=
