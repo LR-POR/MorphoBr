@@ -12,14 +12,20 @@ def get_form(x):
 def get_lemma(x):
     return x.strip().split('\t')[1].split('+')[0]
 
+def get_pos(x):
+    return x.strip().split('\t')[1].split('+')[1]
+
 def load_wordlist(file):
     words = []
     with open(file, 'r') as f:
-        words = [ (get_form(x), get_lemma(x)) for x in f ]
+        words = set([ (get_form(x), get_lemma(x)) for x in f ])
     return words
 
-def is_pos(word_tag, pos):
-    return word_tag.startswith(pos)
+def is_pos(word_tag, pos_list):
+    for pos in pos_list:
+        if word_tag.startswith(pos):
+            return True
+    return False
 
 wordlist = load_wordlist(sys.argv[1])
 pos = sys.argv[2]
@@ -62,5 +68,10 @@ for (wform,wlemma) in wordlist:
             else:
                 if flemma:
                     status = "IN-RULES"
+                else:
+                    flemma = "_"
 
-        print ("\t".join(["{}/{}/{}".format(wform,wlemma,pos), status]))
+        if not fpos:
+            fpos = "_"
+            
+        print ("\t".join(["{}/{}".format(wform,wlemma), status, fpos[0], flemma, str(findict)]))

@@ -1,12 +1,11 @@
 set -x
 
 tmp1=$(mktemp)
-python3 coverage.py ../diminutives/deadjectivals.mbr.dict A > $tmp1
-python3 coverage.py ../diminutives/denominals.mbr.dict N >> $tmp1
-
-cat $tmp1 | sort | uniq > diminutives-coverage.tsv
-
 tmp2=$(mktemp)
+
+cat ../diminutives/deadjectivals.mbr.dict ../diminutives/denominals.mbr.dict | sort | uniq > $tmp1
+
+python3 coverage.py $tmp1 AN | sort | uniq > diminutives-coverage.tsv
 
 cat ../verbs/clitics/*.dict |sort|uniq > $tmp2
 
