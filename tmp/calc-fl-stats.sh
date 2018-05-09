@@ -1,10 +1,10 @@
 #!/bin/bash
 tmp=$1
 
-total=$(cat $tmp | wc -l)
-missing=$(cat $tmp | awk '{print $2}' | grep -c MISSING)
-indict=$(cat $tmp | awk '{print $2}' | grep -c IN-DICT)
-rules=$(cat $tmp | awk '{print $2}' | grep -c IN-RULES)
+total=$(gzcat $tmp | wc -l)
+missing=$(gzcat $tmp | awk '{print $2}' | grep -c MISSING)
+indict=$(gzcat $tmp | awk '{print $2}' | grep -c IN-DICT)
+rules=$(gzcat $tmp | awk '{print $2}' | grep -c IN-RULES)
 
 echo "total: $total"
 echo "missing: $missing"
