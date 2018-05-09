@@ -1,12 +1,40 @@
-# coverage.py generates a list of files that Freeling recognizes in the following format (TSV):
+# coverage.py generates a list of files that Freeling recognizes.
+
+It accepts as input a dictionary file and an acceptable list of POS
+tags initials as supported by Freeling. Example:
+
+python3 coverage.py FILE AN
+
+Means checking the coverage of FILE against all Freeling, restrincting
+to the POS tags that begin with either "A" or "N"
+
+Output a TSV with the following column definition:
 
 First column: wordform/lemma in MorphoBr
-Second column: if the wordform exists directly in Freeling dictionary
+Second column: status flag:
+
+       IN-DICT - wordform recognized direclty in Freeling's dictionary
+                with the correct POS
+
+       IN-RULES - wordform recognized indirectly via Freeling's rules
+                with the correct POS
+
+       MISSING - wordform not known to Freeling with the given POS
+
+Second column: category of POS tag from Freeling (its first letter)
 Third column: lemma obtained from Freeling
+Fourth column: whether the word was found in Freeling's dictionary
 
-If second column is False but the third column contains a lemma, then Freelings suffix rules were use to deduct the proper lemma.
-# add-lemmas: updates the lemma field of a CoNLL-U with the lemmas from MorphoBr, as long as there is only one possible value for the wordform-POS tag pair.
+See https://talp-upc.gitbooks.io/freeling-4-0-user-manual/content/tagsets/tagset-pt.html for the Freeling POS tagset for Portuguese.
 
-It also generates file for computing statistics indicating with there was only one option for lemma (single XX), multiple options (multiple), and no lemma (missing).
+# add-lemmas: updates the lemma field of a CoNLL-U with the lemmas
+  from MorphoBr, as long as there is only one possible value for the
+  wordform-POS tag pair.
 
-In case there was only one option for lemma AND if the CoNLL-U already has a lemma, then we indicate whether our suggested lemma is the same as the one in the file (single eq), or different (single ne).
+It also generates file for computing statistics indicating with there
+was only one option for lemma (single XX), multiple options
+(multiple), and no lemma (missing).
+
+In case there was only one option for lemma AND if the CoNLL-U already
+has a lemma, then we indicate whether our suggested lemma is the same
+as the one in the file (single eq), or different (single ne).

@@ -1,24 +1,19 @@
 #!/bin/bash
+tmp=$1
 
-t=$(mktemp)
-
-gzcat $1 | sort | uniq > $t
-
-total=$(cat $t | wc -l)
-missing=$(cat $t | awk -F$'\t' '$3 == "_" {print}'| wc -l)
-indict=$(cat $t | awk -F$'\t' '$2 == "True" {print}'| wc -l)
-rules=$(cat $t | awk -F$'\t' '$2 == "False" && $3 != "_" {print}'| wc -l)
+total=$(gzcat $tmp | wc -l)
+missing=$(gzcat $tmp | awk '{print $2}' | grep -c MISSING)
+indict=$(gzcat $tmp | awk '{print $2}' | grep -c IN-DICT)
+rules=$(gzcat $tmp | awk '{print $2}' | grep -c IN-RULES)
 
 echo "total: $total"
 echo "missing: $missing"
 echo "in dict: $indict"
 echo "rules: $rules"
 
-echo "missing"
+echo -n "missing %: "
 echo "scale=4;100*($missing/$total)" | bc
-echo "in dictionary"
+echo -n "in dictionary %: "
 echo "scale=4;100*($indict/$total)" | bc
-echo "rules"
+echo -n "rules %: "
 echo "scale=4;100*($rules/$total)" | bc
-
-rm $t
