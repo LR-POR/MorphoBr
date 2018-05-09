@@ -5,7 +5,7 @@
 - 135 verb entries exhibit the following error, where a spurious colon
   precedes the hyphen:
   : abstinhas:-lhe,abster.V+PRO:I2s
-- removal of spurious and duplicate entries spurious entries:
+- removal of spurious and duplicate entries:
   : Gloria,Gloria.N:mp
   : Gloria,Gloria.N:ms
 - filling of systematic gaps (missing tense forms):
