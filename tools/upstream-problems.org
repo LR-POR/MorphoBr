@@ -25,7 +25,8 @@
   subjuntive instead of singular number:
   : sorri,sorrir.V:Y2S
 - several hundred forms of infinitive had been marked as having two
-  persons, where these should have been in two lines instead:
+  persons, where these should have been in two lines instead, and
+  should have a number tag:
   : abstrair,abstrair.V:W31
 - several hundred forms missing hifen:
   : protrairnos	protrair+V.None+SBJF+1+SG
