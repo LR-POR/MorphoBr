@@ -29,7 +29,7 @@ only nouns, simple verbs, adjectives, and adverbs work for now.
 ** DELAF -> MorphoBr
 separate class =x= (where =x= is one of nouns, adjectives, adverbs and
 verbs) in a file named =x.delaf=, then run
-: gf--run < translate-x.delaf.gfs
+: gf --run < translate-x.delaf.gfs
 and the output file =x.bra= will result.
 
 * WARNING
