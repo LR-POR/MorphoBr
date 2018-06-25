@@ -68,8 +68,11 @@ concrete MorphoMbr of Morpho = open Prelude, Predef in {
   oper
     mkEntry : SS -> SS -> SS -> SS ;
     mkEntry fo l fs = ss (fo.s ++ "&t" ++ l.s ++ fs.s) ;
+    
     clitic : Str ;
-    clitic = personstr ++  mode ++ optStr personnum ++ optStr gender ++ optStr number ;
+    clitic = personstr ++ mode ++ optStr personnum ++ optStr gender ++ optStr number ;`
+
+    personstr, mode, personnum, gender, number : Str ;
     personstr = "." ++ ("ele" | "vós" | "nós" | "eu" | "tu") ;
     mode = "." ++ ("ACC" | "DAT" | "AD" | "REFL") ;
     personnum = "." ++ ("1" | "2" | "3") ;
