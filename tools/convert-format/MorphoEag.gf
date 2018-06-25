@@ -1,6 +1,6 @@
 concrete MorphoEag of Morpho = open Prelude, Predef in {
   lincat
-    S = SS ; -- entry
+    S, Form, Lemma = SS ; -- entry
     NF, VF, AF, AdvF = SS ; -- class features
     Gender, Number, Degree, Person, VT, AdvT = SS ; -- features
   lin
@@ -44,6 +44,9 @@ concrete MorphoEag of Morpho = open Prelude, Predef in {
     -- Adv type
     GAdv = ss "G" ;
     NAdv = ss "N" ;
+
+    mkForm s = s ;
+    mkLemma s = s ;
 
     ---
     -- classes
