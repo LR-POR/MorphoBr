@@ -1,7 +1,8 @@
-concrete MorphoBra of Morpho = open Prelude, Predef in {
+concrete MorphoMbr of Morpho = open Prelude, Predef in {
   lincat
-    S = SS ; -- entry
-    NF, VF, AF, AdvF = SS ; -- class features
+    S, Form, Lemma = SS ; -- entry
+    -- class features
+    NF, AF, AdvF, VF = SS ;
     Gender, Number, Degree, Person, VT, AdvT = SS ; -- features
   lin
     ---
@@ -45,6 +46,9 @@ concrete MorphoBra of Morpho = open Prelude, Predef in {
     GAdv = ss "" ;
     NAdv = ss "+NEG" ;
 
+    mkForm s = s ;
+    mkLemma s = s ;
+
     ---
     -- classes
 
@@ -53,7 +57,7 @@ concrete MorphoBra of Morpho = open Prelude, Predef in {
     mkNF g n d = ss ("+N" ++ d.s ++ g.s ++ n.s) ;
     -- V
     mkV = mkEntry ;
-    mkVF mt p n g = ss ("+V" ++ mt.s ++ p.s ++ g.s ++ n.s) ;
+    mkVF mt p n g = ss ("+V" ++ strOpt clitic ++ mt.s ++ p.s ++ g.s ++ n.s) ;
     -- A
     mkA = mkEntry ;
     mkAF d g n = ss ("+A" ++ d.s ++ g.s ++ n.s) ;
@@ -63,5 +67,13 @@ concrete MorphoBra of Morpho = open Prelude, Predef in {
 
   oper
     mkEntry : SS -> SS -> SS -> SS ;
-    mkEntry fo l fs = ss (fo.s ++ "\t" ++ l.s ++ fs.s) ;
+    mkEntry fo l fs = ss (fo.s ++ "&t" ++ l.s ++ fs.s) ;
+    clitic : Str ;
+    clitic = personstr ++  mode ++ optStr personnum ++ optStr gender ++ optStr number ;
+    personstr = "." ++ ("ele" | "vós" | "nós" | "eu" | "tu") ;
+    mode = "." ++ ("ACC" | "DAT" | "AD" | "REFL") ;
+    personnum = "." ++ ("1" | "2" | "3") ;
+    gender = "." ++ ("M" | "F") ;
+    number = "." ++ ("SG" | "PL") ;
+
 } ;

@@ -1,6 +1,6 @@
 concrete MorphoDel of Morpho = open Prelude, Predef in {
   lincat
-    S = SS ; -- entry
+    S, Form, Lemma = SS ; -- entry
     NF, VF, AF, AdvF = SS ; -- class features
     Gender, Number, Degree, Person, VT, AdvT = SS ; -- features
   lin
@@ -45,6 +45,9 @@ concrete MorphoDel of Morpho = open Prelude, Predef in {
     GAdv = ss "" ;
     NAdv = ss ":N" ;
 
+    mkForm s = s ;
+    mkLemma s = s ;
+
     ---
     -- classes
 
@@ -53,7 +56,7 @@ concrete MorphoDel of Morpho = open Prelude, Predef in {
     mkNF g n d = ss ("N" ++ ":" ++ d.s ++ g.s ++ n.s) ;
     -- V
     mkV = mkEntry ;
-    mkVF mt p n g = ss (("V" | "V+PRO") ++ ":" ++ mt.s ++ p.s ++ g.s ++ n.s) ;
+    mkVF mt p n g = ss (vars "V" "V+PRO" ++ ":" ++ mt.s ++ p.s ++ g.s ++ n.s) ;
     -- A
     mkA = mkEntry ;
     mkAF d g n = ss ("A" ++ ":" ++ d.s ++ g.s ++ n.s) ;
@@ -65,6 +68,7 @@ concrete MorphoDel of Morpho = open Prelude, Predef in {
     mkEntry : SS -> SS -> SS -> SS ;
     mkEntry fo l fs = ss (fo.s ++ "," ++ l.s ++ "." ++ fs.s) ;
 
-    -- hack to get the same behaviour as from variants. parses both, linearizes the first.
+    -- hack to get the same behaviour as from variants. parses both,
+    -- linearizes the first.
     vars : Str -> Str -> Str = \x,y -> pre { "" => x ; _ => y } ;
 } ;
