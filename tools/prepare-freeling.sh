@@ -1,6 +1,7 @@
 #!/bin/bash
 # first argument if path to directory where freeling dictionary files
-# are, with their original names
+# are, with their original names (see
+# https://github.com/TALP-UPC/FreeLing/tree/v4.1/data/pt/dictionary/entries)
 
 # adjectives
 # change C as diminutive tag to D (as is in nouns)
