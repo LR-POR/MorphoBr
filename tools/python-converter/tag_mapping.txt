@@ -1,9 +1,13 @@
-# this table is used for building a Python dictionary with the 
-# module BuildPairsFromDELAF
+# Convertion table between the DELAF_PB computational dictionary and the BrMorph tagsets
+
+# Ambiguous letter S, which represents both the superlative of adjectives and the present subjunctive of verbs, 
+# is substituted for E in the former case.
+# For information on DELAF_PB, visit: http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html
+# BrMorph generally follows the format proposed by Beesley and Karttunen's XFST book, using a tagset based on the Leipzig Glossing Rules and other abbrevations for morphological glosses commonly adopted in the linguistic literature: http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/statiques/Abreviations_gloses-fra.pdf
 
 D DIM	  diminutive
 A AUG	  augmentative
-S SUPER	  superlative
+E SUPER	  superlative
 m M	  masculine
 s SG	  singular
 f F	  feminine
