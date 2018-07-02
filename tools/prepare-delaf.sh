@@ -30,5 +30,5 @@ grep -F ".N:" $1 | # select nouns
 grep -F ".V+PRO:" $1 | # select verbs with clitics
 # rm spurious colon like in abstinhas:-lhe,abster.V+PRO:I2s
     sed "s/:-/-/" |
-    splitW31 > delaf.clitics
+    splitW31 | SeparateHyphen.py > delaf.clitics
 

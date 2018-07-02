@@ -3,7 +3,7 @@
 
 # Author: Leonel Figueiredo de Alencar - Federal University of Ceará
 # leonel.de.alencar@ufc.br
-# Date: June 27, 2018
+# Date: July 2, 2018
 """
 This module annotates enclitic or mesoclitic pronouns in entries in the MBR format
 
@@ -21,7 +21,7 @@ is converted to
 degustares-lhe	degustar+V.ele.DAT.3.SG+SBJF+2+SG
 
 Tag conversion is performed by the AnnotateClitic function from
-the module ConvertDELAF.py. Ambiguity of clitic "nos" is also handled. 
+module ConvertDELAF.py. Ambiguity of clitic "nos" is also handled. 
 For more details, see the respective module documentation.
 """
 import sys
@@ -34,8 +34,9 @@ def main():
         if HasClitic(entry):
             parts=ParseEntry(entry,r"\t|\+")
             word,lemma,cat,feats=parts[0],parts[1],parts[2],parts[4:]
-            print AnnotateClitic(word,lemma,cat,feats).encode("utf-8")
+            sys.stdout.write("%s\n" % AnnotateClitic(word,lemma,cat,feats).encode("utf-8"))
         else:
-            print entry.encode("utf-8")
+            sys.stdout.write("%s\n" % entry.encode("utf-8"))
+
 if __name__ == '__main__':
 	main()

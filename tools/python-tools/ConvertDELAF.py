@@ -44,6 +44,9 @@ PATH_TO_MAPPING_FILE2=join(DATA_DIR,"%s.%s" % (CLITICS,"txt"))
 EXTENSION="mbr" # output file extension
 SEPARATOR=r"[,.:]+"
 PRO="PRO"
+# PATTERN=r"(^[^-]+)(vos|n[oa]s?|l[oa]s?|lhes?|me|se|te)(,.+\V\+PRO)"
+PATTERN1=r"(^[^-]+)(vos|n[oa]s?|l[oa]s?|lhes?|me|se|te)(,)"
+PATTERN2=r"(^[^-]+)([oa]s?)(,)"
 
 def UnpickleMapping(infile):
     f=open(infile,"rb")
@@ -108,6 +111,13 @@ def ConcatenateFeatures(feats):
 
 def ConvertFeatures(feats,dic=TAG_MAPPING):
     return [dic.get(f,f) for f in feats]
+
+def SeparateClitic(entry):
+    """Separate clitic from verb form in entries like abluirlhe,abluir.V+PRO:U1s,
+    returning entries like abluir-lhe,abluir.V+PRO:U1s. Clitic separation is performed in two steps: first, clitics beginning with a consonant are separated; then, clitics beginning with a vowel are separated. This is necessary to prevent unwanted separations like
+zuirn-os,zuir.V+PRO:W3s instead of zuir-nos,zuir.V+PRO:W3s, since the form of latter
+type clitics are contained in the ones of the former."""
+    return re.sub(PATTERN2,r"\1-\2\3",re.sub(PATTERN1,r"\1-\2\3",entry))
 
 def CorrectEntry(entry):
     "Eliminate spurious colon in cases like abstinhas:-lhe,abster.V+PRO:I2s"
