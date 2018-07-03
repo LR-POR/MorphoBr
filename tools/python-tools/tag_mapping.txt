@@ -1,0 +1,31 @@
+# Convertion table between the DELAF_PB computational dictionary and the BrMorph tagsets
+
+# Ambiguous letter S, which represents both the superlative of adjectives and the present subjunctive of verbs, 
+# is substituted for E in the former case.
+# For information on DELAF_PB, visit: http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html
+# BrMorph generally follows the format proposed by Beesley and Karttunen's XFST book, using a tagset based on the Leipzig Glossing Rules and other abbrevations for morphological glosses commonly adopted in the linguistic literature: http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/statiques/Abreviations_gloses-fra.pdf
+
+D DIM	  diminutive
+A AUG	  augmentative
+E SUPER	  superlative
+m M	  masculine
+s SG	  singular
+f F	  feminine
+p PL	  plural
+W INF infinitive
+G GRD gerund
+K PTPASS passive participle (PTPST forms, i.e. past participles without gender and number tags, must be included)
+P PRS  present indicative
+I IMPF imperfect indicative
+J PRF  perfect indicative
+F FUT  future indicative
+Q PQP  plusquamperfect indicative
+S SBJR present subjunctive
+T SBJP imperfect subjunctive
+U SBJF future subjunctive
+Y IMP  imperative
+C COND conditional (preterite future indicative)
+1 1 first person
+2 2 second person
+3 3 third person
+
