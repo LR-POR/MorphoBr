@@ -1,0 +1,8 @@
+degustares-lhe	degustar+V.ele.DAT.3.SG+INF+2+SG
+vindimam-nos	vindimar+V.nós.AD.1.PL+PRS+3+PL
+vindimam-nos	vindimar+V.ele.ACC.3.M.PL+PRS+3+PL
+vindicávei-nos	vindicar+V.nós.AD.1.PL+IMPF+2+PL
+degustares	degustar+V+INF+2+SG
+vindimam	vindimar+V+PRS+3+PL
+vindicáveis	vindicar+V+IMPF+2+PL
+ababadar-nos-emos	ababadar+V.nós.AD.1.PL+PRO+FUT+1+PL
