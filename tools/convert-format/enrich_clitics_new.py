@@ -39,7 +39,7 @@ def enrich_clitic(ve):
     f, l, fs = ve
     #cl, *fs = fs
     cl= fs.pop(0)
-    if cl == "V": # this condition is two weak because there are potentially verb forms with hyphen which doens't contain any clitic (e.g. "pré-selecionar"; one should instead check for the existence of a PRO tag in the input entry
+    if cl == "V": # this condition is two weak because there are verb forms with hyphen which don't contain any clitic (e.g. "pré-selecionar"; one should instead check for the existence of a PRO tag in the input entry
         return [(f, l, [(cl + cts)] + fs) for cts in clitic_tags(f)]
     else:
         return [ve]
@@ -60,4 +60,4 @@ if __name__ == "__main__":
         e = parse_entry(l)
         ee = enrich_clitic(e)
         for i in ee:
-		print print_entry(i)
+		print print_entry(i).encode("utf-8")
