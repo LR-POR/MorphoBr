@@ -4,7 +4,7 @@
 
 - For information on DELAF_PB, visit [[http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html][their website]].
 - For information on the Freeling Portuguese dictionary, see their
-  doumentation ([[https://github.com/TALP-UPC/FreeLing/blob/master/data/pt/README][1]] [[https://talp-upc.gitbooks.io/freeling-4-0-user-manual/content/tagsets.html][2]] [[https://talp-upc.gitbooks.io/freeling-4-0-user-manual/content/tagsets/tagset-pt.html][3]]).
+  documentation ([[https://github.com/TALP-UPC/FreeLing/blob/master/data/pt/README][1]] [[https://talp-upc.gitbooks.io/freeling-4-0-user-manual/content/tagsets.html][2]] [[https://talp-upc.gitbooks.io/freeling-4-0-user-manual/content/tagsets/tagset-pt.html][3]]).
 
 MorphoBr generally follows the format proposed by Beesley and
 Karttunen's XFST book, using [[http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/statiques/Abreviations_gloses-fra.pdf][a tagset]] based on the Leipzig Glossing
