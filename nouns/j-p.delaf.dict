@@ -2366,7 +2366,7 @@ ligados	ligado+N+M+PL
 ligadura	ligadura+N+F+SG
 ligaduras	ligadura+N+F+PL
 liga	liga+N+F+SG
-liga	liga+N+M+SG
+ligas	liga+N+F+PL
 ligame	ligame+N+M+SG
 ligamento	ligamento+N+M+SG
 ligamentos	ligamento+N+M+PL
@@ -4225,7 +4225,7 @@ mandadas	mandado+N+F+PL
 mandado	mandado+N+M+SG
 mandados	mandado+N+M+PL
 manda	manda+N+F+SG
-manda	manda+N+M+SG
+mandas	manda+N+F+PL
 mandamento	mandamento+N+M+SG
 mandamentos	mandamento+N+M+PL
 mandante	mandante+N+F+SG
@@ -4239,7 +4239,6 @@ mandarinas	mandarim+N+F+PL
 mandarins	mandarim+N+M+PL
 mandarová	mandarová+N+M+SG
 mandarovás	mandarová+N+M+PL
-mandas	manda+N+F+PL
 mandatária	mandatário+N+F+SG
 mandatárias	mandatário+N+F+PL
 mandatário	mandatário+N+M+SG
