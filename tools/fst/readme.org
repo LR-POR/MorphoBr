@@ -1,9 +1,9 @@
 
-Author: Leonel F. de Alencar, Federal University of Ceará
-Date: April 16, 2018
+Author: Leonel F. de Alencar, leonel.de.alencar@ufc.br, Federal University of Ceará
+Date: April 16, 2018, updated February 18, 2020
 
-This folder contains finite-state grammars, scripts, and lists of
-nominal and adejctival bases for compliling unweighted finite-state
+This folder contains finite-state grammars, bash, Python, and Foma
+(XFST) scripts for compliling unweighted finite-state
 transducers (FSTs) modeling Portuguese derivational morphology, using
 the free software/open source finite-state packages FOMA (Hulden 2009)
 and its proprietary counterpart XFST (Beesley & Karttunen 2003),
@@ -11,15 +11,20 @@ freely available for non-commercial purposes.
 
 The focus is the formation of diminutives, augmentatives, and
 superlatives (so called evaluative suffixes, according to Villalva &
-Silvestre 2014, among others). The lists of bases consist of
-word-parse pairs in the so called spaced-text format, which can
-directly be compiled into FSTs (Beesley & Karttunen 2003). 
+Silvestre 2014, among others). Productive word-formation is modeled
+using finite-sate morphology (Beesley & Karttunen 2003), as described in the paper: 
 
-These pairs were extracted from DELAF-PB and FreeLing and converted to
-spaced-text using the Python module =BuildSpacedText.py= in the tools
-folder.  This implementation of derivational morphology is work in
+
+ALENCAR, Leonel Figueiredo de;  CUCONATO , Bruno; RADEMAKER, Alexandre. MorphoBr: an open source large-coverage full-form lexicon for morphological analysis of Portuguese. Texto Livre: Linguagem e Tecnologia, Belo Horizonte, v. 11, n. 3, p. 1-25, set.- dez. 2018. 
+ISSN 1983-3652 
+DOI: 10.17851/1983-3652.11.3.1-25
+http://www.periodicos.letras.ufmg.br/index.php/textolivre/article/view/14294. 
+
+For further details of the implemantation, see the incode
+documentation of the respective source files. 
+This implementation of derivational morphology is work in
 progress. Beginning with the diminutives, we will progressively
-include the other suffixes.  It is assumed some familiarity with the
+include the other suffixes. It is assumed some familiarity with the
 paradigm of finite-state morphology to understand the source files and
 their documentation, so as to eventually customize them to exclude or
 include some derivations to suit a particular dialect of
@@ -43,16 +48,18 @@ XFST, see:
 - Beesley, K. R., Karttunen, L.: Finite State Morphology. CSLI,
   Stanford (2003).
 
-To compile and test the final FST with Foma and XFST, run the bash
-script
+To compile the transducer for analyzing or generating diminutives in
+Portuguese, download all files in the present folder to a local folder and run this script:
 
 #+BEGIN_EXAMPLE
-BuildTestTransducers.sh
+build.sh
 #+END_EXAMPLE
 
-The FST is applied in both directions (i.e. generation and analysis)
-to two test files.  See the script's incode documentation for more
-details.
+This scripts assumes that MorphoBr's input files reside in the following directories:
+
+~/MorphoBr/nouns/*.dict ~/MorphoBr/adjectives/*.dict
+
+If this is not the case, edit the corresponding paths in the script.
 
 To load the compiled FST binary in Foma and test it interactively, run
 the following commands:
