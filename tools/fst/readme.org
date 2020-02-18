@@ -2,17 +2,19 @@
 Author: Leonel F. de Alencar, leonel.de.alencar@ufc.br, Federal University of Ceará
 Date: April 16, 2018, updated February 18, 2020
 
-This folder contains finite-state grammars, bash, Python, and Foma
-(XFST) scripts for compliling unweighted finite-state
-transducers (FSTs) modeling Portuguese derivational morphology, using
+This folder contains source code for compliling unweighted finite-state
+transducers (FSTs) modeling Portuguese derivational morphology with
 the free software/open source finite-state packages FOMA (Hulden 2009)
 and its proprietary counterpart XFST (Beesley & Karttunen 2003),
-freely available for non-commercial purposes. 
+freely available for non-commercial purposes. The main components of
+the source code are finite-state grammars, but additional bash and
+Python scripts are used for the purposes specified in
+the respective incode documentation.
 
 The focus is the formation of diminutives, augmentatives, and
 superlatives (so called evaluative suffixes, according to Villalva &
-Silvestre 2014, among others). Productive word-formation is modeled
-using finite-sate morphology (Beesley & Karttunen 2003), as described in the paper: 
+Silvestre 2014, among others). Productive word-formation processes are implemented
+within the paradigm of finite-sate morphology (Beesley & Karttunen 2003), as described in the paper: 
 
 
 ALENCAR, Leonel Figueiredo de;  CUCONATO , Bruno; RADEMAKER, Alexandre. MorphoBr: an open source large-coverage full-form lexicon for morphological analysis of Portuguese. Texto Livre: Linguagem e Tecnologia, Belo Horizonte, v. 11, n. 3, p. 1-25, set.- dez. 2018. 
@@ -24,7 +26,7 @@ For further details of the implemantation, see the incode
 documentation of the respective source files. 
 This implementation of derivational morphology is work in
 progress. Beginning with the diminutives, we will progressively
-include the other suffixes. It is assumed some familiarity with the
+include other suffixes. It is assumed some familiarity with the
 paradigm of finite-state morphology to understand the source files and
 their documentation, so as to eventually customize them to exclude or
 include some derivations to suit a particular dialect of
