@@ -1,5 +1,5 @@
-# Author: Leonel F. de Alencar, Federal University of Ceará
-# Date: April 16, 2018
+# Author: Leonel F. de Alencar, leonel.de.alencar@ufc.br, Federal University of Ceará
+# Date: April 27, 2018, bug corrections February 17, 2020
 
 # Implementation of diminutive formation in Portuguese in the paradigm 
 # of finite-state morphology (Beesley & Karttunen 2003)
@@ -15,7 +15,7 @@
 # processes in Portuguese. The individual transducers are composed 
 # into a single transducer encoding all alternation rules.
 
-# Defining a marker for words with stemms ending in s, 
+# Defining a marker for words with stems ending in s, 
 # e.g. "lápis", "burguês", etc. In these words,
 # z of -zinho suffix is deleted after a stemm's s,
 # e. g. "lapisinho", "burguesinhos". In other cases,
@@ -29,6 +29,31 @@ define StemmS %$;
 
 # delete this marker
 define DelStemmS StemmS -> 0 ;
+
+# right context defining a non-final hyphen-separated compound member
+define Hyph [$"-"] ;
+
+# protect accents in non-final hyphen-separated compound members from being removed by Unaccent rule
+define Protect [
+		       [á -> A§ || _ Hyph ] 
+       	       	   .o. [é -> E§ || _ Hyph ] 
+       	       	   .o. [ê -> E¢ || _ Hyph] 
+       	       	   .o. [ó -> O§ || _ Hyph]
+       		   .o. [ô -> O¢ || _ Hyph] 
+		   .o. [í -> I§ || _ Hyph] 
+		   .o. [ú -> U§ || _ Hyph]
+		   .o. [â -> A¢ || _ Hyph]
+		   ];
+
+# convert protected letters back into accented letters
+define Reconv [[á -> A§  ] 
+       	       	   .o. [ E§ -> é ] 
+       	       	   .o. [ E¢ -> ê ] 
+       	       	   .o. [ O§ -> ó ]
+       		   .o. [ O¢ -> ô ] 
+		   .o. [ I§ -> í ] 
+		   .o. [ U§ -> ú ]
+		   .o. [ A¢ -> â ]];
 
 # anterior vowels
 define AntVow [ e | i ] ;
@@ -51,6 +76,15 @@ define PhonC [c -> %[ s %] || _ AntVow MorphSep  ]  ;
 
 # convett back phone [s] to letter c
 define OrthC %[ s %] -> c ;
+
+
+# convert letter g to phone [Z] (SAMPA code for the voiced
+# postalveolar fricative [ʒ] in IPA) to prevent rule ChangeG
+# from applying in cases like herege^inha (diminitive of herege)
+define PhonG [g -> %[ Z %] || _ AntVow MorphSep  ]  ;
+
+# convett back phone [Z] to letter g
+define OrthG %[ Z %] -> g ;
 
 # delete ç before morpheme separator and anterior vowel
 define DeleteCedilla  [ ç -> c || _ MorphSep AntVow ];
@@ -83,7 +117,10 @@ define OptDelEStemZ e (->) 0 || [z | s] _ s MorphSep z ;
 # words with the stem ending in r, 
 # e.g. flores^zinhas  (diminutive of "flor" 'flower' in plural)
 # flores^zinhas => flors^zinhas
-define OptDelEStemR e (->) 0 || r _ s MorphSep z ;
+define OptDelEStemR e (->) 0 || Vow r _ s MorphSep z ;
+
+# TODO: abdômen => abdômenes => abdomenezinhos
+# => abdomenzinhos
 
 # composing the two previous rules in one single FST
 define OptDelE OptDelEStemZ .o. OptDelEStemR ;
@@ -113,13 +150,17 @@ define Unaccent [[á -> a] .o. [é -> e] .o. [ê -> e] .o. [ó -> o]
 define AltRules NasalBilabAssim .o. 
        				PhonC
 				.o.
+				PhonG
+				.o.
        				ThemVowDel 
 				.o. 
 				ChangeC 
 				.o.
 				OrthC
 				.o.
-				ChangeG 
+				ChangeG
+				.o.
+				OrthG
 				.o.
 				OptDelE
 				.o.
@@ -127,9 +168,13 @@ define AltRules NasalBilabAssim .o.
 				.o.
 				SuffZDeletion
 				.o.
+				Protect
+				.o.
 				IDeletion
 				.o.
 				Unaccent
+				.o.
+				Reconv
 				.o.
 				DeleteCedilla
 				.o.

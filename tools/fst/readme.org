@@ -2,7 +2,8 @@
 Author: Leonel F. de Alencar, leonel.de.alencar@ufc.br, Federal University of Ceará
 Date: April 16, 2018, updated February 18, 2020
 
-This folder contains source code for compliling unweighted finite-state
+This folder contains source code and example data for compiling and
+testing unweighted finite-state
 transducers (FSTs) modeling Portuguese derivational morphology with
 the free software/open source finite-state packages FOMA (Hulden 2009)
 and its proprietary counterpart XFST (Beesley & Karttunen 2003),
@@ -119,3 +120,38 @@ BuildPairsFromFomaFST.sh foma.fst
 The output is saved in the file foma.fst.pairs. These word-parse pairs
 can also be retrieved from the dict/diminutives directory.
 
+In the following, some useful commands for using FSTs in morphological
+analysis and generation. In the test subfolder, two examples files are
+provided. The file adj-n-inho.lower contains all -inho and -zinho
+diminutives from DELAF-PB and GFL, while test-upper-big.txt contains
+morphological parses with different kinds of lemmas (see Alencar,
+Cuconateo & Rademaker, 2018). The former is useful for testing generation.
+
+Generating from input file with Foma's FST:
+
+#+BEGIN_EXAMPLE
+foma -r -e "load foma.fst" -e "down < test/test-upper-big.txt > test-upper.foma.out" -s
+#+END_EXAMPLE
+
+Parsing input file with Foma's FST:
+
+#+BEGIN_EXAMPLE
+foma -r -e "load foma.fst" -e "down < test/test-upper-big.txt > test-upper.foma.out" -s
+#+END_EXAMPLE
+
+or 
+
+#+BEGIN_EXAMPLE
+cat test/adj-n-inho.lower | flookup foma.fst > inho.foma.out 
+#+END_EXAMPLE
+
+Parsing input file with XFST's FST:
+#+BEGIN_EXAMPLE
+cat test/adj-n-inho.lower | lookup -flags TT xfst.fst > inho.xfst.out
+#+END_EXAMPLE
+
+or
+
+#+BEGIN_EXAMPLE
+xfst -s xfst.fst -e "down < test/test-upper-n-adj.txt > test-upper.xfst.out" -stop
+#+END_EXAMPLE

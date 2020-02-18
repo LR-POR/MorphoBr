@@ -1,5 +1,5 @@
-# Author: Leonel F. de Alencar, Federal University of Ceará
-# Date: April 16, 2018
+# Author: Leonel F. de Alencar, leonel.de.alencar@ufc.br, Federal University of Ceará
+# Date: April 25, 2018
 
 
 # Implementation of diminutive formation in Portuguese in the paradigm 
@@ -11,7 +11,7 @@
 # This script runs in both Foma and XFST. It first 
 # compiles the lexc grammar defined in morphotactic-grammar.lexc.
 # This grammar defines a lexicon transducer 
-# (Beesley & Karttunen 2003), which mapps lexical strings 
+# (Beesley & Karttunen 2003), which maps lexical strings 
 # (abstract representations consisting of lemma and features)
 # to intermediate forms. These intermediate forms are then mapped
 # to the final strings (inflected words) by composing the lexicon transduceer 
