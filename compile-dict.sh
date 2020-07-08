@@ -10,10 +10,10 @@ function cat-dict {
 # adjectives
 sort -u adjectives/*.dict diminutives/deadjectivals.mbr.dict > adjectives.dict
 # adverbs
-catdict adverbs
+cat-dict adverbs
 # nouns
 sort -u nouns/*.dict diminutives/denominals.mbr.dict > nouns.dict
 # verbs
-catdict verbs
+cat-dict verbs
 # verb clitics
-catdict verbs/clitics
+cat-dict verbs/clitics
