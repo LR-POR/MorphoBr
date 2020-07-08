@@ -1,0 +1,4 @@
+sh Adjectival_Transducer/GenerateNewForms.sh
+sh Adverbial_Transducer/GenerateNewForms.sh
+sh Verbal_Transducer/GenerateNewForms.sh
+sh Nominal_Transducer/GenerateNewForms.sh
