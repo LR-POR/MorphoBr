@@ -1,0 +1,10 @@
+!Copyright (C) 2019 Hélio L. B. Silva
+!Distributed under the terms of the GNU General Public License Version 3
+
+define MB "^" ;
+regex [ r -> 0 || a _ MB ];
+regex [ a -> 0 || z _ MB ];
+define DeleteMB [ MB -> 0 ];
+regex DeleteMB;
+turn stack
+compose net

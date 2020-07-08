@@ -1,0 +1,123 @@
+!Copyright (C) 2019 Hélio L. B. Silva
+!Distributed under the terms of the GNU General Public License Version 3
+
+Multichar_Symbols +V +PRS +PRF +IMPF +PQP +FUT +COND +SUBJR +SUBJP +SUBJF +IMP +INF +GRD +PTPASS +SG +PL +1 +2 +3
+
+Lexicon Root
+<@txt"nVerb.lemas">	Verbo;
+
+Lexicon Verbo
++V:0 Flexão;
+
+Lexicon Flexão
+! indicativo
++PRS:0	PresInd;	! presente
++PRF:0	PrfInd;		! pretérito perfeito
++IMPF:0	ImpfInd;	! pretérito imperfeito
++PQP:0	PqpInd;		! pretérito mais-que-perfeito
++FUT:0	FutInd;		! futuro do presente
++COND:0	CondInd;	! condicional / futuro do pretérito
+
+! subjuntivo
++SUBJR:0	PresSubj;	! presente
++SUBJP:0	ImpfSubj;	! imperfeito
++SUBJF:0	FutSubj;	! futuro
+
+! imperativo
++IMP:0	Imp;
+
+! infinitivo
++INF:^ar	#;
+
+! gerúndio
++GRD:^ando	#;
+
+! particípios
++PTPASS:^ad	Gênero;
+
+Lexicon PresInd
++1+SG:^o		#;
++2+SG:^as 	#;
++3+SG:^a		#;
++1+PL:^amos	#;
++2+PL:^ais	#;
++3+PL:^am	#;
+
+Lexicon PrfInd
++1+SG:^ei	#;
++2+SG:^aste 	#;
++3+SG:^ou	#;
++1+PL:^amos	#;
++2+PL:^astes	#;
++3+PL:^aram	#;
+
+Lexicon ImpfInd
++1+SG:^ava	#;
++2+SG:^avas 	#;
++3+SG:^ava	#;
++1+PL:^ávamos	#;
++2+PL:^áveis	#;
++3+PL:^avam	#;
+
+Lexicon PqpInd
++1+SG:^ara	#;
++2+SG:^aras 	#;
++3+SG:^ara	#;
++1+PL:^áramos	#;
++2+PL:^áreis	#;
++3+PL:^aram	#;
+
+Lexicon FutInd
++1+SG:^arei	#;
++2+SG:^arás 	#;
++3+SG:^ará	#;
++1+PL:^aremos	#;
++2+PL:^areis	#;
++3+PL:^arão	#;
+
+Lexicon CondInd
++1+SG:^aria	#;
++2+SG:^arias	#;
++3+SG:^aria	#;
++1+PL:^aríamos	#;
++2+PL:^aríeis	#;
++3+PL:^ariam	#;
+
+Lexicon PresSubj
++1+SG:^e		#;
++2+SG:^es 	#;
++3+SG:^e		#;
++1+PL:^emos	#;
++2+PL:^eis	#;
++3+PL:^em	#;
+
+Lexicon ImpfSubj
++1+SG:^asse	#;
++2+SG:^asses	#;
++3+SG:^asse	#;
++1+PL:^ássemos	#;
++2+PL:^asseis	#;
++3+PL:^assem	#;
+
+Lexicon FutSubj
++1+SG:^ar	#;
++2+SG:^ares	#;
++3+SG:^ar	#;
++1+PL:^armos	#;
++2+PL:^ardes	#;
++3+PL:^arem	#;
+
+Lexicon Imp
++2+SG:^a	#;
++3+SG:^e	#;
++1+PL:^emos	#;
++2+PL:^ais	#;
++3+PL:^em	#;
+
+Lexicon Gênero
++M:^o	Número;
++F:^a	Número;
+
+Lexicon Número
++SG:0	#;
++PL:^s	#;
