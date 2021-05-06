@@ -14,21 +14,21 @@ adopted in the linguistic literature.
 * Features
 ** Inflectional features
 *** Mood/Tense
-| DELAF_PB | Freeling | MorphoBr | meaning                                                                                                   |
-|----------+----------+----------+-----------------------------------------------------------------------------------------------------------|
-| W        | N0       | INF      | infinitive                                                                                                |
-| G        | G0       | GRD      | gerund                                                                                                    |
-| K        | P0       | PTPASS   | passive participle (PTPST forms, i.e., past participles without gender and number tags, must be included) |
-| P        | IP       | PRS      | present indicative                                                                                        |
-| I        | II       | IMPF     | imperfect indicative                                                                                      |
-| J        | IS       | PRF      | perfect indicative                                                                                        |
-| F        | IF       | FUT      | future indicative                                                                                         |
-| Q        | IM       | PQP      | plusquamperfect indicative                                                                                |
-| S        | SP       | SBJR     | present subjunctive                                                                                       |
-| T        | SI       | SBJP     | imperfect subjunctive                                                                                     |
-| U        | SF       | SBJF     | future subjunctive                                                                                        |
-| Y        | M0       | IMP      | imperative                                                                                                |
-| C        | IC       | COND     | conditional (preterite future indicative)                                                                 |
+| DELAF_PB | Freeling | MorphoBr | meaning                                   |
+|----------+----------+----------+-------------------------------------------|
+| W        | N0       | INF      | infinitive                                |
+| G        | G0       | GRD      | gerund                                    |
+| K        | P0       | PTPST    | passive participle                        |
+| P        | IP       | PRS      | present indicative                        |
+| I        | II       | IMPF     | imperfect indicative                      |
+| J        | IS       | PRF      | perfect indicative                        |
+| F        | IF       | FUT      | future indicative                         |
+| Q        | IM       | PQP      | plusquamperfect indicative                |
+| S        | SP       | SBJR     | present subjunctive                       |
+| T        | SI       | SBJP     | imperfect subjunctive                     |
+| U        | SF       | SBJF     | future subjunctive                        |
+| Y        | M0       | IMP      | imperative                                |
+| C        | IC       | COND     | conditional (preterite future indicative) |
 
 *** Gender
 | DELAF_PB | Freeling | MorphoBr | meaning   |
