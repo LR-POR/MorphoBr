@@ -91,7 +91,7 @@ def readMorpho(path):
 
 
 # sys.argv[1]: diretório MorphoBr
-# sys.argv[2]: arquivo conllu
+# sys.argv[2:]: arquivos conllu
 
 if __name__ == "__main__":
     morpho = readMorpho(sys.argv[1])
@@ -99,22 +99,24 @@ if __name__ == "__main__":
 #        for f in files:
 #            print("Processing '%s':" % f)
 #            with open(os.path.join(root,f), "r", encoding="utf-8") as file:
-    with open(sys.argv[2]) as file:
-        for tks in conllu.parse_incr(file):
-            print(tks.metadata.get('text'), end = " ")
-            for token in tks:
-                if token["upos"] in ["ADJ","ADV","NOUN","VERB"]:
-                    tfs = token_to_fst((token["form"]).lower(),token["lemma"],token["upos"],token["feats"])
-                    candidates = morpho.get((token["form"]).lower())
-                    if candidates:
-                        errors = (check(tfs, candidates))
-                        if len(errors)>0:
-                            print("| '%s' " %token, end = " " )
-                            print_errors(errors)
-                    else:
-                        print("| token '%s' not found" % token, end = " ") 
-            print("")
-    file.close()
+    for path in sys.argv[2:]:
+        with open(path) as file:
+            print("Processing '%s':" % path)
+            for tks in conllu.parse_incr(file):
+                print(tks.metadata.get('text'), end = " ")
+                for token in tks:
+                    if token["upos"] in ["ADJ","ADV","NOUN","VERB"]:
+                        tfs = token_to_fst((token["form"]).lower(),token["lemma"],token["upos"],token["feats"])
+                        candidates = morpho.get((token["form"]).lower())
+                        if candidates:
+                            errors = (check(tfs, candidates))
+                            if len(errors)>0:
+                                print("| '%s' " %token, end = " " )
+                                print_errors(errors)
+                        else:
+                            print("| token '%s' not found" % token, end = " ") 
+                print("")
+        file.close()
 
 """
 TODO:
