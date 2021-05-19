@@ -7,9 +7,42 @@ import conllu
 from io import open
 from conllu import parse_incr
 import sys
+import os
 
-with open('morphobr_to_bosque.json') as f:
-    morphobr_to_bosque = json.load(f)
+
+morphobr_to_bosque = {
+    'A': ['Cat=ADJ'],
+    'ADV': ['Cat=ADV'],
+    'N': ['Cat=NOUN'],
+    'V': ['Cat=VERB'],
+    'F': ['Gender=Fem'],
+    'M': ['Gender=Masc'],
+    'SG': ['Number=Sing'],
+    'PL': ['Number=Plur'],
+    'NEG': ['Polarity=Neg'],
+    'SUPER': ['Degree=Abs'],
+    'DIM': ['Degree=Dim'],
+    'AUG': ['Degree=Aug'],
+    '1': ['Person=1'],
+    '2': ['Person=2'],
+    '3': ['Person=3'],
+    'INF': ['VerbForm=Inf'],
+    'GRD': ['VerbForm=Ger'],
+    'PTPST': ['VerbForm=Part','Tense=Past'],
+    'PRS': ['Mood=Ind','Tense=Pres'],
+    'IMPF': ['Mood=Ind','Tense=Imp'],
+    'PRF': ['Mood=Ind','Tense=Past'],
+    'FUT': ['Mood=Ind','Tense=Fut'],
+    'PQP': ['Mood=Ind','Tense=Pqp'],
+    'SBJR': ['Mood=Sub','Tense=Pres'],
+    'SBJP': ['Mood=Sub','Tense=Imp'],
+    'SBJF': ['Mood=Sub','Tense=Fut'],
+    'SUBJR': ['Mood=Sub','Tense=Pres'],
+    'SUBJP': ['Mood=Sub','Tense=Imp'],
+    'SUBJF': ['Mood=Sub','Tense=Fut'],
+    'IMP': ['Mood=Imp'],
+    'COND': ['Mood=Cod']     
+}
 
 
 def check(token_fst,entries):
@@ -37,76 +70,78 @@ def token_to_fst(token,lemma,cat,feats):
     return fs(dict(d))
 
 def entry_to_fst(entry="simples simples+A+F+PL"):
-    ls = re.split(r"[ \+]",entry)
+    ls = re.split(r"[ \+\t]",entry)
     d = [('Form',ls[0]),('Lemma',ls[1])]
     for l in ls[2:]:
-        ms = morphobr_to_bosque.get(l)
+        ms = morphobr_to_bosque.get(l.strip())
         for m in ms:
             f = re.split(r"[\=]",m)
             d.append((f[0],f[1]))
-    return fs(dict(d))
-
+    return (ls[0], fs(dict(d)))
 
 def find_error(fs1,fs2):
-    attributes=set(fs1.iterkeys()).union(fs2.iterkeys())
+    attributes=set(fs1.keys()).union(fs2.keys())
     errors=[]
     for k in attributes:
         v1=fs1.get(k)
         v2=fs2.get(k)
-        if v1 and v2 and not v1 == v2:
+        if v1 and v2 and v1 != v2:
             errors.append((k,v1,v2))
-        return errors
+    return errors
 
-def pprint_errors(errors):
+def print_errors(errors):
     for list_of_errors in errors:
+        print(end = "| ")
         for error in list_of_errors:
-            print ("attribute '%s': values '%s' and '%s' don't match" % error)
+            print ("atribute '%s': values '%s' and '%s' don't match" % error, end = " ")
 
 
-def find_candidates(tfs, dicionario):
-    """dado um token, recupera do dict (form -> [fs]). 
-      
-       [fs for fs in dict[tfs.get("form")] if fs.get("pos") == tfs.get("pos")] """
-    return dicionario[tfs.get("form")]
+# code for reading MorphoBr
+morpho = {}
 
-# code for demo            
-            
-def check_unification(fs1,fs2):
-    msg="feature structures%s unify"
-    if fs1.unify(fs2):
-         print (msg % "")
-    else:
-        print (msg % " don't")
-        find_error(fs1,fs2)
+def extract_entries(infile):
+    with open(infile) as f:
+        file =  f.readlines()
+        for line in file:
+            form, fs = entry_to_fst(line)
+            if morpho.get(form):
+                morpho[form].append(fs)
+            else:
+                morpho[form] = [fs]
+    f.close()
+    file = None
+    line = None
 
-def demo():
-    print ("%s\n\n%s\n" % (TOKEN,ENTRY))
-    check_unification(TOKEN, ENTRY)
-    print ("\n%s\n\n%s\n" % (ERROR,ENTRY))
-    check_unification(ERROR, ENTRY)
-    print ("\n%s\n" % ("in case of unification nothing is printed"))
-    check(TOKEN, ENTRIES)
-    print ("\n%s\n" % ("showing why unification failed"))
-    ENTRIES.pop(0)
-    check(TOKEN, ENTRIES)
+def readMorpho(path):
+    dirs = ["adjectives","adverbs","nouns","verbs"]
+    for d in dirs:
+        for root,_, files in os.walk(os.path.join(path,d), topdown=False):
+            for file in files:
+                extract_entries(os.path.join(root,file))
+    return morpho
 
 
-def readMorpho(dir):
-    """  ler arquivos dict dentro de adjectives, nouns, verbs, adverbs. """
-    dicionario = {}
-    return dicionario
-
-
-with open(sys.argv[1], "r", encoding="utf-8") as file:
-    dicionario = readMorpho("/Users/ar/work/morpho-br")
-    for tks in conllu.parse_incr(file):
-        for token in tks:
-            print("")
-            tfs = token_to_fst(token)
-            candidates = find_candidates(tfs, dicionario)
-            res = check(tfs, candidates)
-            print(res)
-
+if __name__ == "__main__":
+    morpho = readMorpho("/home/ana/dhbb/MorphoBr")
+#    for root,_, files in os.walk("/home/ana/dhbb/dhbb-nlp/udp-mini", topdown=False):
+#        for f in files:
+#            print("Processing '%s':" % f)
+#            with open(os.path.join(root,f), "r", encoding="utf-8") as file:
+    with open("/home/ana/dhbb/dhbb-nlp/udp-mini/161.conllu") as file:
+        for tks in conllu.parse_incr(file):
+            for token in tks:
+                if token["upos"] in ["ADJ","ADV","NOUN","VERB"]:
+                    tfs = token_to_fst((token["form"]).lower(),token["lemma"],token["upos"],token["feats"])
+                    candidates = morpho.get((token["form"]).lower())
+                    if candidates:
+                        errors = (check(tfs, candidates))
+                        if len(errors)>0:
+                            print(token, end = " ")
+                            print_errors(errors)
+                            print("")
+                    else:
+                        print("token '%s' not found " % token)
+    file.close()
 
 """
 TODO:
