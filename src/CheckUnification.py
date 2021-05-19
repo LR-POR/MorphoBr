@@ -54,14 +54,15 @@ def find_error(fs1,fs2):
         v1=fs1.get(k)
         v2=fs2.get(k)
         if v1 and v2 and v1 != v2:
-            errors.append((k,v1,v2))
+            errors.append([k,v1,v2])
     return errors
 
 def print_errors(errors):
     for list_of_errors in errors:
-        print(end = "| ")
         for error in list_of_errors:
-            print ("atribute '%s': values '%s' and '%s' don't match" % error, end = " ")
+            print(error[0],end = ":")
+            print(error[1],end = "!=")
+            print(error[2],end = " ")
 
 
 # code for reading MorphoBr
@@ -100,6 +101,7 @@ if __name__ == "__main__":
 #            with open(os.path.join(root,f), "r", encoding="utf-8") as file:
     with open(sys.argv[2]) as file:
         for tks in conllu.parse_incr(file):
+            print(tks.metadata.get('text'), end = " ")
             for token in tks:
                 if token["upos"] in ["ADJ","ADV","NOUN","VERB"]:
                     tfs = token_to_fst((token["form"]).lower(),token["lemma"],token["upos"],token["feats"])
@@ -107,11 +109,11 @@ if __name__ == "__main__":
                     if candidates:
                         errors = (check(tfs, candidates))
                         if len(errors)>0:
-                            print(token, end = " ")
+                            print("| '%s' " %token, end = " " )
                             print_errors(errors)
-                            print("")
                     else:
-                        print("token '%s' not found " % token)
+                        print("| token '%s' not found" % token, end = " ") 
+            print("")
     file.close()
 
 """
