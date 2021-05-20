@@ -82,12 +82,15 @@ def simplify(lemma_dict):
         forms=build_forms_dict(lemma_dict[lemma,pos]) 
         for form in forms.keys():
             feats_lists=forms[form]
-            entry="%s\t%s+%s+" % (form,lemma,pos)
+            entry="%s\t%s+%s" % (form,lemma,pos)
             if len(feats_lists) > 1:
                 feats=common_feats(feats_lists)
             else:
                 feats=feats_lists[0]
-            print("%s%s" % (entry,"+".join(feats)))
+            if feats:
+                print("%s+%s" % (entry,"+".join(feats)))
+            else:
+                print(entry)
             
 def main(infile=expanduser("~/scripts/check-tools/mini.txt")):
     entries=extract_entries(infile)
