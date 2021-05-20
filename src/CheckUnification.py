@@ -63,6 +63,7 @@ def print_errors(errors):
             print(error[0],end = ":")
             print(error[1],end = "!=")
             print(error[2],end = " ")
+        print("§",end = " ")
 
 
 # code for reading MorphoBr
