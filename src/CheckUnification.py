@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+from __future__ import print_function
 from nltk import FeatStruct as fs
 import re
 import json
@@ -8,6 +9,9 @@ from io import open
 from conllu import parse_incr
 import sys
 import os
+
+def eprint(*args, **kwargs):
+    print(*args, file=sys.stderr, **kwargs)
 
 with open('morphobr_to_bosque.json') as f:
     morphobr_to_bosque = json.load(f)
@@ -57,74 +61,77 @@ def find_error(fs1,fs2):
             errors.append([k,v1,v2])
     return errors
 
-def print_errors(errors):
-    for list_of_errors in errors:
-        for error in list_of_errors:
-            print(error[0],end = ":")
-            print(error[1],end = "!=")
-            print(error[2],end = " ")
-        print("§",end = " ")
 
 
-# code for reading MorphoBr
-morpho = {}
-
-def extract_entries(infile):
+def extract_entries(d, infile):
     with open(infile) as f:
-        file =  f.readlines()
-        for line in file:
+        for line in f.readlines():
             form, fs = entry_to_fst(line)
-            if morpho.get(form):
-                morpho[form].append(fs)
+            if d.get(form):
+                d[form].append(fs)
             else:
-                morpho[form] = [fs]
-    f.close()
-    file = None
-    line = None
+                d[form] = [fs]
+
 
 def readMorpho(path):
+    adict = {}
     dirs = ["adjectives","adverbs","nouns","verbs"]
     for d in dirs:
+        eprint("Loading %s." % d)
         for root,_, files in os.walk(os.path.join(path,d), topdown=False):
             for file in files:
-                extract_entries(os.path.join(root,file))
-    return morpho
+                extract_entries(adict, os.path.join(root,file))
+    return adict
 
 
-# sys.argv[1]: diretório MorphoBr
-# sys.argv[2:]: arquivos conllu
+def errors2string(errors):
+    return " | ".join([ " § ".join([ "%s:%s≠%s" %(e[0],e[1],e[2]) for e in ue]) for ue in errors])
+
+def proc1(morpho, content):
+    for sent in conllu.parse_incr(content):
+        print("\n%s: %s" % (sent.metadata.get('sent_id'), sent.metadata.get('text')), end = " ")
+        for token in sent:
+            if token["upos"] in ["ADJ","ADV","NOUN","VERB"]:
+                tfs = token_to_fst((token["form"]).lower(),token["lemma"],token["upos"],token["feats"])
+                candidates = morpho.get((token["form"]).lower())
+                if candidates:
+                    errors = check(tfs, candidates)
+                    if len(errors)>0:
+                        print(" ['%s' %s]" %(token,errors2string(errors)), end = " ")
+                else:
+                    print(" ['%s' NF]" % token, end = " ")
+
+def proc2(morpho, content):
+    for sent in conllu.parse_incr(content):
+        sid = sent.metadata.get('sent_id')
+        for token in sent:
+            if token["upos"] in ["ADJ","ADV","NOUN","VERB"]:
+                tid = "%s" % token["id"]
+                tfs = token_to_fst((token["form"]).lower(),token["lemma"],token["upos"],token["feats"])
+                candidates = morpho.get((token["form"]).lower())
+                if candidates:
+                    errors = check(tfs, candidates)
+                    if len(errors)>0:
+                        for ue in errors:
+                            for e in ue:
+                                print("\t".join([sid,tid,token["form"],e[0],e[1],e[2]]))
+                else:
+                    print("\t".join([sid,tid,token["form"],'NF','_','_']))
+
+
+def execute():
+    morpho = readMorpho(sys.argv[1])
+    for path in sys.argv[2:]:
+        with open(path) as content:
+            proc2(morpho, content)
+
+def usage():
+    print("\n \tpython CheckUnification.py path-morphobr conllu1 conllu2 ... \n\n")
+
 
 if __name__ == "__main__":
-    morpho = readMorpho(sys.argv[1])
-#    for root,_, files in os.walk("/home/ana/dhbb/dhbb-nlp/udp-mini", topdown=False):
-#        for f in files:
-#            print("Processing '%s':" % f)
-#            with open(os.path.join(root,f), "r", encoding="utf-8") as file:
-    for path in sys.argv[2:]:
-        with open(path) as file:
-            print("Processing '%s':" % path)
-            for tks in conllu.parse_incr(file):
-                print(tks.metadata.get('text'), end = " ")
-                for token in tks:
-                    if token["upos"] in ["ADJ","ADV","NOUN","VERB"]:
-                        tfs = token_to_fst((token["form"]).lower(),token["lemma"],token["upos"],token["feats"])
-                        candidates = morpho.get((token["form"]).lower())
-                        if candidates:
-                            errors = (check(tfs, candidates))
-                            if len(errors)>0:
-                                print("| '%s' " %token, end = " " )
-                                print_errors(errors)
-                        else:
-                            print("| token '%s' not found" % token, end = " ") 
-                print("")
-        file.close()
+    if len(sys.argv) < 3:
+        usage()
+    else:
+        execute()
 
-"""
-TODO:
-
- - [ ] ler feature structures do morphobr de um json (preparado na lib
-       cpdoc/test em Haskell)
- - [ ] comparacao token vs entradas do morphobr com mesma 'form'
- - [ ] saida das diferencas, formatar relatorio
-
-"""            
