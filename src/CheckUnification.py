@@ -126,7 +126,7 @@ def execute():
             proc2(morpho, content)
 
 def usage():
-    print("\n \tpython CheckUnification.py path-morphobr conllu1 conllu2 ... \n\n")
+    print("\nUsage:\n\tpython CheckUnification.py path-morphobr conllu1 conllu2 ... \n\n")
 
 
 if __name__ == "__main__":
