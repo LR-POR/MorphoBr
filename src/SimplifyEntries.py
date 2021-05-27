@@ -63,14 +63,29 @@ def build_forms_dict(form_feats_list):
     return forms
     
 
+def binary_intersection(l1,l2):
+	return [v for v in l1 if v in l2]
+
+def n_nary_intersection(lists):
+	new=binary_intersection(lists[0],lists[1])
+	i=2
+	c=len(lists)
+	if len(lists) > 2:
+		while(i<c):
+			new=binary_intersection(new,lists[i])
+			i+=1
+	return new
+    
 def common_feats(feats_lists):
     """
-    return a list with the common features of a list of 
-    feature lists, e.g.
+    Return a list with the common features of a list of 
+    feature lists, e.g.:
     
     common_feats([['F', 'PL'], ['F', 'SG'], ['M', 'PL'], ['M', 'SG']])
     
     []
+    
+    This function does not necessarily preserve the original order of the features.
     """
     set_list=[set(feats) for feats in feats_lists]
     for s in set_list[1:]:
@@ -84,7 +99,7 @@ def simplify(lemma_dict):
             feats_lists=forms[form]
             entry="%s\t%s+%s" % (form,lemma,pos)
             if len(feats_lists) > 1:
-                feats=common_feats(feats_lists)
+                feats=n_nary_intersection(feats_lists)
             else:
                 feats=feats_lists[0]
             if feats:
