@@ -39079,6 +39079,7 @@ fábula	fábula+N+F+SG
 fábulas	fábula+N+F+PL
 fácies	fácies+N+F+PL
 fácies	fácies+N+M+PL
+fácies	fácies+N+F+SG
 fácies	fácies+N+M+SG
 fácula	fácula+N+F+SG
 fáculas	fácula+N+F+PL
@@ -40235,8 +40236,10 @@ galômanos	galômano+N+M+PL
 galões	galão+N+M+PL
 gama	gama+N+F+SG
 gama	gama+N+M+SG
+gama	gamo+N+F+SG
 gamas	gama+N+M+PL
 gamas	gama+N+F+PL
+gamas	gamo+N+F+PL
 gamabadona	gamabadona+N+F+SG
 gamabadonas	gamabadona+N+F+PL
 gamabilidade	gamabilidade+N+F+SG
