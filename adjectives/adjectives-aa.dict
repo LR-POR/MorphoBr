@@ -51,6 +51,7 @@ abacalhoáveis	abacalhoável+A+M+PL
 abacalhoável	abacalhoável+A+F+SG
 abacalhoável	abacalhoável+A+M+SG
 abacate	abacate+A+F+SG
+abacate	abacate+A+M+SG
 abacates	abacate+A+F+PL
 abacates	abacate+A+M+PL
 abacaxi	abacaxi+A+F+SG
@@ -1707,9 +1708,7 @@ abotinável	abotinável+A+F+SG
 abotinável	abotinável+A+M+SG
 abotoada	abotoado+A+F+SG
 abotoadas	abotoado+A+F+PL
-abotoadeira	abotoadeira+A+F+SG
 abotoadeira	abotoador+A+F+SG
-abotoadeiras	abotoadeira+A+F+PL
 abotoadeiras	abotoador+A+F+PL
 abotoado	abotoado+A+M+SG
 abotoador	abotoador+A+M+SG
@@ -46528,8 +46527,10 @@ cavalheirosinho	cavalheiroso+A+DIM+M+SG
 cavalheirosinhos	cavalheiroso+A+DIM+M+PL
 cavalheiroso	cavalheiroso+A+M+SG
 cavalheirosos	cavalheiroso+A+M+PL
-cavalona	cavalona+A+F+SG
-cavalonas	cavalona+A+F+PL
+cavalona	cavalão+A+F+SG
+cavalonas	cavalão+A+F+PL
+cavalão	cavalão+A+M+SG
+cavalões	cavalão+A+M+PL
 cavaloáveis	cavaloável+A+F+PL
 cavaloáveis	cavaloável+A+M+PL
 cavaloável	cavaloável+A+F+SG
