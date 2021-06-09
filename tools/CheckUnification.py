@@ -89,7 +89,8 @@ def errors2string(errors):
 
 def proc1(morpho, content):
     for sent in conllu.parse_incr(content):
-        print("\n%s: %s" % (sent.metadata.get('sent_id'), sent.metadata.get('text')), end = " ")
+        msg = "\n%s: %s " % (sent.metadata.get('sent_id'), sent.metadata.get('text'))
+        flag = False
         for token in sent:
             if token["upos"] in ["ADJ","ADV","NOUN","VERB"]:
                 tfs = token_to_fst((token["form"]).lower(),token["lemma"],token["upos"],token["feats"])
@@ -97,9 +98,14 @@ def proc1(morpho, content):
                 if candidates:
                     errors = check(tfs, candidates)
                     if len(errors)>0:
-                        print(" ['%s' %s]" %(token,errors2string(errors)), end = " ")
+                        msg = msg + " ['%s' %s] " %(token,errors2string(errors))
+                        flag = True
                 else:
-                    print(" ['%s' NF]" % token, end = " ")
+                    msg = msg + " ['%s' NF] " % token
+                    flag = True
+        if flag:
+            print(msg)
+                    
 
 def proc2(morpho, content):
     for sent in conllu.parse_incr(content):
@@ -123,7 +129,7 @@ def execute():
     morpho = readMorpho(sys.argv[1])
     for path in sys.argv[2:]:
         with open(path) as content:
-            proc2(morpho, content)
+            proc1(morpho, content)
 
 def usage():
     print("\nUsage:\n\tpython CheckUnification.py path-morphobr conllu1 conllu2 ... \n\n")
