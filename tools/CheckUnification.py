@@ -62,7 +62,6 @@ def find_error(fs1,fs2):
     return errors
 
 
-
 def extract_entries(d, infile):
     with open(infile) as f:
         for line in f.readlines():
@@ -75,7 +74,7 @@ def extract_entries(d, infile):
 
 def readMorpho(path):
     adict = {}
-    dirs = ["adjectives","adverbs","nouns","verbs"]
+    dirs = ["nouns","adjectives","adverbs","verbs"]
     for d in dirs:
         eprint("Loading %s." % d)
         for root,_, files in os.walk(os.path.join(path,d), topdown=False):
