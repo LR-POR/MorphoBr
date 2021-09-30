@@ -505,7 +505,6 @@ faceadas	facear+V+PTPST+F+PL
 faceado	facear+V+PTPST+M+SG
 faceados	facear+V+PTPST+M+PL
 faceai	facear+V+IMP+2+PL
-faceaia	facear+V+IMP+2+SG
 faceais	facear+V+PRS+2+PL
 faceamos	facear+V+PRS+1+PL
 faceamos	facear+V+PRF+1+PL
@@ -803,7 +802,6 @@ faceteadas	facetear+V+PTPST+F+PL
 faceteado	facetear+V+PTPST+M+SG
 faceteados	facetear+V+PTPST+M+PL
 faceteai	facetear+V+IMP+2+PL
-faceteaia	facetear+V+IMP+2+SG
 faceteais	facetear+V+PRS+2+PL
 faceteamos	facetear+V+PRS+1+PL
 faceteamos	facetear+V+PRF+1+PL
@@ -879,7 +877,6 @@ facheadas	fachear+V+PTPST+F+PL
 facheado	fachear+V+PTPST+M+SG
 facheados	fachear+V+PTPST+M+PL
 facheai	fachear+V+IMP+2+PL
-facheaia	fachear+V+IMP+2+SG
 facheais	fachear+V+PRS+2+PL
 facheamos	fachear+V+PRS+1+PL
 facheamos	fachear+V+PRF+1+PL
@@ -3313,7 +3310,6 @@ faixeadas	faixear+V+PTPST+F+PL
 faixeado	faixear+V+PTPST+M+SG
 faixeados	faixear+V+PTPST+M+PL
 faixeai	faixear+V+IMP+2+PL
-faixeaia	faixear+V+IMP+2+SG
 faixeais	faixear+V+PRS+2+PL
 faixeamos	faixear+V+PRS+1+PL
 faixeamos	faixear+V+PRF+1+PL
@@ -4440,19 +4436,8 @@ faleçamos	falecer+V+IMP+1+PL
 faleças	falecer+V+SBJR+2+SG
 faleças	falecer+V+IMP+2+SG
 faleço	falecer+V+PRS+1+SG
-falgue	falhar+V+SBJR+3+SG
-falgue	falhar+V+SBJR+1+SG
-falgue	falhar+V+IMP+3+SG
-falguei	falhar+V+PRF+1+SG
-falgueis	falhar+V+SBJR+2+PL
-falguem	falhar+V+SBJR+3+PL
-falguem	falhar+V+IMP+3+PL
-falguemos	falhar+V+SBJR+1+PL
-falguemos	falhar+V+IMP+1+PL
-falgues	falhar+V+SBJR+2+SG
 falha	falhar+V+PTPST+F+SG
 falha	falhar+V+PRS+3+SG
-falha	falhar+V+INF+2+SG
 falha	falhar+V+IMP+2+SG
 falhada	falhar+V+PTPST+F+SG
 falhadas	falhar+V+PTPST+F+PL
@@ -4886,7 +4871,6 @@ falqueadas	falquear+V+PTPST+F+PL
 falqueado	falquear+V+PTPST+M+SG
 falqueados	falquear+V+PTPST+M+PL
 falqueai	falquear+V+IMP+2+PL
-falqueaia	falquear+V+IMP+2+SG
 falqueais	falquear+V+PRS+2+PL
 falqueamos	falquear+V+PRS+1+PL
 falqueamos	falquear+V+PRF+1+PL
@@ -5177,7 +5161,6 @@ falseadas	falsear+V+PTPST+F+PL
 falseado	falsear+V+PTPST+M+SG
 falseados	falsear+V+PTPST+M+PL
 falseai	falsear+V+IMP+2+PL
-falseaia	falsear+V+IMP+2+SG
 falseais	falsear+V+PRS+2+PL
 falseamos	falsear+V+PRS+1+PL
 falseamos	falsear+V+PRF+1+PL
@@ -5253,7 +5236,6 @@ falseteadas	falsetear+V+PTPST+F+PL
 falseteado	falsetear+V+PTPST+M+SG
 falseteados	falsetear+V+PTPST+M+PL
 falseteai	falsetear+V+IMP+2+PL
-falseteaia	falsetear+V+IMP+2+SG
 falseteais	falsetear+V+PRS+2+PL
 falseteamos	falsetear+V+PRS+1+PL
 falseteamos	falsetear+V+PRF+1+PL
@@ -5594,19 +5576,8 @@ falsificizásseis	falsificizar+V+SBJP+2+PL
 falsificizássemos	falsificizar+V+SBJP+1+PL
 falsificizávamos	falsificizar+V+IMPF+1+PL
 falsificizáveis	falsificizar+V+IMPF+2+PL
-falgue	faltar+V+SBJR+3+SG
-falgue	faltar+V+SBJR+1+SG
-falgue	faltar+V+IMP+3+SG
-falguei	faltar+V+PRF+1+SG
-falgueis	faltar+V+SBJR+2+PL
-falguem	faltar+V+SBJR+3+PL
-falguem	faltar+V+IMP+3+PL
-falguemos	faltar+V+SBJR+1+PL
-falguemos	faltar+V+IMP+1+PL
-falgues	faltar+V+SBJR+2+SG
 falta	faltar+V+PTPST+F+SG
 falta	faltar+V+PRS+3+SG
-falta	faltar+V+INF+2+SG
 falta	faltar+V+IMP+2+SG
 faltada	faltar+V+PTPST+F+SG
 faltadas	faltar+V+PTPST+F+PL
@@ -6454,7 +6425,6 @@ fandangueadas	fandanguear+V+PTPST+F+PL
 fandangueado	fandanguear+V+PTPST+M+SG
 fandangueados	fandanguear+V+PTPST+M+PL
 fandangueai	fandanguear+V+IMP+2+PL
-fandangueaia	fandanguear+V+IMP+2+SG
 fandangueais	fandanguear+V+PRS+2+PL
 fandangueamos	fandanguear+V+PRS+1+PL
 fandangueamos	fandanguear+V+PRF+1+PL
@@ -6735,7 +6705,6 @@ fanfarreadas	fanfarrear+V+PTPST+F+PL
 fanfarreado	fanfarrear+V+PTPST+M+SG
 fanfarreados	fanfarrear+V+PTPST+M+PL
 fanfarreai	fanfarrear+V+IMP+2+PL
-fanfarreaia	fanfarrear+V+IMP+2+SG
 fanfarreais	fanfarrear+V+PRS+2+PL
 fanfarreamos	fanfarrear+V+PRS+1+PL
 fanfarreamos	fanfarrear+V+PRF+1+PL
@@ -6951,7 +6920,6 @@ fanfarroneadas	fanfarronear+V+PTPST+F+PL
 fanfarroneado	fanfarronear+V+PTPST+M+SG
 fanfarroneados	fanfarronear+V+PTPST+M+PL
 fanfarroneai	fanfarronear+V+IMP+2+PL
-fanfarroneaia	fanfarronear+V+IMP+2+SG
 fanfarroneais	fanfarronear+V+PRS+2+PL
 fanfarroneamos	fanfarronear+V+PRS+1+PL
 fanfarroneamos	fanfarronear+V+PRF+1+PL
@@ -7161,7 +7129,6 @@ fanhoseadas	fanhosear+V+PTPST+F+PL
 fanhoseado	fanhosear+V+PTPST+M+SG
 fanhoseados	fanhosear+V+PTPST+M+PL
 fanhoseai	fanhosear+V+IMP+2+PL
-fanhoseaia	fanhosear+V+IMP+2+SG
 fanhoseais	fanhosear+V+PRS+2+PL
 fanhoseamos	fanhosear+V+PRS+1+PL
 fanhoseamos	fanhosear+V+PRF+1+PL
@@ -7859,7 +7826,6 @@ faqueadas	faquear+V+PTPST+F+PL
 faqueado	faquear+V+PTPST+M+SG
 faqueados	faquear+V+PTPST+M+PL
 faqueai	faquear+V+IMP+2+PL
-faqueaia	faquear+V+IMP+2+SG
 faqueais	faquear+V+PRS+2+PL
 faqueamos	faquear+V+PRS+1+PL
 faqueamos	faquear+V+PRF+1+PL
@@ -8584,7 +8550,6 @@ farfanteadas	farfantear+V+PTPST+F+PL
 farfanteado	farfantear+V+PTPST+M+SG
 farfanteados	farfantear+V+PTPST+M+PL
 farfanteai	farfantear+V+IMP+2+PL
-farfanteaia	farfantear+V+IMP+2+SG
 farfanteais	farfantear+V+PRS+2+PL
 farfanteamos	farfantear+V+PRS+1+PL
 farfanteamos	farfantear+V+PRF+1+PL
@@ -10335,7 +10300,6 @@ farpeadas	farpear+V+PTPST+F+PL
 farpeado	farpear+V+PTPST+M+SG
 farpeados	farpear+V+PTPST+M+PL
 farpeai	farpear+V+IMP+2+PL
-farpeaia	farpear+V+IMP+2+SG
 farpeais	farpear+V+PRS+2+PL
 farpeamos	farpear+V+PRS+1+PL
 farpeamos	farpear+V+PRF+1+PL
@@ -10486,7 +10450,6 @@ farreadas	farrear+V+PTPST+F+PL
 farreado	farrear+V+PTPST+M+SG
 farreados	farrear+V+PTPST+M+PL
 farreai	farrear+V+IMP+2+PL
-farreaia	farrear+V+IMP+2+SG
 farreais	farrear+V+PRS+2+PL
 farreamos	farrear+V+PRS+1+PL
 farreamos	farrear+V+PRF+1+PL
@@ -10562,7 +10525,6 @@ farromeadas	farromear+V+PTPST+F+PL
 farromeado	farromear+V+PTPST+M+SG
 farromeados	farromear+V+PTPST+M+PL
 farromeai	farromear+V+IMP+2+PL
-farromeaia	farromear+V+IMP+2+SG
 farromeais	farromear+V+PRS+2+PL
 farromeamos	farromear+V+PRS+1+PL
 farromeamos	farromear+V+PRF+1+PL
@@ -10635,7 +10597,6 @@ farronfeadas	farronfear+V+PTPST+F+PL
 farronfeado	farronfear+V+PTPST+M+SG
 farronfeados	farronfear+V+PTPST+M+PL
 farronfeai	farronfear+V+IMP+2+PL
-farronfeaia	farronfear+V+IMP+2+SG
 farronfeais	farronfear+V+PRS+2+PL
 farronfeamos	farronfear+V+PRS+1+PL
 farronfeamos	farronfear+V+PRF+1+PL
@@ -10711,7 +10672,6 @@ farsanteadas	farsantear+V+PTPST+F+PL
 farsanteado	farsantear+V+PTPST+M+SG
 farsanteados	farsantear+V+PTPST+M+PL
 farsanteai	farsantear+V+IMP+2+PL
-farsanteaia	farsantear+V+IMP+2+SG
 farsanteais	farsantear+V+PRS+2+PL
 farsanteamos	farsantear+V+PRS+1+PL
 farsanteamos	farsantear+V+PRF+1+PL
@@ -10862,7 +10822,6 @@ farsoleadas	farsolear+V+PTPST+F+PL
 farsoleado	farsolear+V+PTPST+M+SG
 farsoleados	farsolear+V+PTPST+M+PL
 farsoleai	farsolear+V+IMP+2+PL
-farsoleaia	farsolear+V+IMP+2+SG
 farsoleais	farsolear+V+PRS+2+PL
 farsoleamos	farsolear+V+PRS+1+PL
 farsoleamos	farsolear+V+PRF+1+PL
@@ -10995,19 +10954,8 @@ fartabilizásseis	fartabilizar+V+SBJP+2+PL
 fartabilizássemos	fartabilizar+V+SBJP+1+PL
 fartabilizávamos	fartabilizar+V+IMPF+1+PL
 fartabilizáveis	fartabilizar+V+IMPF+2+PL
-fargue	fartar+V+SBJR+3+SG
-fargue	fartar+V+SBJR+1+SG
-fargue	fartar+V+IMP+3+SG
-farguei	fartar+V+PRF+1+SG
-fargueis	fartar+V+SBJR+2+PL
-farguem	fartar+V+SBJR+3+PL
-farguem	fartar+V+IMP+3+PL
-farguemos	fartar+V+SBJR+1+PL
-farguemos	fartar+V+IMP+1+PL
-fargues	fartar+V+SBJR+2+SG
 farta	fartar+V+PTPST+F+SG
 farta	fartar+V+PRS+3+SG
-farta	fartar+V+INF+2+SG
 farta	fartar+V+IMP+2+SG
 fartada	fartar+V+PTPST+F+SG
 fartadas	fartar+V+PTPST+F+PL
@@ -11711,7 +11659,6 @@ fatageadas	fatagear+V+PTPST+F+PL
 fatageado	fatagear+V+PTPST+M+SG
 fatageados	fatagear+V+PTPST+M+PL
 fatageai	fatagear+V+IMP+2+PL
-fatageaia	fatagear+V+IMP+2+SG
 fatageais	fatagear+V+PRS+2+PL
 fatageamos	fatagear+V+PRS+1+PL
 fatageamos	fatagear+V+PRF+1+PL
@@ -13445,7 +13392,6 @@ favoneadas	favonear+V+PTPST+F+PL
 favoneado	favonear+V+PTPST+M+SG
 favoneados	favonear+V+PTPST+M+PL
 favoneai	favonear+V+IMP+2+PL
-favoneaia	favonear+V+IMP+2+SG
 favoneais	favonear+V+PRS+2+PL
 favoneamos	favonear+V+PRS+1+PL
 favoneamos	favonear+V+PRF+1+PL
@@ -18962,7 +18908,6 @@ ferreteadas	ferretear+V+PTPST+F+PL
 ferreteado	ferretear+V+PTPST+M+SG
 ferreteados	ferretear+V+PTPST+M+PL
 ferreteai	ferretear+V+IMP+2+PL
-ferreteaia	ferretear+V+IMP+2+SG
 ferreteais	ferretear+V+PRS+2+PL
 ferreteamos	ferretear+V+PRS+1+PL
 ferreteamos	ferretear+V+PRF+1+PL
@@ -19980,7 +19925,6 @@ ferropeadas	ferropear+V+PTPST+F+PL
 ferropeado	ferropear+V+PTPST+M+SG
 ferropeados	ferropear+V+PTPST+M+PL
 ferropeai	ferropear+V+IMP+2+PL
-ferropeaia	ferropear+V+IMP+2+SG
 ferropeais	ferropear+V+PRS+2+PL
 ferropeamos	ferropear+V+PRS+1+PL
 ferropeamos	ferropear+V+PRF+1+PL
@@ -25364,7 +25308,6 @@ filosofeadas	filosofear+V+PTPST+F+PL
 filosofeado	filosofear+V+PTPST+M+SG
 filosofeados	filosofear+V+PTPST+M+PL
 filosofeai	filosofear+V+IMP+2+PL
-filosofeaia	filosofear+V+IMP+2+SG
 filosofeais	filosofear+V+PRS+2+PL
 filosofeamos	filosofear+V+PRS+1+PL
 filosofeamos	filosofear+V+PRF+1+PL
@@ -26736,7 +26679,6 @@ findabilizávamos	findabilizar+V+IMPF+1+PL
 findabilizáveis	findabilizar+V+IMPF+2+PL
 finda	findar+V+PTPST+F+SG
 finda	findar+V+PRS+3+SG
-finda	findar+V+INF+2+SG
 finda	findar+V+IMP+2+SG
 findada	findar+V+PTPST+F+SG
 findadas	findar+V+PTPST+F+PL
@@ -26814,16 +26756,6 @@ findásseis	findar+V+SBJP+2+PL
 findássemos	findar+V+SBJP+1+PL
 findávamos	findar+V+IMPF+1+PL
 findáveis	findar+V+IMPF+2+PL
-fingue	findar+V+SBJR+3+SG
-fingue	findar+V+SBJR+1+SG
-fingue	findar+V+IMP+3+SG
-finguei	findar+V+PRF+1+SG
-fingueis	findar+V+SBJR+2+PL
-finguem	findar+V+SBJR+3+PL
-finguem	findar+V+IMP+3+PL
-finguemos	findar+V+SBJR+1+PL
-finguemos	findar+V+IMP+1+PL
-fingues	findar+V+SBJR+2+SG
 finfa	finfar+V+PRS+3+SG
 finfa	finfar+V+IMP+2+SG
 finfada	finfar+V+PTPST+F+SG
@@ -31144,19 +31076,8 @@ fixabilizásseis	fixabilizar+V+SBJP+2+PL
 fixabilizássemos	fixabilizar+V+SBJP+1+PL
 fixabilizávamos	fixabilizar+V+IMPF+1+PL
 fixabilizáveis	fixabilizar+V+IMPF+2+PL
-figue	fixar+V+SBJR+3+SG
-figue	fixar+V+SBJR+1+SG
-figue	fixar+V+IMP+3+SG
-figuei	fixar+V+PRF+1+SG
-figueis	fixar+V+SBJR+2+PL
-figuem	fixar+V+SBJR+3+PL
-figuem	fixar+V+IMP+3+PL
-figuemos	fixar+V+SBJR+1+PL
-figuemos	fixar+V+IMP+1+PL
-figues	fixar+V+SBJR+2+SG
 fixa	fixar+V+PTPST+F+SG
 fixa	fixar+V+PRS+3+SG
-fixa	fixar+V+INF+2+SG
 fixa	fixar+V+IMP+2+SG
 fixada	fixar+V+PTPST+F+SG
 fixadas	fixar+V+PTPST+F+PL
@@ -32086,7 +32007,6 @@ flameadas	flamear+V+PTPST+F+PL
 flameado	flamear+V+PTPST+M+SG
 flameados	flamear+V+PTPST+M+PL
 flameai	flamear+V+IMP+2+PL
-flameaia	flamear+V+IMP+2+SG
 flameais	flamear+V+PRS+2+PL
 flameamos	flamear+V+PRS+1+PL
 flameamos	flamear+V+PRF+1+PL
@@ -32377,7 +32297,6 @@ flanqueadas	flanquear+V+PTPST+F+PL
 flanqueado	flanquear+V+PTPST+M+SG
 flanqueados	flanquear+V+PTPST+M+PL
 flanqueai	flanquear+V+IMP+2+PL
-flanqueaia	flanquear+V+IMP+2+SG
 flanqueais	flanquear+V+PRS+2+PL
 flanqueamos	flanquear+V+PRS+1+PL
 flanqueamos	flanquear+V+PRF+1+PL
@@ -32528,7 +32447,6 @@ flauteadas	flautear+V+PTPST+F+PL
 flauteado	flautear+V+PTPST+M+SG
 flauteados	flautear+V+PTPST+M+PL
 flauteai	flautear+V+IMP+2+PL
-flauteaia	flautear+V+IMP+2+SG
 flauteais	flautear+V+PRS+2+PL
 flauteamos	flautear+V+PRS+1+PL
 flauteamos	flautear+V+PRF+1+PL
@@ -35105,7 +35023,6 @@ floreadas	florear+V+PTPST+F+PL
 floreado	florear+V+PTPST+M+SG
 floreados	florear+V+PTPST+M+PL
 floreai	florear+V+IMP+2+PL
-floreaia	florear+V+IMP+2+SG
 floreais	florear+V+PRS+2+PL
 floreamos	florear+V+PRS+1+PL
 floreamos	florear+V+PRF+1+PL
@@ -35469,7 +35386,6 @@ floreteadas	floretear+V+PTPST+F+PL
 floreteado	floretear+V+PTPST+M+SG
 floreteados	floretear+V+PTPST+M+PL
 floreteai	floretear+V+IMP+2+PL
-floreteaia	floretear+V+IMP+2+SG
 floreteais	floretear+V+PRS+2+PL
 floreteamos	floretear+V+PRS+1+PL
 floreteamos	floretear+V+PRF+1+PL
@@ -38207,7 +38123,6 @@ fogueadas	foguear+V+PTPST+F+PL
 fogueado	foguear+V+PTPST+M+SG
 fogueados	foguear+V+PTPST+M+PL
 fogueai	foguear+V+IMP+2+PL
-fogueaia	foguear+V+IMP+2+SG
 fogueais	foguear+V+PRS+2+PL
 fogueamos	foguear+V+PRS+1+PL
 fogueamos	foguear+V+PRF+1+PL
@@ -38283,7 +38198,6 @@ fogueteadas	foguetear+V+PTPST+F+PL
 fogueteado	foguetear+V+PTPST+M+SG
 fogueteados	foguetear+V+PTPST+M+PL
 fogueteai	foguetear+V+IMP+2+PL
-fogueteaia	foguetear+V+IMP+2+SG
 fogueteais	foguetear+V+PRS+2+PL
 fogueteamos	foguetear+V+PRS+1+PL
 fogueteamos	foguetear+V+PRF+1+PL
@@ -38424,7 +38338,6 @@ foiceadas	foicear+V+PTPST+F+PL
 foiceado	foicear+V+PTPST+M+SG
 foiceados	foicear+V+PTPST+M+PL
 foiceai	foicear+V+IMP+2+PL
-foiceaia	foicear+V+IMP+2+SG
 foiceais	foicear+V+PRS+2+PL
 foiceamos	foicear+V+PRS+1+PL
 foiceamos	foicear+V+PRF+1+PL
@@ -38640,7 +38553,6 @@ foleadas	folear+V+PTPST+F+PL
 foleado	folear+V+PTPST+M+SG
 foleados	folear+V+PTPST+M+PL
 foleai	folear+V+IMP+2+PL
-foleaia	folear+V+IMP+2+SG
 foleais	folear+V+PRS+2+PL
 foleamos	folear+V+PRS+1+PL
 foleamos	folear+V+PRF+1+PL
@@ -39336,7 +39248,6 @@ folheadas	folhear+V+PTPST+F+PL
 folheado	folhear+V+PTPST+M+SG
 folheados	folhear+V+PTPST+M+PL
 folheai	folhear+V+IMP+2+PL
-folheaia	folhear+V+IMP+2+SG
 folheais	folhear+V+PRS+2+PL
 folheamos	folhear+V+PRS+1+PL
 folheamos	folhear+V+PRF+1+PL
@@ -39673,7 +39584,6 @@ folheteadas	folhetear+V+PTPST+F+PL
 folheteado	folhetear+V+PTPST+M+SG
 folheteados	folhetear+V+PTPST+M+PL
 folheteai	folhetear+V+IMP+2+PL
-folheteaia	folhetear+V+IMP+2+SG
 folheteais	folhetear+V+PRS+2+PL
 folheteamos	folhetear+V+PRS+1+PL
 folheteamos	folhetear+V+PRF+1+PL
@@ -44145,7 +44055,6 @@ formoseadas	formosear+V+PTPST+F+PL
 formoseado	formosear+V+PTPST+M+SG
 formoseados	formosear+V+PTPST+M+PL
 formoseai	formosear+V+IMP+2+PL
-formoseaia	formosear+V+IMP+2+SG
 formoseais	formosear+V+PRS+2+PL
 formoseamos	formosear+V+PRS+1+PL
 formoseamos	formosear+V+PRF+1+PL
@@ -44501,7 +44410,6 @@ forneadas	fornear+V+PTPST+F+PL
 forneado	fornear+V+PTPST+M+SG
 forneados	fornear+V+PTPST+M+PL
 forneai	fornear+V+IMP+2+PL
-forneaia	fornear+V+IMP+2+SG
 forneais	fornear+V+PRS+2+PL
 forneamos	fornear+V+PRS+1+PL
 forneamos	fornear+V+PRF+1+PL
@@ -44940,7 +44848,6 @@ forqueadas	forquear+V+PTPST+F+PL
 forqueado	forquear+V+PTPST+M+SG
 forqueados	forquear+V+PTPST+M+PL
 forqueai	forquear+V+IMP+2+PL
-forqueaia	forquear+V+IMP+2+SG
 forqueais	forquear+V+PRS+2+PL
 forqueamos	forquear+V+PRS+1+PL
 forqueamos	forquear+V+PRF+1+PL
@@ -45088,7 +44995,6 @@ forrageadas	forragear+V+PTPST+F+PL
 forrageado	forragear+V+PTPST+M+SG
 forrageados	forragear+V+PTPST+M+PL
 forrageai	forragear+V+IMP+2+PL
-forrageaia	forragear+V+IMP+2+SG
 forrageais	forragear+V+PRS+2+PL
 forrageamos	forragear+V+PRS+1+PL
 forrageamos	forragear+V+PRF+1+PL
@@ -46713,7 +46619,6 @@ fosforeadas	fosforear+V+PTPST+F+PL
 fosforeado	fosforear+V+PTPST+M+SG
 fosforeados	fosforear+V+PTPST+M+PL
 fosforeai	fosforear+V+IMP+2+PL
-fosforeaia	fosforear+V+IMP+2+SG
 fosforeais	fosforear+V+PRS+2+PL
 fosforeamos	fosforear+V+PRS+1+PL
 fosforeamos	fosforear+V+PRF+1+PL
@@ -47635,7 +47540,6 @@ foteadas	fotear+V+PTPST+F+PL
 foteado	fotear+V+PTPST+M+SG
 foteados	fotear+V+PTPST+M+PL
 foteai	fotear+V+IMP+2+PL
-foteaia	fotear+V+IMP+2+SG
 foteais	fotear+V+PRS+2+PL
 foteamos	fotear+V+PRS+1+PL
 foteamos	fotear+V+PRF+1+PL
@@ -52250,7 +52154,6 @@ fouceadas	foucear+V+PTPST+F+PL
 fouceado	foucear+V+PTPST+M+SG
 fouceados	foucear+V+PTPST+M+PL
 fouceai	foucear+V+IMP+2+PL
-fouceaia	foucear+V+IMP+2+SG
 fouceais	foucear+V+PRS+2+PL
 fouceamos	foucear+V+PRS+1+PL
 fouceamos	foucear+V+PRF+1+PL
@@ -52685,7 +52588,6 @@ fracateadas	fracatear+V+PTPST+F+PL
 fracateado	fracatear+V+PTPST+M+SG
 fracateados	fracatear+V+PTPST+M+PL
 fracateai	fracatear+V+IMP+2+PL
-fracateaia	fracatear+V+IMP+2+SG
 fracateais	fracatear+V+PRS+2+PL
 fracateamos	fracatear+V+PRS+1+PL
 fracateamos	fracatear+V+PRF+1+PL
@@ -53255,7 +53157,6 @@ fragalhoteadas	fragalhotear+V+PTPST+F+PL
 fragalhoteado	fragalhotear+V+PTPST+M+SG
 fragalhoteados	fragalhotear+V+PTPST+M+PL
 fragalhoteai	fragalhotear+V+IMP+2+PL
-fragalhoteaia	fragalhotear+V+IMP+2+SG
 fragalhoteais	fragalhotear+V+PRS+2+PL
 fragalhoteamos	fragalhotear+V+PRS+1+PL
 fragalhoteamos	fragalhotear+V+PRF+1+PL
@@ -53331,7 +53232,6 @@ fragateadas	fragatear+V+PTPST+F+PL
 fragateado	fragatear+V+PTPST+M+SG
 fragateados	fragatear+V+PTPST+M+PL
 fragateai	fragatear+V+IMP+2+PL
-fragateaia	fragatear+V+IMP+2+SG
 fragateais	fragatear+V+PRS+2+PL
 fragateamos	fragatear+V+PRS+1+PL
 fragateamos	fragatear+V+PRF+1+PL
@@ -53847,7 +53747,6 @@ fragueadas	fraguear+V+PTPST+F+PL
 fragueado	fraguear+V+PTPST+M+SG
 fragueados	fraguear+V+PTPST+M+PL
 fragueai	fraguear+V+IMP+2+PL
-fragueaia	fraguear+V+IMP+2+SG
 fragueais	fraguear+V+PRS+2+PL
 fragueamos	fraguear+V+PRS+1+PL
 fragueamos	fraguear+V+PRF+1+PL
@@ -53998,7 +53897,6 @@ fraldeadas	fraldear+V+PTPST+F+PL
 fraldeado	fraldear+V+PTPST+M+SG
 fraldeados	fraldear+V+PTPST+M+PL
 fraldeai	fraldear+V+IMP+2+PL
-fraldeaia	fraldear+V+IMP+2+SG
 fraldeais	fraldear+V+PRS+2+PL
 fraldeamos	fraldear+V+PRS+1+PL
 fraldeamos	fraldear+V+PRF+1+PL
@@ -54149,7 +54047,6 @@ franceadas	francear+V+PTPST+F+PL
 franceado	francear+V+PTPST+M+SG
 franceados	francear+V+PTPST+M+PL
 franceai	francear+V+IMP+2+PL
-franceaia	francear+V+IMP+2+SG
 franceais	francear+V+PRS+2+PL
 franceamos	francear+V+PRS+1+PL
 franceamos	francear+V+PRF+1+PL
@@ -54700,7 +54597,6 @@ frangalhoteadas	frangalhotear+V+PTPST+F+PL
 frangalhoteado	frangalhotear+V+PTPST+M+SG
 frangalhoteados	frangalhotear+V+PTPST+M+PL
 frangalhoteai	frangalhotear+V+IMP+2+PL
-frangalhoteaia	frangalhotear+V+IMP+2+SG
 frangalhoteais	frangalhotear+V+PRS+2+PL
 frangalhoteamos	frangalhotear+V+PRS+1+PL
 frangalhoteamos	frangalhotear+V+PRF+1+PL
@@ -54920,13 +54816,9 @@ frangia	frangir+V+IMPF+3+SG
 frangia	frangir+V+IMPF+1+SG
 frangiam	frangir+V+IMPF+3+PL
 frangias	frangir+V+IMPF+2+SG
-frangida	frangir+V+PTPST+M+SG
 frangida	frangir+V+PTPST+F+SG
-frangidas	frangir+V+PTPST+M+SG
 frangidas	frangir+V+PTPST+F+PL
 frangido	frangir+V+PTPST+M+SG
-frangido	frangir+V+PTPST
-frangidos	frangir+V+PTPST+M+SG
 frangidos	frangir+V+PTPST+M+PL
 frangimos	frangir+V+PRS+1+PL
 frangimos	frangir+V+PRF+1+PL
@@ -54993,7 +54885,6 @@ frangueadas	franguear+V+PTPST+F+PL
 frangueado	franguear+V+PTPST+M+SG
 frangueados	franguear+V+PTPST+M+PL
 frangueai	franguear+V+IMP+2+PL
-frangueaia	franguear+V+IMP+2+SG
 frangueais	franguear+V+PRS+2+PL
 frangueamos	franguear+V+PRS+1+PL
 frangueamos	franguear+V+PRF+1+PL
@@ -55410,7 +55301,6 @@ franqueadas	franquear+V+PTPST+F+PL
 franqueado	franquear+V+PTPST+M+SG
 franqueados	franquear+V+PTPST+M+PL
 franqueai	franquear+V+IMP+2+PL
-franqueaia	franquear+V+IMP+2+SG
 franqueais	franquear+V+PRS+2+PL
 franqueamos	franquear+V+PRS+1+PL
 franqueamos	franquear+V+PRF+1+PL
@@ -55635,7 +55525,6 @@ fraqueadas	fraquear+V+PTPST+F+PL
 fraqueado	fraquear+V+PTPST+M+SG
 fraqueados	fraquear+V+PTPST+M+PL
 fraqueai	fraquear+V+IMP+2+PL
-fraqueaia	fraquear+V+IMP+2+SG
 fraqueais	fraquear+V+PRS+2+PL
 fraqueamos	fraquear+V+PRS+1+PL
 fraqueamos	fraquear+V+PRF+1+PL
@@ -55851,7 +55740,6 @@ fraseadas	frasear+V+PTPST+F+PL
 fraseado	frasear+V+PTPST+M+SG
 fraseados	frasear+V+PTPST+M+PL
 fraseai	frasear+V+IMP+2+PL
-fraseaia	frasear+V+IMP+2+SG
 fraseais	frasear+V+PRS+2+PL
 fraseamos	frasear+V+PRS+1+PL
 fraseamos	frasear+V+PRF+1+PL
@@ -56613,7 +56501,6 @@ frauteadas	frautear+V+PTPST+F+PL
 frauteado	frautear+V+PTPST+M+SG
 frauteados	frautear+V+PTPST+M+PL
 frauteai	frautear+V+IMP+2+PL
-frauteaia	frautear+V+IMP+2+SG
 frauteais	frautear+V+PRS+2+PL
 frauteamos	frautear+V+PRS+1+PL
 frauteamos	frautear+V+PRF+1+PL
@@ -56689,7 +56576,6 @@ freadas	frear+V+PTPST+F+PL
 freado	frear+V+PTPST+M+SG
 freados	frear+V+PTPST+M+PL
 freai	frear+V+IMP+2+PL
-freaia	frear+V+IMP+2+SG
 freais	frear+V+PRS+2+PL
 freamos	frear+V+PRS+1+PL
 freamos	frear+V+PRF+1+PL
@@ -58210,7 +58096,6 @@ frenteadas	frentear+V+PTPST+F+PL
 frenteado	frentear+V+PTPST+M+SG
 frenteados	frentear+V+PTPST+M+PL
 frenteai	frentear+V+IMP+2+PL
-frenteaia	frentear+V+IMP+2+SG
 frenteais	frentear+V+PRS+2+PL
 frenteamos	frentear+V+PRS+1+PL
 frenteamos	frentear+V+PRF+1+PL
@@ -59034,7 +58919,6 @@ fretejávamos	fretejar+V+IMPF+1+PL
 fretejáveis	fretejar+V+IMPF+2+PL
 fretena	fretenir+V+SBJR+3+SG
 fretena	fretenir+V+SBJR+1+SG
-fretena	fretenir+V+IMP+3+SG
 fretenais	fretenir+V+SBJR+2+PL
 fretenais	fretenir+V+IMP+2+PL
 fretenam	fretenir+V+SBJR+3+PL
@@ -59099,7 +58983,6 @@ fretenisses	fretenir+V+SBJP+2+SG
 freteniste	fretenir+V+PRF+2+SG
 fretenistes	fretenir+V+PRF+2+PL
 freteniu	fretenir+V+PRF+3+SG
-freteno	fretenir+V+PRS+1+SG
 freteníamos	fretenir+V+IMPF+1+PL
 freteníeis	fretenir+V+IMPF+2+PL
 freteníramos	fretenir+V+PQP+1+PL
@@ -60207,20 +60090,8 @@ frisicizásseis	frisicizar+V+SBJP+2+PL
 frisicizássemos	frisicizar+V+SBJP+1+PL
 frisicizávamos	frisicizar+V+IMPF+1+PL
 frisicizáveis	frisicizar+V+IMPF+2+PL
-frigue	fritar+V+SBJR+3+SG
-frigue	fritar+V+SBJR+1+SG
-frigue	fritar+V+IMP+3+SG
-friguei	fritar+V+PRF+1+SG
-frigueis	fritar+V+SBJR+2+PL
-friguem	fritar+V+SBJR+3+PL
-friguem	fritar+V+IMP+3+PL
-friguemos	fritar+V+SBJR+1+PL
-friguemos	fritar+V+IMP+1+PL
-frigues	fritar+V+SBJR+2+SG
-frita	fritar+V+PTPST+M+SG
 frita	fritar+V+PTPST+F+SG
 frita	fritar+V+PRS+3+SG
-frita	fritar+V+INF+2+SG
 frita	fritar+V+IMP+2+SG
 fritada	fritar+V+PTPST+F+SG
 fritadas	fritar+V+PTPST+F+PL
@@ -60262,7 +60133,6 @@ fritarás	fritar+V+FUT+2+SG
 fritarão	fritar+V+FUT+3+PL
 fritaríamos	fritar+V+COND+1+PL
 fritaríeis	fritar+V+COND+2+PL
-fritas	fritar+V+PTPST+M+SG
 fritas	fritar+V+PTPST+F+PL
 fritas	fritar+V+PRS+2+SG
 fritasse	fritar+V+SBJP+3+SG
@@ -60289,9 +60159,7 @@ fritemos	fritar+V+IMP+1+PL
 frites	fritar+V+SBJR+2+SG
 frites	fritar+V+IMP+2+SG
 frito	fritar+V+PTPST+M+SG
-frito	fritar+V+PTPST
 frito	fritar+V+PRS+1+SG
-fritos	fritar+V+PTPST+M+SG
 fritos	fritar+V+PTPST+M+PL
 fritou	fritar+V+PRF+3+SG
 fritámos	fritar+V+PRF+1+PL
@@ -60600,7 +60468,6 @@ frondeadas	frondear+V+PTPST+F+PL
 frondeado	frondear+V+PTPST+M+SG
 frondeados	frondear+V+PTPST+M+PL
 frondeai	frondear+V+IMP+2+PL
-frondeaia	frondear+V+IMP+2+SG
 frondeais	frondear+V+PRS+2+PL
 frondeamos	frondear+V+PRS+1+PL
 frondeamos	frondear+V+PRF+1+PL
@@ -60962,7 +60829,6 @@ fronteadas	frontear+V+PTPST+F+PL
 fronteado	frontear+V+PTPST+M+SG
 fronteados	frontear+V+PTPST+M+PL
 fronteai	frontear+V+IMP+2+PL
-fronteaia	frontear+V+IMP+2+SG
 fronteais	frontear+V+PRS+2+PL
 fronteamos	frontear+V+PRS+1+PL
 fronteamos	frontear+V+PRF+1+PL
@@ -61877,7 +61743,6 @@ frusteadas	frustear+V+PTPST+F+PL
 frusteado	frustear+V+PTPST+M+SG
 frusteados	frustear+V+PTPST+M+PL
 frusteai	frustear+V+IMP+2+PL
-frusteaia	frustear+V+IMP+2+SG
 frusteais	frustear+V+PRS+2+PL
 frusteamos	frustear+V+PRS+1+PL
 frusteamos	frustear+V+PRF+1+PL
@@ -62165,7 +62030,6 @@ fruteadas	frutear+V+PTPST+F+PL
 fruteado	frutear+V+PTPST+M+SG
 fruteados	frutear+V+PTPST+M+PL
 fruteai	frutear+V+IMP+2+PL
-fruteaia	frutear+V+IMP+2+SG
 fruteais	frutear+V+PRS+2+PL
 fruteamos	frutear+V+PRS+1+PL
 fruteamos	frutear+V+PRF+1+PL
@@ -63408,7 +63272,6 @@ fulgenteadas	fulgentear+V+PTPST+F+PL
 fulgenteado	fulgentear+V+PTPST+M+SG
 fulgenteados	fulgentear+V+PTPST+M+PL
 fulgenteai	fulgentear+V+IMP+2+PL
-fulgenteaia	fulgentear+V+IMP+2+SG
 fulgenteais	fulgentear+V+PRS+2+PL
 fulgenteamos	fulgentear+V+PRS+1+PL
 fulgenteamos	fulgentear+V+PRF+1+PL
@@ -64328,7 +64191,6 @@ fumeadas	fumear+V+PTPST+F+PL
 fumeado	fumear+V+PTPST+M+SG
 fumeados	fumear+V+PTPST+M+PL
 fumeai	fumear+V+IMP+2+PL
-fumeaia	fumear+V+IMP+2+SG
 fumeais	fumear+V+PRS+2+PL
 fumeamos	fumear+V+PRS+1+PL
 fumeamos	fumear+V+PRF+1+PL
@@ -65443,7 +65305,6 @@ fundeadas	fundear+V+PTPST+F+PL
 fundeado	fundear+V+PTPST+M+SG
 fundeados	fundear+V+PTPST+M+PL
 fundeai	fundear+V+IMP+2+PL
-fundeaia	fundear+V+IMP+2+SG
 fundeais	fundear+V+PRS+2+PL
 fundeamos	fundear+V+PRS+1+PL
 fundeamos	fundear+V+PRF+1+PL
@@ -67977,7 +67838,6 @@ fuzarqueadas	fuzarquear+V+PTPST+F+PL
 fuzarqueado	fuzarquear+V+PTPST+M+SG
 fuzarqueados	fuzarquear+V+PTPST+M+PL
 fuzarqueai	fuzarquear+V+IMP+2+PL
-fuzarqueaia	fuzarquear+V+IMP+2+SG
 fuzarqueais	fuzarquear+V+PRS+2+PL
 fuzarqueamos	fuzarquear+V+PRS+1+PL
 fuzarqueamos	fuzarquear+V+PRF+1+PL

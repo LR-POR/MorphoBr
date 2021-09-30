@@ -4649,7 +4649,6 @@ quarteadas	quartear+V+PTPST+F+PL
 quarteado	quartear+V+PTPST+M+SG
 quarteados	quartear+V+PTPST+M+PL
 quarteai	quartear+V+IMP+2+PL
-quarteaia	quartear+V+IMP+2+SG
 quarteais	quartear+V+PRS+2+PL
 quarteamos	quartear+V+PRS+1+PL
 quarteamos	quartear+V+PRF+1+PL
@@ -6585,7 +6584,6 @@ quis	querer+V+SBJF+3+SG
 quis	querer+V+SBJF+1+SG
 quis	querer+V+PRF+3+SG
 quis	querer+V+PRF+1+SG
-quisdes	querer+V+SBJF+2+PL
 quisem	querer+V+SBJF+3+PL
 quisemos	querer+V+PRF+1+PL
 quiser	querer+V+SBJF+3+SG
@@ -6606,7 +6604,6 @@ quisessem	querer+V+SBJP+3+PL
 quisesses	querer+V+SBJP+2+SG
 quiseste	querer+V+PRF+2+SG
 quisestes	querer+V+PRF+2+PL
-quismos	querer+V+SBJF+1+PL
 quista	querer+V+PTPST+F+SG
 quistas	querer+V+PTPST+F+PL
 quisto	querer+V+PTPST+M+SG
@@ -12988,7 +12985,6 @@ quirereadas	quirerear+V+PTPST+F+PL
 quirereado	quirerear+V+PTPST+M+SG
 quirereados	quirerear+V+PTPST+M+PL
 quirereai	quirerear+V+IMP+2+PL
-quirereaia	quirerear+V+IMP+2+SG
 quirereais	quirerear+V+PRS+2+PL
 quirereamos	quirerear+V+PRS+1+PL
 quirereamos	quirerear+V+PRF+1+PL
@@ -14041,8 +14037,6 @@ quitavas	quitar+V+IMPF+2+SG
 quite	quitar+V+SBJR+3+SG
 quite	quitar+V+SBJR+1+SG
 quite	quitar+V+PTPST+PL
-quite	quitar+V+PTPST+M+SG
-quite	quitar+V+PTPST+F+SG
 quite	quitar+V+IMP+3+SG
 quitei	quitar+V+PRF+1+SG
 quiteis	quitar+V+SBJR+2+PL
@@ -14054,8 +14048,6 @@ quitemos	quitar+V+SBJR+1+PL
 quitemos	quitar+V+IMP+1+PL
 quites	quitar+V+SBJR+2+SG
 quites	quitar+V+PTPST+PL
-quites	quitar+V+PTPST+M+PL
-quites	quitar+V+PTPST+F+PL
 quites	quitar+V+IMP+2+SG
 quito	quitar+V+PRS+1+SG
 quitou	quitar+V+PRF+3+SG
