@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 # Author: Leonel Figueiredo de Alencar
@@ -6,14 +6,14 @@
 
 # Usage: python BuildSpacedText.py infile.pairs [foma]
 
-# where the input file is in the Foma's flookup output. 
+# where the input file is in the Foma's flookup output.
 # The spaced text output is either the default xfst's format or foma's format.
 # format. This module can be use to recompile a unrestricted transducer
 # into a restricted one (Alencar et al. 2014). The exact procedure for this reduction of complexity
 # is described in the following paper:
 
-# Alencar, Leonel F. de et al. JMorpher: A Finite-State Morphological Parser in Java for Android. In: Baptista, Jorge et al. (Eds.). Computational Processing of the Portuguese Language. 11th International Conference, PROPOR 2014. São Carlos/SP, Brazil, October 6-8, 2014. Proceedings. Cham; Heidelberg: Springer, 2014, p. 59-69. 
-# (Series: Lecture Notes in Computer Science, Vol. 8775. Subseries: Lecture Notes in Artificial Intelligence) 
+# Alencar, Leonel F. de et al. JMorpher: A Finite-State Morphological Parser in Java for Android. In: Baptista, Jorge et al. (Eds.). Computational Processing of the Portuguese Language. 11th International Conference, PROPOR 2014. São Carlos/SP, Brazil, October 6-8, 2014. Proceedings. Cham; Heidelberg: Springer, 2014, p. 59-69.
+# (Series: Lecture Notes in Computer Science, Vol. 8775. Subseries: Lecture Notes in Artificial Intelligence)
 # ISBN 978-3-319-09760-2
 # http://www.springer.com/computer/ai/book/978-3-319-09760-2?detailsPage=chapter
 
@@ -56,13 +56,13 @@ def convert_from_up_format(infile):
 	faccionámos	faccionar+V+PRF+1+PL
 
 	"""
-	lines=[line.decode("utf-8").strip() for line in open(infile,"rU").readlines() if line.strip() != ""]
+	lines=[line.strip() for line in open(infile,"rU").readlines() if line.strip() != ""]
 	i=0
 	j=1
 	c=len(lines)
 	f=open("%s.pairs" % infile, "w")
 	while (j < c):
-		f.write("%s\t%s\n\n" % (lines[j].encode("utf-8"),lines[i].encode("utf-8")))
+		f.write("%s\t%s\n\n" % (lines[j],lines[i]))
 		i=i+2
 		j=j+2
 
@@ -72,7 +72,7 @@ def extract_parts(entry,sep_regex=SEP_REGEX):
 	Output is a list with two elements, the second of which is a list, for example:
 	>>> BuildSpacedText.extract_parts("fabricámos	fabricar+V+PRF+1+PL")
 	('fabric\xc3\xa1mos', ['fabricar', 'V', 'PRF', '1', 'PL'])
-	
+
 	"""
 	word,parse=re.split(WORDPARSESEP,entry)
 	parts=re.split(sep_regex,parse)
@@ -90,12 +90,12 @@ def build_spaced_text_entry(entry):
 	lemma=" ".join(list(parts[0]))
 	features=["%s%s" % (SEPARATOR,feature) for feature in parts[1:]]
 	return "%s %s\n%s" % (lemma," ".join(features)," ".join(list(form)))
-	
+
 def ignore_line(line):
 	return len(line.strip()) > 0 and not line.strip().startswith("#")
 
 def extract_entries(infile):
-	return [line.strip().decode("utf-8") for line in open(infile,"rU").readlines() if ignore_line(line)]
+	return [line.strip() for line in open(infile,"r").readlines() if ignore_line(line)]
 
 def write_entries(entries,outfile,format="xfst"):
 	f=open(outfile,"w")
@@ -103,7 +103,7 @@ def write_entries(entries,outfile,format="xfst"):
 		out=build_spaced_text_entry(entry)
 		separator=FORMAT.get(format)
 		if out:
-			f.write("%s%s" % (out.encode("utf-8"),separator))
+			f.write("%s%s" % (out,separator))
 	f.close()
 
 def convert(infile,format="xfst"):
@@ -151,7 +151,7 @@ def test():
 	convert_from_up_format(os.path.join(root,source))
 	convert(os.path.join(root,output))
 
-def main(): 
+def main():
     # default format xfst
     if len(sys.argv) == 2:
         convert(sys.argv[1])
@@ -160,4 +160,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
