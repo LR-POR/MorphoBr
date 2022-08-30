@@ -4,11 +4,12 @@
 # Author: Leonel Figueiredo de Alencar
 # leonel.de.alencar@ufc.br
 
-# Usage: python BuildSpacedText.py infile.pairs [foma]
+# Usage: python BuildSpacedText.py -foma INPUTFILES
+# Usage: python BuildSpacedText.py -xfst INPUTFILES
 
-# where the input file is in the Foma's flookup output.
-# The spaced text output is either the default xfst's format or foma's format.
-# format. This module can be use to recompile a unrestricted transducer
+# where the input files are in the Foma's flookup output format, i.e. MorphoBr's format.
+# The spaced text output is either xfst's format or foma's format.
+# This module can be use to recompile a unrestricted transducer
 # into a restricted one (Alencar et al. 2014). The exact procedure for this reduction of complexity
 # is described in the following paper:
 
@@ -21,7 +22,6 @@
 import re
 import os
 import sys
-from CreateInflectionTagsForParticiples import includeGenderAndNumberTags
 # separators
 FORMAT={"foma":"\n", "xfst":"\n\n"}
 SEPARATOR="+"
@@ -76,8 +76,6 @@ def extract_parts(entry,sep_regex=SEP_REGEX):
 	"""
 	word,parse=re.split(WORDPARSESEP,entry)
 	parts=re.split(sep_regex,parse)
-	# To include gender and number tags for past participles (not necessary in DELAF-PB version 2)
-	# includeGenderAndNumberTags(word,parts)
 	return word,parts
 
 def build_spaced_text_entry(entry):
@@ -143,20 +141,10 @@ def convert(infile,format="xfst"):
 	entries=extract_entries(infile)
 	write_entries(entries,outfile,format)
 
-def test():
-	user=os.path.expanduser("~")
-	root=os.path.join(user,"Dropbox/recursos/unitex_pb/lexc/fst03")
-	source="teste.pairs.txt" # TODO: this should be teste.up
-	output="%s.converted" % source # TODO: this should be teste.up.pairs
-	convert_from_up_format(os.path.join(root,source))
-	convert(os.path.join(root,output))
-
 def main():
-    # default format xfst
-    if len(sys.argv) == 2:
-        convert(sys.argv[1])
-    else:
-        convert(sys.argv[1],sys.argv[2])
+	format=sys.argv[1][1:]
+	for infile in sys.argv[2:]:
+		convert(infile,format)
 
 if __name__ == '__main__':
 	main()
