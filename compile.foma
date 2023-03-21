@@ -1,0 +1,26 @@
+!Copyright (C) 2023 Alexandre Rademaker
+!See https://github.com/mhulden/foma/issues/130
+
+read spaced-text tmp/nouns.stxt
+define nouns ;
+clear stack 
+
+read spaced-text tmp/verbs.stxt
+define verbs ;
+clear stack 
+
+read spaced-text tmp/clitics.stxt
+define clitics ;
+clear stack 
+
+read spaced-text tmp/adjectives.stxt
+define adjs ;
+clear stack 
+
+read spaced-text tmp/adverbs.stxt
+define advs ;
+clear stack
+
+regex  nouns | verbs | clitics | adjs | advs;
+save stack morphobr.bin
+

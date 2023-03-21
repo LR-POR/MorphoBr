@@ -1,9 +1,5 @@
-# -*- mode: org -*-
 #+TITLE: MorphoBr - resources for morphological analysis of Portuguese
 #+AUTHOR: Leonel F. de Alencar, Alexandre Rademaker, Bruno Cuconato
-#+EMAIL: <leonel.de.alencar@ufc.br>
-
-- Canonic repository :: https://github.com/LFG-PTBR/MorphoBr
 
 - LICENSE :: see LICENSE file
 
@@ -38,19 +34,45 @@ see the =TAGSET= file.
 
 * Morphological analysis
 
-In order to use MorphoBr resources for morphological analysis in XFST,
-or in XLE in the context of syntactic parsing (e.g. with BrGram), they
-must be compiled into finite-state transducers. Python modules as well
-as XFST and bash scripts for performing this task are available in the
-=tools/= folder. Inadequacies and errors found in the source
-dictionaries were corrected using these tools. See the respective
-incode documentation for a detailed description of the changes made to
-the source entries.
+In order to use MorphoBr resources for morphological analysis in the
+context of syntactic parsing (e.g. with PorGram), they must be
+compiled into finite-state transducers. The easier way is to load and
+compile it with [[http://fomafst.github.io][Foma]]:
+
+#+begin_src bash
+    % ./compile.sh
+    % foma -f compile.foma
+    % echo "fortinho" | flookup -i morphobr.bin
+    fortinho	forte+N+DIM+M+SG
+    fortinho	forte+A+DIM+M+SG
+
+    % echo "comprei-o" | flookup -i morphobr.bin
+    comprei-o	comprar+V+ele.ACC.3.M.SG+PRF+1+SG
+
+#+end_src
+
+For that, you need to:
+
+1. change the MAX_STACK value in the int_stack.c file in Foma source
+   code to at least 9097152. Compile Foma.
+
+See https://github.com/mhulden/foma/issues/146 and
+https://github.com/mhulden/foma/issues/130
+
+Python modules as well as XFST and bash scripts for performing this
+task are available in the =tools/= folder. Inadequacies and errors
+found in the source dictionaries were corrected using these tools. See
+the respective incode documentation for a detailed description of the
+changes made to the source entries.
 
 * Download
+
 See our [[https://github.com/LFG-PTBR/MorphoBr/releases][releases page]].
 
 * Bibliography
 
-See https://github.com/LFG-PTBR/MorphoBr/wiki#publicações. To cite this resource, please use http://www.periodicos.letras.ufmg.br/index.php/textolivre/article/view/14294 (first in the publications list).
+See https://github.com/LFG-PTBR/MorphoBr/wiki#publicações. To cite
+this resource, please use
+http://www.periodicos.letras.ufmg.br/index.php/textolivre/article/view/14294
+(first in the publications list).
 
