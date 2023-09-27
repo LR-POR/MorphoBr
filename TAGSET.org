@@ -1,6 +1,9 @@
-# -*- mode: org -*-
-#+TITLE: Convertion table between the DELAF_PB and the Freeling Portuguese computational dictionaries and the MorphoBr tagsets
-#+AUTHOR: Leonel F. de Alencar
+#+TITLE: MorphoBr tagsets
+#+AUTHOR: Leonel F. de Alencar, Alexandre Rademaker
+
+
+We describe the convertion table between the DELAF_PB and the Freeling
+Portuguese computational dictionaries and the MorphoBr.
 
 - For information on DELAF_PB, visit [[http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html][their website]].
 - For information on the Freeling Portuguese dictionary, see their
@@ -11,9 +14,68 @@ Karttunen's XFST book, using [[http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/st
 Rules and other abbreviations for morphological glosses commonly
 adopted in the linguistic literature.
 
+* Data Format
+
+All entries follow the same pattern:
+
+: form\tlemma+class(+feature)*
+
+where
+
+- =form= is the word's form ;
+- =\t= is a TAB character ;
+- =lemma= is the word's lemma ;
+- =+= is a literal plus sign ;
+- =class= is the word's class ;
+- the parentheses and =*= indicate that there might be zero or more
+  features present.
+
+Aditionally,
+
+- each entry can only have one class;
+- each class has a fixed order for its features ;
+- some features are optional, and there is no marker for their
+  absence, like in the Freeling PT dictionary (where a =0= is placed
+  where the feature would have been).
+- derivational features may appear more than once in the same entry
+  like =casa+N+AUG+DIM+M+SG=.
+
+* Classes
+
+** verbs (V)
+
+*feature order*: Mood/Tense+Person+Gender+Number
+
+: abrutalharás	abrutalhar+V+FUT+2+SG
+: emparvoecidas	emparvoecer+V+PTPASS+F+PL
+
+** nouns (N)
+
+*feature order*: Degree+Gender+Number
+
+: abacate	abacate+N+M+SG
+: velhonas	velho+N+AUG+F+PL
+
+** adjectives (A)
+
+*feature order*: Degree+Gender+Number
+
+: biconvexo       biconvexo+A+M+SG
+: benevolentíssimos       benévolo+A+SBJR+M+PL
+
+** adverbs (ADV)
+
+*feature order*: AdvType
+
+: reconfortantemente      reconfortantemente+ADV
+: jamais	jamais+ADV+NEG
+
 * Features
+
 ** Inflectional features
+
 *** Mood/Tense
+
 | DELAF_PB | Freeling | MorphoBr | meaning                                   |
 |----------+----------+----------+-------------------------------------------|
 | W        | N0       | INF      | infinitive                                |
@@ -31,6 +93,7 @@ adopted in the linguistic literature.
 | C        | IC       | COND     | conditional (preterite future indicative) |
 
 *** Gender
+
 | DELAF_PB | Freeling | MorphoBr | meaning   |
 |----------+----------+----------+-----------|
 | m        | M        | M        | masculine |
@@ -38,13 +101,15 @@ adopted in the linguistic literature.
 | -        | C        | -        | common    |
 
 *** Number
+
 | DELAF_PB | Freeling | MorphoBr | meaning    |
 |----------+----------+----------+------------|
 | s        | S        | SG       | singular   |
 | p        | P        | PL       | plural     |
 | -        | N        | -        | invariable |
 
-*** Number
+*** Person
+
 | DELAF_PB | Freeling | MorphoBr | meaning       |
 |----------+----------+----------+---------------|
 |        1 |        1 |        1 | first person  |
@@ -52,7 +117,9 @@ adopted in the linguistic literature.
 |        3 |        3 |        3 | third person  |
 
 ** Derivational Features
+
 *** Degree
+
 | DELAF_PB | Freeling | MorphoBr | meaning      |
 |----------+----------+----------+--------------|
 | D        | D/C      | DIM      | diminutive   |
@@ -60,56 +127,10 @@ adopted in the linguistic literature.
 | S        | S        | SUPER    | superlative  |
 
 ** Non-affixal features
+
 *** Adverb type
+
 | DELAF_PB | Freeling | MorphoBr | meaning  |
 |----------+----------+----------+----------|
 | -        | N        | NEG      | negative |
 
-
-* Classes
-All entries follow the same pattern:
-: form\tlemma+class(+feature)*
-where
-- =form= is the word's form ;
-- =\t= is a TAB character ;
-- =lemma= is the word's lemma ;
-- =+= is a literal plus sign ;
-- =class= is the word's class ;
-- the parentheses and =*= indicate that there might be zero or more
-  features present.
-Aditionally,
-- each entry can only have one class;
-- each class has a fixed order for its features ;
-- some features are optional, and there is no marker for their
-  absence, like in the Freeling PT dictionary (where a =0= is placed
-  where the feature would have been).
-- derivational features may appear more than once in the same entry,
-  for instance:
-  : casarãozinho	casa+N+AUG+DIM+M+SG
-
-** verbs (V)
-*feature order*: Mood/Tense+Person+Gender+Number
-
-*** examples
-: abrutalharás	abrutalhar+V+FUT+2+SG
-: emparvoecidas	emparvoecer+V+PTPASS+F+PL
-
-** nouns (N)
-*feature order*: Degree+Gender+Number
-
-*** examples
-: abacate	abacate+N+M+SG
-: velhonas	velho+N+AUG+F+PL
-** adjectives (A)
-*feature order*: Degree+Gender+Number
-
-*** examples
-: biconvexo       biconvexo+A+M+SG
-: benevolentíssimos       benévolo+A+SBJR+M+PL
-
-** adverbs (ADV)
-*feature order*: AdvType
-
-*** examples
-: reconfortantemente      reconfortantemente+ADV
-: jamais	jamais+ADV+NEG
