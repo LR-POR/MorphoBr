@@ -1,0 +1,17 @@
+!Copyright (C) 2019 Hélio L. B. Silva
+!Distributed under the terms of the GNU General Public License Version 3
+
+Multichar_Symbols +N +F +SG +PL
+
+LEXICON Root
+<@txt"nSubs.lemas">	Substantivo;
+
+LEXICON Substantivo
++N:0 Gênero;
+
+LEXICON Gênero
++F:0 Número;
+
+LEXICON Número
++SG:0 #;
++PL:s #;

@@ -1,0 +1,18 @@
+!Copyright (C) 2019 Hélio L. B. Silva
+!Distributed under the terms of the GNU General Public License Version 3
+
+Multichar_Symbols +A +M +F +SG +PL
+
+LEXICON Root
+<@txt"nAdj.lemas">	Adjetivo;
+
+LEXICON Adjetivo
++A:0	Gênero;
+
+LEXICON Gênero
++M:0 Número;
++F:0 Número;
+
+LEXICON Número
++SG:0	#;
++PL:^s	#;

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-HASH=c812f903a9b61ddaafda9bfcf2595a990a394a42722428e7d371d8c55bb93bfb
-EXE=code/.stack-work/install/x86_64-osx/$HASH/9.2.6/bin/code-exe
+HASH=8c6f9cc9675f5af6be43a7692a4d501a5dae79e7c0cc307fa2b861b2cfff82e4
+EXE=code/.stack-work/install/aarch64-osx/$HASH/9.2.6/bin/code-exe
 TMP=tmp
 
 for f in nouns/*.dict; do $EXE -m $f >> $TMP/nouns.stxt ; done
