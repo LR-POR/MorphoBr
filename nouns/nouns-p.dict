@@ -14453,9 +14453,7 @@ pentacampeonatozinho	pentacampeonato+N+DIM+M+SG
 pentacampeonatozinhos	pentacampeonato+N+DIM+M+PL
 pentacampeã	pentacampeão+N+F+SG
 pentacampeão	pentacampeão+N+M+SG
-pentacampeãos	pentacampeão+N+M+PL
 pentacampeãozinho	pentacampeão+N+DIM+M+SG
-pentacampeãozinhos	pentacampeão+N+DIM+M+PL
 pentacampeãs	pentacampeão+N+F+PL
 pentacampeãzinha	pentacampeão+N+DIM+F+SG
 pentacampeãzinhas	pentacampeão+N+DIM+F+PL
@@ -19964,7 +19962,6 @@ peuvinha	peúva+N+DIM+F+SG
 peuvinhas	peúva+N+DIM+F+PL
 peúva	peúva+N+F+SG
 peúvas	peúva+N+F+PL
-ph	ph+N+M+SG
 phisis	phisis+N+F+SG
 phisisinha	phisis+N+DIM+F+SG
 photo-finish	photo-finish+N+F
@@ -27238,7 +27235,6 @@ plancto	plâncton+N+M+SG
 planctonezinhos	plâncton+N+DIM+M+PL
 planctonzinho	plâncton+N+DIM+M+SG
 planctonzinhos	plâncton+N+DIM+M+PL
-planctos	plâncton+N+M+PL
 planctozinho	plâncton+N+DIM+M+SG
 planctozinhos	plâncton+N+DIM+M+PL
 plâncton	plâncton+N+M+SG
@@ -34592,16 +34588,6 @@ pratilho	pratilho+N+M+SG
 pratilhos	pratilho+N+M+PL
 pratilhozinho	pratilho+N+DIM+M+SG
 pratilhozinhos	pratilho+N+DIM+M+PL
-pratalhaz	prato+N+AUG+M+SG
-pratalhazes	prato+N+AUG+M+PL
-pratalhazezinhos	prato+N+AUG+DIM+M+PL
-pratalhazinho	prato+N+AUG+DIM+M+SG
-pratalhazinhos	prato+N+AUG+DIM+M+PL
-pratarraz	prato+N+AUG+M+SG
-pratarrazes	prato+N+AUG+M+PL
-pratarrazezinhos	prato+N+AUG+DIM+M+PL
-pratarrazinho	prato+N+AUG+DIM+M+SG
-pratarrazinhos	prato+N+AUG+DIM+M+PL
 pratarrão	prato+N+AUG+M+SG
 pratarrãozinho	prato+N+AUG+DIM+M+SG
 pratarrões	prato+N+AUG+M+PL
@@ -48351,7 +48337,7 @@ polenzinho	pólen+N+DIM+M+SG
 polenzinhos	pólen+N+DIM+M+PL
 pólen	pólen+N+M+SG
 pólenes	pólen+N+M+PL
-pólens	pólen+N+M+PL
+polens	pólen+N+M+PL
 polecezinho	pólex+N+DIM+M+SG
 polecezinhos	pólex+N+DIM+M+PL
 polecinho	pólex+N+DIM+M+SG

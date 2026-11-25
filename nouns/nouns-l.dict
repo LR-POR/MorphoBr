@@ -804,7 +804,7 @@ lactometrozinho	lactômetro+N+DIM+M+SG
 lactometrozinhos	lactômetro+N+DIM+M+PL
 lactômetro	lactômetro+N+M+SG
 lactômetros	lactômetro+N+M+PL
-lactumenes	lactúmen+N+M+PL
+lactúmenes	lactúmen+N+M+PL
 lactumenezinhos	lactúmen+N+DIM+M+PL
 lactumenzinho	lactúmen+N+DIM+M+SG
 lactúmen	lactúmen+N+M+SG
@@ -1151,11 +1151,6 @@ ladranzaninhas	ladrão+N+AUG+DIM+F+PL
 ladranzaninho	ladrão+N+AUG+DIM+M+SG
 ladranzaninhos	ladrão+N+AUG+DIM+M+PL
 ladras	ladrão+N+F+PL
-ladravaz	ladrão+N+AUG+M+SG
-ladravazes	ladrão+N+AUG+M+PL
-ladravazezinhos	ladrão+N+AUG+DIM+M+PL
-ladravazinho	ladrão+N+AUG+DIM+M+SG
-ladravazinhos	ladrão+N+AUG+DIM+M+PL
 ladravão	ladrão+N+AUG+M+SG
 ladravãozinho	ladrão+N+AUG+DIM+M+SG
 ladravões	ladrão+N+AUG+M+PL
@@ -9714,7 +9709,7 @@ ligustrozinhos	ligustro+N+DIM+M+PL
 ligamenzinho	ligâmen+N+DIM+M+SG
 ligamenzinhos	ligâmen+N+DIM+M+PL
 ligâmen	ligâmen+N+M+SG
-ligâmens	ligâmen+N+M+PL
+ligamens	ligâmen+N+M+PL
 lila	lila+N+F+SG
 lilas	lila+N+F+PL
 lilazinha	lila+N+DIM+F+SG
@@ -13070,13 +13065,8 @@ lobistinha	lobista+N+DIM+SG
 lobistinhas	lobista+N+DIM+PL
 loba	lobo+N+F+SG
 lobas	lobo+N+F+PL
-lobaz	lobo+N+AUG+M+SG
-lobazes	lobo+N+AUG+M+PL
-lobazezinhos	lobo+N+AUG+DIM+M+PL
 lobazinha	lobo+N+DIM+F+SG
 lobazinhas	lobo+N+DIM+F+PL
-lobazinho	lobo+N+AUG+DIM+M+SG
-lobazinhos	lobo+N+AUG+DIM+M+PL
 lobinha	lobo+N+DIM+F+SG
 lobinhas	lobo+N+DIM+F+PL
 lobinho	lobo+N+DIM+M+SG
@@ -13168,6 +13158,8 @@ loca	loca+N+F+SG
 locas	loca+N+F+PL
 locazinha	loca+N+DIM+F+SG
 locazinhas	loca+N+DIM+F+PL
+looping	looping+N+M+SG
+loopings	looping+N+M+PL
 loquinha	loca+N+DIM+F+SG
 loquinhas	loca+N+DIM+F+PL
 locador	locador+N+M+SG
@@ -17319,7 +17311,6 @@ liquenzinho	líquen+N+DIM+M+SG
 liquenzinhos	líquen+N+DIM+M+PL
 líquen	líquen+N+M+SG
 líquenes	líquen+N+M+PL
-líquens	líquen+N+M+PL
 liquidazinha	líquido+N+DIM+F+SG
 liquidazinhas	líquido+N+DIM+F+PL
 liquidinha	líquido+N+DIM+F+SG
@@ -17507,11 +17498,10 @@ lumenzinho	lúmen+N+DIM+M+SG
 lumenzinhos	lúmen+N+DIM+M+PL
 lúmen	lúmen+N+M+SG
 lúmenes	lúmen+N+M+PL
-lúmens	lúmen+N+M+PL
 lumpenzinho	lúmpen+N+DIM+M+SG
 lumpenzinhos	lúmpen+N+DIM+M+PL
 lúmpen	lúmpen+N+M+SG
-lúmpens	lúmpen+N+M+PL
+lumpens	lúmpen+N+M+PL
 lunulazinha	lúnula+N+DIM+F+SG
 lunulazinhas	lúnula+N+DIM+F+PL
 lunulinha	lúnula+N+DIM+F+SG

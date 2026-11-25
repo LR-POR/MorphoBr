@@ -9457,9 +9457,6 @@ geticidadezinha	geticidade+N+DIM+F+SG
 geticidadezinhas	geticidade+N+DIM+F+PL
 geticidadinha	geticidade+N+DIM+F+SG
 geticidadinhas	geticidade+N+DIM+F+PL
-GeV	gev+N+M
-GeVzinho	gev+N+DIM+M+SG
-GeVzinhos	gev+N+DIM+M+PL
 geofagazinha	geófago+N+DIM+F+SG
 geofagazinhas	geófago+N+DIM+F+PL
 geofagozinho	geófago+N+DIM+M+SG
@@ -9542,7 +9539,6 @@ geonimozinho	geônimo+N+DIM+M+SG
 geonimozinhos	geônimo+N+DIM+M+PL
 geônimo	geônimo+N+M+SG
 geônimos	geônimo+N+M+PL
-gf	gf+N+M
 ghettinho	ghetto+N+DIM+M+SG
 ghettinhos	ghetto+N+DIM+M+PL
 ghetto	ghetto+N+M+SG

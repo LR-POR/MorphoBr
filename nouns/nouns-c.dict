@@ -1,7 +1,6 @@
 C	c+N+M+SG
 c	c+N+M+SG
 cc	c+N+M+PL
-Ca	ca+N+M+SG
 caaba	caaba+N+F+SG
 caabazinha	caaba+N+DIM+F+SG
 caabinha	caaba+N+DIM+F+SG
@@ -17639,7 +17638,6 @@ catalães	catalão+N+M+PL
 catalãezinhos	catalão+N+DIM+M+PL
 catalão	catalão+N+M+SG
 catalãozinho	catalão+N+DIM+M+SG
-catalãozinhos	catalão+N+DIM+M+PL
 catalãs	catalão+N+F+PL
 catalãzinha	catalão+N+DIM+F+SG
 catalãzinhas	catalão+N+DIM+F+PL
@@ -18493,6 +18491,8 @@ catorzezinho	catorze+N+DIM+M+SG
 catorzezinhos	catorze+N+DIM+M+PL
 catorzinho	catorze+N+DIM+M+SG
 catorzinhos	catorze+N+DIM+M+PL
+chat	chat+N+M+SG
+chats	chat+N+M+PL
 quatorze	catorze+N+PL
 quatorzezinhas	catorze+N+DIM+F+PL
 quatorzezinhos	catorze+N+DIM+M+PL
@@ -34745,7 +34745,6 @@ clitorisinhas	clítoris+N+DIM+F+PL
 clitorisinho	clítoris+N+DIM+M+SG
 clitorisinhos	clítoris+N+DIM+M+PL
 clítoris	clítoris+N+M
-cm	cm+N+M
 cnemalgia	cnemalgia+N+F+SG
 cnemalgias	cnemalgia+N+F+PL
 cnemalgiazinha	cnemalgia+N+DIM+F+SG
@@ -62121,7 +62120,7 @@ cáfilas	cáfila+N+F+PL
 caftenzinho	cáften+N+DIM+M+SG
 caftenzinhos	cáften+N+DIM+M+PL
 cáften	cáften+N+M+SG
-cáftens	cáften+N+M+PL
+caftens	cáften+N+M+PL
 cagadinho	cágado+N+DIM+M+SG
 cagadinhos	cágado+N+DIM+M+PL
 cagadozinho	cágado+N+DIM+M+SG

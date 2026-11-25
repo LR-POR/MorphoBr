@@ -1,8 +1,5 @@
 k	k+N+M+SG
 kk	k+N+M+PL
-kV	kV+N
-kW	kW+N
-kWh	kWh+N
 kabuqui	kabuqui+N+M+SG
 kabuquis	kabuqui+N+M+PL
 kabuquizinho	kabuqui+N+DIM+M+SG
@@ -94,7 +91,6 @@ kbytezinho	kbyte+N+DIM+M+SG
 kbytezinhos	kbyte+N+DIM+M+PL
 kbytinho	kbyte+N+DIM+M+SG
 kbytinhos	kbyte+N+DIM+M+PL
-kc	kc+N
 keewatinianinho	keewatiniano+N+DIM+M+SG
 keewatinianinhos	keewatiniano+N+DIM+M+PL
 keewatiniano	keewatiniano+N+M+SG
@@ -144,7 +140,6 @@ keynesiano	keynesiano+N+M+SG
 keynesianos	keynesiano+N+M+PL
 keynesianozinho	keynesiano+N+DIM+M+SG
 keynesianozinhos	keynesiano+N+DIM+M+PL
-kg	kg+N
 kgm	kgm+N
 ki	ki+N+M+SG
 kizinho	ki+N+DIM+M+SG
@@ -217,12 +212,8 @@ kiwi	kiwi+N+M+SG
 kiwis	kiwi+N+M+PL
 kiwizinho	kiwi+N+DIM+M+SG
 kiwizinhos	kiwi+N+DIM+M+PL
-kj	kj+N
-kk	kk+N
-kl	kl+N
 klaxon	klaxon+N+M+SG
 klaxonzinho	klaxon+N+DIM+M+SG
-km	km+N
 kneippisminho	kneippismo+N+DIM+M+SG
 kneippisminhos	kneippismo+N+DIM+M+PL
 kneippismo	kneippismo+N+M+SG

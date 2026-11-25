@@ -1,4 +1,8 @@
 t	t+N+M+SG
+taiga	taiga+N+F+SG
+taigas	taiga+N+F+PL
+teratoma	teratoma+N+M+SG
+teratomas	teratoma+N+M+PL
 tt	t+N+M+PL
 t-shirt	t-shirt+N+F+SG
 t-shirts	t-shirt+N+F+PL
@@ -480,9 +484,7 @@ tabeliã	tabelião+N+F+SG
 tabeliães	tabelião+N+M+PL
 tabeliãezinhos	tabelião+N+DIM+M+PL
 tabelião	tabelião+N+M+SG
-tabeliãos	tabelião+N+M+PL
 tabeliãozinho	tabelião+N+DIM+M+SG
-tabeliãozinhos	tabelião+N+DIM+M+PL
 tabeliãs	tabelião+N+F+PL
 tabeliãzinha	tabelião+N+DIM+F+SG
 tabeliãzinhas	tabelião+N+DIM+F+PL
@@ -8524,7 +8526,7 @@ tentáculos	tentáculo+N+M+PL
 tentamenzinho	tentâmen+N+DIM+M+SG
 tentamenzinhos	tentâmen+N+DIM+M+PL
 tentâmen	tentâmen+N+M+SG
-tentâmens	tentâmen+N+M+PL
+tentamens	tentâmen+N+M+PL
 tentorinho	tentório+N+DIM+M+SG
 tentorinhos	tentório+N+DIM+M+PL
 tentoriozinho	tentório+N+DIM+M+SG
@@ -28161,8 +28163,6 @@ tuizinho	tuí+N+DIM+M+SG
 tuizinhos	tuí+N+DIM+M+PL
 tuí	tuí+N+M+SG
 tuís	tuí+N+M+PL
-tv	tv+N+F+SG
-tvs	tv+N+F+PL
 tweed	tweed+N+M+SG
 tweedzinho	tweed+N+DIM+M+SG
 twist	twist+N+M+SG
@@ -28473,7 +28473,7 @@ télsons	télson+N+M+PL
 temenzinho	témen+N+DIM+M+SG
 temenzinhos	témen+N+DIM+M+PL
 témen	témen+N+M+SG
-témens	témen+N+M+PL
+temens	témen+N+M+PL
 temiazinha	témia+N+DIM+F+SG
 temiazinhas	témia+N+DIM+F+PL
 teminha	témia+N+DIM+F+SG
