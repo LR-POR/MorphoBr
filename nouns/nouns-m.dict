@@ -1,4 +1,8 @@
 m	m+N+M+SG
+megárico	megárico+N+M+SG
+megáricos	megárico+N+M+PL
+meme	meme+N+M+SG
+memes	meme+N+M+PL
 mm	m+N+M+PL
 maaiana	maaiana+N+M+SG
 maaianas	maaiana+N+M+PL
@@ -546,7 +550,7 @@ machacazinha	machacaz+N+DIM+F+SG
 machacazinhas	machacaz+N+DIM+F+PL
 machacazinho	machacaz+N+DIM+M+SG
 machacazinhos	machacaz+N+DIM+M+PL
-machacazs	machacaz+N+PL
+machacazes	machacaz+N+PL
 machada	machada+N+F+SG
 machadas	machada+N+F+PL
 machadazinha	machada+N+DIM+F+SG
@@ -737,11 +741,6 @@ femeinha	macho+N+DIM+F+SG
 femeinhas	macho+N+DIM+F+PL
 fêmea	macho+N+F+SG
 fêmeas	macho+N+F+PL
-machacaz	macho+N+AUG+M+SG
-machacazes	macho+N+AUG+M+PL
-machacazezinhos	macho+N+AUG+DIM+M+PL
-machacazinho	macho+N+AUG+DIM+M+SG
-machacazinhos	macho+N+AUG+DIM+M+PL
 machinho	macho+N+DIM+M+SG
 machinhos	macho+N+DIM+M+PL
 macho	macho+N+M+SG
@@ -28142,7 +28141,7 @@ molídias	molídia+N+F+PL
 molimenzinho	molímen+N+DIM+M+SG
 molimenzinhos	molímen+N+DIM+M+PL
 molímen	molímen+N+M+SG
-molímens	molímen+N+M+PL
+molimens	molímen+N+M+PL
 moluriazinha	molúria+N+DIM+F+SG
 moluriazinhas	molúria+N+DIM+F+PL
 moluriazinho	molúria+N+DIM+M+SG

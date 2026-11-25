@@ -15345,8 +15345,6 @@ sintrãozinhos	sintrão+A+DIM+M+PL
 sintrãs	sintrão+A+F+PL
 sintrãzinha	sintrão+A+DIM+F+SG
 sintrãzinhas	sintrão+A+DIM+F+PL
-sintrões	sintrão+A+M+PL
-sintrõezinhos	sintrão+A+DIM+M+PL
 sintacticazinha	sintáctico+A+DIM+F+SG
 sintacticazinhas	sintáctico+A+DIM+F+PL
 sintacticozinho	sintáctico+A+DIM+M+SG
@@ -16315,6 +16313,10 @@ soberbíssima	soberbo+A+SUPER+F+SG
 soberbíssimas	soberbo+A+SUPER+F+PL
 soberbíssimo	soberbo+A+SUPER+M+SG
 soberbíssimos	soberbo+A+SUPER+M+PL
+sul-coreana	sul-coreano+A+F+SG
+sul-coreanas	sul-coreano+A+F+PL
+sul-coreano	sul-coreano+A+M+SG
+sul-coreanos	sul-coreano+A+M+PL
 superbíssima	soberbo+A+SUPER+F+SG
 superbíssimas	soberbo+A+SUPER+F+PL
 superbíssimo	soberbo+A+SUPER+M+SG
@@ -27645,9 +27647,7 @@ suãzinha	suã+A+DIM+F+SG
 suãzinhas	suã+A+DIM+F+PL
 suã	suão+A+F+SG
 suão	suão+A+M+SG
-suãos	suão+A+M+PL
 suãozinho	suão+A+DIM+M+SG
-suãozinhos	suão+A+DIM+M+PL
 suãs	suão+A+F+PL
 suãzinha	suão+A+DIM+F+SG
 suãzinhas	suão+A+DIM+F+PL

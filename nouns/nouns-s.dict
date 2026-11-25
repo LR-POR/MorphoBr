@@ -4691,7 +4691,7 @@ santimônias	santimônia+N+F+PL
 santiamenzinho	santiámen+N+DIM+M+SG
 santiamenzinhos	santiámen+N+DIM+M+PL
 santiámen	santiámen+N+M+SG
-santiámens	santiámen+N+M+PL
+santiamens	santiámen+N+M+PL
 santa	santo+N+F+SG
 santarrona	santo+N+AUG+F+SG
 santarronas	santo+N+AUG+F+PL
@@ -23801,14 +23801,6 @@ sprinterzinha	sprinter+N+DIM+F+SG
 sprinterzinhas	sprinter+N+DIM+F+PL
 sprinterzinho	sprinter+N+DIM+M+SG
 sprinterzinhos	sprinter+N+DIM+M+PL
-sr	sr+N+M+SG
-sra	sr+N+F+SG
-sras	sr+N+F+PL
-srazinha	sr+N+DIM+F+SG
-srazinhas	sr+N+DIM+F+PL
-srinha	sr+N+DIM+F+SG
-srinhas	sr+N+DIM+F+PL
-srs	sr+N+M+PL
 staccatinho	staccato+N+DIM+M+SG
 staccatinhos	staccato+N+DIM+M+PL
 staccato	staccato+N+M+SG
@@ -24707,6 +24699,8 @@ subdécupla	subdécuplo+N+F+SG
 subdécuplas	subdécuplo+N+F+PL
 subdécuplo	subdécuplo+N+M+SG
 subdécuplos	subdécuplo+N+M+PL
+subdução	subdução+N+F+SG
+subduções	subdução+N+F+PL
 subeditor	subeditor+N+M+SG
 subeditora	subeditor+N+F+SG
 subeditoras	subeditor+N+F+PL
@@ -26862,6 +26856,8 @@ suco	suco+N+M+SG
 sucos	suco+N+M+PL
 sucozinho	suco+N+DIM+M+SG
 sucozinhos	suco+N+DIM+M+PL
+sul-coreano	sul-coreano+N+M+SG
+sul-coreanos	sul-coreano+N+M+PL
 suquinho	suco+N+DIM+M+SG
 suquinhos	suco+N+DIM+M+PL
 sucosidade	sucosidade+N+F+SG
@@ -30771,7 +30767,7 @@ séculos	século+N+M+PL
 semenzinho	sémen+N+DIM+M+SG
 semenzinhos	sémen+N+DIM+M+PL
 sémen	sémen+N+M+SG
-sémens	sémen+N+M+PL
+semens	sémen+N+M+PL
 sémen-contra	sémen-contra+N+M+SG
 sémen-contras	sémen-contra+N+M+PL
 sémen-contrazinho	sémen-contra+N+DIM+M+SG

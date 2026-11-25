@@ -8765,7 +8765,7 @@ acumenzinho	acúmen+N+DIM+M+SG
 acumenzinhos	acúmen+N+DIM+M+PL
 acúmen	acúmen+N+M+SG
 acúmenes	acúmen+N+M+PL
-acúmens	acúmen+N+M+PL
+acumens	acúmen+N+M+PL
 acumetrinho	acúmetro+N+DIM+M+SG
 acumetrinhos	acúmetro+N+DIM+M+PL
 acumetrozinho	acúmetro+N+DIM+M+SG
@@ -17233,7 +17233,6 @@ albumenzinho	albúmen+N+DIM+M+SG
 albumenzinhos	albúmen+N+DIM+M+PL
 albúmen	albúmen+N+M+SG
 albúmenes	albúmen+N+M+PL
-albúmens	albúmen+N+M+PL
 alca	alca+N+F+SG
 alcas	alca+N+F+PL
 alcazinha	alca+N+DIM+F+SG
@@ -24758,7 +24757,7 @@ alumenzinho	alúmen+N+DIM+M+SG
 alumenzinhos	alúmen+N+DIM+M+PL
 alúmen	alúmen+N+M+SG
 alúmenes	alúmen+N+M+PL
-alúmens	alúmen+N+M+PL
+alumens	alúmen+N+M+PL
 aluvinho	alúvio+N+DIM+M+SG
 aluvinhos	alúvio+N+DIM+M+PL
 aluviozinho	alúvio+N+DIM+M+SG
@@ -43336,8 +43335,6 @@ apozeminha	apózema+N+DIM+M+SG
 apozeminhas	apózema+N+DIM+M+PL
 apózema	apózema+N+M+SG
 apózemas	apózema+N+M+PL
-aq	aq+N+F+SG
-aqzinha	aq+N+DIM+F+SG
 aquacultura	aquacultura+N+F+SG
 aquaculturas	aquacultura+N+F+PL
 aquaculturazinha	aquacultura+N+DIM+F+SG
@@ -56942,8 +56939,6 @@ atxim	atxim+N+M+SG
 atxins	atxim+N+M+PL
 atxinzinho	atxim+N+DIM+M+SG
 atxinzinhos	atxim+N+DIM+M+PL
-Au	au+N+M+SG
-Auzinho	au+N+DIM+M+SG
 au-au	au-au+N+M+SG
 au-auzinho	au-au+N+DIM+M+SG
 audaciosidade	audaciosidade+N+F+SG

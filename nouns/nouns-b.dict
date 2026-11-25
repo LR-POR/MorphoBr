@@ -1,7 +1,6 @@
 B	b+N+M+SG
 b	b+N+M+SG
 bb	b+N+M+PL
-Ba	ba+N+M+SG
 baalita	baalita+N+SG
 baalitas	baalita+N+PL
 baalitazinha	baalita+N+DIM+F+SG
@@ -6091,12 +6090,12 @@ barrosozinho	barroso+N+DIM+M+SG
 barrosozinhos	barroso+N+DIM+M+PL
 barrosã	barrosão+N+F+SG
 barrosão	barrosão+N+M+SG
-barrosãos	barrosão+N+M+PL
 barrosãozinho	barrosão+N+DIM+M+SG
-barrosãozinhos	barrosão+N+DIM+M+PL
 barrosãs	barrosão+N+F+PL
 barrosãzinha	barrosão+N+DIM+F+SG
 barrosãzinhas	barrosão+N+DIM+F+PL
+barrosões	barrosão+N+M+PL
+barrosõezinhos	barrosão+N+DIM+M+PL
 barrote	barrote+N+M+SG
 barrotes	barrote+N+M+PL
 barrotezinho	barrote+N+DIM+M+SG
@@ -7475,7 +7474,6 @@ bauzito	baú+N+DIM+M+SG
 bauzitos	baú+N+DIM+M+PL
 baú	baú+N+M+SG
 baús	baú+N+M+PL
-BCG	bcg+N+M+SG
 bdelometrinho	bdelómetro+N+DIM+M+SG
 bdelometrinhos	bdelómetro+N+DIM+M+PL
 bdelometrozinho	bdelómetro+N+DIM+M+SG
@@ -15175,6 +15173,8 @@ blocozinho	bloco+N+DIM+M+SG
 blocozinhos	bloco+N+DIM+M+PL
 blocozito	bloco+N+DIM+M+SG
 blocozitos	bloco+N+DIM+M+PL
+blogueiro	blogueiro+N+M+SG
+blogueiros	blogueiro+N+M+PL
 bloquinho	bloco+N+DIM+M+SG
 bloquinhos	bloco+N+DIM+M+PL
 bloquito	bloco+N+DIM+M+SG
@@ -18995,8 +18995,6 @@ boîtezinha	boîte+N+DIM+F+SG
 boîtezinhas	boîte+N+DIM+F+PL
 boîtinha	boîte+N+DIM+F+SG
 boîtinhas	boîte+N+DIM+F+PL
-Bq	bq+N+M+SG
-Br	br+N+M+SG
 brabeza	brabeza+N+F+SG
 brabezas	brabeza+N+F+PL
 brabezazinha	brabeza+N+DIM+F+SG

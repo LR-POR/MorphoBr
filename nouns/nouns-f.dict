@@ -126,8 +126,6 @@ fac-similinhos	fac-símile+N+DIM+M+PL
 fac-símile	fac-símile+N+M+SG
 fac-símiles	fac-símile+N+M+PL
 faca	faca+N+F+SG
-facalhaz	faca+N+AUG+M+SG
-facalhazinho	faca+N+AUG+DIM+M+SG
 facalhão	faca+N+AUG+M+SG
 facalhãozinho	faca+N+AUG+DIM+M+SG
 facalhões	faca+N+AUG+M+PL
@@ -3920,11 +3918,6 @@ fateusim	fateusim+N+M+SG
 fateusins	fateusim+N+M+PL
 fateusinzinho	fateusim+N+DIM+M+SG
 fateusinzinhos	fateusim+N+DIM+M+PL
-fatacaz	fatia+N+AUG+M+SG
-fatacazes	fatia+N+AUG+M+PL
-fatacazezinhos	fatia+N+AUG+DIM+M+PL
-fatacazinho	fatia+N+AUG+DIM+M+SG
-fatacazinhos	fatia+N+AUG+DIM+M+PL
 fatia	fatia+N+F+SG
 fatias	fatia+N+F+PL
 fatiazinha	fatia+N+DIM+F+SG
