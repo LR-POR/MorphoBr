@@ -1,0 +1,6 @@
+# Dicionários com fim de linha LF: CRLF quebra a compilação com foma
+/nouns/*.dict text eol=lf
+/verbs/*.dict text eol=lf
+/clitics/*.dict text eol=lf
+/adjectives/*.dict text eol=lf
+/adverbs/*.dict text eol=lf

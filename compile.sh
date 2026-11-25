@@ -1,15 +1,31 @@
 #!/bin/bash
+# Compila os dicionários do MorphoBr num transdutor foma (morphobr.bin).
+#
+# Requer:
+#  - stack, para compilar o conversor em code/;
+#  - foma com pilha dinâmica (https://github.com/mhulden/foma/pull/176)
+#    ou com MAX_STACK aumentado em foma/int_stack.c. Para usar um foma
+#    fora do PATH, defina FOMA, p.ex.: FOMA=~/foma/foma/build/foma ./compile.sh
 
-HASH=8c6f9cc9675f5af6be43a7692a4d501a5dae79e7c0cc307fa2b861b2cfff82e4
-EXE=code/.stack-work/install/aarch64-osx/$HASH/9.2.6/bin/code-exe
+set -euo pipefail
+
+cd "$(dirname "$0")"
+
+FOMA=${FOMA:-foma}
 TMP=tmp
 
-for f in nouns/*.dict; do $EXE -m $f >> $TMP/nouns.stxt ; done
-for f in verbs/*.dict; do $EXE -m $f >> $TMP/verbs.stxt ; done
-for f in clitics/*.dict; do $EXE -m $f >> $TMP/clitics.stxt ; done
-for f in adjectives/*.dict; do $EXE -m $f >> $TMP/adjectives.stxt ; done
-for f in adverbs/*.dict; do $EXE -m $f >> $TMP/adverbs.stxt ; done
+(cd code && stack build --silent)
+EXE="$(cd code && stack path --local-install-root)/bin/code-exe"
 
-foma -f compile.foma
+mkdir -p $TMP
+rm -f $TMP/*.stxt
+
+for d in nouns verbs clitics adjectives adverbs; do
+    for f in $d/*.dict; do
+        "$EXE" -m "$f" | tr -d '\r'
+    done > $TMP/$d.stxt
+done
+
+"$FOMA" -f compile.foma
 
 rm $TMP/*.stxt

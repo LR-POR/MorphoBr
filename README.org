@@ -41,23 +41,40 @@ compile it with [[http://fomafst.github.io][Foma]]:
 
 #+begin_src bash
     % ./compile.sh
-    % foma -f compile.foma
     % echo "fortinho" | flookup -i morphobr.bin
     fortinho	forte+N+DIM+M+SG
     fortinho	forte+A+DIM+M+SG
 
     % echo "comprei-o" | flookup -i morphobr.bin
-    comprei-o	comprar+V+ele.ACC.3.M.SG+PRF+1+SG
+    comprei-o	comprar+V.ele.ACC.3.M.SG+PRF+1+SG
 
 #+end_src
 
-For that, you need to:
+=compile.sh= builds the converter in =code/= with [[https://docs.haskellstack.org][stack]], converts the
+dictionaries to Foma's spaced-text format and runs =compile.foma=,
+producing =morphobr.bin=. The build takes about 2 minutes and needs
+about 5 GB of memory.
 
-1. change the MAX_STACK value in the int_stack.c file in Foma source
-   code to at least 9097152. Compile Foma.
+For that, you need:
 
-See https://github.com/mhulden/foma/issues/146 and
-https://github.com/mhulden/foma/issues/130
+1. [[https://docs.haskellstack.org][stack]], to build the converter in =code/=.
+
+2. A Foma that can read the large lexicon. Foma 0.10.0 (e.g. from
+   Homebrew) aborts with =Stack full!= because its internal stacks
+   have a fixed size. Use Foma with dynamic stacks
+   ([[https://github.com/mhulden/foma/pull/176][mhulden/foma#176]]),
+   or change the =MAX_STACK= value in =foma/int_stack.c= to at least
+   9097152 and compile Foma. To use a Foma that is not in the =PATH=,
+   set =FOMA=:
+
+   #+begin_src bash
+    % FOMA=~/foma/foma/build/foma ./compile.sh
+   #+end_src
+
+See https://github.com/mhulden/foma/issues/130.
+
+The dictionary files must use LF line endings (enforced by
+=.gitattributes=): CR characters break the compilation.
 
 Python modules as well as XFST and bash scripts for performing this
 task are available in the =tools/= folder. Inadequacies and errors
