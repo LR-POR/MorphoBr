@@ -30,6 +30,12 @@ clear stack
 source rules/orthography.foma
 define verbRules [verbLex .o. Orthography].i ;
 
-regex  nouns | verbs | verbRules | clitics | adjs | advs;
+! Diminutivos gerados por regras (rules/dim/ + lexicon/dim/, ver #149),
+! produzidos por tools/dim.py generate no formato dos arquivos .dict.
+read spaced-text tmp/dim.stxt
+define dims ;
+clear stack
+
+regex  nouns | dims | verbs | verbRules | clitics | adjs | advs;
 save stack morphobr.bin
 

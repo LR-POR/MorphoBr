@@ -3,6 +3,7 @@
 #
 # Requer:
 #  - stack, para compilar o conversor em code/;
+#  - python3, para gerar os diminutivos (tools/dim.py);
 #  - foma com pilha dinâmica (https://github.com/mhulden/foma/pull/176)
 #    ou com MAX_STACK aumentado em foma/int_stack.c. Para usar um foma
 #    fora do PATH, defina FOMA, p.ex.: FOMA=~/foma/foma/build/foma ./compile.sh
@@ -29,6 +30,10 @@ done
 # léxico de radicais + paradigmas dos verbos gerados por regras (ver #143)
 tools/lexicon-to-lexc.sh > $TMP/verbs.lexc
 
+# diminutivos gerados por regras (rules/dim/ + lexicon/dim/, ver #149)
+FOMA="$FOMA" python3 -B tools/dim.py generate > $TMP/dim.dict
+"$EXE" -m $TMP/dim.dict > $TMP/dim.stxt
+
 "$FOMA" -f compile.foma
 
-rm $TMP/*.stxt $TMP/verbs.lexc
+rm $TMP/*.stxt $TMP/verbs.lexc $TMP/dim.dict
