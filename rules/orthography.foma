@@ -11,5 +11,6 @@ define CCED c -> ç || _ "^E" [a|o] ;         ! conhecer: conheço, conheça
 define GJ g -> j || _ "^E" [a|o] ;           ! proteger: protejo; fingir: finjo
 define GUG {gu} -> g || _ "^E" [a|o] ;       ! erguer: ergo; distinguir: distingo
 
-define BOUNDARY ["^" | "^E"] -> 0 ;
+! ^N: fronteira neutra (a terminação da classe já inclui a consoante final)
+define BOUNDARY ["^" | "^E" | "^N"] -> 0 ;
 define Orthography CQU .o. GGU .o. CED .o. CCED .o. GJ .o. GUG .o. BOUNDARY ;
