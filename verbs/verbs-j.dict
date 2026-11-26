@@ -11,6 +11,7 @@ jacksonianizarás	jacksonianizar+V+FUT+2+SG
 jacksonianizarão	jacksonianizar+V+FUT+3+PL
 jacksonianizará	jacksonianizar+V+FUT+3+SG
 jacksonianizando	jacksonianizar+V+GRD
+jacksonianizemo	jacksonianizar+V+IMP+1+PL
 jacksonianizemos	jacksonianizar+V+IMP+1+PL
 jacksonianizai	jacksonianizar+V+IMP+2+PL
 jacksonianiza	jacksonianizar+V+IMP+2+SG
@@ -23,6 +24,12 @@ jacksonianizavas	jacksonianizar+V+IMPF+2+SG
 jacksonianizavam	jacksonianizar+V+IMPF+3+PL
 jacksonianizava	jacksonianizar+V+IMPF+3+SG
 jacksonianizar	jacksonianizar+V+INF
+jacksonianizarmos	jacksonianizar+V+INF+1+PL
+jacksonianizar	jacksonianizar+V+INF+1+SG
+jacksonianizardes	jacksonianizar+V+INF+2+PL
+jacksonianizares	jacksonianizar+V+INF+2+SG
+jacksonianizarem	jacksonianizar+V+INF+3+PL
+jacksonianizar	jacksonianizar+V+INF+3+SG
 jacksonianizáramos	jacksonianizar+V+PQP+1+PL
 jacksonianizara	jacksonianizar+V+PQP+1+SG
 jacksonianizáreis	jacksonianizar+V+PQP+2+PL
@@ -30,6 +37,7 @@ jacksonianizaras	jacksonianizar+V+PQP+2+SG
 jacksonianizaram	jacksonianizar+V+PQP+3+PL
 jacksonianizara	jacksonianizar+V+PQP+3+SG
 jacksonianizamos	jacksonianizar+V+PRF+1+PL
+jacksonianizámos	jacksonianizar+V+PRF+1+PL
 jacksonianizei	jacksonianizar+V+PRF+1+SG
 jacksonianizastes	jacksonianizar+V+PRF+2+PL
 jacksonianizaste	jacksonianizar+V+PRF+2+SG
@@ -148,6 +156,7 @@ jacoralizarás	jacoralizar+V+FUT+2+SG
 jacoralizarão	jacoralizar+V+FUT+3+PL
 jacoralizará	jacoralizar+V+FUT+3+SG
 jacoralizando	jacoralizar+V+GRD
+jacoralizemo	jacoralizar+V+IMP+1+PL
 jacoralizemos	jacoralizar+V+IMP+1+PL
 jacoralizai	jacoralizar+V+IMP+2+PL
 jacoraliza	jacoralizar+V+IMP+2+SG
@@ -160,6 +169,12 @@ jacoralizavas	jacoralizar+V+IMPF+2+SG
 jacoralizavam	jacoralizar+V+IMPF+3+PL
 jacoralizava	jacoralizar+V+IMPF+3+SG
 jacoralizar	jacoralizar+V+INF
+jacoralizarmos	jacoralizar+V+INF+1+PL
+jacoralizar	jacoralizar+V+INF+1+SG
+jacoralizardes	jacoralizar+V+INF+2+PL
+jacoralizares	jacoralizar+V+INF+2+SG
+jacoralizarem	jacoralizar+V+INF+3+PL
+jacoralizar	jacoralizar+V+INF+3+SG
 jacoralizáramos	jacoralizar+V+PQP+1+PL
 jacoralizara	jacoralizar+V+PQP+1+SG
 jacoralizáreis	jacoralizar+V+PQP+2+PL
@@ -167,6 +182,7 @@ jacoralizaras	jacoralizar+V+PQP+2+SG
 jacoralizaram	jacoralizar+V+PQP+3+PL
 jacoralizara	jacoralizar+V+PQP+3+SG
 jacoralizamos	jacoralizar+V+PRF+1+PL
+jacoralizámos	jacoralizar+V+PRF+1+PL
 jacoralizei	jacoralizar+V+PRF+1+SG
 jacoralizastes	jacoralizar+V+PRF+2+PL
 jacoralizaste	jacoralizar+V+PRF+2+SG
@@ -505,6 +521,7 @@ jafeticizarás	jafeticizar+V+FUT+2+SG
 jafeticizarão	jafeticizar+V+FUT+3+PL
 jafeticizará	jafeticizar+V+FUT+3+SG
 jafeticizando	jafeticizar+V+GRD
+jafeticizemo	jafeticizar+V+IMP+1+PL
 jafeticizemos	jafeticizar+V+IMP+1+PL
 jafeticizai	jafeticizar+V+IMP+2+PL
 jafeticiza	jafeticizar+V+IMP+2+SG
@@ -517,6 +534,12 @@ jafeticizavas	jafeticizar+V+IMPF+2+SG
 jafeticizavam	jafeticizar+V+IMPF+3+PL
 jafeticizava	jafeticizar+V+IMPF+3+SG
 jafeticizar	jafeticizar+V+INF
+jafeticizarmos	jafeticizar+V+INF+1+PL
+jafeticizar	jafeticizar+V+INF+1+SG
+jafeticizardes	jafeticizar+V+INF+2+PL
+jafeticizares	jafeticizar+V+INF+2+SG
+jafeticizarem	jafeticizar+V+INF+3+PL
+jafeticizar	jafeticizar+V+INF+3+SG
 jafeticizáramos	jafeticizar+V+PQP+1+PL
 jafeticizara	jafeticizar+V+PQP+1+SG
 jafeticizáreis	jafeticizar+V+PQP+2+PL
@@ -524,6 +547,7 @@ jafeticizaras	jafeticizar+V+PQP+2+SG
 jafeticizaram	jafeticizar+V+PQP+3+PL
 jafeticizara	jafeticizar+V+PQP+3+SG
 jafeticizamos	jafeticizar+V+PRF+1+PL
+jafeticizámos	jafeticizar+V+PRF+1+PL
 jafeticizei	jafeticizar+V+PRF+1+SG
 jafeticizastes	jafeticizar+V+PRF+2+PL
 jafeticizaste	jafeticizar+V+PRF+2+SG
@@ -570,6 +594,7 @@ jamaicanizarás	jamaicanizar+V+FUT+2+SG
 jamaicanizarão	jamaicanizar+V+FUT+3+PL
 jamaicanizará	jamaicanizar+V+FUT+3+SG
 jamaicanizando	jamaicanizar+V+GRD
+jamaicanizemo	jamaicanizar+V+IMP+1+PL
 jamaicanizemos	jamaicanizar+V+IMP+1+PL
 jamaicanizai	jamaicanizar+V+IMP+2+PL
 jamaicaniza	jamaicanizar+V+IMP+2+SG
@@ -582,6 +607,12 @@ jamaicanizavas	jamaicanizar+V+IMPF+2+SG
 jamaicanizavam	jamaicanizar+V+IMPF+3+PL
 jamaicanizava	jamaicanizar+V+IMPF+3+SG
 jamaicanizar	jamaicanizar+V+INF
+jamaicanizarmos	jamaicanizar+V+INF+1+PL
+jamaicanizar	jamaicanizar+V+INF+1+SG
+jamaicanizardes	jamaicanizar+V+INF+2+PL
+jamaicanizares	jamaicanizar+V+INF+2+SG
+jamaicanizarem	jamaicanizar+V+INF+3+PL
+jamaicanizar	jamaicanizar+V+INF+3+SG
 jamaicanizáramos	jamaicanizar+V+PQP+1+PL
 jamaicanizara	jamaicanizar+V+PQP+1+SG
 jamaicanizáreis	jamaicanizar+V+PQP+2+PL
@@ -589,6 +620,7 @@ jamaicanizaras	jamaicanizar+V+PQP+2+SG
 jamaicanizaram	jamaicanizar+V+PQP+3+PL
 jamaicanizara	jamaicanizar+V+PQP+3+SG
 jamaicanizamos	jamaicanizar+V+PRF+1+PL
+jamaicanizámos	jamaicanizar+V+PRF+1+PL
 jamaicanizei	jamaicanizar+V+PRF+1+SG
 jamaicanizastes	jamaicanizar+V+PRF+2+PL
 jamaicanizaste	jamaicanizar+V+PRF+2+SG
@@ -635,6 +667,7 @@ jambicizarás	jambicizar+V+FUT+2+SG
 jambicizarão	jambicizar+V+FUT+3+PL
 jambicizará	jambicizar+V+FUT+3+SG
 jambicizando	jambicizar+V+GRD
+jambicizemo	jambicizar+V+IMP+1+PL
 jambicizemos	jambicizar+V+IMP+1+PL
 jambicizai	jambicizar+V+IMP+2+PL
 jambiciza	jambicizar+V+IMP+2+SG
@@ -647,6 +680,12 @@ jambicizavas	jambicizar+V+IMPF+2+SG
 jambicizavam	jambicizar+V+IMPF+3+PL
 jambicizava	jambicizar+V+IMPF+3+SG
 jambicizar	jambicizar+V+INF
+jambicizarmos	jambicizar+V+INF+1+PL
+jambicizar	jambicizar+V+INF+1+SG
+jambicizardes	jambicizar+V+INF+2+PL
+jambicizares	jambicizar+V+INF+2+SG
+jambicizarem	jambicizar+V+INF+3+PL
+jambicizar	jambicizar+V+INF+3+SG
 jambicizáramos	jambicizar+V+PQP+1+PL
 jambicizara	jambicizar+V+PQP+1+SG
 jambicizáreis	jambicizar+V+PQP+2+PL
@@ -654,6 +693,7 @@ jambicizaras	jambicizar+V+PQP+2+SG
 jambicizaram	jambicizar+V+PQP+3+PL
 jambicizara	jambicizar+V+PQP+3+SG
 jambicizamos	jambicizar+V+PRF+1+PL
+jambicizámos	jambicizar+V+PRF+1+PL
 jambicizei	jambicizar+V+PRF+1+SG
 jambicizastes	jambicizar+V+PRF+2+PL
 jambicizaste	jambicizar+V+PRF+2+SG
@@ -990,6 +1030,7 @@ japonesabilizarás	japonesabilizar+V+FUT+2+SG
 japonesabilizarão	japonesabilizar+V+FUT+3+PL
 japonesabilizará	japonesabilizar+V+FUT+3+SG
 japonesabilizando	japonesabilizar+V+GRD
+japonesabilizemo	japonesabilizar+V+IMP+1+PL
 japonesabilizemos	japonesabilizar+V+IMP+1+PL
 japonesabilizai	japonesabilizar+V+IMP+2+PL
 japonesabiliza	japonesabilizar+V+IMP+2+SG
@@ -1002,6 +1043,12 @@ japonesabilizavas	japonesabilizar+V+IMPF+2+SG
 japonesabilizavam	japonesabilizar+V+IMPF+3+PL
 japonesabilizava	japonesabilizar+V+IMPF+3+SG
 japonesabilizar	japonesabilizar+V+INF
+japonesabilizarmos	japonesabilizar+V+INF+1+PL
+japonesabilizar	japonesabilizar+V+INF+1+SG
+japonesabilizardes	japonesabilizar+V+INF+2+PL
+japonesabilizares	japonesabilizar+V+INF+2+SG
+japonesabilizarem	japonesabilizar+V+INF+3+PL
+japonesabilizar	japonesabilizar+V+INF+3+SG
 japonesabilizáramos	japonesabilizar+V+PQP+1+PL
 japonesabilizara	japonesabilizar+V+PQP+1+SG
 japonesabilizáreis	japonesabilizar+V+PQP+2+PL
@@ -1009,6 +1056,7 @@ japonesabilizaras	japonesabilizar+V+PQP+2+SG
 japonesabilizaram	japonesabilizar+V+PQP+3+PL
 japonesabilizara	japonesabilizar+V+PQP+3+SG
 japonesabilizamos	japonesabilizar+V+PRF+1+PL
+japonesabilizámos	japonesabilizar+V+PRF+1+PL
 japonesabilizei	japonesabilizar+V+PRF+1+SG
 japonesabilizastes	japonesabilizar+V+PRF+2+PL
 japonesabilizaste	japonesabilizar+V+PRF+2+SG
@@ -1199,6 +1247,7 @@ japonicizarás	japonicizar+V+FUT+2+SG
 japonicizarão	japonicizar+V+FUT+3+PL
 japonicizará	japonicizar+V+FUT+3+SG
 japonicizando	japonicizar+V+GRD
+japonicizemo	japonicizar+V+IMP+1+PL
 japonicizemos	japonicizar+V+IMP+1+PL
 japonicizai	japonicizar+V+IMP+2+PL
 japoniciza	japonicizar+V+IMP+2+SG
@@ -1211,6 +1260,12 @@ japonicizavas	japonicizar+V+IMPF+2+SG
 japonicizavam	japonicizar+V+IMPF+3+PL
 japonicizava	japonicizar+V+IMPF+3+SG
 japonicizar	japonicizar+V+INF
+japonicizarmos	japonicizar+V+INF+1+PL
+japonicizar	japonicizar+V+INF+1+SG
+japonicizardes	japonicizar+V+INF+2+PL
+japonicizares	japonicizar+V+INF+2+SG
+japonicizarem	japonicizar+V+INF+3+PL
+japonicizar	japonicizar+V+INF+3+SG
 japonicizáramos	japonicizar+V+PQP+1+PL
 japonicizara	japonicizar+V+PQP+1+SG
 japonicizáreis	japonicizar+V+PQP+2+PL
@@ -1218,6 +1273,7 @@ japonicizaras	japonicizar+V+PQP+2+SG
 japonicizaram	japonicizar+V+PQP+3+PL
 japonicizara	japonicizar+V+PQP+3+SG
 japonicizamos	japonicizar+V+PRF+1+PL
+japonicizámos	japonicizar+V+PRF+1+PL
 japonicizei	japonicizar+V+PRF+1+SG
 japonicizastes	japonicizar+V+PRF+2+PL
 japonicizaste	japonicizar+V+PRF+2+SG
@@ -1264,6 +1320,7 @@ japonizabilizarás	japonizabilizar+V+FUT+2+SG
 japonizabilizarão	japonizabilizar+V+FUT+3+PL
 japonizabilizará	japonizabilizar+V+FUT+3+SG
 japonizabilizando	japonizabilizar+V+GRD
+japonizabilizemo	japonizabilizar+V+IMP+1+PL
 japonizabilizemos	japonizabilizar+V+IMP+1+PL
 japonizabilizai	japonizabilizar+V+IMP+2+PL
 japonizabiliza	japonizabilizar+V+IMP+2+SG
@@ -1276,6 +1333,12 @@ japonizabilizavas	japonizabilizar+V+IMPF+2+SG
 japonizabilizavam	japonizabilizar+V+IMPF+3+PL
 japonizabilizava	japonizabilizar+V+IMPF+3+SG
 japonizabilizar	japonizabilizar+V+INF
+japonizabilizarmos	japonizabilizar+V+INF+1+PL
+japonizabilizar	japonizabilizar+V+INF+1+SG
+japonizabilizardes	japonizabilizar+V+INF+2+PL
+japonizabilizares	japonizabilizar+V+INF+2+SG
+japonizabilizarem	japonizabilizar+V+INF+3+PL
+japonizabilizar	japonizabilizar+V+INF+3+SG
 japonizabilizáramos	japonizabilizar+V+PQP+1+PL
 japonizabilizara	japonizabilizar+V+PQP+1+SG
 japonizabilizáreis	japonizabilizar+V+PQP+2+PL
@@ -1283,6 +1346,7 @@ japonizabilizaras	japonizabilizar+V+PQP+2+SG
 japonizabilizaram	japonizabilizar+V+PQP+3+PL
 japonizabilizara	japonizabilizar+V+PQP+3+SG
 japonizabilizamos	japonizabilizar+V+PRF+1+PL
+japonizabilizámos	japonizabilizar+V+PRF+1+PL
 japonizabilizei	japonizabilizar+V+PRF+1+SG
 japonizabilizastes	japonizabilizar+V+PRF+2+PL
 japonizabilizaste	japonizabilizar+V+PRF+2+SG
@@ -1402,6 +1466,7 @@ jardinabilizarás	jardinabilizar+V+FUT+2+SG
 jardinabilizarão	jardinabilizar+V+FUT+3+PL
 jardinabilizará	jardinabilizar+V+FUT+3+SG
 jardinabilizando	jardinabilizar+V+GRD
+jardinabilizemo	jardinabilizar+V+IMP+1+PL
 jardinabilizemos	jardinabilizar+V+IMP+1+PL
 jardinabilizai	jardinabilizar+V+IMP+2+PL
 jardinabiliza	jardinabilizar+V+IMP+2+SG
@@ -1414,6 +1479,12 @@ jardinabilizavas	jardinabilizar+V+IMPF+2+SG
 jardinabilizavam	jardinabilizar+V+IMPF+3+PL
 jardinabilizava	jardinabilizar+V+IMPF+3+SG
 jardinabilizar	jardinabilizar+V+INF
+jardinabilizarmos	jardinabilizar+V+INF+1+PL
+jardinabilizar	jardinabilizar+V+INF+1+SG
+jardinabilizardes	jardinabilizar+V+INF+2+PL
+jardinabilizares	jardinabilizar+V+INF+2+SG
+jardinabilizarem	jardinabilizar+V+INF+3+PL
+jardinabilizar	jardinabilizar+V+INF+3+SG
 jardinabilizáramos	jardinabilizar+V+PQP+1+PL
 jardinabilizara	jardinabilizar+V+PQP+1+SG
 jardinabilizáreis	jardinabilizar+V+PQP+2+PL
@@ -1421,6 +1492,7 @@ jardinabilizaras	jardinabilizar+V+PQP+2+SG
 jardinabilizaram	jardinabilizar+V+PQP+3+PL
 jardinabilizara	jardinabilizar+V+PQP+3+SG
 jardinabilizamos	jardinabilizar+V+PRF+1+PL
+jardinabilizámos	jardinabilizar+V+PRF+1+PL
 jardinabilizei	jardinabilizar+V+PRF+1+SG
 jardinabilizastes	jardinabilizar+V+PRF+2+PL
 jardinabilizaste	jardinabilizar+V+PRF+2+SG
@@ -2120,6 +2192,7 @@ jazzisticizarás	jazzisticizar+V+FUT+2+SG
 jazzisticizarão	jazzisticizar+V+FUT+3+PL
 jazzisticizará	jazzisticizar+V+FUT+3+SG
 jazzisticizando	jazzisticizar+V+GRD
+jazzisticizemo	jazzisticizar+V+IMP+1+PL
 jazzisticizemos	jazzisticizar+V+IMP+1+PL
 jazzisticizai	jazzisticizar+V+IMP+2+PL
 jazzisticiza	jazzisticizar+V+IMP+2+SG
@@ -2132,6 +2205,12 @@ jazzisticizavas	jazzisticizar+V+IMPF+2+SG
 jazzisticizavam	jazzisticizar+V+IMPF+3+PL
 jazzisticizava	jazzisticizar+V+IMPF+3+SG
 jazzisticizar	jazzisticizar+V+INF
+jazzisticizarmos	jazzisticizar+V+INF+1+PL
+jazzisticizar	jazzisticizar+V+INF+1+SG
+jazzisticizardes	jazzisticizar+V+INF+2+PL
+jazzisticizares	jazzisticizar+V+INF+2+SG
+jazzisticizarem	jazzisticizar+V+INF+3+PL
+jazzisticizar	jazzisticizar+V+INF+3+SG
 jazzisticizáramos	jazzisticizar+V+PQP+1+PL
 jazzisticizara	jazzisticizar+V+PQP+1+SG
 jazzisticizáreis	jazzisticizar+V+PQP+2+PL
@@ -2139,6 +2218,7 @@ jazzisticizaras	jazzisticizar+V+PQP+2+SG
 jazzisticizaram	jazzisticizar+V+PQP+3+PL
 jazzisticizara	jazzisticizar+V+PQP+3+SG
 jazzisticizamos	jazzisticizar+V+PRF+1+PL
+jazzisticizámos	jazzisticizar+V+PRF+1+PL
 jazzisticizei	jazzisticizar+V+PRF+1+SG
 jazzisticizastes	jazzisticizar+V+PRF+2+PL
 jazzisticizaste	jazzisticizar+V+PRF+2+SG
@@ -2185,6 +2265,7 @@ jecoralizarás	jecoralizar+V+FUT+2+SG
 jecoralizarão	jecoralizar+V+FUT+3+PL
 jecoralizará	jecoralizar+V+FUT+3+SG
 jecoralizando	jecoralizar+V+GRD
+jecoralizemo	jecoralizar+V+IMP+1+PL
 jecoralizemos	jecoralizar+V+IMP+1+PL
 jecoralizai	jecoralizar+V+IMP+2+PL
 jecoraliza	jecoralizar+V+IMP+2+SG
@@ -2197,6 +2278,12 @@ jecoralizavas	jecoralizar+V+IMPF+2+SG
 jecoralizavam	jecoralizar+V+IMPF+3+PL
 jecoralizava	jecoralizar+V+IMPF+3+SG
 jecoralizar	jecoralizar+V+INF
+jecoralizarmos	jecoralizar+V+INF+1+PL
+jecoralizar	jecoralizar+V+INF+1+SG
+jecoralizardes	jecoralizar+V+INF+2+PL
+jecoralizares	jecoralizar+V+INF+2+SG
+jecoralizarem	jecoralizar+V+INF+3+PL
+jecoralizar	jecoralizar+V+INF+3+SG
 jecoralizáramos	jecoralizar+V+PQP+1+PL
 jecoralizara	jecoralizar+V+PQP+1+SG
 jecoralizáreis	jecoralizar+V+PQP+2+PL
@@ -2204,6 +2291,7 @@ jecoralizaras	jecoralizar+V+PQP+2+SG
 jecoralizaram	jecoralizar+V+PQP+3+PL
 jecoralizara	jecoralizar+V+PQP+3+SG
 jecoralizamos	jecoralizar+V+PRF+1+PL
+jecoralizámos	jecoralizar+V+PRF+1+PL
 jecoralizei	jecoralizar+V+PRF+1+SG
 jecoralizastes	jecoralizar+V+PRF+2+PL
 jecoralizaste	jecoralizar+V+PRF+2+SG
@@ -2323,6 +2411,7 @@ jejunalizarás	jejunalizar+V+FUT+2+SG
 jejunalizarão	jejunalizar+V+FUT+3+PL
 jejunalizará	jejunalizar+V+FUT+3+SG
 jejunalizando	jejunalizar+V+GRD
+jejunalizemo	jejunalizar+V+IMP+1+PL
 jejunalizemos	jejunalizar+V+IMP+1+PL
 jejunalizai	jejunalizar+V+IMP+2+PL
 jejunaliza	jejunalizar+V+IMP+2+SG
@@ -2335,6 +2424,12 @@ jejunalizavas	jejunalizar+V+IMPF+2+SG
 jejunalizavam	jejunalizar+V+IMPF+3+PL
 jejunalizava	jejunalizar+V+IMPF+3+SG
 jejunalizar	jejunalizar+V+INF
+jejunalizarmos	jejunalizar+V+INF+1+PL
+jejunalizar	jejunalizar+V+INF+1+SG
+jejunalizardes	jejunalizar+V+INF+2+PL
+jejunalizares	jejunalizar+V+INF+2+SG
+jejunalizarem	jejunalizar+V+INF+3+PL
+jejunalizar	jejunalizar+V+INF+3+SG
 jejunalizáramos	jejunalizar+V+PQP+1+PL
 jejunalizara	jejunalizar+V+PQP+1+SG
 jejunalizáreis	jejunalizar+V+PQP+2+PL
@@ -2342,6 +2437,7 @@ jejunalizaras	jejunalizar+V+PQP+2+SG
 jejunalizaram	jejunalizar+V+PQP+3+PL
 jejunalizara	jejunalizar+V+PQP+3+SG
 jejunalizamos	jejunalizar+V+PRF+1+PL
+jejunalizámos	jejunalizar+V+PRF+1+PL
 jejunalizei	jejunalizar+V+PRF+1+SG
 jejunalizastes	jejunalizar+V+PRF+2+PL
 jejunalizaste	jejunalizar+V+PRF+2+SG
@@ -2388,6 +2484,7 @@ jejunostomicizarás	jejunostomicizar+V+FUT+2+SG
 jejunostomicizarão	jejunostomicizar+V+FUT+3+PL
 jejunostomicizará	jejunostomicizar+V+FUT+3+SG
 jejunostomicizando	jejunostomicizar+V+GRD
+jejunostomicizemo	jejunostomicizar+V+IMP+1+PL
 jejunostomicizemos	jejunostomicizar+V+IMP+1+PL
 jejunostomicizai	jejunostomicizar+V+IMP+2+PL
 jejunostomiciza	jejunostomicizar+V+IMP+2+SG
@@ -2400,6 +2497,12 @@ jejunostomicizavas	jejunostomicizar+V+IMPF+2+SG
 jejunostomicizavam	jejunostomicizar+V+IMPF+3+PL
 jejunostomicizava	jejunostomicizar+V+IMPF+3+SG
 jejunostomicizar	jejunostomicizar+V+INF
+jejunostomicizarmos	jejunostomicizar+V+INF+1+PL
+jejunostomicizar	jejunostomicizar+V+INF+1+SG
+jejunostomicizardes	jejunostomicizar+V+INF+2+PL
+jejunostomicizares	jejunostomicizar+V+INF+2+SG
+jejunostomicizarem	jejunostomicizar+V+INF+3+PL
+jejunostomicizar	jejunostomicizar+V+INF+3+SG
 jejunostomicizáramos	jejunostomicizar+V+PQP+1+PL
 jejunostomicizara	jejunostomicizar+V+PQP+1+SG
 jejunostomicizáreis	jejunostomicizar+V+PQP+2+PL
@@ -2407,6 +2510,7 @@ jejunostomicizaras	jejunostomicizar+V+PQP+2+SG
 jejunostomicizaram	jejunostomicizar+V+PQP+3+PL
 jejunostomicizara	jejunostomicizar+V+PQP+3+SG
 jejunostomicizamos	jejunostomicizar+V+PRF+1+PL
+jejunostomicizámos	jejunostomicizar+V+PRF+1+PL
 jejunostomicizei	jejunostomicizar+V+PRF+1+SG
 jejunostomicizastes	jejunostomicizar+V+PRF+2+PL
 jejunostomicizaste	jejunostomicizar+V+PRF+2+SG
@@ -2453,6 +2557,7 @@ jerarquicizarás	jerarquicizar+V+FUT+2+SG
 jerarquicizarão	jerarquicizar+V+FUT+3+PL
 jerarquicizará	jerarquicizar+V+FUT+3+SG
 jerarquicizando	jerarquicizar+V+GRD
+jerarquicizemo	jerarquicizar+V+IMP+1+PL
 jerarquicizemos	jerarquicizar+V+IMP+1+PL
 jerarquicizai	jerarquicizar+V+IMP+2+PL
 jerarquiciza	jerarquicizar+V+IMP+2+SG
@@ -2465,6 +2570,12 @@ jerarquicizavas	jerarquicizar+V+IMPF+2+SG
 jerarquicizavam	jerarquicizar+V+IMPF+3+PL
 jerarquicizava	jerarquicizar+V+IMPF+3+SG
 jerarquicizar	jerarquicizar+V+INF
+jerarquicizarmos	jerarquicizar+V+INF+1+PL
+jerarquicizar	jerarquicizar+V+INF+1+SG
+jerarquicizardes	jerarquicizar+V+INF+2+PL
+jerarquicizares	jerarquicizar+V+INF+2+SG
+jerarquicizarem	jerarquicizar+V+INF+3+PL
+jerarquicizar	jerarquicizar+V+INF+3+SG
 jerarquicizáramos	jerarquicizar+V+PQP+1+PL
 jerarquicizara	jerarquicizar+V+PQP+1+SG
 jerarquicizáreis	jerarquicizar+V+PQP+2+PL
@@ -2472,6 +2583,7 @@ jerarquicizaras	jerarquicizar+V+PQP+2+SG
 jerarquicizaram	jerarquicizar+V+PQP+3+PL
 jerarquicizara	jerarquicizar+V+PQP+3+SG
 jerarquicizamos	jerarquicizar+V+PRF+1+PL
+jerarquicizámos	jerarquicizar+V+PRF+1+PL
 jerarquicizei	jerarquicizar+V+PRF+1+SG
 jerarquicizastes	jerarquicizar+V+PRF+2+PL
 jerarquicizaste	jerarquicizar+V+PRF+2+SG
@@ -2591,6 +2703,7 @@ jericalizarás	jericalizar+V+FUT+2+SG
 jericalizarão	jericalizar+V+FUT+3+PL
 jericalizará	jericalizar+V+FUT+3+SG
 jericalizando	jericalizar+V+GRD
+jericalizemo	jericalizar+V+IMP+1+PL
 jericalizemos	jericalizar+V+IMP+1+PL
 jericalizai	jericalizar+V+IMP+2+PL
 jericaliza	jericalizar+V+IMP+2+SG
@@ -2603,6 +2716,12 @@ jericalizavas	jericalizar+V+IMPF+2+SG
 jericalizavam	jericalizar+V+IMPF+3+PL
 jericalizava	jericalizar+V+IMPF+3+SG
 jericalizar	jericalizar+V+INF
+jericalizarmos	jericalizar+V+INF+1+PL
+jericalizar	jericalizar+V+INF+1+SG
+jericalizardes	jericalizar+V+INF+2+PL
+jericalizares	jericalizar+V+INF+2+SG
+jericalizarem	jericalizar+V+INF+3+PL
+jericalizar	jericalizar+V+INF+3+SG
 jericalizáramos	jericalizar+V+PQP+1+PL
 jericalizara	jericalizar+V+PQP+1+SG
 jericalizáreis	jericalizar+V+PQP+2+PL
@@ -2610,6 +2729,7 @@ jericalizaras	jericalizar+V+PQP+2+SG
 jericalizaram	jericalizar+V+PQP+3+PL
 jericalizara	jericalizar+V+PQP+3+SG
 jericalizamos	jericalizar+V+PRF+1+PL
+jericalizámos	jericalizar+V+PRF+1+PL
 jericalizei	jericalizar+V+PRF+1+SG
 jericalizastes	jericalizar+V+PRF+2+PL
 jericalizaste	jericalizar+V+PRF+2+SG
@@ -2656,6 +2776,7 @@ jeroglificizarás	jeroglificizar+V+FUT+2+SG
 jeroglificizarão	jeroglificizar+V+FUT+3+PL
 jeroglificizará	jeroglificizar+V+FUT+3+SG
 jeroglificizando	jeroglificizar+V+GRD
+jeroglificizemo	jeroglificizar+V+IMP+1+PL
 jeroglificizemos	jeroglificizar+V+IMP+1+PL
 jeroglificizai	jeroglificizar+V+IMP+2+PL
 jeroglificiza	jeroglificizar+V+IMP+2+SG
@@ -2668,6 +2789,12 @@ jeroglificizavas	jeroglificizar+V+IMPF+2+SG
 jeroglificizavam	jeroglificizar+V+IMPF+3+PL
 jeroglificizava	jeroglificizar+V+IMPF+3+SG
 jeroglificizar	jeroglificizar+V+INF
+jeroglificizarmos	jeroglificizar+V+INF+1+PL
+jeroglificizar	jeroglificizar+V+INF+1+SG
+jeroglificizardes	jeroglificizar+V+INF+2+PL
+jeroglificizares	jeroglificizar+V+INF+2+SG
+jeroglificizarem	jeroglificizar+V+INF+3+PL
+jeroglificizar	jeroglificizar+V+INF+3+SG
 jeroglificizáramos	jeroglificizar+V+PQP+1+PL
 jeroglificizara	jeroglificizar+V+PQP+1+SG
 jeroglificizáreis	jeroglificizar+V+PQP+2+PL
@@ -2675,6 +2802,7 @@ jeroglificizaras	jeroglificizar+V+PQP+2+SG
 jeroglificizaram	jeroglificizar+V+PQP+3+PL
 jeroglificizara	jeroglificizar+V+PQP+3+SG
 jeroglificizamos	jeroglificizar+V+PRF+1+PL
+jeroglificizámos	jeroglificizar+V+PRF+1+PL
 jeroglificizei	jeroglificizar+V+PRF+1+SG
 jeroglificizastes	jeroglificizar+V+PRF+2+PL
 jeroglificizaste	jeroglificizar+V+PRF+2+SG
@@ -2721,6 +2849,7 @@ jerosolimitanizarás	jerosolimitanizar+V+FUT+2+SG
 jerosolimitanizarão	jerosolimitanizar+V+FUT+3+PL
 jerosolimitanizará	jerosolimitanizar+V+FUT+3+SG
 jerosolimitanizando	jerosolimitanizar+V+GRD
+jerosolimitanizemo	jerosolimitanizar+V+IMP+1+PL
 jerosolimitanizemos	jerosolimitanizar+V+IMP+1+PL
 jerosolimitanizai	jerosolimitanizar+V+IMP+2+PL
 jerosolimitaniza	jerosolimitanizar+V+IMP+2+SG
@@ -2733,6 +2862,12 @@ jerosolimitanizavas	jerosolimitanizar+V+IMPF+2+SG
 jerosolimitanizavam	jerosolimitanizar+V+IMPF+3+PL
 jerosolimitanizava	jerosolimitanizar+V+IMPF+3+SG
 jerosolimitanizar	jerosolimitanizar+V+INF
+jerosolimitanizarmos	jerosolimitanizar+V+INF+1+PL
+jerosolimitanizar	jerosolimitanizar+V+INF+1+SG
+jerosolimitanizardes	jerosolimitanizar+V+INF+2+PL
+jerosolimitanizares	jerosolimitanizar+V+INF+2+SG
+jerosolimitanizarem	jerosolimitanizar+V+INF+3+PL
+jerosolimitanizar	jerosolimitanizar+V+INF+3+SG
 jerosolimitanizáramos	jerosolimitanizar+V+PQP+1+PL
 jerosolimitanizara	jerosolimitanizar+V+PQP+1+SG
 jerosolimitanizáreis	jerosolimitanizar+V+PQP+2+PL
@@ -2740,6 +2875,7 @@ jerosolimitanizaras	jerosolimitanizar+V+PQP+2+SG
 jerosolimitanizaram	jerosolimitanizar+V+PQP+3+PL
 jerosolimitanizara	jerosolimitanizar+V+PQP+3+SG
 jerosolimitanizamos	jerosolimitanizar+V+PRF+1+PL
+jerosolimitanizámos	jerosolimitanizar+V+PRF+1+PL
 jerosolimitanizei	jerosolimitanizar+V+PRF+1+SG
 jerosolimitanizastes	jerosolimitanizar+V+PRF+2+PL
 jerosolimitanizaste	jerosolimitanizar+V+PRF+2+SG
@@ -2786,6 +2922,7 @@ jesuiticizarás	jesuiticizar+V+FUT+2+SG
 jesuiticizarão	jesuiticizar+V+FUT+3+PL
 jesuiticizará	jesuiticizar+V+FUT+3+SG
 jesuiticizando	jesuiticizar+V+GRD
+jesuiticizemo	jesuiticizar+V+IMP+1+PL
 jesuiticizemos	jesuiticizar+V+IMP+1+PL
 jesuiticizai	jesuiticizar+V+IMP+2+PL
 jesuiticiza	jesuiticizar+V+IMP+2+SG
@@ -2798,6 +2935,12 @@ jesuiticizavas	jesuiticizar+V+IMPF+2+SG
 jesuiticizavam	jesuiticizar+V+IMPF+3+PL
 jesuiticizava	jesuiticizar+V+IMPF+3+SG
 jesuiticizar	jesuiticizar+V+INF
+jesuiticizarmos	jesuiticizar+V+INF+1+PL
+jesuiticizar	jesuiticizar+V+INF+1+SG
+jesuiticizardes	jesuiticizar+V+INF+2+PL
+jesuiticizares	jesuiticizar+V+INF+2+SG
+jesuiticizarem	jesuiticizar+V+INF+3+PL
+jesuiticizar	jesuiticizar+V+INF+3+SG
 jesuiticizáramos	jesuiticizar+V+PQP+1+PL
 jesuiticizara	jesuiticizar+V+PQP+1+SG
 jesuiticizáreis	jesuiticizar+V+PQP+2+PL
@@ -2805,6 +2948,7 @@ jesuiticizaras	jesuiticizar+V+PQP+2+SG
 jesuiticizaram	jesuiticizar+V+PQP+3+PL
 jesuiticizara	jesuiticizar+V+PQP+3+SG
 jesuiticizamos	jesuiticizar+V+PRF+1+PL
+jesuiticizámos	jesuiticizar+V+PRF+1+PL
 jesuiticizei	jesuiticizar+V+PRF+1+SG
 jesuiticizastes	jesuiticizar+V+PRF+2+PL
 jesuiticizaste	jesuiticizar+V+PRF+2+SG
@@ -3152,6 +3296,7 @@ jogabilizarás	jogabilizar+V+FUT+2+SG
 jogabilizarão	jogabilizar+V+FUT+3+PL
 jogabilizará	jogabilizar+V+FUT+3+SG
 jogabilizando	jogabilizar+V+GRD
+jogabilizemo	jogabilizar+V+IMP+1+PL
 jogabilizemos	jogabilizar+V+IMP+1+PL
 jogabilizai	jogabilizar+V+IMP+2+PL
 jogabiliza	jogabilizar+V+IMP+2+SG
@@ -3164,6 +3309,12 @@ jogabilizavas	jogabilizar+V+IMPF+2+SG
 jogabilizavam	jogabilizar+V+IMPF+3+PL
 jogabilizava	jogabilizar+V+IMPF+3+SG
 jogabilizar	jogabilizar+V+INF
+jogabilizarmos	jogabilizar+V+INF+1+PL
+jogabilizar	jogabilizar+V+INF+1+SG
+jogabilizardes	jogabilizar+V+INF+2+PL
+jogabilizares	jogabilizar+V+INF+2+SG
+jogabilizarem	jogabilizar+V+INF+3+PL
+jogabilizar	jogabilizar+V+INF+3+SG
 jogabilizáramos	jogabilizar+V+PQP+1+PL
 jogabilizara	jogabilizar+V+PQP+1+SG
 jogabilizáreis	jogabilizar+V+PQP+2+PL
@@ -3171,6 +3322,7 @@ jogabilizaras	jogabilizar+V+PQP+2+SG
 jogabilizaram	jogabilizar+V+PQP+3+PL
 jogabilizara	jogabilizar+V+PQP+3+SG
 jogabilizamos	jogabilizar+V+PRF+1+PL
+jogabilizámos	jogabilizar+V+PRF+1+PL
 jogabilizei	jogabilizar+V+PRF+1+SG
 jogabilizastes	jogabilizar+V+PRF+2+PL
 jogabilizaste	jogabilizar+V+PRF+2+SG
@@ -3580,6 +3732,7 @@ jonicizarás	jonicizar+V+FUT+2+SG
 jonicizarão	jonicizar+V+FUT+3+PL
 jonicizará	jonicizar+V+FUT+3+SG
 jonicizando	jonicizar+V+GRD
+jonicizemo	jonicizar+V+IMP+1+PL
 jonicizemos	jonicizar+V+IMP+1+PL
 jonicizai	jonicizar+V+IMP+2+PL
 joniciza	jonicizar+V+IMP+2+SG
@@ -3592,6 +3745,12 @@ jonicizavas	jonicizar+V+IMPF+2+SG
 jonicizavam	jonicizar+V+IMPF+3+PL
 jonicizava	jonicizar+V+IMPF+3+SG
 jonicizar	jonicizar+V+INF
+jonicizarmos	jonicizar+V+INF+1+PL
+jonicizar	jonicizar+V+INF+1+SG
+jonicizardes	jonicizar+V+INF+2+PL
+jonicizares	jonicizar+V+INF+2+SG
+jonicizarem	jonicizar+V+INF+3+PL
+jonicizar	jonicizar+V+INF+3+SG
 jonicizáramos	jonicizar+V+PQP+1+PL
 jonicizara	jonicizar+V+PQP+1+SG
 jonicizáreis	jonicizar+V+PQP+2+PL
@@ -3599,6 +3758,7 @@ jonicizaras	jonicizar+V+PQP+2+SG
 jonicizaram	jonicizar+V+PQP+3+PL
 jonicizara	jonicizar+V+PQP+3+SG
 jonicizamos	jonicizar+V+PRF+1+PL
+jonicizámos	jonicizar+V+PRF+1+PL
 jonicizei	jonicizar+V+PRF+1+SG
 jonicizastes	jonicizar+V+PRF+2+PL
 jonicizaste	jonicizar+V+PRF+2+SG
@@ -3645,6 +3805,7 @@ jordanianizarás	jordanianizar+V+FUT+2+SG
 jordanianizarão	jordanianizar+V+FUT+3+PL
 jordanianizará	jordanianizar+V+FUT+3+SG
 jordanianizando	jordanianizar+V+GRD
+jordanianizemo	jordanianizar+V+IMP+1+PL
 jordanianizemos	jordanianizar+V+IMP+1+PL
 jordanianizai	jordanianizar+V+IMP+2+PL
 jordanianiza	jordanianizar+V+IMP+2+SG
@@ -3657,6 +3818,12 @@ jordanianizavas	jordanianizar+V+IMPF+2+SG
 jordanianizavam	jordanianizar+V+IMPF+3+PL
 jordanianizava	jordanianizar+V+IMPF+3+SG
 jordanianizar	jordanianizar+V+INF
+jordanianizarmos	jordanianizar+V+INF+1+PL
+jordanianizar	jordanianizar+V+INF+1+SG
+jordanianizardes	jordanianizar+V+INF+2+PL
+jordanianizares	jordanianizar+V+INF+2+SG
+jordanianizarem	jordanianizar+V+INF+3+PL
+jordanianizar	jordanianizar+V+INF+3+SG
 jordanianizáramos	jordanianizar+V+PQP+1+PL
 jordanianizara	jordanianizar+V+PQP+1+SG
 jordanianizáreis	jordanianizar+V+PQP+2+PL
@@ -3664,6 +3831,7 @@ jordanianizaras	jordanianizar+V+PQP+2+SG
 jordanianizaram	jordanianizar+V+PQP+3+PL
 jordanianizara	jordanianizar+V+PQP+3+SG
 jordanianizamos	jordanianizar+V+PRF+1+PL
+jordanianizámos	jordanianizar+V+PRF+1+PL
 jordanianizei	jordanianizar+V+PRF+1+SG
 jordanianizastes	jordanianizar+V+PRF+2+PL
 jordanianizaste	jordanianizar+V+PRF+2+SG
@@ -3710,6 +3878,7 @@ jordanizarás	jordanizar+V+FUT+2+SG
 jordanizarão	jordanizar+V+FUT+3+PL
 jordanizará	jordanizar+V+FUT+3+SG
 jordanizando	jordanizar+V+GRD
+jordanizemo	jordanizar+V+IMP+1+PL
 jordanizemos	jordanizar+V+IMP+1+PL
 jordanizai	jordanizar+V+IMP+2+PL
 jordaniza	jordanizar+V+IMP+2+SG
@@ -3722,6 +3891,12 @@ jordanizavas	jordanizar+V+IMPF+2+SG
 jordanizavam	jordanizar+V+IMPF+3+PL
 jordanizava	jordanizar+V+IMPF+3+SG
 jordanizar	jordanizar+V+INF
+jordanizarmos	jordanizar+V+INF+1+PL
+jordanizar	jordanizar+V+INF+1+SG
+jordanizardes	jordanizar+V+INF+2+PL
+jordanizares	jordanizar+V+INF+2+SG
+jordanizarem	jordanizar+V+INF+3+PL
+jordanizar	jordanizar+V+INF+3+SG
 jordanizáramos	jordanizar+V+PQP+1+PL
 jordanizara	jordanizar+V+PQP+1+SG
 jordanizáreis	jordanizar+V+PQP+2+PL
@@ -3729,6 +3904,7 @@ jordanizaras	jordanizar+V+PQP+2+SG
 jordanizaram	jordanizar+V+PQP+3+PL
 jordanizara	jordanizar+V+PQP+3+SG
 jordanizamos	jordanizar+V+PRF+1+PL
+jordanizámos	jordanizar+V+PRF+1+PL
 jordanizei	jordanizar+V+PRF+1+SG
 jordanizastes	jordanizar+V+PRF+2+PL
 jordanizaste	jordanizar+V+PRF+2+SG
@@ -3848,6 +4024,7 @@ jornalisticizarás	jornalisticizar+V+FUT+2+SG
 jornalisticizarão	jornalisticizar+V+FUT+3+PL
 jornalisticizará	jornalisticizar+V+FUT+3+SG
 jornalisticizando	jornalisticizar+V+GRD
+jornalisticizemo	jornalisticizar+V+IMP+1+PL
 jornalisticizemos	jornalisticizar+V+IMP+1+PL
 jornalisticizai	jornalisticizar+V+IMP+2+PL
 jornalisticiza	jornalisticizar+V+IMP+2+SG
@@ -3860,6 +4037,12 @@ jornalisticizavas	jornalisticizar+V+IMPF+2+SG
 jornalisticizavam	jornalisticizar+V+IMPF+3+PL
 jornalisticizava	jornalisticizar+V+IMPF+3+SG
 jornalisticizar	jornalisticizar+V+INF
+jornalisticizarmos	jornalisticizar+V+INF+1+PL
+jornalisticizar	jornalisticizar+V+INF+1+SG
+jornalisticizardes	jornalisticizar+V+INF+2+PL
+jornalisticizares	jornalisticizar+V+INF+2+SG
+jornalisticizarem	jornalisticizar+V+INF+3+PL
+jornalisticizar	jornalisticizar+V+INF+3+SG
 jornalisticizáramos	jornalisticizar+V+PQP+1+PL
 jornalisticizara	jornalisticizar+V+PQP+1+SG
 jornalisticizáreis	jornalisticizar+V+PQP+2+PL
@@ -3867,6 +4050,7 @@ jornalisticizaras	jornalisticizar+V+PQP+2+SG
 jornalisticizaram	jornalisticizar+V+PQP+3+PL
 jornalisticizara	jornalisticizar+V+PQP+3+SG
 jornalisticizamos	jornalisticizar+V+PRF+1+PL
+jornalisticizámos	jornalisticizar+V+PRF+1+PL
 jornalisticizei	jornalisticizar+V+PRF+1+SG
 jornalisticizastes	jornalisticizar+V+PRF+2+PL
 jornalisticizaste	jornalisticizar+V+PRF+2+SG
@@ -4131,6 +4315,7 @@ jubilabilizarás	jubilabilizar+V+FUT+2+SG
 jubilabilizarão	jubilabilizar+V+FUT+3+PL
 jubilabilizará	jubilabilizar+V+FUT+3+SG
 jubilabilizando	jubilabilizar+V+GRD
+jubilabilizemo	jubilabilizar+V+IMP+1+PL
 jubilabilizemos	jubilabilizar+V+IMP+1+PL
 jubilabilizai	jubilabilizar+V+IMP+2+PL
 jubilabiliza	jubilabilizar+V+IMP+2+SG
@@ -4143,6 +4328,12 @@ jubilabilizavas	jubilabilizar+V+IMPF+2+SG
 jubilabilizavam	jubilabilizar+V+IMPF+3+PL
 jubilabilizava	jubilabilizar+V+IMPF+3+SG
 jubilabilizar	jubilabilizar+V+INF
+jubilabilizarmos	jubilabilizar+V+INF+1+PL
+jubilabilizar	jubilabilizar+V+INF+1+SG
+jubilabilizardes	jubilabilizar+V+INF+2+PL
+jubilabilizares	jubilabilizar+V+INF+2+SG
+jubilabilizarem	jubilabilizar+V+INF+3+PL
+jubilabilizar	jubilabilizar+V+INF+3+SG
 jubilabilizáramos	jubilabilizar+V+PQP+1+PL
 jubilabilizara	jubilabilizar+V+PQP+1+SG
 jubilabilizáreis	jubilabilizar+V+PQP+2+PL
@@ -4150,6 +4341,7 @@ jubilabilizaras	jubilabilizar+V+PQP+2+SG
 jubilabilizaram	jubilabilizar+V+PQP+3+PL
 jubilabilizara	jubilabilizar+V+PQP+3+SG
 jubilabilizamos	jubilabilizar+V+PRF+1+PL
+jubilabilizámos	jubilabilizar+V+PRF+1+PL
 jubilabilizei	jubilabilizar+V+PRF+1+SG
 jubilabilizastes	jubilabilizar+V+PRF+2+PL
 jubilabilizaste	jubilabilizar+V+PRF+2+SG
@@ -4269,6 +4461,7 @@ jubilarizarás	jubilarizar+V+FUT+2+SG
 jubilarizarão	jubilarizar+V+FUT+3+PL
 jubilarizará	jubilarizar+V+FUT+3+SG
 jubilarizando	jubilarizar+V+GRD
+jubilarizemo	jubilarizar+V+IMP+1+PL
 jubilarizemos	jubilarizar+V+IMP+1+PL
 jubilarizai	jubilarizar+V+IMP+2+PL
 jubilariza	jubilarizar+V+IMP+2+SG
@@ -4281,6 +4474,12 @@ jubilarizavas	jubilarizar+V+IMPF+2+SG
 jubilarizavam	jubilarizar+V+IMPF+3+PL
 jubilarizava	jubilarizar+V+IMPF+3+SG
 jubilarizar	jubilarizar+V+INF
+jubilarizarmos	jubilarizar+V+INF+1+PL
+jubilarizar	jubilarizar+V+INF+1+SG
+jubilarizardes	jubilarizar+V+INF+2+PL
+jubilarizares	jubilarizar+V+INF+2+SG
+jubilarizarem	jubilarizar+V+INF+3+PL
+jubilarizar	jubilarizar+V+INF+3+SG
 jubilarizáramos	jubilarizar+V+PQP+1+PL
 jubilarizara	jubilarizar+V+PQP+1+SG
 jubilarizáreis	jubilarizar+V+PQP+2+PL
@@ -4288,6 +4487,7 @@ jubilarizaras	jubilarizar+V+PQP+2+SG
 jubilarizaram	jubilarizar+V+PQP+3+PL
 jubilarizara	jubilarizar+V+PQP+3+SG
 jubilarizamos	jubilarizar+V+PRF+1+PL
+jubilarizámos	jubilarizar+V+PRF+1+PL
 jubilarizei	jubilarizar+V+PRF+1+SG
 jubilarizastes	jubilarizar+V+PRF+2+PL
 jubilarizaste	jubilarizar+V+PRF+2+SG
@@ -4334,6 +4534,7 @@ judaizabilizarás	judaizabilizar+V+FUT+2+SG
 judaizabilizarão	judaizabilizar+V+FUT+3+PL
 judaizabilizará	judaizabilizar+V+FUT+3+SG
 judaizabilizando	judaizabilizar+V+GRD
+judaizabilizemo	judaizabilizar+V+IMP+1+PL
 judaizabilizemos	judaizabilizar+V+IMP+1+PL
 judaizabilizai	judaizabilizar+V+IMP+2+PL
 judaizabiliza	judaizabilizar+V+IMP+2+SG
@@ -4346,6 +4547,12 @@ judaizabilizavas	judaizabilizar+V+IMPF+2+SG
 judaizabilizavam	judaizabilizar+V+IMPF+3+PL
 judaizabilizava	judaizabilizar+V+IMPF+3+SG
 judaizabilizar	judaizabilizar+V+INF
+judaizabilizarmos	judaizabilizar+V+INF+1+PL
+judaizabilizar	judaizabilizar+V+INF+1+SG
+judaizabilizardes	judaizabilizar+V+INF+2+PL
+judaizabilizares	judaizabilizar+V+INF+2+SG
+judaizabilizarem	judaizabilizar+V+INF+3+PL
+judaizabilizar	judaizabilizar+V+INF+3+SG
 judaizabilizáramos	judaizabilizar+V+PQP+1+PL
 judaizabilizara	judaizabilizar+V+PQP+1+SG
 judaizabilizáreis	judaizabilizar+V+PQP+2+PL
@@ -4353,6 +4560,7 @@ judaizabilizaras	judaizabilizar+V+PQP+2+SG
 judaizabilizaram	judaizabilizar+V+PQP+3+PL
 judaizabilizara	judaizabilizar+V+PQP+3+SG
 judaizabilizamos	judaizabilizar+V+PRF+1+PL
+judaizabilizámos	judaizabilizar+V+PRF+1+PL
 judaizabilizei	judaizabilizar+V+PRF+1+SG
 judaizabilizastes	judaizabilizar+V+PRF+2+PL
 judaizabilizaste	judaizabilizar+V+PRF+2+SG
@@ -4556,6 +4764,7 @@ judicativizarás	judicativizar+V+FUT+2+SG
 judicativizarão	judicativizar+V+FUT+3+PL
 judicativizará	judicativizar+V+FUT+3+SG
 judicativizando	judicativizar+V+GRD
+judicativizemo	judicativizar+V+IMP+1+PL
 judicativizemos	judicativizar+V+IMP+1+PL
 judicativizai	judicativizar+V+IMP+2+PL
 judicativiza	judicativizar+V+IMP+2+SG
@@ -4568,6 +4777,12 @@ judicativizavas	judicativizar+V+IMPF+2+SG
 judicativizavam	judicativizar+V+IMPF+3+PL
 judicativizava	judicativizar+V+IMPF+3+SG
 judicativizar	judicativizar+V+INF
+judicativizarmos	judicativizar+V+INF+1+PL
+judicativizar	judicativizar+V+INF+1+SG
+judicativizardes	judicativizar+V+INF+2+PL
+judicativizares	judicativizar+V+INF+2+SG
+judicativizarem	judicativizar+V+INF+3+PL
+judicativizar	judicativizar+V+INF+3+SG
 judicativizáramos	judicativizar+V+PQP+1+PL
 judicativizara	judicativizar+V+PQP+1+SG
 judicativizáreis	judicativizar+V+PQP+2+PL
@@ -4575,6 +4790,7 @@ judicativizaras	judicativizar+V+PQP+2+SG
 judicativizaram	judicativizar+V+PQP+3+PL
 judicativizara	judicativizar+V+PQP+3+SG
 judicativizamos	judicativizar+V+PRF+1+PL
+judicativizámos	judicativizar+V+PRF+1+PL
 judicativizei	judicativizar+V+PRF+1+SG
 judicativizastes	judicativizar+V+PRF+2+PL
 judicativizaste	judicativizar+V+PRF+2+SG
@@ -4621,6 +4837,7 @@ judicializarás	judicializar+V+FUT+2+SG
 judicializarão	judicializar+V+FUT+3+PL
 judicializará	judicializar+V+FUT+3+SG
 judicializando	judicializar+V+GRD
+judicializemo	judicializar+V+IMP+1+PL
 judicializemos	judicializar+V+IMP+1+PL
 judicializai	judicializar+V+IMP+2+PL
 judicializa	judicializar+V+IMP+2+SG
@@ -4633,6 +4850,12 @@ judicializavas	judicializar+V+IMPF+2+SG
 judicializavam	judicializar+V+IMPF+3+PL
 judicializava	judicializar+V+IMPF+3+SG
 judicializar	judicializar+V+INF
+judicializarmos	judicializar+V+INF+1+PL
+judicializar	judicializar+V+INF+1+SG
+judicializardes	judicializar+V+INF+2+PL
+judicializares	judicializar+V+INF+2+SG
+judicializarem	judicializar+V+INF+3+PL
+judicializar	judicializar+V+INF+3+SG
 judicializáramos	judicializar+V+PQP+1+PL
 judicializara	judicializar+V+PQP+1+SG
 judicializáreis	judicializar+V+PQP+2+PL
@@ -4640,6 +4863,7 @@ judicializaras	judicializar+V+PQP+2+SG
 judicializaram	judicializar+V+PQP+3+PL
 judicializara	judicializar+V+PQP+3+SG
 judicializamos	judicializar+V+PRF+1+PL
+judicializámos	judicializar+V+PRF+1+PL
 judicializei	judicializar+V+PRF+1+SG
 judicializastes	judicializar+V+PRF+2+PL
 judicializaste	judicializar+V+PRF+2+SG
@@ -4831,6 +5055,7 @@ jugalizarás	jugalizar+V+FUT+2+SG
 jugalizarão	jugalizar+V+FUT+3+PL
 jugalizará	jugalizar+V+FUT+3+SG
 jugalizando	jugalizar+V+GRD
+jugalizemo	jugalizar+V+IMP+1+PL
 jugalizemos	jugalizar+V+IMP+1+PL
 jugalizai	jugalizar+V+IMP+2+PL
 jugaliza	jugalizar+V+IMP+2+SG
@@ -4843,6 +5068,12 @@ jugalizavas	jugalizar+V+IMPF+2+SG
 jugalizavam	jugalizar+V+IMPF+3+PL
 jugalizava	jugalizar+V+IMPF+3+SG
 jugalizar	jugalizar+V+INF
+jugalizarmos	jugalizar+V+INF+1+PL
+jugalizar	jugalizar+V+INF+1+SG
+jugalizardes	jugalizar+V+INF+2+PL
+jugalizares	jugalizar+V+INF+2+SG
+jugalizarem	jugalizar+V+INF+3+PL
+jugalizar	jugalizar+V+INF+3+SG
 jugalizáramos	jugalizar+V+PQP+1+PL
 jugalizara	jugalizar+V+PQP+1+SG
 jugalizáreis	jugalizar+V+PQP+2+PL
@@ -4850,6 +5081,7 @@ jugalizaras	jugalizar+V+PQP+2+SG
 jugalizaram	jugalizar+V+PQP+3+PL
 jugalizara	jugalizar+V+PQP+3+SG
 jugalizamos	jugalizar+V+PRF+1+PL
+jugalizámos	jugalizar+V+PRF+1+PL
 jugalizei	jugalizar+V+PRF+1+SG
 jugalizastes	jugalizar+V+PRF+2+PL
 jugalizaste	jugalizar+V+PRF+2+SG
@@ -5041,6 +5273,7 @@ jugularizarás	jugularizar+V+FUT+2+SG
 jugularizarão	jugularizar+V+FUT+3+PL
 jugularizará	jugularizar+V+FUT+3+SG
 jugularizando	jugularizar+V+GRD
+jugularizemo	jugularizar+V+IMP+1+PL
 jugularizemos	jugularizar+V+IMP+1+PL
 jugularizai	jugularizar+V+IMP+2+PL
 jugulariza	jugularizar+V+IMP+2+SG
@@ -5053,6 +5286,12 @@ jugularizavas	jugularizar+V+IMPF+2+SG
 jugularizavam	jugularizar+V+IMPF+3+PL
 jugularizava	jugularizar+V+IMPF+3+SG
 jugularizar	jugularizar+V+INF
+jugularizarmos	jugularizar+V+INF+1+PL
+jugularizar	jugularizar+V+INF+1+SG
+jugularizardes	jugularizar+V+INF+2+PL
+jugularizares	jugularizar+V+INF+2+SG
+jugularizarem	jugularizar+V+INF+3+PL
+jugularizar	jugularizar+V+INF+3+SG
 jugularizáramos	jugularizar+V+PQP+1+PL
 jugularizara	jugularizar+V+PQP+1+SG
 jugularizáreis	jugularizar+V+PQP+2+PL
@@ -5060,6 +5299,7 @@ jugularizaras	jugularizar+V+PQP+2+SG
 jugularizaram	jugularizar+V+PQP+3+PL
 jugularizara	jugularizar+V+PQP+3+SG
 jugularizamos	jugularizar+V+PRF+1+PL
+jugularizámos	jugularizar+V+PRF+1+PL
 jugularizei	jugularizar+V+PRF+1+SG
 jugularizastes	jugularizar+V+PRF+2+PL
 jugularizaste	jugularizar+V+PRF+2+SG
@@ -5106,6 +5346,7 @@ julgabilizarás	julgabilizar+V+FUT+2+SG
 julgabilizarão	julgabilizar+V+FUT+3+PL
 julgabilizará	julgabilizar+V+FUT+3+SG
 julgabilizando	julgabilizar+V+GRD
+julgabilizemo	julgabilizar+V+IMP+1+PL
 julgabilizemos	julgabilizar+V+IMP+1+PL
 julgabilizai	julgabilizar+V+IMP+2+PL
 julgabiliza	julgabilizar+V+IMP+2+SG
@@ -5118,6 +5359,12 @@ julgabilizavas	julgabilizar+V+IMPF+2+SG
 julgabilizavam	julgabilizar+V+IMPF+3+PL
 julgabilizava	julgabilizar+V+IMPF+3+SG
 julgabilizar	julgabilizar+V+INF
+julgabilizarmos	julgabilizar+V+INF+1+PL
+julgabilizar	julgabilizar+V+INF+1+SG
+julgabilizardes	julgabilizar+V+INF+2+PL
+julgabilizares	julgabilizar+V+INF+2+SG
+julgabilizarem	julgabilizar+V+INF+3+PL
+julgabilizar	julgabilizar+V+INF+3+SG
 julgabilizáramos	julgabilizar+V+PQP+1+PL
 julgabilizara	julgabilizar+V+PQP+1+SG
 julgabilizáreis	julgabilizar+V+PQP+2+PL
@@ -5125,6 +5372,7 @@ julgabilizaras	julgabilizar+V+PQP+2+SG
 julgabilizaram	julgabilizar+V+PQP+3+PL
 julgabilizara	julgabilizar+V+PQP+3+SG
 julgabilizamos	julgabilizar+V+PRF+1+PL
+julgabilizámos	julgabilizar+V+PRF+1+PL
 julgabilizei	julgabilizar+V+PRF+1+SG
 julgabilizastes	julgabilizar+V+PRF+2+PL
 julgabilizaste	julgabilizar+V+PRF+2+SG
@@ -5244,6 +5492,7 @@ julianizarás	julianizar+V+FUT+2+SG
 julianizarão	julianizar+V+FUT+3+PL
 julianizará	julianizar+V+FUT+3+SG
 julianizando	julianizar+V+GRD
+julianizemo	julianizar+V+IMP+1+PL
 julianizemos	julianizar+V+IMP+1+PL
 julianizai	julianizar+V+IMP+2+PL
 julianiza	julianizar+V+IMP+2+SG
@@ -5256,6 +5505,12 @@ julianizavas	julianizar+V+IMPF+2+SG
 julianizavam	julianizar+V+IMPF+3+PL
 julianizava	julianizar+V+IMPF+3+SG
 julianizar	julianizar+V+INF
+julianizarmos	julianizar+V+INF+1+PL
+julianizar	julianizar+V+INF+1+SG
+julianizardes	julianizar+V+INF+2+PL
+julianizares	julianizar+V+INF+2+SG
+julianizarem	julianizar+V+INF+3+PL
+julianizar	julianizar+V+INF+3+SG
 julianizáramos	julianizar+V+PQP+1+PL
 julianizara	julianizar+V+PQP+1+SG
 julianizáreis	julianizar+V+PQP+2+PL
@@ -5263,6 +5518,7 @@ julianizaras	julianizar+V+PQP+2+SG
 julianizaram	julianizar+V+PQP+3+PL
 julianizara	julianizar+V+PQP+3+SG
 julianizamos	julianizar+V+PRF+1+PL
+julianizámos	julianizar+V+PRF+1+PL
 julianizei	julianizar+V+PRF+1+SG
 julianizastes	julianizar+V+PRF+2+PL
 julianizaste	julianizar+V+PRF+2+SG
@@ -5309,6 +5565,7 @@ jumentalizarás	jumentalizar+V+FUT+2+SG
 jumentalizarão	jumentalizar+V+FUT+3+PL
 jumentalizará	jumentalizar+V+FUT+3+SG
 jumentalizando	jumentalizar+V+GRD
+jumentalizemo	jumentalizar+V+IMP+1+PL
 jumentalizemos	jumentalizar+V+IMP+1+PL
 jumentalizai	jumentalizar+V+IMP+2+PL
 jumentaliza	jumentalizar+V+IMP+2+SG
@@ -5321,6 +5578,12 @@ jumentalizavas	jumentalizar+V+IMPF+2+SG
 jumentalizavam	jumentalizar+V+IMPF+3+PL
 jumentalizava	jumentalizar+V+IMPF+3+SG
 jumentalizar	jumentalizar+V+INF
+jumentalizarmos	jumentalizar+V+INF+1+PL
+jumentalizar	jumentalizar+V+INF+1+SG
+jumentalizardes	jumentalizar+V+INF+2+PL
+jumentalizares	jumentalizar+V+INF+2+SG
+jumentalizarem	jumentalizar+V+INF+3+PL
+jumentalizar	jumentalizar+V+INF+3+SG
 jumentalizáramos	jumentalizar+V+PQP+1+PL
 jumentalizara	jumentalizar+V+PQP+1+SG
 jumentalizáreis	jumentalizar+V+PQP+2+PL
@@ -5328,6 +5591,7 @@ jumentalizaras	jumentalizar+V+PQP+2+SG
 jumentalizaram	jumentalizar+V+PQP+3+PL
 jumentalizara	jumentalizar+V+PQP+3+SG
 jumentalizamos	jumentalizar+V+PRF+1+PL
+jumentalizámos	jumentalizar+V+PRF+1+PL
 jumentalizei	jumentalizar+V+PRF+1+SG
 jumentalizastes	jumentalizar+V+PRF+2+PL
 jumentalizaste	jumentalizar+V+PRF+2+SG
@@ -5519,6 +5783,7 @@ juntabilizarás	juntabilizar+V+FUT+2+SG
 juntabilizarão	juntabilizar+V+FUT+3+PL
 juntabilizará	juntabilizar+V+FUT+3+SG
 juntabilizando	juntabilizar+V+GRD
+juntabilizemo	juntabilizar+V+IMP+1+PL
 juntabilizemos	juntabilizar+V+IMP+1+PL
 juntabilizai	juntabilizar+V+IMP+2+PL
 juntabiliza	juntabilizar+V+IMP+2+SG
@@ -5531,6 +5796,12 @@ juntabilizavas	juntabilizar+V+IMPF+2+SG
 juntabilizavam	juntabilizar+V+IMPF+3+PL
 juntabilizava	juntabilizar+V+IMPF+3+SG
 juntabilizar	juntabilizar+V+INF
+juntabilizarmos	juntabilizar+V+INF+1+PL
+juntabilizar	juntabilizar+V+INF+1+SG
+juntabilizardes	juntabilizar+V+INF+2+PL
+juntabilizares	juntabilizar+V+INF+2+SG
+juntabilizarem	juntabilizar+V+INF+3+PL
+juntabilizar	juntabilizar+V+INF+3+SG
 juntabilizáramos	juntabilizar+V+PQP+1+PL
 juntabilizara	juntabilizar+V+PQP+1+SG
 juntabilizáreis	juntabilizar+V+PQP+2+PL
@@ -5538,6 +5809,7 @@ juntabilizaras	juntabilizar+V+PQP+2+SG
 juntabilizaram	juntabilizar+V+PQP+3+PL
 juntabilizara	juntabilizar+V+PQP+3+SG
 juntabilizamos	juntabilizar+V+PRF+1+PL
+juntabilizámos	juntabilizar+V+PRF+1+PL
 juntabilizei	juntabilizar+V+PRF+1+SG
 juntabilizastes	juntabilizar+V+PRF+2+PL
 juntabilizaste	juntabilizar+V+PRF+2+SG
@@ -5657,6 +5929,7 @@ jupiterianizarás	jupiterianizar+V+FUT+2+SG
 jupiterianizarão	jupiterianizar+V+FUT+3+PL
 jupiterianizará	jupiterianizar+V+FUT+3+SG
 jupiterianizando	jupiterianizar+V+GRD
+jupiterianizemo	jupiterianizar+V+IMP+1+PL
 jupiterianizemos	jupiterianizar+V+IMP+1+PL
 jupiterianizai	jupiterianizar+V+IMP+2+PL
 jupiterianiza	jupiterianizar+V+IMP+2+SG
@@ -5669,6 +5942,12 @@ jupiterianizavas	jupiterianizar+V+IMPF+2+SG
 jupiterianizavam	jupiterianizar+V+IMPF+3+PL
 jupiterianizava	jupiterianizar+V+IMPF+3+SG
 jupiterianizar	jupiterianizar+V+INF
+jupiterianizarmos	jupiterianizar+V+INF+1+PL
+jupiterianizar	jupiterianizar+V+INF+1+SG
+jupiterianizardes	jupiterianizar+V+INF+2+PL
+jupiterianizares	jupiterianizar+V+INF+2+SG
+jupiterianizarem	jupiterianizar+V+INF+3+PL
+jupiterianizar	jupiterianizar+V+INF+3+SG
 jupiterianizáramos	jupiterianizar+V+PQP+1+PL
 jupiterianizara	jupiterianizar+V+PQP+1+SG
 jupiterianizáreis	jupiterianizar+V+PQP+2+PL
@@ -5676,6 +5955,7 @@ jupiterianizaras	jupiterianizar+V+PQP+2+SG
 jupiterianizaram	jupiterianizar+V+PQP+3+PL
 jupiterianizara	jupiterianizar+V+PQP+3+SG
 jupiterianizamos	jupiterianizar+V+PRF+1+PL
+jupiterianizámos	jupiterianizar+V+PRF+1+PL
 jupiterianizei	jupiterianizar+V+PRF+1+SG
 jupiterianizastes	jupiterianizar+V+PRF+2+PL
 jupiterianizaste	jupiterianizar+V+PRF+2+SG
@@ -5722,6 +6002,7 @@ jupterianizarás	jupterianizar+V+FUT+2+SG
 jupterianizarão	jupterianizar+V+FUT+3+PL
 jupterianizará	jupterianizar+V+FUT+3+SG
 jupterianizando	jupterianizar+V+GRD
+jupterianizemo	jupterianizar+V+IMP+1+PL
 jupterianizemos	jupterianizar+V+IMP+1+PL
 jupterianizai	jupterianizar+V+IMP+2+PL
 jupterianiza	jupterianizar+V+IMP+2+SG
@@ -5734,6 +6015,12 @@ jupterianizavas	jupterianizar+V+IMPF+2+SG
 jupterianizavam	jupterianizar+V+IMPF+3+PL
 jupterianizava	jupterianizar+V+IMPF+3+SG
 jupterianizar	jupterianizar+V+INF
+jupterianizarmos	jupterianizar+V+INF+1+PL
+jupterianizar	jupterianizar+V+INF+1+SG
+jupterianizardes	jupterianizar+V+INF+2+PL
+jupterianizares	jupterianizar+V+INF+2+SG
+jupterianizarem	jupterianizar+V+INF+3+PL
+jupterianizar	jupterianizar+V+INF+3+SG
 jupterianizáramos	jupterianizar+V+PQP+1+PL
 jupterianizara	jupterianizar+V+PQP+1+SG
 jupterianizáreis	jupterianizar+V+PQP+2+PL
@@ -5741,6 +6028,7 @@ jupterianizaras	jupterianizar+V+PQP+2+SG
 jupterianizaram	jupterianizar+V+PQP+3+PL
 jupterianizara	jupterianizar+V+PQP+3+SG
 jupterianizamos	jupterianizar+V+PRF+1+PL
+jupterianizámos	jupterianizar+V+PRF+1+PL
 jupterianizei	jupterianizar+V+PRF+1+SG
 jupterianizastes	jupterianizar+V+PRF+2+PL
 jupterianizaste	jupterianizar+V+PRF+2+SG
@@ -5932,6 +6220,7 @@ jurassicizarás	jurassicizar+V+FUT+2+SG
 jurassicizarão	jurassicizar+V+FUT+3+PL
 jurassicizará	jurassicizar+V+FUT+3+SG
 jurassicizando	jurassicizar+V+GRD
+jurassicizemo	jurassicizar+V+IMP+1+PL
 jurassicizemos	jurassicizar+V+IMP+1+PL
 jurassicizai	jurassicizar+V+IMP+2+PL
 jurassiciza	jurassicizar+V+IMP+2+SG
@@ -5944,6 +6233,12 @@ jurassicizavas	jurassicizar+V+IMPF+2+SG
 jurassicizavam	jurassicizar+V+IMPF+3+PL
 jurassicizava	jurassicizar+V+IMPF+3+SG
 jurassicizar	jurassicizar+V+INF
+jurassicizarmos	jurassicizar+V+INF+1+PL
+jurassicizar	jurassicizar+V+INF+1+SG
+jurassicizardes	jurassicizar+V+INF+2+PL
+jurassicizares	jurassicizar+V+INF+2+SG
+jurassicizarem	jurassicizar+V+INF+3+PL
+jurassicizar	jurassicizar+V+INF+3+SG
 jurassicizáramos	jurassicizar+V+PQP+1+PL
 jurassicizara	jurassicizar+V+PQP+1+SG
 jurassicizáreis	jurassicizar+V+PQP+2+PL
@@ -5951,6 +6246,7 @@ jurassicizaras	jurassicizar+V+PQP+2+SG
 jurassicizaram	jurassicizar+V+PQP+3+PL
 jurassicizara	jurassicizar+V+PQP+3+SG
 jurassicizamos	jurassicizar+V+PRF+1+PL
+jurassicizámos	jurassicizar+V+PRF+1+PL
 jurassicizei	jurassicizar+V+PRF+1+SG
 jurassicizastes	jurassicizar+V+PRF+2+PL
 jurassicizaste	jurassicizar+V+PRF+2+SG
@@ -5997,6 +6293,7 @@ juridicizarás	juridicizar+V+FUT+2+SG
 juridicizarão	juridicizar+V+FUT+3+PL
 juridicizará	juridicizar+V+FUT+3+SG
 juridicizando	juridicizar+V+GRD
+juridicizemo	juridicizar+V+IMP+1+PL
 juridicizemos	juridicizar+V+IMP+1+PL
 juridicizai	juridicizar+V+IMP+2+PL
 juridiciza	juridicizar+V+IMP+2+SG
@@ -6009,6 +6306,12 @@ juridicizavas	juridicizar+V+IMPF+2+SG
 juridicizavam	juridicizar+V+IMPF+3+PL
 juridicizava	juridicizar+V+IMPF+3+SG
 juridicizar	juridicizar+V+INF
+juridicizarmos	juridicizar+V+INF+1+PL
+juridicizar	juridicizar+V+INF+1+SG
+juridicizardes	juridicizar+V+INF+2+PL
+juridicizares	juridicizar+V+INF+2+SG
+juridicizarem	juridicizar+V+INF+3+PL
+juridicizar	juridicizar+V+INF+3+SG
 juridicizáramos	juridicizar+V+PQP+1+PL
 juridicizara	juridicizar+V+PQP+1+SG
 juridicizáreis	juridicizar+V+PQP+2+PL
@@ -6016,6 +6319,7 @@ juridicizaras	juridicizar+V+PQP+2+SG
 juridicizaram	juridicizar+V+PQP+3+PL
 juridicizara	juridicizar+V+PQP+3+SG
 juridicizamos	juridicizar+V+PRF+1+PL
+juridicizámos	juridicizar+V+PRF+1+PL
 juridicizei	juridicizar+V+PRF+1+SG
 juridicizastes	juridicizar+V+PRF+2+PL
 juridicizaste	juridicizar+V+PRF+2+SG
@@ -6062,6 +6366,7 @@ jurisdicionalizarás	jurisdicionalizar+V+FUT+2+SG
 jurisdicionalizarão	jurisdicionalizar+V+FUT+3+PL
 jurisdicionalizará	jurisdicionalizar+V+FUT+3+SG
 jurisdicionalizando	jurisdicionalizar+V+GRD
+jurisdicionalizemo	jurisdicionalizar+V+IMP+1+PL
 jurisdicionalizemos	jurisdicionalizar+V+IMP+1+PL
 jurisdicionalizai	jurisdicionalizar+V+IMP+2+PL
 jurisdicionaliza	jurisdicionalizar+V+IMP+2+SG
@@ -6074,6 +6379,12 @@ jurisdicionalizavas	jurisdicionalizar+V+IMPF+2+SG
 jurisdicionalizavam	jurisdicionalizar+V+IMPF+3+PL
 jurisdicionalizava	jurisdicionalizar+V+IMPF+3+SG
 jurisdicionalizar	jurisdicionalizar+V+INF
+jurisdicionalizarmos	jurisdicionalizar+V+INF+1+PL
+jurisdicionalizar	jurisdicionalizar+V+INF+1+SG
+jurisdicionalizardes	jurisdicionalizar+V+INF+2+PL
+jurisdicionalizares	jurisdicionalizar+V+INF+2+SG
+jurisdicionalizarem	jurisdicionalizar+V+INF+3+PL
+jurisdicionalizar	jurisdicionalizar+V+INF+3+SG
 jurisdicionalizáramos	jurisdicionalizar+V+PQP+1+PL
 jurisdicionalizara	jurisdicionalizar+V+PQP+1+SG
 jurisdicionalizáreis	jurisdicionalizar+V+PQP+2+PL
@@ -6081,6 +6392,7 @@ jurisdicionalizaras	jurisdicionalizar+V+PQP+2+SG
 jurisdicionalizaram	jurisdicionalizar+V+PQP+3+PL
 jurisdicionalizara	jurisdicionalizar+V+PQP+3+SG
 jurisdicionalizamos	jurisdicionalizar+V+PRF+1+PL
+jurisdicionalizámos	jurisdicionalizar+V+PRF+1+PL
 jurisdicionalizei	jurisdicionalizar+V+PRF+1+SG
 jurisdicionalizastes	jurisdicionalizar+V+PRF+2+PL
 jurisdicionalizaste	jurisdicionalizar+V+PRF+2+SG
@@ -6199,6 +6511,7 @@ jurisprudencializarás	jurisprudencializar+V+FUT+2+SG
 jurisprudencializarão	jurisprudencializar+V+FUT+3+PL
 jurisprudencializará	jurisprudencializar+V+FUT+3+SG
 jurisprudencializando	jurisprudencializar+V+GRD
+jurisprudencializemo	jurisprudencializar+V+IMP+1+PL
 jurisprudencializemos	jurisprudencializar+V+IMP+1+PL
 jurisprudencializai	jurisprudencializar+V+IMP+2+PL
 jurisprudencializa	jurisprudencializar+V+IMP+2+SG
@@ -6211,6 +6524,12 @@ jurisprudencializavas	jurisprudencializar+V+IMPF+2+SG
 jurisprudencializavam	jurisprudencializar+V+IMPF+3+PL
 jurisprudencializava	jurisprudencializar+V+IMPF+3+SG
 jurisprudencializar	jurisprudencializar+V+INF
+jurisprudencializarmos	jurisprudencializar+V+INF+1+PL
+jurisprudencializar	jurisprudencializar+V+INF+1+SG
+jurisprudencializardes	jurisprudencializar+V+INF+2+PL
+jurisprudencializares	jurisprudencializar+V+INF+2+SG
+jurisprudencializarem	jurisprudencializar+V+INF+3+PL
+jurisprudencializar	jurisprudencializar+V+INF+3+SG
 jurisprudencializáramos	jurisprudencializar+V+PQP+1+PL
 jurisprudencializara	jurisprudencializar+V+PQP+1+SG
 jurisprudencializáreis	jurisprudencializar+V+PQP+2+PL
@@ -6218,6 +6537,7 @@ jurisprudencializaras	jurisprudencializar+V+PQP+2+SG
 jurisprudencializaram	jurisprudencializar+V+PQP+3+PL
 jurisprudencializara	jurisprudencializar+V+PQP+3+SG
 jurisprudencializamos	jurisprudencializar+V+PRF+1+PL
+jurisprudencializámos	jurisprudencializar+V+PRF+1+PL
 jurisprudencializei	jurisprudencializar+V+PRF+1+SG
 jurisprudencializastes	jurisprudencializar+V+PRF+2+PL
 jurisprudencializaste	jurisprudencializar+V+PRF+2+SG
@@ -6336,6 +6656,7 @@ jussivizarás	jussivizar+V+FUT+2+SG
 jussivizarão	jussivizar+V+FUT+3+PL
 jussivizará	jussivizar+V+FUT+3+SG
 jussivizando	jussivizar+V+GRD
+jussivizemo	jussivizar+V+IMP+1+PL
 jussivizemos	jussivizar+V+IMP+1+PL
 jussivizai	jussivizar+V+IMP+2+PL
 jussiviza	jussivizar+V+IMP+2+SG
@@ -6348,6 +6669,12 @@ jussivizavas	jussivizar+V+IMPF+2+SG
 jussivizavam	jussivizar+V+IMPF+3+PL
 jussivizava	jussivizar+V+IMPF+3+SG
 jussivizar	jussivizar+V+INF
+jussivizarmos	jussivizar+V+INF+1+PL
+jussivizar	jussivizar+V+INF+1+SG
+jussivizardes	jussivizar+V+INF+2+PL
+jussivizares	jussivizar+V+INF+2+SG
+jussivizarem	jussivizar+V+INF+3+PL
+jussivizar	jussivizar+V+INF+3+SG
 jussivizáramos	jussivizar+V+PQP+1+PL
 jussivizara	jussivizar+V+PQP+1+SG
 jussivizáreis	jussivizar+V+PQP+2+PL
@@ -6355,6 +6682,7 @@ jussivizaras	jussivizar+V+PQP+2+SG
 jussivizaram	jussivizar+V+PQP+3+PL
 jussivizara	jussivizar+V+PQP+3+SG
 jussivizamos	jussivizar+V+PRF+1+PL
+jussivizámos	jussivizar+V+PRF+1+PL
 jussivizei	jussivizar+V+PRF+1+SG
 jussivizastes	jussivizar+V+PRF+2+PL
 jussivizaste	jussivizar+V+PRF+2+SG
@@ -6401,6 +6729,7 @@ justabilizarás	justabilizar+V+FUT+2+SG
 justabilizarão	justabilizar+V+FUT+3+PL
 justabilizará	justabilizar+V+FUT+3+SG
 justabilizando	justabilizar+V+GRD
+justabilizemo	justabilizar+V+IMP+1+PL
 justabilizemos	justabilizar+V+IMP+1+PL
 justabilizai	justabilizar+V+IMP+2+PL
 justabiliza	justabilizar+V+IMP+2+SG
@@ -6413,6 +6742,12 @@ justabilizavas	justabilizar+V+IMPF+2+SG
 justabilizavam	justabilizar+V+IMPF+3+PL
 justabilizava	justabilizar+V+IMPF+3+SG
 justabilizar	justabilizar+V+INF
+justabilizarmos	justabilizar+V+INF+1+PL
+justabilizar	justabilizar+V+INF+1+SG
+justabilizardes	justabilizar+V+INF+2+PL
+justabilizares	justabilizar+V+INF+2+SG
+justabilizarem	justabilizar+V+INF+3+PL
+justabilizar	justabilizar+V+INF+3+SG
 justabilizáramos	justabilizar+V+PQP+1+PL
 justabilizara	justabilizar+V+PQP+1+SG
 justabilizáreis	justabilizar+V+PQP+2+PL
@@ -6420,6 +6755,7 @@ justabilizaras	justabilizar+V+PQP+2+SG
 justabilizaram	justabilizar+V+PQP+3+PL
 justabilizara	justabilizar+V+PQP+3+SG
 justabilizamos	justabilizar+V+PRF+1+PL
+justabilizámos	justabilizar+V+PRF+1+PL
 justabilizei	justabilizar+V+PRF+1+SG
 justabilizastes	justabilizar+V+PRF+2+PL
 justabilizaste	justabilizar+V+PRF+2+SG
@@ -6466,6 +6802,7 @@ justafluvializarás	justafluvializar+V+FUT+2+SG
 justafluvializarão	justafluvializar+V+FUT+3+PL
 justafluvializará	justafluvializar+V+FUT+3+SG
 justafluvializando	justafluvializar+V+GRD
+justafluvializemo	justafluvializar+V+IMP+1+PL
 justafluvializemos	justafluvializar+V+IMP+1+PL
 justafluvializai	justafluvializar+V+IMP+2+PL
 justafluvializa	justafluvializar+V+IMP+2+SG
@@ -6478,6 +6815,12 @@ justafluvializavas	justafluvializar+V+IMPF+2+SG
 justafluvializavam	justafluvializar+V+IMPF+3+PL
 justafluvializava	justafluvializar+V+IMPF+3+SG
 justafluvializar	justafluvializar+V+INF
+justafluvializarmos	justafluvializar+V+INF+1+PL
+justafluvializar	justafluvializar+V+INF+1+SG
+justafluvializardes	justafluvializar+V+INF+2+PL
+justafluvializares	justafluvializar+V+INF+2+SG
+justafluvializarem	justafluvializar+V+INF+3+PL
+justafluvializar	justafluvializar+V+INF+3+SG
 justafluvializáramos	justafluvializar+V+PQP+1+PL
 justafluvializara	justafluvializar+V+PQP+1+SG
 justafluvializáreis	justafluvializar+V+PQP+2+PL
@@ -6485,6 +6828,7 @@ justafluvializaras	justafluvializar+V+PQP+2+SG
 justafluvializaram	justafluvializar+V+PQP+3+PL
 justafluvializara	justafluvializar+V+PQP+3+SG
 justafluvializamos	justafluvializar+V+PRF+1+PL
+justafluvializámos	justafluvializar+V+PRF+1+PL
 justafluvializei	justafluvializar+V+PRF+1+SG
 justafluvializastes	justafluvializar+V+PRF+2+PL
 justafluvializaste	justafluvializar+V+PRF+2+SG
@@ -6531,6 +6875,7 @@ justalienarizarás	justalienarizar+V+FUT+2+SG
 justalienarizarão	justalienarizar+V+FUT+3+PL
 justalienarizará	justalienarizar+V+FUT+3+SG
 justalienarizando	justalienarizar+V+GRD
+justalienarizemo	justalienarizar+V+IMP+1+PL
 justalienarizemos	justalienarizar+V+IMP+1+PL
 justalienarizai	justalienarizar+V+IMP+2+PL
 justalienariza	justalienarizar+V+IMP+2+SG
@@ -6543,6 +6888,12 @@ justalienarizavas	justalienarizar+V+IMPF+2+SG
 justalienarizavam	justalienarizar+V+IMPF+3+PL
 justalienarizava	justalienarizar+V+IMPF+3+SG
 justalienarizar	justalienarizar+V+INF
+justalienarizarmos	justalienarizar+V+INF+1+PL
+justalienarizar	justalienarizar+V+INF+1+SG
+justalienarizardes	justalienarizar+V+INF+2+PL
+justalienarizares	justalienarizar+V+INF+2+SG
+justalienarizarem	justalienarizar+V+INF+3+PL
+justalienarizar	justalienarizar+V+INF+3+SG
 justalienarizáramos	justalienarizar+V+PQP+1+PL
 justalienarizara	justalienarizar+V+PQP+1+SG
 justalienarizáreis	justalienarizar+V+PQP+2+PL
@@ -6550,6 +6901,7 @@ justalienarizaras	justalienarizar+V+PQP+2+SG
 justalienarizaram	justalienarizar+V+PQP+3+PL
 justalienarizara	justalienarizar+V+PQP+3+SG
 justalienarizamos	justalienarizar+V+PRF+1+PL
+justalienarizámos	justalienarizar+V+PRF+1+PL
 justalienarizei	justalienarizar+V+PRF+1+SG
 justalienarizastes	justalienarizar+V+PRF+2+PL
 justalienarizaste	justalienarizar+V+PRF+2+SG
@@ -6743,6 +7095,7 @@ justavertebralizarás	justavertebralizar+V+FUT+2+SG
 justavertebralizarão	justavertebralizar+V+FUT+3+PL
 justavertebralizará	justavertebralizar+V+FUT+3+SG
 justavertebralizando	justavertebralizar+V+GRD
+justavertebralizemo	justavertebralizar+V+IMP+1+PL
 justavertebralizemos	justavertebralizar+V+IMP+1+PL
 justavertebralizai	justavertebralizar+V+IMP+2+PL
 justavertebraliza	justavertebralizar+V+IMP+2+SG
@@ -6755,6 +7108,12 @@ justavertebralizavas	justavertebralizar+V+IMPF+2+SG
 justavertebralizavam	justavertebralizar+V+IMPF+3+PL
 justavertebralizava	justavertebralizar+V+IMPF+3+SG
 justavertebralizar	justavertebralizar+V+INF
+justavertebralizarmos	justavertebralizar+V+INF+1+PL
+justavertebralizar	justavertebralizar+V+INF+1+SG
+justavertebralizardes	justavertebralizar+V+INF+2+PL
+justavertebralizares	justavertebralizar+V+INF+2+SG
+justavertebralizarem	justavertebralizar+V+INF+3+PL
+justavertebralizar	justavertebralizar+V+INF+3+SG
 justavertebralizáramos	justavertebralizar+V+PQP+1+PL
 justavertebralizara	justavertebralizar+V+PQP+1+SG
 justavertebralizáreis	justavertebralizar+V+PQP+2+PL
@@ -6762,6 +7121,7 @@ justavertebralizaras	justavertebralizar+V+PQP+2+SG
 justavertebralizaram	justavertebralizar+V+PQP+3+PL
 justavertebralizara	justavertebralizar+V+PQP+3+SG
 justavertebralizamos	justavertebralizar+V+PRF+1+PL
+justavertebralizámos	justavertebralizar+V+PRF+1+PL
 justavertebralizei	justavertebralizar+V+PRF+1+SG
 justavertebralizastes	justavertebralizar+V+PRF+2+PL
 justavertebralizaste	justavertebralizar+V+PRF+2+SG
@@ -6808,6 +7168,7 @@ justificabilizarás	justificabilizar+V+FUT+2+SG
 justificabilizarão	justificabilizar+V+FUT+3+PL
 justificabilizará	justificabilizar+V+FUT+3+SG
 justificabilizando	justificabilizar+V+GRD
+justificabilizemo	justificabilizar+V+IMP+1+PL
 justificabilizemos	justificabilizar+V+IMP+1+PL
 justificabilizai	justificabilizar+V+IMP+2+PL
 justificabiliza	justificabilizar+V+IMP+2+SG
@@ -6820,6 +7181,12 @@ justificabilizavas	justificabilizar+V+IMPF+2+SG
 justificabilizavam	justificabilizar+V+IMPF+3+PL
 justificabilizava	justificabilizar+V+IMPF+3+SG
 justificabilizar	justificabilizar+V+INF
+justificabilizarmos	justificabilizar+V+INF+1+PL
+justificabilizar	justificabilizar+V+INF+1+SG
+justificabilizardes	justificabilizar+V+INF+2+PL
+justificabilizares	justificabilizar+V+INF+2+SG
+justificabilizarem	justificabilizar+V+INF+3+PL
+justificabilizar	justificabilizar+V+INF+3+SG
 justificabilizáramos	justificabilizar+V+PQP+1+PL
 justificabilizara	justificabilizar+V+PQP+1+SG
 justificabilizáreis	justificabilizar+V+PQP+2+PL
@@ -6827,6 +7194,7 @@ justificabilizaras	justificabilizar+V+PQP+2+SG
 justificabilizaram	justificabilizar+V+PQP+3+PL
 justificabilizara	justificabilizar+V+PQP+3+SG
 justificabilizamos	justificabilizar+V+PRF+1+PL
+justificabilizámos	justificabilizar+V+PRF+1+PL
 justificabilizei	justificabilizar+V+PRF+1+SG
 justificabilizastes	justificabilizar+V+PRF+2+PL
 justificabilizaste	justificabilizar+V+PRF+2+SG
@@ -6946,6 +7314,7 @@ justificativizarás	justificativizar+V+FUT+2+SG
 justificativizarão	justificativizar+V+FUT+3+PL
 justificativizará	justificativizar+V+FUT+3+SG
 justificativizando	justificativizar+V+GRD
+justificativizemo	justificativizar+V+IMP+1+PL
 justificativizemos	justificativizar+V+IMP+1+PL
 justificativizai	justificativizar+V+IMP+2+PL
 justificativiza	justificativizar+V+IMP+2+SG
@@ -6958,6 +7327,12 @@ justificativizavas	justificativizar+V+IMPF+2+SG
 justificativizavam	justificativizar+V+IMPF+3+PL
 justificativizava	justificativizar+V+IMPF+3+SG
 justificativizar	justificativizar+V+INF
+justificativizarmos	justificativizar+V+INF+1+PL
+justificativizar	justificativizar+V+INF+1+SG
+justificativizardes	justificativizar+V+INF+2+PL
+justificativizares	justificativizar+V+INF+2+SG
+justificativizarem	justificativizar+V+INF+3+PL
+justificativizar	justificativizar+V+INF+3+SG
 justificativizáramos	justificativizar+V+PQP+1+PL
 justificativizara	justificativizar+V+PQP+1+SG
 justificativizáreis	justificativizar+V+PQP+2+PL
@@ -6965,6 +7340,7 @@ justificativizaras	justificativizar+V+PQP+2+SG
 justificativizaram	justificativizar+V+PQP+3+PL
 justificativizara	justificativizar+V+PQP+3+SG
 justificativizamos	justificativizar+V+PRF+1+PL
+justificativizámos	justificativizar+V+PRF+1+PL
 justificativizei	justificativizar+V+PRF+1+SG
 justificativizastes	justificativizar+V+PRF+2+PL
 justificativizaste	justificativizar+V+PRF+2+SG
@@ -7011,6 +7387,7 @@ justiçabilizarás	justiçabilizar+V+FUT+2+SG
 justiçabilizarão	justiçabilizar+V+FUT+3+PL
 justiçabilizará	justiçabilizar+V+FUT+3+SG
 justiçabilizando	justiçabilizar+V+GRD
+justiçabilizemo	justiçabilizar+V+IMP+1+PL
 justiçabilizemos	justiçabilizar+V+IMP+1+PL
 justiçabilizai	justiçabilizar+V+IMP+2+PL
 justiçabiliza	justiçabilizar+V+IMP+2+SG
@@ -7023,6 +7400,12 @@ justiçabilizavas	justiçabilizar+V+IMPF+2+SG
 justiçabilizavam	justiçabilizar+V+IMPF+3+PL
 justiçabilizava	justiçabilizar+V+IMPF+3+SG
 justiçabilizar	justiçabilizar+V+INF
+justiçabilizarmos	justiçabilizar+V+INF+1+PL
+justiçabilizar	justiçabilizar+V+INF+1+SG
+justiçabilizardes	justiçabilizar+V+INF+2+PL
+justiçabilizares	justiçabilizar+V+INF+2+SG
+justiçabilizarem	justiçabilizar+V+INF+3+PL
+justiçabilizar	justiçabilizar+V+INF+3+SG
 justiçabilizáramos	justiçabilizar+V+PQP+1+PL
 justiçabilizara	justiçabilizar+V+PQP+1+SG
 justiçabilizáreis	justiçabilizar+V+PQP+2+PL
@@ -7030,6 +7413,7 @@ justiçabilizaras	justiçabilizar+V+PQP+2+SG
 justiçabilizaram	justiçabilizar+V+PQP+3+PL
 justiçabilizara	justiçabilizar+V+PQP+3+SG
 justiçabilizamos	justiçabilizar+V+PRF+1+PL
+justiçabilizámos	justiçabilizar+V+PRF+1+PL
 justiçabilizei	justiçabilizar+V+PRF+1+SG
 justiçabilizastes	justiçabilizar+V+PRF+2+PL
 justiçabilizaste	justiçabilizar+V+PRF+2+SG
