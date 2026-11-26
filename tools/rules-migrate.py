@@ -29,7 +29,7 @@ FOMA = os.environ.get("FOMA", "foma")
 
 # Classe proposta para cada lema, pela terminação (a primeira que casar).
 # A atribuição só é aceita se o lema passar no critério.
-CLASSES = [("ear", "passear"), ("ar", "abafar")]
+CLASSES = [("ear", "passear"), ("ar", "abafar"), ("er", "bater"), ("ir", "partir")]
 
 
 def read_dicts():

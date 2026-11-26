@@ -1,7 +1,15 @@
-! Alternâncias ortográficas na fronteira radical^sufixo dos verbos em -ar
+! Alternâncias ortográficas na fronteira radical/sufixo dos verbos
 ! (ver rules/verbs.lexc). Aplicadas ao lado inferior (forma).
-define CQU c -> {qu} || _ "^" e ;     ! ficar: fique
-define GGU g -> {gu} || _ "^" e ;     ! pagar: pague
-define CED ç -> c || _ "^" e ;        ! abraçar: abrace
-define BOUNDARY "^" -> 0 ;
-define Orthography CQU .o. GGU .o. CED .o. BOUNDARY ;
+
+! -ar (fronteira ^): c, g, ç diante de e
+define CQU c -> {qu} || _ "^" e ;      ! ficar: fique
+define GGU g -> {gu} || _ "^" e ;      ! pagar: pague
+define CED ç -> c || _ "^" e ;         ! abraçar: abrace
+
+! -er/-ir (fronteira ^E): c, g, gu diante de a, o
+define CCED c -> ç || _ "^E" [a|o] ;         ! conhecer: conheço, conheça
+define GJ g -> j || _ "^E" [a|o] ;           ! proteger: protejo; fingir: finjo
+define GUG {gu} -> g || _ "^E" [a|o] ;       ! erguer: ergo; distinguir: distingo
+
+define BOUNDARY ["^" | "^E"] -> 0 ;
+define Orthography CQU .o. GGU .o. CED .o. CCED .o. GJ .o. GUG .o. BOUNDARY ;
