@@ -311,10 +311,6 @@ Other publications about MorphoBr and the methods used:
   computacional de processos de formação de palavras em português*.
   Dissertação (Mestrado em Linguística), Universidade Federal do Ceará, 2019.
   <http://www.repositorio.ufc.br/handle/riufc/47136>
-- ALENCAR, Leonel F. de et al. JMorpher: a finite-state morphological parser
-  in Java for Android. In: *Computational Processing of the Portuguese
-  Language* (PROPOR 2014). Lecture Notes in Computer Science. Springer, 2014.
-  p. 59-69. DOI: [10.1007/978-3-319-09761-9_6](https://doi.org/10.1007/978-3-319-09761-9_6)
 - HULDEN, Mans. Foma: a finite-state compiler and library. In: *Proceedings of
   the Demonstrations Session at EACL 2009*. Athens: ACL, 2009. p. 29-32.
   <https://aclanthology.org/E09-2008/>
