@@ -635,10 +635,6 @@ mortas	morrer+V+PTPST+F+PL
 morta	morrer+V+PTPST+F+SG
 mortos	morrer+V+PTPST+M+PL
 morto	morrer+V+PTPST+M+SG
-moge	mugir+V+IMP+2+SG
-moges	mugir+V+PRS+2+SG
-mogem	mugir+V+PRS+3+PL
-moge	mugir+V+PRS+3+SG
 multicoluramo	multicolorir+V+IMP+1+PL
 multicoluramos	multicolorir+V+IMP+1+PL
 multicoluram	multicolorir+V+IMP+3+PL
