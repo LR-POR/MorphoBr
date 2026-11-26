@@ -97,8 +97,8 @@ jobs:
           check conheço   conhecer+V+PRS+1+SG              # verbo em -er (regras)
           check atribui   atribuir+V+PRS+3+SG              # classe -uir (regras)
           check quis      querer+V+PRF+1+SG                # irregular (full-form)
-          check comprei-o comprar+V.ele.ACC.3.M.SG+PRF+1+SG  # clítico
-
+          check comprei-o comprar+V.ele.ACC.3.M.SG+PRF+1+SG  # clítico (regras)
+          check amá-lo-ei amar+V.ele.ACC.3.M.SG+FUT+1+SG     # mesóclise (regras)
       - name: Publica o transdutor
         uses: actions/upload-artifact@v7
         with:

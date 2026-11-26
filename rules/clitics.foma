@@ -1,0 +1,116 @@
+! Formas verbais com pronomes clíticos (ênclise e mesóclise), geradas a
+! partir das formas verbais (ver #165).
+!
+! Espera definidos:
+!   VerbAn        verbos com a análise no lado superior e a forma no inferior
+!                 (lema+V+TAGS : forma), regulares e irregulares;
+!   CliticLemmas  lista dos lemas cujos clíticos são gerados por estas regras
+!                 (lexicon/clitics/verbs.tsv).
+! Define Clitic, com a análise no lado superior, no formato dos arquivos
+! clitics/*.dict: lema+V.<pronome>+TAGS : forma-pronome.
+!
+! Exemplos: comprei-o, amá-lo, fi-lo, dão-no, amamo-nos, dar-lhe-ei, amá-lo-ia.
+
+! --- Células do paradigma ------------------------------------------------
+! Os pronomes se ligam às formas finitas (exceto o presente do subjuntivo
+! e o imperativo da 2ª pessoa, ausentes dos dados), ao infinitivo
+! (impessoal e pessoal) e ao gerúndio. O reflexivo se fica restrito à
+! 3ª pessoa, ao infinitivo impessoal e ao gerúndio. O acusativo (o, a, os,
+! as) não se liga ao infinitivo impessoal: nos dados ele aparece em só 5%
+! dos lemas. As células que as regras não cobrem (essas, o reflexivo se
+! analisado como 1ª pessoa do singular etc.) ficam nos arquivos .dict
+! (ver #165).
+
+define Pers   ["+1" | "+2" | "+3"] ;
+define Num    ["+SG" | "+PL"] ;
+define Tags   ["+COND" | "+FUT" | "+IMPF" | "+PQP" | "+PRF" | "+PRS" | "+SBJF" | "+INF"] Pers Num
+            | "+IMP" ["+1" "+PL" | "+3" Num]
+            | "+GRD" ;
+define TagsAcc Tags ;
+define TagsDat Tags | "+INF" ;
+define Tags3  [Tags & $"+3"] | "+INF" | "+GRD" ;
+
+! Cada etiqueta de pronome (lado superior) vira +V da análise verbal e
+! deixa no fim da forma um marcador com o pronome (<o>, <lhe> etc.).
+define P(Tag, Mark, T) [Tag:"+V" T 0:Mark] ;
+define Up CliticLemmas [
+      P("+V.eu.AD.1.SG",      "<me>",   TagsDat)
+    | P("+V.tu.AD.2.SG",      "<te>",   TagsDat)
+    | P("+V.nós.AD.1.PL",     "<nos>",  TagsDat)
+    | P("+V.vós.AD.2.PL",     "<vos>",  TagsDat)
+    | P("+V.ele.DAT.3.SG",    "<lhe>",  TagsDat)
+    | P("+V.ele.DAT.3.PL",    "<lhes>", TagsDat)
+    | P("+V.ele.REFL",        "<se>",   Tags3)
+    | P("+V.ele.ACC.3.M.SG",  "<o>",    TagsAcc)
+    | P("+V.ele.ACC.3.F.SG",  "<a>",    TagsAcc)
+    | P("+V.ele.ACC.3.M.PL",  "<os>",   TagsAcc)
+    | P("+V.ele.ACC.3.F.PL",  "<as>",   TagsAcc) ] ;
+
+! Marcas usadas pelas regras abaixo, inseridas depois das etiquetas.
+define Flags [[..] -> "^MESO" || ["+FUT" | "+COND"] Pers Num _ ]
+         .o. [[..] -> "^PRF1PL" || "+PRF" "+1" "+PL" _ ]
+         .o. [[..] -> "^IMP1PL" || "+IMP" "+1" "+PL" _ ] ;
+
+define Acc  ["<o>" | "<a>" | "<os>" | "<as>"] ;
+define Cl   [Acc | "<me>" | "<te>" | "<nos>" | "<vos>" | "<lhe>" | "<lhes>" | "<se>"] ;
+define Flag ["^MESO" | "^PRF1PL" | "^IMP1PL"] ;
+
+! A forma verbal passa adiante os marcadores.
+define V VerbAn [Flag | Cl]* ;
+
+! --- Regras (no lado inferior) --------------------------------------------
+
+! Formas que não recebem clítico: o imperativo 1PL truncado (amemo, o
+! clítico se liga a amemos) e a variante europeia do perfeito 1PL em -ámos
+! (ver #154/#155), que ainda não tem clíticos nos dados.
+define Excl ~[?* m o "^IMP1PL" ?*] & ~[?* á m o s "^PRF1PL" ?*] ;
+define DelFlag ["^IMP1PL" | "^PRF1PL"] -> 0 ;
+
+! Mesóclise no futuro e no condicional: o pronome vai para depois do r
+! do infinitivo (dar-lhe-ei, amá-lo-ia); as desinências não têm r.
+define MesoMove [..] -> "<me>" || r _ [\r]* "^MESO" "<me>" ,,
+                [..] -> "<te>" || r _ [\r]* "^MESO" "<te>" ,,
+                [..] -> "<nos>" || r _ [\r]* "^MESO" "<nos>" ,,
+                [..] -> "<vos>" || r _ [\r]* "^MESO" "<vos>" ,,
+                [..] -> "<lhe>" || r _ [\r]* "^MESO" "<lhe>" ,,
+                [..] -> "<lhes>" || r _ [\r]* "^MESO" "<lhes>" ,,
+                [..] -> "<se>" || r _ [\r]* "^MESO" "<se>" ,,
+                [..] -> "<o>" || r _ [\r]* "^MESO" "<o>" ,,
+                [..] -> "<a>" || r _ [\r]* "^MESO" "<a>" ,,
+                [..] -> "<os>" || r _ [\r]* "^MESO" "<os>" ,,
+                [..] -> "<as>" || r _ [\r]* "^MESO" "<as>" ;
+define MesoDel ["^MESO" Cl] -> 0 ;
+
+! As regras abaixo só substituem ou apagam símbolos, nunca inserem: uma
+! inserção no fim da forma, onde a análise tem etiquetas sem par na forma,
+! daria vários caminhos (alinhamentos) para o mesmo par.
+
+! Acusativo depois de -r, -z, -s: a consoante cai e o pronome vira lo, la,
+! los, las; a, e, o antes de -r/-z recebem acento (amá-lo, comê-lo, pô-lo,
+! fá-lo, fi-lo, amamo-lo). Depois de nasal o pronome vira no, na, nos, nas
+! (dão-no, amam-na, põe-no).
+define AccL  "<o>" -> "<lo>", "<a>" -> "<la>", "<os>" -> "<los>", "<as>" -> "<las>" || [r | z | s] _ ;
+define AccN  "<o>" -> "<no>", "<a>" -> "<na>", "<os>" -> "<nos>", "<as>" -> "<nas>" || [m | ã o | õ e | ã e] _ ;
+define LAcc  ["<lo>" | "<la>" | "<los>" | "<las>"] ;
+define AccAccent a -> á, e -> ê, o -> ô || _ [r | z] LAcc ;
+define AccDrop   [r | z | s] -> 0 || _ LAcc ;
+! nos depois de -s: o -s cai (amamo-nos, ababadava-nos).
+define NosS      s -> 0 || _ "<nos>" ;
+
+! Realização dos marcadores, com hífen antes e, na mesóclise, depois.
+define Mark ["<me>" | "<te>" | "<nos>" | "<vos>" | "<lhe>" | "<lhes>" | "<se>"
+            | "<o>" | "<a>" | "<os>" | "<as>" | "<lo>" | "<la>" | "<los>" | "<las>"
+            | "<no>" | "<na>" | "<nas>"] ;
+define Spell1 "<me>" -> {-me-}, "<te>" -> {-te-}, "<nos>" -> {-nos-}, "<vos>" -> {-vos-},
+              "<lhe>" -> {-lhe-}, "<lhes>" -> {-lhes-}, "<se>" -> {-se-},
+              "<o>" -> {-o-}, "<a>" -> {-a-}, "<os>" -> {-os-}, "<as>" -> {-as-},
+              "<lo>" -> {-lo-}, "<la>" -> {-la-}, "<los>" -> {-los-}, "<las>" -> {-las-},
+              "<no>" -> {-no-}, "<na>" -> {-na-}, "<nas>" -> {-nas-} || _ ? ;
+define Spell2 "<me>" -> {-me}, "<te>" -> {-te}, "<nos>" -> {-nos}, "<vos>" -> {-vos},
+              "<lhe>" -> {-lhe}, "<lhes>" -> {-lhes}, "<se>" -> {-se},
+              "<o>" -> {-o}, "<a>" -> {-a}, "<os>" -> {-os}, "<as>" -> {-as},
+              "<lo>" -> {-lo}, "<la>" -> {-la}, "<los>" -> {-los}, "<las>" -> {-las},
+              "<no>" -> {-no}, "<na>" -> {-na}, "<nas>" -> {-nas} ;
+
+define Clitic Up .o. Flags .o. V .o. Excl .o. DelFlag .o. MesoMove .o. MesoDel
+            .o. AccL .o. AccN .o. AccAccent .o. AccDrop .o. NosS .o. Spell1 .o. Spell2 ;
