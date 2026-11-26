@@ -21,6 +21,15 @@ read spaced-text tmp/adverbs.stxt
 define advs ;
 clear stack
 
-regex  nouns | verbs | clitics | adjs | advs;
+! Verbos gerados por regras (rules/ + lexicon/, ver #143). O lexc tem a
+! análise no lado superior; .i inverte para a forma ficar no lado
+! superior, como nos arquivos full-form.
+read lexc tmp/verbs.lexc
+define verbLex ;
+clear stack
+source rules/orthography.foma
+define verbRules [verbLex .o. Orthography].i ;
+
+regex  nouns | verbs | verbRules | clitics | adjs | advs;
 save stack morphobr.bin
 

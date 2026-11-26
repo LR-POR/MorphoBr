@@ -1,0 +1,164 @@
+! Paradigmas de flexão verbal gerados por regras (ver #143).
+! Lado superior: lema+análise; lado inferior: forma. O build inverte o
+! transdutor para unir ao full-form (forma no lado superior).
+! O radical (lema sem -ar) vem de lexicon/verbs/<modelo>.tsv; ^ marca a
+! fronteira radical^sufixo, usada pelas regras de rules/orthography.foma.
+
+Multichar_Symbols +1 +2 +3 +COND +F +FUT +GRD +IMP +IMPF +INF +M +PL +PQP +PRF +PRS +PTPST +SBJF +SBJP +SBJR +SG +V ^
+
+LEXICON Root
+Verbs ;
+
+! Verbos regulares em -ar (modelo: abafar). Inclui o infinitivo pessoal,
+! PRF 1PL -amos/-ámos (Brasil/Portugal) e o imperativo 1PL truncado -emo.
+LEXICON ABAFAR
+ar+V+COND+1+PL:^aríamos # ;
+ar+V+COND+1+SG:^aria # ;
+ar+V+COND+2+PL:^aríeis # ;
+ar+V+COND+2+SG:^arias # ;
+ar+V+COND+3+PL:^ariam # ;
+ar+V+COND+3+SG:^aria # ;
+ar+V+FUT+1+PL:^aremos # ;
+ar+V+FUT+1+SG:^arei # ;
+ar+V+FUT+2+PL:^areis # ;
+ar+V+FUT+2+SG:^arás # ;
+ar+V+FUT+3+PL:^arão # ;
+ar+V+FUT+3+SG:^ará # ;
+ar+V+GRD:^ando # ;
+ar+V+IMP+1+PL:^emo # ;
+ar+V+IMP+1+PL:^emos # ;
+ar+V+IMP+2+PL:^ai # ;
+ar+V+IMP+2+SG:^a # ;
+ar+V+IMP+3+PL:^em # ;
+ar+V+IMP+3+SG:^e # ;
+ar+V+IMPF+1+PL:^ávamos # ;
+ar+V+IMPF+1+SG:^ava # ;
+ar+V+IMPF+2+PL:^áveis # ;
+ar+V+IMPF+2+SG:^avas # ;
+ar+V+IMPF+3+PL:^avam # ;
+ar+V+IMPF+3+SG:^ava # ;
+ar+V+INF:^ar # ;
+ar+V+INF+1+PL:^armos # ;
+ar+V+INF+1+SG:^ar # ;
+ar+V+INF+2+PL:^ardes # ;
+ar+V+INF+2+SG:^ares # ;
+ar+V+INF+3+PL:^arem # ;
+ar+V+INF+3+SG:^ar # ;
+ar+V+PQP+1+PL:^áramos # ;
+ar+V+PQP+1+SG:^ara # ;
+ar+V+PQP+2+PL:^áreis # ;
+ar+V+PQP+2+SG:^aras # ;
+ar+V+PQP+3+PL:^aram # ;
+ar+V+PQP+3+SG:^ara # ;
+ar+V+PRF+1+PL:^amos # ;
+ar+V+PRF+1+PL:^ámos # ;
+ar+V+PRF+1+SG:^ei # ;
+ar+V+PRF+2+PL:^astes # ;
+ar+V+PRF+2+SG:^aste # ;
+ar+V+PRF+3+PL:^aram # ;
+ar+V+PRF+3+SG:^ou # ;
+ar+V+PRS+1+PL:^amos # ;
+ar+V+PRS+1+SG:^o # ;
+ar+V+PRS+2+PL:^ais # ;
+ar+V+PRS+2+SG:^as # ;
+ar+V+PRS+3+PL:^am # ;
+ar+V+PRS+3+SG:^a # ;
+ar+V+PTPST+F+PL:^adas # ;
+ar+V+PTPST+F+SG:^ada # ;
+ar+V+PTPST+M+PL:^ados # ;
+ar+V+PTPST+M+SG:^ado # ;
+ar+V+SBJF+1+PL:^armos # ;
+ar+V+SBJF+1+SG:^ar # ;
+ar+V+SBJF+2+PL:^ardes # ;
+ar+V+SBJF+2+SG:^ares # ;
+ar+V+SBJF+3+PL:^arem # ;
+ar+V+SBJF+3+SG:^ar # ;
+ar+V+SBJP+1+PL:^ássemos # ;
+ar+V+SBJP+1+SG:^asse # ;
+ar+V+SBJP+2+PL:^ásseis # ;
+ar+V+SBJP+2+SG:^asses # ;
+ar+V+SBJP+3+PL:^assem # ;
+ar+V+SBJP+3+SG:^asse # ;
+ar+V+SBJR+1+PL:^emos # ;
+ar+V+SBJR+1+SG:^e # ;
+ar+V+SBJR+2+PL:^eis # ;
+ar+V+SBJR+2+SG:^es # ;
+ar+V+SBJR+3+PL:^em # ;
+ar+V+SBJR+3+SG:^e # ;
+
+! Verbos em -ear (modelo: passear): e -> ei nas formas rizotônicas
+! (passeio, passeie, passeia).
+LEXICON PASSEAR
+ar+V+COND+1+PL:^aríamos # ;
+ar+V+COND+1+SG:^aria # ;
+ar+V+COND+2+PL:^aríeis # ;
+ar+V+COND+2+SG:^arias # ;
+ar+V+COND+3+PL:^ariam # ;
+ar+V+COND+3+SG:^aria # ;
+ar+V+FUT+1+PL:^aremos # ;
+ar+V+FUT+1+SG:^arei # ;
+ar+V+FUT+2+PL:^areis # ;
+ar+V+FUT+2+SG:^arás # ;
+ar+V+FUT+3+PL:^arão # ;
+ar+V+FUT+3+SG:^ará # ;
+ar+V+GRD:^ando # ;
+ar+V+IMP+1+PL:^emo # ;
+ar+V+IMP+1+PL:^emos # ;
+ar+V+IMP+2+PL:^ai # ;
+ar+V+IMP+2+SG:^ia # ;
+ar+V+IMP+3+PL:^iem # ;
+ar+V+IMP+3+SG:^ie # ;
+ar+V+IMPF+1+PL:^ávamos # ;
+ar+V+IMPF+1+SG:^ava # ;
+ar+V+IMPF+2+PL:^áveis # ;
+ar+V+IMPF+2+SG:^avas # ;
+ar+V+IMPF+3+PL:^avam # ;
+ar+V+IMPF+3+SG:^ava # ;
+ar+V+INF:^ar # ;
+ar+V+INF+1+PL:^armos # ;
+ar+V+INF+1+SG:^ar # ;
+ar+V+INF+2+PL:^ardes # ;
+ar+V+INF+2+SG:^ares # ;
+ar+V+INF+3+PL:^arem # ;
+ar+V+INF+3+SG:^ar # ;
+ar+V+PQP+1+PL:^áramos # ;
+ar+V+PQP+1+SG:^ara # ;
+ar+V+PQP+2+PL:^áreis # ;
+ar+V+PQP+2+SG:^aras # ;
+ar+V+PQP+3+PL:^aram # ;
+ar+V+PQP+3+SG:^ara # ;
+ar+V+PRF+1+PL:^amos # ;
+ar+V+PRF+1+PL:^ámos # ;
+ar+V+PRF+1+SG:^ei # ;
+ar+V+PRF+2+PL:^astes # ;
+ar+V+PRF+2+SG:^aste # ;
+ar+V+PRF+3+PL:^aram # ;
+ar+V+PRF+3+SG:^ou # ;
+ar+V+PRS+1+PL:^amos # ;
+ar+V+PRS+1+SG:^io # ;
+ar+V+PRS+2+PL:^ais # ;
+ar+V+PRS+2+SG:^ias # ;
+ar+V+PRS+3+PL:^iam # ;
+ar+V+PRS+3+SG:^ia # ;
+ar+V+PTPST+F+PL:^adas # ;
+ar+V+PTPST+F+SG:^ada # ;
+ar+V+PTPST+M+PL:^ados # ;
+ar+V+PTPST+M+SG:^ado # ;
+ar+V+SBJF+1+PL:^armos # ;
+ar+V+SBJF+1+SG:^ar # ;
+ar+V+SBJF+2+PL:^ardes # ;
+ar+V+SBJF+2+SG:^ares # ;
+ar+V+SBJF+3+PL:^arem # ;
+ar+V+SBJF+3+SG:^ar # ;
+ar+V+SBJP+1+PL:^ássemos # ;
+ar+V+SBJP+1+SG:^asse # ;
+ar+V+SBJP+2+PL:^ásseis # ;
+ar+V+SBJP+2+SG:^asses # ;
+ar+V+SBJP+3+PL:^assem # ;
+ar+V+SBJP+3+SG:^asse # ;
+ar+V+SBJR+1+PL:^emos # ;
+ar+V+SBJR+1+SG:^ie # ;
+ar+V+SBJR+2+PL:^eis # ;
+ar+V+SBJR+2+SG:^ies # ;
+ar+V+SBJR+3+PL:^iem # ;
+ar+V+SBJR+3+SG:^ie # ;

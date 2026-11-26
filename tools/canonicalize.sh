@@ -1,5 +1,5 @@
 #!/bin/bash
-# Ordem canônica dos dicionários: por análise (lema primeiro) e depois
+# Ordem canônica dos dicionários e das listas de lemas (lexicon/): por análise (lema primeiro) e depois
 # por forma, comparando bytes (LC_ALL=C), sem linhas repetidas.
 # Assim todas as entradas de um lema ficam juntas e os diffs só mostram
 # mudanças reais.
@@ -21,6 +21,18 @@ for f in {nouns,verbs,adjectives,adverbs,clitics}/*.dict; do
         fi
     else
         sort -t$'\t' -k2,2 -k1,1 -u -o "$f" "$f"
+    fi
+done
+# listas de lemas das regras (lexicon/, ver #143): ordem por byte, sem repetição
+for f in lexicon/*/*.tsv; do
+    [ -e "$f" ] || continue
+    if [ "${1:-}" = "--check" ]; then
+        if ! sort -u -c "$f" 2>/dev/null; then
+            echo "fora da ordem canônica: $f"
+            status=1
+        fi
+    else
+        sort -u -o "$f" "$f"
     fi
 done
 exit $status
