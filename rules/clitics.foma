@@ -10,6 +10,19 @@
 ! clitics/*.dict: lema+V.<pronome>+TAGS : forma-pronome.
 !
 ! Exemplos: comprei-o, amá-lo, fi-lo, dão-no, amamo-nos, dar-lhe-ei, amá-lo-ia.
+!
+! Fontes (ver "Linguistic references" no README):
+!   AO90 = Acordo Ortográfico da Língua Portuguesa (1990), texto no Portal da
+!   Língua Portuguesa: http://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990
+!   - Base XVII, 1: hífen na ênclise e na mesóclise (tmese): "amá-lo, dá-se,
+!     deixa-o, partir-lhe; amá-lo-ei, enviar-lhe-emos".
+!   - Base VIII, 1b e 2b: acento nas formas oxítonas com lo(s), la(s):
+!     "adorá-lo(s), dá-la(s), fá-lo(s), trá-la(s)-á"; "detê-lo(s), fazê-la(s),
+!     fê-lo(s), vê-la(s), pô-la(s)".
+!   - Base X, 3: acento no i tônico das formas em -r dos verbos em -air e
+!     -uir com lo(s), la(s): "atraí-lo(s), atraí-lo(s)-ia, possuí-la(s)".
+!   - Base XVII, 2, obs.: quer e requer ficam quere e requere na ênclise
+!     ("quere-o(s), requere-o(s)"); querer e derivados ainda estão nos .dict.
 
 ! --- Células do paradigma ------------------------------------------------
 ! Os pronomes se ligam às formas finitas (exceto o presente do subjuntivo
@@ -87,15 +100,22 @@ define MesoDel ["^MESO" Cl] -> 0 ;
 
 ! Acusativo depois de -r, -z, -s: a consoante cai e o pronome vira lo, la,
 ! los, las; a, e, o antes de -r/-z recebem acento (amá-lo, comê-lo, pô-lo,
-! fá-lo, fi-lo, amamo-lo). Depois de nasal o pronome vira no, na, nos, nas
+! fá-lo, fi-lo, amamo-lo; AO90, Base VIII). Depois de nasal o pronome vira no, na, nos, nas
 ! (dão-no, amam-na, põe-no).
 define AccL  "<o>" -> "<lo>", "<a>" -> "<la>", "<os>" -> "<los>", "<as>" -> "<las>" || [r | z | s] _ ;
 define AccN  "<o>" -> "<no>", "<a>" -> "<na>", "<os>" -> "<nos>", "<as>" -> "<nas>" || [m | ã o | õ e | ã e] _ ;
 define LAcc  ["<lo>" | "<la>" | "<los>" | "<las>"] ;
 define AccAccent a -> á, e -> ê, o -> ô || _ [r | z] LAcc ;
+! Verbos em -air e -uir: o i tônico recebe acento (atribuí-lo, possuí-lo,
+! atraí-lo-ia; AO90, Base X, 3); em -guir/-quir não há hiato (segui-lo,
+! distingui-lo).
+define AccHiato  i -> í || [a | \[g | q] u] _ r LAcc ;
 define AccDrop   [r | z | s] -> 0 || _ LAcc ;
-! nos depois de -s: o -s cai (amamo-nos, ababadava-nos).
-define NosS      s -> 0 || _ "<nos>" ;
+! nos depois da 1ª pessoa do plural em -mos: o -s cai (amamo-nos,
+! levantemo-nos); nas outras pessoas fica (amavas-nos, recompus-nos). O AO90
+! não trata disso; regra da gramática normativa, fonte com página a
+! confirmar (Cunha e Cintra 1985), ver #171.
+define NosS      s -> 0 || m o _ "<nos>" ;
 
 ! Realização dos marcadores, com hífen antes e, na mesóclise, depois.
 define Mark ["<me>" | "<te>" | "<nos>" | "<vos>" | "<lhe>" | "<lhes>" | "<se>"
@@ -113,4 +133,4 @@ define Spell2 "<me>" -> {-me}, "<te>" -> {-te}, "<nos>" -> {-nos}, "<vos>" -> {-
               "<no>" -> {-no}, "<na>" -> {-na}, "<nas>" -> {-nas} ;
 
 define Clitic Up .o. Flags .o. V .o. Excl .o. DelFlag .o. MesoMove .o. MesoDel
-            .o. AccL .o. AccN .o. AccAccent .o. AccDrop .o. NosS .o. Spell1 .o. Spell2 ;
+            .o. AccL .o. AccN .o. AccAccent .o. AccHiato .o. AccDrop .o. NosS .o. Spell1 .o. Spell2 ;
