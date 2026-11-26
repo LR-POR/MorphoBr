@@ -20,6 +20,7 @@ obcecávei-las	obcecar+V.ele.ACC.3.F.PL+IMPF+2+PL
 obcecava-las	obcecar+V.ele.ACC.3.F.PL+IMPF+2+SG
 obcecavam-nas	obcecar+V.ele.ACC.3.F.PL+IMPF+3+PL
 obcecava-as	obcecar+V.ele.ACC.3.F.PL+IMPF+3+SG
+obcecá-las	obcecar+V.ele.ACC.3.F.PL+INF
 obcecarmo-las	obcecar+V.ele.ACC.3.F.PL+INF+1+PL
 obcecá-las	obcecar+V.ele.ACC.3.F.PL+INF+1+SG
 obcecarde-las	obcecar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -71,6 +72,7 @@ obcecávei-la	obcecar+V.ele.ACC.3.F.SG+IMPF+2+PL
 obcecava-la	obcecar+V.ele.ACC.3.F.SG+IMPF+2+SG
 obcecavam-na	obcecar+V.ele.ACC.3.F.SG+IMPF+3+PL
 obcecava-a	obcecar+V.ele.ACC.3.F.SG+IMPF+3+SG
+obcecá-la	obcecar+V.ele.ACC.3.F.SG+INF
 obcecarmo-la	obcecar+V.ele.ACC.3.F.SG+INF+1+PL
 obcecá-la	obcecar+V.ele.ACC.3.F.SG+INF+1+SG
 obcecarde-la	obcecar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -122,6 +124,7 @@ obcecávei-los	obcecar+V.ele.ACC.3.M.PL+IMPF+2+PL
 obcecava-los	obcecar+V.ele.ACC.3.M.PL+IMPF+2+SG
 obcecavam-nos	obcecar+V.ele.ACC.3.M.PL+IMPF+3+PL
 obcecava-os	obcecar+V.ele.ACC.3.M.PL+IMPF+3+SG
+obcecá-los	obcecar+V.ele.ACC.3.M.PL+INF
 obcecarmo-los	obcecar+V.ele.ACC.3.M.PL+INF+1+PL
 obcecá-los	obcecar+V.ele.ACC.3.M.PL+INF+1+SG
 obcecarde-los	obcecar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -173,6 +176,7 @@ obcecávei-lo	obcecar+V.ele.ACC.3.M.SG+IMPF+2+PL
 obcecava-lo	obcecar+V.ele.ACC.3.M.SG+IMPF+2+SG
 obcecavam-no	obcecar+V.ele.ACC.3.M.SG+IMPF+3+PL
 obcecava-o	obcecar+V.ele.ACC.3.M.SG+IMPF+3+SG
+obcecá-lo	obcecar+V.ele.ACC.3.M.SG+INF
 obcecarmo-lo	obcecar+V.ele.ACC.3.M.SG+INF+1+PL
 obcecá-lo	obcecar+V.ele.ACC.3.M.SG+INF+1+SG
 obcecarde-lo	obcecar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1095,6 +1099,7 @@ objetificávei-las	objetificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 objetificava-las	objetificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 objetificavam-nas	objetificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 objetificava-as	objetificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+objetificá-las	objetificar+V.ele.ACC.3.F.PL+INF
 objetificarmo-las	objetificar+V.ele.ACC.3.F.PL+INF+1+PL
 objetificá-las	objetificar+V.ele.ACC.3.F.PL+INF+1+SG
 objetificarde-las	objetificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1146,6 +1151,7 @@ objetificávei-la	objetificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 objetificava-la	objetificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 objetificavam-na	objetificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 objetificava-a	objetificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+objetificá-la	objetificar+V.ele.ACC.3.F.SG+INF
 objetificarmo-la	objetificar+V.ele.ACC.3.F.SG+INF+1+PL
 objetificá-la	objetificar+V.ele.ACC.3.F.SG+INF+1+SG
 objetificarde-la	objetificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1197,6 +1203,7 @@ objetificávei-los	objetificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 objetificava-los	objetificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 objetificavam-nos	objetificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 objetificava-os	objetificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+objetificá-los	objetificar+V.ele.ACC.3.M.PL+INF
 objetificarmo-los	objetificar+V.ele.ACC.3.M.PL+INF+1+PL
 objetificá-los	objetificar+V.ele.ACC.3.M.PL+INF+1+SG
 objetificarde-los	objetificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1248,6 +1255,7 @@ objetificávei-lo	objetificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 objetificava-lo	objetificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 objetificavam-no	objetificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 objetificava-o	objetificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+objetificá-lo	objetificar+V.ele.ACC.3.M.SG+INF
 objetificarmo-lo	objetificar+V.ele.ACC.3.M.SG+INF+1+PL
 objetificá-lo	objetificar+V.ele.ACC.3.M.SG+INF+1+SG
 objetificarde-lo	objetificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1631,6 +1639,7 @@ obliquávei-las	obliquar+V.ele.ACC.3.F.PL+IMPF+2+PL
 obliquava-las	obliquar+V.ele.ACC.3.F.PL+IMPF+2+SG
 obliquavam-nas	obliquar+V.ele.ACC.3.F.PL+IMPF+3+PL
 obliquava-as	obliquar+V.ele.ACC.3.F.PL+IMPF+3+SG
+obliquá-las	obliquar+V.ele.ACC.3.F.PL+INF
 obliquarmo-las	obliquar+V.ele.ACC.3.F.PL+INF+1+PL
 obliquá-las	obliquar+V.ele.ACC.3.F.PL+INF+1+SG
 obliquarde-las	obliquar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1683,6 +1692,7 @@ obliquávei-la	obliquar+V.ele.ACC.3.F.SG+IMPF+2+PL
 obliquava-la	obliquar+V.ele.ACC.3.F.SG+IMPF+2+SG
 obliquavam-na	obliquar+V.ele.ACC.3.F.SG+IMPF+3+PL
 obliquava-a	obliquar+V.ele.ACC.3.F.SG+IMPF+3+SG
+obliquá-la	obliquar+V.ele.ACC.3.F.SG+INF
 obliquarmo-la	obliquar+V.ele.ACC.3.F.SG+INF+1+PL
 obliquá-la	obliquar+V.ele.ACC.3.F.SG+INF+1+SG
 obliquarde-la	obliquar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1735,6 +1745,7 @@ obliquávei-los	obliquar+V.ele.ACC.3.M.PL+IMPF+2+PL
 obliquava-los	obliquar+V.ele.ACC.3.M.PL+IMPF+2+SG
 obliquavam-nos	obliquar+V.ele.ACC.3.M.PL+IMPF+3+PL
 obliquava-os	obliquar+V.ele.ACC.3.M.PL+IMPF+3+SG
+obliquá-los	obliquar+V.ele.ACC.3.M.PL+INF
 obliquarmo-los	obliquar+V.ele.ACC.3.M.PL+INF+1+PL
 obliquá-los	obliquar+V.ele.ACC.3.M.PL+INF+1+SG
 obliquarde-los	obliquar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1787,6 +1798,7 @@ obliquávei-lo	obliquar+V.ele.ACC.3.M.SG+IMPF+2+PL
 obliquava-lo	obliquar+V.ele.ACC.3.M.SG+IMPF+2+SG
 obliquavam-no	obliquar+V.ele.ACC.3.M.SG+IMPF+3+PL
 obliquava-o	obliquar+V.ele.ACC.3.M.SG+IMPF+3+SG
+obliquá-lo	obliquar+V.ele.ACC.3.M.SG+INF
 obliquarmo-lo	obliquar+V.ele.ACC.3.M.SG+INF+1+PL
 obliquá-lo	obliquar+V.ele.ACC.3.M.SG+INF+1+SG
 obliquarde-lo	obliquar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2716,6 +2728,7 @@ obstringíei-las	obstringir+V.ele.ACC.3.F.PL+IMPF+2+PL
 obstringia-las	obstringir+V.ele.ACC.3.F.PL+IMPF+2+SG
 obstringiam-nas	obstringir+V.ele.ACC.3.F.PL+IMPF+3+PL
 obstringia-as	obstringir+V.ele.ACC.3.F.PL+IMPF+3+SG
+obstringi-las	obstringir+V.ele.ACC.3.F.PL+INF
 obstringirmo-las	obstringir+V.ele.ACC.3.F.PL+INF+1+PL
 obstringi-las	obstringir+V.ele.ACC.3.F.PL+INF+1+SG
 obstringirde-las	obstringir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2762,6 +2775,7 @@ obstringíei-la	obstringir+V.ele.ACC.3.F.SG+IMPF+2+PL
 obstringia-la	obstringir+V.ele.ACC.3.F.SG+IMPF+2+SG
 obstringiam-na	obstringir+V.ele.ACC.3.F.SG+IMPF+3+PL
 obstringia-a	obstringir+V.ele.ACC.3.F.SG+IMPF+3+SG
+obstringi-la	obstringir+V.ele.ACC.3.F.SG+INF
 obstringirmo-la	obstringir+V.ele.ACC.3.F.SG+INF+1+PL
 obstringi-la	obstringir+V.ele.ACC.3.F.SG+INF+1+SG
 obstringirde-la	obstringir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2808,6 +2822,7 @@ obstringíei-los	obstringir+V.ele.ACC.3.M.PL+IMPF+2+PL
 obstringia-los	obstringir+V.ele.ACC.3.M.PL+IMPF+2+SG
 obstringiam-nos	obstringir+V.ele.ACC.3.M.PL+IMPF+3+PL
 obstringia-os	obstringir+V.ele.ACC.3.M.PL+IMPF+3+SG
+obstringi-los	obstringir+V.ele.ACC.3.M.PL+INF
 obstringirmo-los	obstringir+V.ele.ACC.3.M.PL+INF+1+PL
 obstringi-los	obstringir+V.ele.ACC.3.M.PL+INF+1+SG
 obstringirde-los	obstringir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2854,6 +2869,7 @@ obstringíei-lo	obstringir+V.ele.ACC.3.M.SG+IMPF+2+PL
 obstringia-lo	obstringir+V.ele.ACC.3.M.SG+IMPF+2+SG
 obstringiam-no	obstringir+V.ele.ACC.3.M.SG+IMPF+3+PL
 obstringia-o	obstringir+V.ele.ACC.3.M.SG+IMPF+3+SG
+obstringi-lo	obstringir+V.ele.ACC.3.M.SG+INF
 obstringirmo-lo	obstringir+V.ele.ACC.3.M.SG+INF+1+PL
 obstringi-lo	obstringir+V.ele.ACC.3.M.SG+INF+1+SG
 obstringirde-lo	obstringir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3201,6 +3217,7 @@ obstruíei-las	obstruir+V.ele.ACC.3.F.PL+IMPF+2+PL
 obstruía-las	obstruir+V.ele.ACC.3.F.PL+IMPF+2+SG
 obstruíam-nas	obstruir+V.ele.ACC.3.F.PL+IMPF+3+PL
 obstruía-as	obstruir+V.ele.ACC.3.F.PL+IMPF+3+SG
+obstruí-las	obstruir+V.ele.ACC.3.F.PL+INF
 obstruirmo-las	obstruir+V.ele.ACC.3.F.PL+INF+1+PL
 obstruí-las	obstruir+V.ele.ACC.3.F.PL+INF+1+SG
 obstruirde-las	obstruir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3257,6 +3274,7 @@ obstruíei-la	obstruir+V.ele.ACC.3.F.SG+IMPF+2+PL
 obstruía-la	obstruir+V.ele.ACC.3.F.SG+IMPF+2+SG
 obstruíam-na	obstruir+V.ele.ACC.3.F.SG+IMPF+3+PL
 obstruía-a	obstruir+V.ele.ACC.3.F.SG+IMPF+3+SG
+obstruí-la	obstruir+V.ele.ACC.3.F.SG+INF
 obstruirmo-la	obstruir+V.ele.ACC.3.F.SG+INF+1+PL
 obstruí-la	obstruir+V.ele.ACC.3.F.SG+INF+1+SG
 obstruirde-la	obstruir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3314,6 +3332,7 @@ obstruía-los	obstruir+V.ele.ACC.3.M.PL+IMPF+2+SG
 obstruía-os	obstruir+V.ele.ACC.3.M.PL+IMPF+3+SG
 obstruir-nos	obstruir+V.ele.ACC.3.M.PL+INF
 obstruir-vos	obstruir+V.ele.ACC.3.M.PL+INF
+obstruí-los	obstruir+V.ele.ACC.3.M.PL+INF
 obstruirmo-los	obstruir+V.ele.ACC.3.M.PL+INF+1+PL
 obstruí-los	obstruir+V.ele.ACC.3.M.PL+INF+1+SG
 obstruirde-los	obstruir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3366,6 +3385,7 @@ obstruíei-lo	obstruir+V.ele.ACC.3.M.SG+IMPF+2+PL
 obstruía-lo	obstruir+V.ele.ACC.3.M.SG+IMPF+2+SG
 obstruíam-no	obstruir+V.ele.ACC.3.M.SG+IMPF+3+PL
 obstruía-o	obstruir+V.ele.ACC.3.M.SG+IMPF+3+SG
+obstruí-lo	obstruir+V.ele.ACC.3.M.SG+INF
 obstruirmo-lo	obstruir+V.ele.ACC.3.M.SG+INF+1+PL
 obstruí-lo	obstruir+V.ele.ACC.3.M.SG+INF+1+SG
 obstruirde-lo	obstruir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4309,6 +4329,7 @@ obtundíei-las	obtundir+V.ele.ACC.3.F.PL+IMPF+2+PL
 obtundia-las	obtundir+V.ele.ACC.3.F.PL+IMPF+2+SG
 obtundiam-nas	obtundir+V.ele.ACC.3.F.PL+IMPF+3+PL
 obtundia-as	obtundir+V.ele.ACC.3.F.PL+IMPF+3+SG
+obtundi-las	obtundir+V.ele.ACC.3.F.PL+INF
 obtundirmo-las	obtundir+V.ele.ACC.3.F.PL+INF+1+PL
 obtundi-las	obtundir+V.ele.ACC.3.F.PL+INF+1+SG
 obtundirde-las	obtundir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4349,6 +4370,7 @@ obtundíei-la	obtundir+V.ele.ACC.3.F.SG+IMPF+2+PL
 obtundia-la	obtundir+V.ele.ACC.3.F.SG+IMPF+2+SG
 obtundiam-na	obtundir+V.ele.ACC.3.F.SG+IMPF+3+PL
 obtundia-a	obtundir+V.ele.ACC.3.F.SG+IMPF+3+SG
+obtundi-la	obtundir+V.ele.ACC.3.F.SG+INF
 obtundirmo-la	obtundir+V.ele.ACC.3.F.SG+INF+1+PL
 obtundi-la	obtundir+V.ele.ACC.3.F.SG+INF+1+SG
 obtundirde-la	obtundir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4389,6 +4411,7 @@ obtundíei-los	obtundir+V.ele.ACC.3.M.PL+IMPF+2+PL
 obtundia-los	obtundir+V.ele.ACC.3.M.PL+IMPF+2+SG
 obtundiam-nos	obtundir+V.ele.ACC.3.M.PL+IMPF+3+PL
 obtundia-os	obtundir+V.ele.ACC.3.M.PL+IMPF+3+SG
+obtundi-los	obtundir+V.ele.ACC.3.M.PL+INF
 obtundirmo-los	obtundir+V.ele.ACC.3.M.PL+INF+1+PL
 obtundi-los	obtundir+V.ele.ACC.3.M.PL+INF+1+SG
 obtundirde-los	obtundir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4429,6 +4452,7 @@ obtundíei-lo	obtundir+V.ele.ACC.3.M.SG+IMPF+2+PL
 obtundia-lo	obtundir+V.ele.ACC.3.M.SG+IMPF+2+SG
 obtundiam-no	obtundir+V.ele.ACC.3.M.SG+IMPF+3+PL
 obtundia-o	obtundir+V.ele.ACC.3.M.SG+IMPF+3+SG
+obtundi-lo	obtundir+V.ele.ACC.3.M.SG+INF
 obtundirmo-lo	obtundir+V.ele.ACC.3.M.SG+INF+1+PL
 obtundi-lo	obtundir+V.ele.ACC.3.M.SG+INF+1+SG
 obtundirde-lo	obtundir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4731,6 +4755,7 @@ obvínhei-las	obvir+V.ele.ACC.3.F.PL+IMPF+2+PL
 obvinha-las	obvir+V.ele.ACC.3.F.PL+IMPF+2+SG
 obvinham-nas	obvir+V.ele.ACC.3.F.PL+IMPF+3+PL
 obvinha-as	obvir+V.ele.ACC.3.F.PL+IMPF+3+SG
+obvi-las	obvir+V.ele.ACC.3.F.PL+INF
 obvirmo-las	obvir+V.ele.ACC.3.F.PL+INF+1+PL
 obvi-las	obvir+V.ele.ACC.3.F.PL+INF+1+SG
 obvirde-las	obvir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4777,6 +4802,7 @@ obvínhei-la	obvir+V.ele.ACC.3.F.SG+IMPF+2+PL
 obvinha-la	obvir+V.ele.ACC.3.F.SG+IMPF+2+SG
 obvinham-na	obvir+V.ele.ACC.3.F.SG+IMPF+3+PL
 obvinha-a	obvir+V.ele.ACC.3.F.SG+IMPF+3+SG
+obvi-la	obvir+V.ele.ACC.3.F.SG+INF
 obvirmo-la	obvir+V.ele.ACC.3.F.SG+INF+1+PL
 obvi-la	obvir+V.ele.ACC.3.F.SG+INF+1+SG
 obvirde-la	obvir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4823,6 +4849,7 @@ obvínhei-los	obvir+V.ele.ACC.3.M.PL+IMPF+2+PL
 obvinha-los	obvir+V.ele.ACC.3.M.PL+IMPF+2+SG
 obvinham-nos	obvir+V.ele.ACC.3.M.PL+IMPF+3+PL
 obvinha-os	obvir+V.ele.ACC.3.M.PL+IMPF+3+SG
+obvi-los	obvir+V.ele.ACC.3.M.PL+INF
 obvirmo-los	obvir+V.ele.ACC.3.M.PL+INF+1+PL
 obvi-los	obvir+V.ele.ACC.3.M.PL+INF+1+SG
 obvirde-los	obvir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4869,6 +4896,7 @@ obvínhei-lo	obvir+V.ele.ACC.3.M.SG+IMPF+2+PL
 obvinha-lo	obvir+V.ele.ACC.3.M.SG+IMPF+2+SG
 obvinham-no	obvir+V.ele.ACC.3.M.SG+IMPF+3+PL
 obvinha-o	obvir+V.ele.ACC.3.M.SG+IMPF+3+SG
+obvi-lo	obvir+V.ele.ACC.3.M.SG+INF
 obvirmo-lo	obvir+V.ele.ACC.3.M.SG+INF+1+PL
 obvi-lo	obvir+V.ele.ACC.3.M.SG+INF+1+SG
 obvirde-lo	obvir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5202,6 +5230,7 @@ ocávei-las	ocar+V.ele.ACC.3.F.PL+IMPF+2+PL
 ocava-las	ocar+V.ele.ACC.3.F.PL+IMPF+2+SG
 ocavam-nas	ocar+V.ele.ACC.3.F.PL+IMPF+3+PL
 ocava-as	ocar+V.ele.ACC.3.F.PL+IMPF+3+SG
+ocá-las	ocar+V.ele.ACC.3.F.PL+INF
 ocarmo-las	ocar+V.ele.ACC.3.F.PL+INF+1+PL
 ocá-las	ocar+V.ele.ACC.3.F.PL+INF+1+SG
 ocarde-las	ocar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5253,6 +5282,7 @@ ocávei-la	ocar+V.ele.ACC.3.F.SG+IMPF+2+PL
 ocava-la	ocar+V.ele.ACC.3.F.SG+IMPF+2+SG
 ocavam-na	ocar+V.ele.ACC.3.F.SG+IMPF+3+PL
 ocava-a	ocar+V.ele.ACC.3.F.SG+IMPF+3+SG
+ocá-la	ocar+V.ele.ACC.3.F.SG+INF
 ocarmo-la	ocar+V.ele.ACC.3.F.SG+INF+1+PL
 ocá-la	ocar+V.ele.ACC.3.F.SG+INF+1+SG
 ocarde-la	ocar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5304,6 +5334,7 @@ ocávei-los	ocar+V.ele.ACC.3.M.PL+IMPF+2+PL
 ocava-los	ocar+V.ele.ACC.3.M.PL+IMPF+2+SG
 ocavam-nos	ocar+V.ele.ACC.3.M.PL+IMPF+3+PL
 ocava-os	ocar+V.ele.ACC.3.M.PL+IMPF+3+SG
+ocá-los	ocar+V.ele.ACC.3.M.PL+INF
 ocarmo-los	ocar+V.ele.ACC.3.M.PL+INF+1+PL
 ocá-los	ocar+V.ele.ACC.3.M.PL+INF+1+SG
 ocarde-los	ocar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5355,6 +5386,7 @@ ocávei-lo	ocar+V.ele.ACC.3.M.SG+IMPF+2+PL
 ocava-lo	ocar+V.ele.ACC.3.M.SG+IMPF+2+SG
 ocavam-no	ocar+V.ele.ACC.3.M.SG+IMPF+3+PL
 ocava-o	ocar+V.ele.ACC.3.M.SG+IMPF+3+SG
+ocá-lo	ocar+V.ele.ACC.3.M.SG+INF
 ocarmo-lo	ocar+V.ele.ACC.3.M.SG+INF+1+PL
 ocá-lo	ocar+V.ele.ACC.3.M.SG+INF+1+SG
 ocarde-lo	ocar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5738,6 +5770,7 @@ ocluíei-las	ocluir+V.ele.ACC.3.F.PL+IMPF+2+PL
 ocluía-las	ocluir+V.ele.ACC.3.F.PL+IMPF+2+SG
 ocluíam-nas	ocluir+V.ele.ACC.3.F.PL+IMPF+3+PL
 ocluía-as	ocluir+V.ele.ACC.3.F.PL+IMPF+3+SG
+ocluí-las	ocluir+V.ele.ACC.3.F.PL+INF
 ocluirmo-las	ocluir+V.ele.ACC.3.F.PL+INF+1+PL
 ocluí-las	ocluir+V.ele.ACC.3.F.PL+INF+1+SG
 ocluirde-las	ocluir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5790,6 +5823,7 @@ ocluíei-la	ocluir+V.ele.ACC.3.F.SG+IMPF+2+PL
 ocluía-la	ocluir+V.ele.ACC.3.F.SG+IMPF+2+SG
 ocluíam-na	ocluir+V.ele.ACC.3.F.SG+IMPF+3+PL
 ocluía-a	ocluir+V.ele.ACC.3.F.SG+IMPF+3+SG
+ocluí-la	ocluir+V.ele.ACC.3.F.SG+INF
 ocluirmo-la	ocluir+V.ele.ACC.3.F.SG+INF+1+PL
 ocluí-la	ocluir+V.ele.ACC.3.F.SG+INF+1+SG
 ocluirde-la	ocluir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5843,6 +5877,7 @@ ocluía-los	ocluir+V.ele.ACC.3.M.PL+IMPF+2+SG
 ocluía-os	ocluir+V.ele.ACC.3.M.PL+IMPF+3+SG
 ocluir-nos	ocluir+V.ele.ACC.3.M.PL+INF
 ocluir-vos	ocluir+V.ele.ACC.3.M.PL+INF
+ocluí-los	ocluir+V.ele.ACC.3.M.PL+INF
 ocluirmo-los	ocluir+V.ele.ACC.3.M.PL+INF+1+PL
 ocluí-los	ocluir+V.ele.ACC.3.M.PL+INF+1+SG
 ocluirde-los	ocluir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5891,6 +5926,7 @@ ocluíei-lo	ocluir+V.ele.ACC.3.M.SG+IMPF+2+PL
 ocluía-lo	ocluir+V.ele.ACC.3.M.SG+IMPF+2+SG
 ocluíam-no	ocluir+V.ele.ACC.3.M.SG+IMPF+3+PL
 ocluía-o	ocluir+V.ele.ACC.3.M.SG+IMPF+3+SG
+ocluí-lo	ocluir+V.ele.ACC.3.M.SG+INF
 ocluirmo-lo	ocluir+V.ele.ACC.3.M.SG+INF+1+PL
 ocluí-lo	ocluir+V.ele.ACC.3.M.SG+INF+1+SG
 ocluirde-lo	ocluir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6249,10 +6285,6 @@ ocluirmos-vos	ocluir+V.vós.AD.2.PL+SBJF+1+PL
 ocluirdes-vos	ocluir+V.vós.AD.2.PL+SBJF+2+PL
 ocluíres-vos	ocluir+V.vós.AD.2.PL+SBJF+2+SG
 ocluírem-vos	ocluir+V.vós.AD.2.PL+SBJF+3+PL
-ocorrê-las	ocorrer+V.ele.ACC.3.F.PL+INF
-ocorrê-la	ocorrer+V.ele.ACC.3.F.SG+INF
-ocorrê-los	ocorrer+V.ele.ACC.3.M.PL+INF
-ocorrê-lo	ocorrer+V.ele.ACC.3.M.SG+INF
 octuplicá-las-íamos	octuplicar+V.ele.ACC.3.F.PL+COND+1+PL
 octuplicá-las-ia	octuplicar+V.ele.ACC.3.F.PL+COND+1+SG
 octuplicá-las-íeis	octuplicar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -6275,6 +6307,7 @@ octuplicávei-las	octuplicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 octuplicava-las	octuplicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 octuplicavam-nas	octuplicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 octuplicava-as	octuplicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+octuplicá-las	octuplicar+V.ele.ACC.3.F.PL+INF
 octuplicarmo-las	octuplicar+V.ele.ACC.3.F.PL+INF+1+PL
 octuplicá-las	octuplicar+V.ele.ACC.3.F.PL+INF+1+SG
 octuplicarde-las	octuplicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6326,6 +6359,7 @@ octuplicávei-la	octuplicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 octuplicava-la	octuplicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 octuplicavam-na	octuplicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 octuplicava-a	octuplicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+octuplicá-la	octuplicar+V.ele.ACC.3.F.SG+INF
 octuplicarmo-la	octuplicar+V.ele.ACC.3.F.SG+INF+1+PL
 octuplicá-la	octuplicar+V.ele.ACC.3.F.SG+INF+1+SG
 octuplicarde-la	octuplicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6377,6 +6411,7 @@ octuplicávei-los	octuplicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 octuplicava-los	octuplicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 octuplicavam-nos	octuplicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 octuplicava-os	octuplicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+octuplicá-los	octuplicar+V.ele.ACC.3.M.PL+INF
 octuplicarmo-los	octuplicar+V.ele.ACC.3.M.PL+INF+1+PL
 octuplicá-los	octuplicar+V.ele.ACC.3.M.PL+INF+1+SG
 octuplicarde-los	octuplicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6428,6 +6463,7 @@ octuplicávei-lo	octuplicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 octuplicava-lo	octuplicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 octuplicavam-no	octuplicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 octuplicava-o	octuplicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+octuplicá-lo	octuplicar+V.ele.ACC.3.M.SG+INF
 octuplicarmo-lo	octuplicar+V.ele.ACC.3.M.SG+INF+1+PL
 octuplicá-lo	octuplicar+V.ele.ACC.3.M.SG+INF+1+SG
 octuplicarde-lo	octuplicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6809,6 +6845,7 @@ odiávei-las	odiar+V.ele.ACC.3.F.PL+IMPF+2+PL
 odiava-las	odiar+V.ele.ACC.3.F.PL+IMPF+2+SG
 odiavam-nas	odiar+V.ele.ACC.3.F.PL+IMPF+3+PL
 odiava-as	odiar+V.ele.ACC.3.F.PL+IMPF+3+SG
+odiá-las	odiar+V.ele.ACC.3.F.PL+INF
 odiarmo-las	odiar+V.ele.ACC.3.F.PL+INF+1+PL
 odiá-las	odiar+V.ele.ACC.3.F.PL+INF+1+SG
 odiarde-las	odiar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6859,6 +6896,7 @@ odiávei-la	odiar+V.ele.ACC.3.F.SG+IMPF+2+PL
 odiava-la	odiar+V.ele.ACC.3.F.SG+IMPF+2+SG
 odiavam-na	odiar+V.ele.ACC.3.F.SG+IMPF+3+PL
 odiava-a	odiar+V.ele.ACC.3.F.SG+IMPF+3+SG
+odiá-la	odiar+V.ele.ACC.3.F.SG+INF
 odiarmo-la	odiar+V.ele.ACC.3.F.SG+INF+1+PL
 odiá-la	odiar+V.ele.ACC.3.F.SG+INF+1+SG
 odiarde-la	odiar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6909,6 +6947,7 @@ odiávei-los	odiar+V.ele.ACC.3.M.PL+IMPF+2+PL
 odiava-los	odiar+V.ele.ACC.3.M.PL+IMPF+2+SG
 odiavam-nos	odiar+V.ele.ACC.3.M.PL+IMPF+3+PL
 odiava-os	odiar+V.ele.ACC.3.M.PL+IMPF+3+SG
+odiá-los	odiar+V.ele.ACC.3.M.PL+INF
 odiarmo-los	odiar+V.ele.ACC.3.M.PL+INF+1+PL
 odiá-los	odiar+V.ele.ACC.3.M.PL+INF+1+SG
 odiarde-los	odiar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6959,6 +6998,7 @@ odiávei-lo	odiar+V.ele.ACC.3.M.SG+IMPF+2+PL
 odiava-lo	odiar+V.ele.ACC.3.M.SG+IMPF+2+SG
 odiavam-no	odiar+V.ele.ACC.3.M.SG+IMPF+3+PL
 odiava-o	odiar+V.ele.ACC.3.M.SG+IMPF+3+SG
+odiá-lo	odiar+V.ele.ACC.3.M.SG+INF
 odiarmo-lo	odiar+V.ele.ACC.3.M.SG+INF+1+PL
 odiá-lo	odiar+V.ele.ACC.3.M.SG+INF+1+SG
 odiarde-lo	odiar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -7314,10 +7354,6 @@ odiardes-vos	odiar+V.vós.AD.2.PL+SBJF+2+PL
 odiares-vos	odiar+V.vós.AD.2.PL+SBJF+2+SG
 odiarem-vos	odiar+V.vós.AD.2.PL+SBJF+3+PL
 odiar-vos	odiar+V.vós.AD.2.PL+SBJF+3+SG
-ofendê-las	ofender+V.ele.ACC.3.F.PL+INF
-ofendê-la	ofender+V.ele.ACC.3.F.SG+INF
-ofendê-los	ofender+V.ele.ACC.3.M.PL+INF
-ofendê-lo	ofender+V.ele.ACC.3.M.SG+INF
 oferecê-las-íamos	oferecer+V.ele.ACC.3.F.PL+COND+1+PL
 oferecê-las-ia	oferecer+V.ele.ACC.3.F.PL+COND+1+SG
 oferecê-las-íeis	oferecer+V.ele.ACC.3.F.PL+COND+2+PL
@@ -7879,6 +7915,7 @@ ofuscávei-las	ofuscar+V.ele.ACC.3.F.PL+IMPF+2+PL
 ofuscava-las	ofuscar+V.ele.ACC.3.F.PL+IMPF+2+SG
 ofuscavam-nas	ofuscar+V.ele.ACC.3.F.PL+IMPF+3+PL
 ofuscava-as	ofuscar+V.ele.ACC.3.F.PL+IMPF+3+SG
+ofuscá-las	ofuscar+V.ele.ACC.3.F.PL+INF
 ofuscarmo-las	ofuscar+V.ele.ACC.3.F.PL+INF+1+PL
 ofuscá-las	ofuscar+V.ele.ACC.3.F.PL+INF+1+SG
 ofuscarde-las	ofuscar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -7930,6 +7967,7 @@ ofuscávei-la	ofuscar+V.ele.ACC.3.F.SG+IMPF+2+PL
 ofuscava-la	ofuscar+V.ele.ACC.3.F.SG+IMPF+2+SG
 ofuscavam-na	ofuscar+V.ele.ACC.3.F.SG+IMPF+3+PL
 ofuscava-a	ofuscar+V.ele.ACC.3.F.SG+IMPF+3+SG
+ofuscá-la	ofuscar+V.ele.ACC.3.F.SG+INF
 ofuscarmo-la	ofuscar+V.ele.ACC.3.F.SG+INF+1+PL
 ofuscá-la	ofuscar+V.ele.ACC.3.F.SG+INF+1+SG
 ofuscarde-la	ofuscar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7981,6 +8019,7 @@ ofuscávei-los	ofuscar+V.ele.ACC.3.M.PL+IMPF+2+PL
 ofuscava-los	ofuscar+V.ele.ACC.3.M.PL+IMPF+2+SG
 ofuscavam-nos	ofuscar+V.ele.ACC.3.M.PL+IMPF+3+PL
 ofuscava-os	ofuscar+V.ele.ACC.3.M.PL+IMPF+3+SG
+ofuscá-los	ofuscar+V.ele.ACC.3.M.PL+INF
 ofuscarmo-los	ofuscar+V.ele.ACC.3.M.PL+INF+1+PL
 ofuscá-los	ofuscar+V.ele.ACC.3.M.PL+INF+1+SG
 ofuscarde-los	ofuscar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8032,6 +8071,7 @@ ofuscávei-lo	ofuscar+V.ele.ACC.3.M.SG+IMPF+2+PL
 ofuscava-lo	ofuscar+V.ele.ACC.3.M.SG+IMPF+2+SG
 ofuscavam-no	ofuscar+V.ele.ACC.3.M.SG+IMPF+3+PL
 ofuscava-o	ofuscar+V.ele.ACC.3.M.SG+IMPF+3+SG
+ofuscá-lo	ofuscar+V.ele.ACC.3.M.SG+INF
 ofuscarmo-lo	ofuscar+V.ele.ACC.3.M.SG+INF+1+PL
 ofuscá-lo	ofuscar+V.ele.ACC.3.M.SG+INF+1+SG
 ofuscarde-lo	ofuscar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8415,6 +8455,7 @@ oiriçávei-las	oiriçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 oiriçava-las	oiriçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 oiriçavam-nas	oiriçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 oiriçava-as	oiriçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+oiriçá-las	oiriçar+V.ele.ACC.3.F.PL+INF
 oiriçarmo-las	oiriçar+V.ele.ACC.3.F.PL+INF+1+PL
 oiriçá-las	oiriçar+V.ele.ACC.3.F.PL+INF+1+SG
 oiriçarde-las	oiriçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8466,6 +8507,7 @@ oiriçávei-la	oiriçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 oiriçava-la	oiriçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 oiriçavam-na	oiriçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 oiriçava-a	oiriçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+oiriçá-la	oiriçar+V.ele.ACC.3.F.SG+INF
 oiriçarmo-la	oiriçar+V.ele.ACC.3.F.SG+INF+1+PL
 oiriçá-la	oiriçar+V.ele.ACC.3.F.SG+INF+1+SG
 oiriçarde-la	oiriçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -8516,6 +8558,7 @@ oiriçava-os	oiriçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 oiriçávei-los	oiriçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 oiriçava-los	oiriçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 oiriçava-os	oiriçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+oiriçá-los	oiriçar+V.ele.ACC.3.M.PL+INF
 oiriçarmo-los	oiriçar+V.ele.ACC.3.M.PL+INF+1+PL
 oiriçá-los	oiriçar+V.ele.ACC.3.M.PL+INF+1+SG
 oiriçarde-los	oiriçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8562,6 +8605,7 @@ oiriçávei-lo	oiriçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 oiriçava-lo	oiriçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 oiriçavam-no	oiriçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 oiriçava-o	oiriçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+oiriçá-lo	oiriçar+V.ele.ACC.3.M.SG+INF
 oiriçarmo-lo	oiriçar+V.ele.ACC.3.M.SG+INF+1+PL
 oiriçá-lo	oiriçar+V.ele.ACC.3.M.SG+INF+1+SG
 oiriçarde-lo	oiriçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8941,6 +8985,7 @@ oleávei-las	olear+V.ele.ACC.3.F.PL+IMPF+2+PL
 oleava-las	olear+V.ele.ACC.3.F.PL+IMPF+2+SG
 oleavam-nas	olear+V.ele.ACC.3.F.PL+IMPF+3+PL
 oleava-as	olear+V.ele.ACC.3.F.PL+IMPF+3+SG
+oleá-las	olear+V.ele.ACC.3.F.PL+INF
 olearmo-las	olear+V.ele.ACC.3.F.PL+INF+1+PL
 oleá-las	olear+V.ele.ACC.3.F.PL+INF+1+SG
 olearde-las	olear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8990,6 +9035,7 @@ oleávei-la	olear+V.ele.ACC.3.F.SG+IMPF+2+PL
 oleava-la	olear+V.ele.ACC.3.F.SG+IMPF+2+SG
 oleavam-na	olear+V.ele.ACC.3.F.SG+IMPF+3+PL
 oleava-a	olear+V.ele.ACC.3.F.SG+IMPF+3+SG
+oleá-la	olear+V.ele.ACC.3.F.SG+INF
 olearmo-la	olear+V.ele.ACC.3.F.SG+INF+1+PL
 oleá-la	olear+V.ele.ACC.3.F.SG+INF+1+SG
 olearde-la	olear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -9039,6 +9085,7 @@ oleávei-los	olear+V.ele.ACC.3.M.PL+IMPF+2+PL
 oleava-los	olear+V.ele.ACC.3.M.PL+IMPF+2+SG
 oleavam-nos	olear+V.ele.ACC.3.M.PL+IMPF+3+PL
 oleava-os	olear+V.ele.ACC.3.M.PL+IMPF+3+SG
+oleá-los	olear+V.ele.ACC.3.M.PL+INF
 olearmo-los	olear+V.ele.ACC.3.M.PL+INF+1+PL
 oleá-los	olear+V.ele.ACC.3.M.PL+INF+1+SG
 olearde-los	olear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -9088,6 +9135,7 @@ oleávei-lo	olear+V.ele.ACC.3.M.SG+IMPF+2+PL
 oleava-lo	olear+V.ele.ACC.3.M.SG+IMPF+2+SG
 oleavam-no	olear+V.ele.ACC.3.M.SG+IMPF+3+PL
 oleava-o	olear+V.ele.ACC.3.M.SG+IMPF+3+SG
+oleá-lo	olear+V.ele.ACC.3.M.SG+INF
 olearmo-lo	olear+V.ele.ACC.3.M.SG+INF+1+PL
 oleá-lo	olear+V.ele.ACC.3.M.SG+INF+1+SG
 olearde-lo	olear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -9455,6 +9503,7 @@ olfateávei-las	olfatear+V.ele.ACC.3.F.PL+IMPF+2+PL
 olfateava-las	olfatear+V.ele.ACC.3.F.PL+IMPF+2+SG
 olfateavam-nas	olfatear+V.ele.ACC.3.F.PL+IMPF+3+PL
 olfateava-as	olfatear+V.ele.ACC.3.F.PL+IMPF+3+SG
+olfateá-las	olfatear+V.ele.ACC.3.F.PL+INF
 olfatearmo-las	olfatear+V.ele.ACC.3.F.PL+INF+1+PL
 olfateá-las	olfatear+V.ele.ACC.3.F.PL+INF+1+SG
 olfatearde-las	olfatear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -9504,6 +9553,7 @@ olfateávei-la	olfatear+V.ele.ACC.3.F.SG+IMPF+2+PL
 olfateava-la	olfatear+V.ele.ACC.3.F.SG+IMPF+2+SG
 olfateavam-na	olfatear+V.ele.ACC.3.F.SG+IMPF+3+PL
 olfateava-a	olfatear+V.ele.ACC.3.F.SG+IMPF+3+SG
+olfateá-la	olfatear+V.ele.ACC.3.F.SG+INF
 olfatearmo-la	olfatear+V.ele.ACC.3.F.SG+INF+1+PL
 olfateá-la	olfatear+V.ele.ACC.3.F.SG+INF+1+SG
 olfatearde-la	olfatear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -9553,6 +9603,7 @@ olfateávei-los	olfatear+V.ele.ACC.3.M.PL+IMPF+2+PL
 olfateava-los	olfatear+V.ele.ACC.3.M.PL+IMPF+2+SG
 olfateavam-nos	olfatear+V.ele.ACC.3.M.PL+IMPF+3+PL
 olfateava-os	olfatear+V.ele.ACC.3.M.PL+IMPF+3+SG
+olfateá-los	olfatear+V.ele.ACC.3.M.PL+INF
 olfatearmo-los	olfatear+V.ele.ACC.3.M.PL+INF+1+PL
 olfateá-los	olfatear+V.ele.ACC.3.M.PL+INF+1+SG
 olfatearde-los	olfatear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -9602,6 +9653,7 @@ olfateávei-lo	olfatear+V.ele.ACC.3.M.SG+IMPF+2+PL
 olfateava-lo	olfatear+V.ele.ACC.3.M.SG+IMPF+2+SG
 olfateavam-no	olfatear+V.ele.ACC.3.M.SG+IMPF+3+PL
 olfateava-o	olfatear+V.ele.ACC.3.M.SG+IMPF+3+SG
+olfateá-lo	olfatear+V.ele.ACC.3.M.SG+INF
 olfatearmo-lo	olfatear+V.ele.ACC.3.M.SG+INF+1+PL
 olfateá-lo	olfatear+V.ele.ACC.3.M.SG+INF+1+SG
 olfatearde-lo	olfatear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -9969,6 +10021,7 @@ ombreávei-las	ombrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 ombreava-las	ombrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 ombreavam-nas	ombrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 ombreava-as	ombrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+ombreá-las	ombrear+V.ele.ACC.3.F.PL+INF
 ombrearmo-las	ombrear+V.ele.ACC.3.F.PL+INF+1+PL
 ombreá-las	ombrear+V.ele.ACC.3.F.PL+INF+1+SG
 ombrearde-las	ombrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10018,6 +10071,7 @@ ombreávei-la	ombrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 ombreava-la	ombrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 ombreavam-na	ombrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 ombreava-a	ombrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+ombreá-la	ombrear+V.ele.ACC.3.F.SG+INF
 ombrearmo-la	ombrear+V.ele.ACC.3.F.SG+INF+1+PL
 ombreá-la	ombrear+V.ele.ACC.3.F.SG+INF+1+SG
 ombrearde-la	ombrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -10067,6 +10121,7 @@ ombreávei-los	ombrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 ombreava-los	ombrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 ombreavam-nos	ombrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 ombreava-os	ombrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+ombreá-los	ombrear+V.ele.ACC.3.M.PL+INF
 ombrearmo-los	ombrear+V.ele.ACC.3.M.PL+INF+1+PL
 ombreá-los	ombrear+V.ele.ACC.3.M.PL+INF+1+SG
 ombrearde-los	ombrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -10116,6 +10171,7 @@ ombreávei-lo	ombrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 ombreava-lo	ombrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 ombreavam-no	ombrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 ombreava-o	ombrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+ombreá-lo	ombrear+V.ele.ACC.3.M.SG+INF
 ombrearmo-lo	ombrear+V.ele.ACC.3.M.SG+INF+1+PL
 ombreá-lo	ombrear+V.ele.ACC.3.M.SG+INF+1+SG
 ombrearde-lo	ombrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -10486,6 +10542,7 @@ omitíei-las	omitir+V.ele.ACC.3.F.PL+IMPF+2+PL
 omitia-las	omitir+V.ele.ACC.3.F.PL+IMPF+2+SG
 omitiam-nas	omitir+V.ele.ACC.3.F.PL+IMPF+3+PL
 omitia-as	omitir+V.ele.ACC.3.F.PL+IMPF+3+SG
+omiti-las	omitir+V.ele.ACC.3.F.PL+INF
 omitirmo-las	omitir+V.ele.ACC.3.F.PL+INF+1+PL
 omiti-las	omitir+V.ele.ACC.3.F.PL+INF+1+SG
 omitirde-las	omitir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10526,6 +10583,7 @@ omitíei-la	omitir+V.ele.ACC.3.F.SG+IMPF+2+PL
 omitia-la	omitir+V.ele.ACC.3.F.SG+IMPF+2+SG
 omitiam-na	omitir+V.ele.ACC.3.F.SG+IMPF+3+PL
 omitia-a	omitir+V.ele.ACC.3.F.SG+IMPF+3+SG
+omiti-la	omitir+V.ele.ACC.3.F.SG+INF
 omitirmo-la	omitir+V.ele.ACC.3.F.SG+INF+1+PL
 omiti-la	omitir+V.ele.ACC.3.F.SG+INF+1+SG
 omitirde-la	omitir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -10566,6 +10624,7 @@ omitíei-los	omitir+V.ele.ACC.3.M.PL+IMPF+2+PL
 omitia-los	omitir+V.ele.ACC.3.M.PL+IMPF+2+SG
 omitiam-nos	omitir+V.ele.ACC.3.M.PL+IMPF+3+PL
 omitia-os	omitir+V.ele.ACC.3.M.PL+IMPF+3+SG
+omiti-los	omitir+V.ele.ACC.3.M.PL+INF
 omitirmo-los	omitir+V.ele.ACC.3.M.PL+INF+1+PL
 omiti-los	omitir+V.ele.ACC.3.M.PL+INF+1+SG
 omitirde-los	omitir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -10606,6 +10665,7 @@ omitíei-lo	omitir+V.ele.ACC.3.M.SG+IMPF+2+PL
 omitia-lo	omitir+V.ele.ACC.3.M.SG+IMPF+2+SG
 omitiam-no	omitir+V.ele.ACC.3.M.SG+IMPF+3+PL
 omitia-o	omitir+V.ele.ACC.3.M.SG+IMPF+3+SG
+omiti-lo	omitir+V.ele.ACC.3.M.SG+INF
 omitirmo-lo	omitir+V.ele.ACC.3.M.SG+INF+1+PL
 omiti-lo	omitir+V.ele.ACC.3.M.SG+INF+1+SG
 omitirde-lo	omitir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -10905,6 +10965,7 @@ ondeávei-las	ondear+V.ele.ACC.3.F.PL+IMPF+2+PL
 ondeava-las	ondear+V.ele.ACC.3.F.PL+IMPF+2+SG
 ondeavam-nas	ondear+V.ele.ACC.3.F.PL+IMPF+3+PL
 ondeava-as	ondear+V.ele.ACC.3.F.PL+IMPF+3+SG
+ondeá-las	ondear+V.ele.ACC.3.F.PL+INF
 ondearmo-las	ondear+V.ele.ACC.3.F.PL+INF+1+PL
 ondeá-las	ondear+V.ele.ACC.3.F.PL+INF+1+SG
 ondearde-las	ondear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10954,6 +11015,7 @@ ondeávei-la	ondear+V.ele.ACC.3.F.SG+IMPF+2+PL
 ondeava-la	ondear+V.ele.ACC.3.F.SG+IMPF+2+SG
 ondeavam-na	ondear+V.ele.ACC.3.F.SG+IMPF+3+PL
 ondeava-a	ondear+V.ele.ACC.3.F.SG+IMPF+3+SG
+ondeá-la	ondear+V.ele.ACC.3.F.SG+INF
 ondearmo-la	ondear+V.ele.ACC.3.F.SG+INF+1+PL
 ondeá-la	ondear+V.ele.ACC.3.F.SG+INF+1+SG
 ondearde-la	ondear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -11003,6 +11065,7 @@ ondeávei-los	ondear+V.ele.ACC.3.M.PL+IMPF+2+PL
 ondeava-los	ondear+V.ele.ACC.3.M.PL+IMPF+2+SG
 ondeavam-nos	ondear+V.ele.ACC.3.M.PL+IMPF+3+PL
 ondeava-os	ondear+V.ele.ACC.3.M.PL+IMPF+3+SG
+ondeá-los	ondear+V.ele.ACC.3.M.PL+INF
 ondearmo-los	ondear+V.ele.ACC.3.M.PL+INF+1+PL
 ondeá-los	ondear+V.ele.ACC.3.M.PL+INF+1+SG
 ondearde-los	ondear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -11052,6 +11115,7 @@ ondeávei-lo	ondear+V.ele.ACC.3.M.SG+IMPF+2+PL
 ondeava-lo	ondear+V.ele.ACC.3.M.SG+IMPF+2+SG
 ondeavam-no	ondear+V.ele.ACC.3.M.SG+IMPF+3+PL
 ondeava-o	ondear+V.ele.ACC.3.M.SG+IMPF+3+SG
+ondeá-lo	ondear+V.ele.ACC.3.M.SG+INF
 ondearmo-lo	ondear+V.ele.ACC.3.M.SG+INF+1+PL
 ondeá-lo	ondear+V.ele.ACC.3.M.SG+INF+1+SG
 ondearde-lo	ondear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -11419,6 +11483,7 @@ onzeneávei-las	onzenear+V.ele.ACC.3.F.PL+IMPF+2+PL
 onzeneava-las	onzenear+V.ele.ACC.3.F.PL+IMPF+2+SG
 onzeneavam-nas	onzenear+V.ele.ACC.3.F.PL+IMPF+3+PL
 onzeneava-as	onzenear+V.ele.ACC.3.F.PL+IMPF+3+SG
+onzeneá-las	onzenear+V.ele.ACC.3.F.PL+INF
 onzenearmo-las	onzenear+V.ele.ACC.3.F.PL+INF+1+PL
 onzeneá-las	onzenear+V.ele.ACC.3.F.PL+INF+1+SG
 onzenearde-las	onzenear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -11468,6 +11533,7 @@ onzeneávei-la	onzenear+V.ele.ACC.3.F.SG+IMPF+2+PL
 onzeneava-la	onzenear+V.ele.ACC.3.F.SG+IMPF+2+SG
 onzeneavam-na	onzenear+V.ele.ACC.3.F.SG+IMPF+3+PL
 onzeneava-a	onzenear+V.ele.ACC.3.F.SG+IMPF+3+SG
+onzeneá-la	onzenear+V.ele.ACC.3.F.SG+INF
 onzenearmo-la	onzenear+V.ele.ACC.3.F.SG+INF+1+PL
 onzeneá-la	onzenear+V.ele.ACC.3.F.SG+INF+1+SG
 onzenearde-la	onzenear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -11517,6 +11583,7 @@ onzeneávei-los	onzenear+V.ele.ACC.3.M.PL+IMPF+2+PL
 onzeneava-los	onzenear+V.ele.ACC.3.M.PL+IMPF+2+SG
 onzeneavam-nos	onzenear+V.ele.ACC.3.M.PL+IMPF+3+PL
 onzeneava-os	onzenear+V.ele.ACC.3.M.PL+IMPF+3+SG
+onzeneá-los	onzenear+V.ele.ACC.3.M.PL+INF
 onzenearmo-los	onzenear+V.ele.ACC.3.M.PL+INF+1+PL
 onzeneá-los	onzenear+V.ele.ACC.3.M.PL+INF+1+SG
 onzenearde-los	onzenear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -11566,6 +11633,7 @@ onzeneávei-lo	onzenear+V.ele.ACC.3.M.SG+IMPF+2+PL
 onzeneava-lo	onzenear+V.ele.ACC.3.M.SG+IMPF+2+SG
 onzeneavam-no	onzenear+V.ele.ACC.3.M.SG+IMPF+3+PL
 onzeneava-o	onzenear+V.ele.ACC.3.M.SG+IMPF+3+SG
+onzeneá-lo	onzenear+V.ele.ACC.3.M.SG+INF
 onzenearmo-lo	onzenear+V.ele.ACC.3.M.SG+INF+1+PL
 onzeneá-lo	onzenear+V.ele.ACC.3.M.SG+INF+1+SG
 onzenearde-lo	onzenear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -11936,6 +12004,7 @@ opacávei-las	opacar+V.ele.ACC.3.F.PL+IMPF+2+PL
 opacava-las	opacar+V.ele.ACC.3.F.PL+IMPF+2+SG
 opacavam-nas	opacar+V.ele.ACC.3.F.PL+IMPF+3+PL
 opacava-as	opacar+V.ele.ACC.3.F.PL+IMPF+3+SG
+opacá-las	opacar+V.ele.ACC.3.F.PL+INF
 opacarmo-las	opacar+V.ele.ACC.3.F.PL+INF+1+PL
 opacá-las	opacar+V.ele.ACC.3.F.PL+INF+1+SG
 opacarde-las	opacar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -11987,6 +12056,7 @@ opacávei-la	opacar+V.ele.ACC.3.F.SG+IMPF+2+PL
 opacava-la	opacar+V.ele.ACC.3.F.SG+IMPF+2+SG
 opacavam-na	opacar+V.ele.ACC.3.F.SG+IMPF+3+PL
 opacava-a	opacar+V.ele.ACC.3.F.SG+IMPF+3+SG
+opacá-la	opacar+V.ele.ACC.3.F.SG+INF
 opacarmo-la	opacar+V.ele.ACC.3.F.SG+INF+1+PL
 opacá-la	opacar+V.ele.ACC.3.F.SG+INF+1+SG
 opacarde-la	opacar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12038,6 +12108,7 @@ opacávei-los	opacar+V.ele.ACC.3.M.PL+IMPF+2+PL
 opacava-los	opacar+V.ele.ACC.3.M.PL+IMPF+2+SG
 opacavam-nos	opacar+V.ele.ACC.3.M.PL+IMPF+3+PL
 opacava-os	opacar+V.ele.ACC.3.M.PL+IMPF+3+SG
+opacá-los	opacar+V.ele.ACC.3.M.PL+INF
 opacarmo-los	opacar+V.ele.ACC.3.M.PL+INF+1+PL
 opacá-los	opacar+V.ele.ACC.3.M.PL+INF+1+SG
 opacarde-los	opacar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12089,6 +12160,7 @@ opacávei-lo	opacar+V.ele.ACC.3.M.SG+IMPF+2+PL
 opacava-lo	opacar+V.ele.ACC.3.M.SG+IMPF+2+SG
 opacavam-no	opacar+V.ele.ACC.3.M.SG+IMPF+3+PL
 opacava-o	opacar+V.ele.ACC.3.M.SG+IMPF+3+SG
+opacá-lo	opacar+V.ele.ACC.3.M.SG+INF
 opacarmo-lo	opacar+V.ele.ACC.3.M.SG+INF+1+PL
 opacá-lo	opacar+V.ele.ACC.3.M.SG+INF+1+SG
 opacarde-lo	opacar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -12472,6 +12544,7 @@ opacificávei-las	opacificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 opacificava-las	opacificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 opacificavam-nas	opacificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 opacificava-as	opacificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+opacificá-las	opacificar+V.ele.ACC.3.F.PL+INF
 opacificarmo-las	opacificar+V.ele.ACC.3.F.PL+INF+1+PL
 opacificá-las	opacificar+V.ele.ACC.3.F.PL+INF+1+SG
 opacificarde-las	opacificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12523,6 +12596,7 @@ opacificávei-la	opacificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 opacificava-la	opacificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 opacificavam-na	opacificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 opacificava-a	opacificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+opacificá-la	opacificar+V.ele.ACC.3.F.SG+INF
 opacificarmo-la	opacificar+V.ele.ACC.3.F.SG+INF+1+PL
 opacificá-la	opacificar+V.ele.ACC.3.F.SG+INF+1+SG
 opacificarde-la	opacificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12574,6 +12648,7 @@ opacificávei-los	opacificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 opacificava-los	opacificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 opacificavam-nos	opacificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 opacificava-os	opacificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+opacificá-los	opacificar+V.ele.ACC.3.M.PL+INF
 opacificarmo-los	opacificar+V.ele.ACC.3.M.PL+INF+1+PL
 opacificá-los	opacificar+V.ele.ACC.3.M.PL+INF+1+SG
 opacificarde-los	opacificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12625,6 +12700,7 @@ opacificávei-lo	opacificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 opacificava-lo	opacificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 opacificavam-no	opacificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 opacificava-o	opacificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+opacificá-lo	opacificar+V.ele.ACC.3.M.SG+INF
 opacificarmo-lo	opacificar+V.ele.ACC.3.M.SG+INF+1+PL
 opacificá-lo	opacificar+V.ele.ACC.3.M.SG+INF+1+SG
 opacificarde-lo	opacificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13548,6 +13624,7 @@ opúnhei-las	opor+V.ele.ACC.3.F.PL+IMPF+2+PL
 opunha-las	opor+V.ele.ACC.3.F.PL+IMPF+2+SG
 opunham-nas	opor+V.ele.ACC.3.F.PL+IMPF+3+PL
 opunha-as	opor+V.ele.ACC.3.F.PL+IMPF+3+SG
+opô-las	opor+V.ele.ACC.3.F.PL+INF
 opô-las	opor+V.ele.ACC.3.F.PL+INF+1+SG
 opô-las	opor+V.ele.ACC.3.F.PL+INF+3+SG
 opuséramo-las	opor+V.ele.ACC.3.F.PL+PQP+1+PL
@@ -13596,6 +13673,7 @@ opúnhei-la	opor+V.ele.ACC.3.F.SG+IMPF+2+PL
 opunha-la	opor+V.ele.ACC.3.F.SG+IMPF+2+SG
 opunham-na	opor+V.ele.ACC.3.F.SG+IMPF+3+PL
 opunha-a	opor+V.ele.ACC.3.F.SG+IMPF+3+SG
+opô-la	opor+V.ele.ACC.3.F.SG+INF
 opô-la	opor+V.ele.ACC.3.F.SG+INF+1+SG
 opô-la	opor+V.ele.ACC.3.F.SG+INF+3+SG
 opuséramo-la	opor+V.ele.ACC.3.F.SG+PQP+1+PL
@@ -13644,6 +13722,7 @@ opúnhei-los	opor+V.ele.ACC.3.M.PL+IMPF+2+PL
 opunha-los	opor+V.ele.ACC.3.M.PL+IMPF+2+SG
 opunham-nos	opor+V.ele.ACC.3.M.PL+IMPF+3+PL
 opunha-os	opor+V.ele.ACC.3.M.PL+IMPF+3+SG
+opô-los	opor+V.ele.ACC.3.M.PL+INF
 opô-los	opor+V.ele.ACC.3.M.PL+INF+1+SG
 oporem-nos	opor+V.ele.ACC.3.M.PL+INF+3+PL
 opô-los	opor+V.ele.ACC.3.M.PL+INF+3+SG
@@ -13692,6 +13771,7 @@ opúnhei-lo	opor+V.ele.ACC.3.M.SG+IMPF+2+PL
 opunha-lo	opor+V.ele.ACC.3.M.SG+IMPF+2+SG
 opunham-no	opor+V.ele.ACC.3.M.SG+IMPF+3+PL
 opunha-o	opor+V.ele.ACC.3.M.SG+IMPF+3+SG
+opô-lo	opor+V.ele.ACC.3.M.SG+INF
 opô-lo	opor+V.ele.ACC.3.M.SG+INF+1+SG
 opô-lo	opor+V.ele.ACC.3.M.SG+INF+3+SG
 opuséramo-lo	opor+V.ele.ACC.3.M.SG+PQP+1+PL
@@ -14078,6 +14158,7 @@ oprimíei-las	oprimir+V.ele.ACC.3.F.PL+IMPF+2+PL
 oprimia-las	oprimir+V.ele.ACC.3.F.PL+IMPF+2+SG
 oprimiam-nas	oprimir+V.ele.ACC.3.F.PL+IMPF+3+PL
 oprimia-as	oprimir+V.ele.ACC.3.F.PL+IMPF+3+SG
+oprimi-las	oprimir+V.ele.ACC.3.F.PL+INF
 oprimirmo-las	oprimir+V.ele.ACC.3.F.PL+INF+1+PL
 oprimi-las	oprimir+V.ele.ACC.3.F.PL+INF+1+SG
 oprimirde-las	oprimir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -14118,6 +14199,7 @@ oprimíei-la	oprimir+V.ele.ACC.3.F.SG+IMPF+2+PL
 oprimia-la	oprimir+V.ele.ACC.3.F.SG+IMPF+2+SG
 oprimiam-na	oprimir+V.ele.ACC.3.F.SG+IMPF+3+PL
 oprimia-a	oprimir+V.ele.ACC.3.F.SG+IMPF+3+SG
+oprimi-la	oprimir+V.ele.ACC.3.F.SG+INF
 oprimirmo-la	oprimir+V.ele.ACC.3.F.SG+INF+1+PL
 oprimi-la	oprimir+V.ele.ACC.3.F.SG+INF+1+SG
 oprimirde-la	oprimir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -14158,6 +14240,7 @@ oprimíei-los	oprimir+V.ele.ACC.3.M.PL+IMPF+2+PL
 oprimia-los	oprimir+V.ele.ACC.3.M.PL+IMPF+2+SG
 oprimiam-nos	oprimir+V.ele.ACC.3.M.PL+IMPF+3+PL
 oprimia-os	oprimir+V.ele.ACC.3.M.PL+IMPF+3+SG
+oprimi-los	oprimir+V.ele.ACC.3.M.PL+INF
 oprimirmo-los	oprimir+V.ele.ACC.3.M.PL+INF+1+PL
 oprimi-los	oprimir+V.ele.ACC.3.M.PL+INF+1+SG
 oprimirde-los	oprimir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -14198,6 +14281,7 @@ oprimíei-lo	oprimir+V.ele.ACC.3.M.SG+IMPF+2+PL
 oprimia-lo	oprimir+V.ele.ACC.3.M.SG+IMPF+2+SG
 oprimiam-no	oprimir+V.ele.ACC.3.M.SG+IMPF+3+PL
 oprimia-o	oprimir+V.ele.ACC.3.M.SG+IMPF+3+SG
+oprimi-lo	oprimir+V.ele.ACC.3.M.SG+INF
 oprimirmo-lo	oprimir+V.ele.ACC.3.M.SG+INF+1+PL
 oprimi-lo	oprimir+V.ele.ACC.3.M.SG+INF+1+SG
 oprimirde-lo	oprimir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -14497,6 +14581,7 @@ oreávei-las	orear+V.ele.ACC.3.F.PL+IMPF+2+PL
 oreava-las	orear+V.ele.ACC.3.F.PL+IMPF+2+SG
 oreavam-nas	orear+V.ele.ACC.3.F.PL+IMPF+3+PL
 oreava-as	orear+V.ele.ACC.3.F.PL+IMPF+3+SG
+oreá-las	orear+V.ele.ACC.3.F.PL+INF
 orearmo-las	orear+V.ele.ACC.3.F.PL+INF+1+PL
 oreá-las	orear+V.ele.ACC.3.F.PL+INF+1+SG
 orearde-las	orear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -14546,6 +14631,7 @@ oreávei-la	orear+V.ele.ACC.3.F.SG+IMPF+2+PL
 oreava-la	orear+V.ele.ACC.3.F.SG+IMPF+2+SG
 oreavam-na	orear+V.ele.ACC.3.F.SG+IMPF+3+PL
 oreava-a	orear+V.ele.ACC.3.F.SG+IMPF+3+SG
+oreá-la	orear+V.ele.ACC.3.F.SG+INF
 orearmo-la	orear+V.ele.ACC.3.F.SG+INF+1+PL
 oreá-la	orear+V.ele.ACC.3.F.SG+INF+1+SG
 orearde-la	orear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -14595,6 +14681,7 @@ oreávei-los	orear+V.ele.ACC.3.M.PL+IMPF+2+PL
 oreava-los	orear+V.ele.ACC.3.M.PL+IMPF+2+SG
 oreavam-nos	orear+V.ele.ACC.3.M.PL+IMPF+3+PL
 oreava-os	orear+V.ele.ACC.3.M.PL+IMPF+3+SG
+oreá-los	orear+V.ele.ACC.3.M.PL+INF
 orearmo-los	orear+V.ele.ACC.3.M.PL+INF+1+PL
 oreá-los	orear+V.ele.ACC.3.M.PL+INF+1+SG
 orearde-los	orear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -14644,6 +14731,7 @@ oreávei-lo	orear+V.ele.ACC.3.M.SG+IMPF+2+PL
 oreava-lo	orear+V.ele.ACC.3.M.SG+IMPF+2+SG
 oreavam-no	orear+V.ele.ACC.3.M.SG+IMPF+3+PL
 oreava-o	orear+V.ele.ACC.3.M.SG+IMPF+3+SG
+oreá-lo	orear+V.ele.ACC.3.M.SG+INF
 orearmo-lo	orear+V.ele.ACC.3.M.SG+INF+1+PL
 oreá-lo	orear+V.ele.ACC.3.M.SG+INF+1+SG
 orearde-lo	orear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -15550,6 +15638,7 @@ orneávei-las	ornear+V.ele.ACC.3.F.PL+IMPF+2+PL
 orneava-las	ornear+V.ele.ACC.3.F.PL+IMPF+2+SG
 orneavam-nas	ornear+V.ele.ACC.3.F.PL+IMPF+3+PL
 orneava-as	ornear+V.ele.ACC.3.F.PL+IMPF+3+SG
+orneá-las	ornear+V.ele.ACC.3.F.PL+INF
 ornearmo-las	ornear+V.ele.ACC.3.F.PL+INF+1+PL
 orneá-las	ornear+V.ele.ACC.3.F.PL+INF+1+SG
 ornearde-las	ornear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -15599,6 +15688,7 @@ orneávei-la	ornear+V.ele.ACC.3.F.SG+IMPF+2+PL
 orneava-la	ornear+V.ele.ACC.3.F.SG+IMPF+2+SG
 orneavam-na	ornear+V.ele.ACC.3.F.SG+IMPF+3+PL
 orneava-a	ornear+V.ele.ACC.3.F.SG+IMPF+3+SG
+orneá-la	ornear+V.ele.ACC.3.F.SG+INF
 ornearmo-la	ornear+V.ele.ACC.3.F.SG+INF+1+PL
 orneá-la	ornear+V.ele.ACC.3.F.SG+INF+1+SG
 ornearde-la	ornear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -15648,6 +15738,7 @@ orneávei-los	ornear+V.ele.ACC.3.M.PL+IMPF+2+PL
 orneava-los	ornear+V.ele.ACC.3.M.PL+IMPF+2+SG
 orneavam-nos	ornear+V.ele.ACC.3.M.PL+IMPF+3+PL
 orneava-os	ornear+V.ele.ACC.3.M.PL+IMPF+3+SG
+orneá-los	ornear+V.ele.ACC.3.M.PL+INF
 ornearmo-los	ornear+V.ele.ACC.3.M.PL+INF+1+PL
 orneá-los	ornear+V.ele.ACC.3.M.PL+INF+1+SG
 ornearde-los	ornear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -15697,6 +15788,7 @@ orneávei-lo	ornear+V.ele.ACC.3.M.SG+IMPF+2+PL
 orneava-lo	ornear+V.ele.ACC.3.M.SG+IMPF+2+SG
 orneavam-no	ornear+V.ele.ACC.3.M.SG+IMPF+3+PL
 orneava-o	ornear+V.ele.ACC.3.M.SG+IMPF+3+SG
+orneá-lo	ornear+V.ele.ACC.3.M.SG+INF
 ornearmo-lo	ornear+V.ele.ACC.3.M.SG+INF+1+PL
 orneá-lo	ornear+V.ele.ACC.3.M.SG+INF+1+SG
 ornearde-lo	ornear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -16067,6 +16159,7 @@ orçamentávei-las	orçamentar+V.ele.ACC.3.F.PL+IMPF+2+PL
 orçamentava-las	orçamentar+V.ele.ACC.3.F.PL+IMPF+2+SG
 orçamentavam-nas	orçamentar+V.ele.ACC.3.F.PL+IMPF+3+PL
 orçamentava-as	orçamentar+V.ele.ACC.3.F.PL+IMPF+3+SG
+orçamentá-las	orçamentar+V.ele.ACC.3.F.PL+INF
 orçamentarmo-las	orçamentar+V.ele.ACC.3.F.PL+INF+1+PL
 orçamentá-las	orçamentar+V.ele.ACC.3.F.PL+INF+1+SG
 orçamentarde-las	orçamentar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -16119,6 +16212,7 @@ orçamentávei-la	orçamentar+V.ele.ACC.3.F.SG+IMPF+2+PL
 orçamentava-la	orçamentar+V.ele.ACC.3.F.SG+IMPF+2+SG
 orçamentavam-na	orçamentar+V.ele.ACC.3.F.SG+IMPF+3+PL
 orçamentava-a	orçamentar+V.ele.ACC.3.F.SG+IMPF+3+SG
+orçamentá-la	orçamentar+V.ele.ACC.3.F.SG+INF
 orçamentarmo-la	orçamentar+V.ele.ACC.3.F.SG+INF+1+PL
 orçamentá-la	orçamentar+V.ele.ACC.3.F.SG+INF+1+SG
 orçamentarde-la	orçamentar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -16169,6 +16263,7 @@ orçamentava-os	orçamentar+V.ele.ACC.3.M.PL+IMPF+1+SG
 orçamentávei-los	orçamentar+V.ele.ACC.3.M.PL+IMPF+2+PL
 orçamentava-los	orçamentar+V.ele.ACC.3.M.PL+IMPF+2+SG
 orçamentava-os	orçamentar+V.ele.ACC.3.M.PL+IMPF+3+SG
+orçamentá-los	orçamentar+V.ele.ACC.3.M.PL+INF
 orçamentarmo-los	orçamentar+V.ele.ACC.3.M.PL+INF+1+PL
 orçamentá-los	orçamentar+V.ele.ACC.3.M.PL+INF+1+SG
 orçamentarde-los	orçamentar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -16216,6 +16311,7 @@ orçamentávei-lo	orçamentar+V.ele.ACC.3.M.SG+IMPF+2+PL
 orçamentava-lo	orçamentar+V.ele.ACC.3.M.SG+IMPF+2+SG
 orçamentavam-no	orçamentar+V.ele.ACC.3.M.SG+IMPF+3+PL
 orçamentava-o	orçamentar+V.ele.ACC.3.M.SG+IMPF+3+SG
+orçamentá-lo	orçamentar+V.ele.ACC.3.M.SG+INF
 orçamentarmo-lo	orçamentar+V.ele.ACC.3.M.SG+INF+1+PL
 orçamentá-lo	orçamentar+V.ele.ACC.3.M.SG+INF+1+SG
 orçamentarde-lo	orçamentar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -16606,6 +16702,7 @@ orçávei-las	orçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 orçava-las	orçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 orçavam-nas	orçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 orçava-as	orçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+orçá-las	orçar+V.ele.ACC.3.F.PL+INF
 orçarmo-las	orçar+V.ele.ACC.3.F.PL+INF+1+PL
 orçá-las	orçar+V.ele.ACC.3.F.PL+INF+1+SG
 orçarde-las	orçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -16657,6 +16754,7 @@ orçávei-la	orçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 orçava-la	orçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 orçavam-na	orçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 orçava-a	orçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+orçá-la	orçar+V.ele.ACC.3.F.SG+INF
 orçarmo-la	orçar+V.ele.ACC.3.F.SG+INF+1+PL
 orçá-la	orçar+V.ele.ACC.3.F.SG+INF+1+SG
 orçarde-la	orçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -16707,6 +16805,7 @@ orçava-os	orçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 orçávei-los	orçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 orçava-los	orçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 orçava-os	orçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+orçá-los	orçar+V.ele.ACC.3.M.PL+INF
 orçarmo-los	orçar+V.ele.ACC.3.M.PL+INF+1+PL
 orçá-los	orçar+V.ele.ACC.3.M.PL+INF+1+SG
 orçarde-los	orçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -16753,6 +16852,7 @@ orçávei-lo	orçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 orçava-lo	orçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 orçavam-no	orçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 orçava-o	orçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+orçá-lo	orçar+V.ele.ACC.3.M.SG+INF
 orçarmo-lo	orçar+V.ele.ACC.3.M.SG+INF+1+PL
 orçá-lo	orçar+V.ele.ACC.3.M.SG+INF+1+SG
 orçarde-lo	orçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -17135,6 +17235,7 @@ ossificávei-las	ossificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 ossificava-las	ossificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 ossificavam-nas	ossificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 ossificava-as	ossificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+ossificá-las	ossificar+V.ele.ACC.3.F.PL+INF
 ossificarmo-las	ossificar+V.ele.ACC.3.F.PL+INF+1+PL
 ossificá-las	ossificar+V.ele.ACC.3.F.PL+INF+1+SG
 ossificarde-las	ossificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -17186,6 +17287,7 @@ ossificávei-la	ossificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 ossificava-la	ossificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 ossificavam-na	ossificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 ossificava-a	ossificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+ossificá-la	ossificar+V.ele.ACC.3.F.SG+INF
 ossificarmo-la	ossificar+V.ele.ACC.3.F.SG+INF+1+PL
 ossificá-la	ossificar+V.ele.ACC.3.F.SG+INF+1+SG
 ossificarde-la	ossificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -17237,6 +17339,7 @@ ossificávei-los	ossificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 ossificava-los	ossificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 ossificavam-nos	ossificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 ossificava-os	ossificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+ossificá-los	ossificar+V.ele.ACC.3.M.PL+INF
 ossificarmo-los	ossificar+V.ele.ACC.3.M.PL+INF+1+PL
 ossificá-los	ossificar+V.ele.ACC.3.M.PL+INF+1+SG
 ossificarde-los	ossificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -17288,6 +17391,7 @@ ossificávei-lo	ossificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 ossificava-lo	ossificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 ossificavam-no	ossificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 ossificava-o	ossificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+ossificá-lo	ossificar+V.ele.ACC.3.M.SG+INF
 ossificarmo-lo	ossificar+V.ele.ACC.3.M.SG+INF+1+PL
 ossificá-lo	ossificar+V.ele.ACC.3.M.SG+INF+1+SG
 ossificarde-lo	ossificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -17671,6 +17775,7 @@ ouriçávei-las	ouriçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 ouriçava-las	ouriçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 ouriçavam-nas	ouriçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 ouriçava-as	ouriçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+ouriçá-las	ouriçar+V.ele.ACC.3.F.PL+INF
 ouriçarmo-las	ouriçar+V.ele.ACC.3.F.PL+INF+1+PL
 ouriçá-las	ouriçar+V.ele.ACC.3.F.PL+INF+1+SG
 ouriçarde-las	ouriçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -17722,6 +17827,7 @@ ouriçávei-la	ouriçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 ouriçava-la	ouriçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 ouriçavam-na	ouriçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 ouriçava-a	ouriçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+ouriçá-la	ouriçar+V.ele.ACC.3.F.SG+INF
 ouriçarmo-la	ouriçar+V.ele.ACC.3.F.SG+INF+1+PL
 ouriçá-la	ouriçar+V.ele.ACC.3.F.SG+INF+1+SG
 ouriçarde-la	ouriçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -17772,6 +17878,7 @@ ouriçava-os	ouriçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 ouriçávei-los	ouriçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 ouriçava-los	ouriçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 ouriçava-os	ouriçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+ouriçá-los	ouriçar+V.ele.ACC.3.M.PL+INF
 ouriçarmo-los	ouriçar+V.ele.ACC.3.M.PL+INF+1+PL
 ouriçá-los	ouriçar+V.ele.ACC.3.M.PL+INF+1+SG
 ouriçarde-los	ouriçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -17818,6 +17925,7 @@ ouriçávei-lo	ouriçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 ouriçava-lo	ouriçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 ouriçavam-no	ouriçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 ouriçava-o	ouriçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+ouriçá-lo	ouriçar+V.ele.ACC.3.M.SG+INF
 ouriçarmo-lo	ouriçar+V.ele.ACC.3.M.SG+INF+1+PL
 ouriçá-lo	ouriçar+V.ele.ACC.3.M.SG+INF+1+SG
 ouriçarde-lo	ouriçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -18197,6 +18305,7 @@ outoneávei-las	outonear+V.ele.ACC.3.F.PL+IMPF+2+PL
 outoneava-las	outonear+V.ele.ACC.3.F.PL+IMPF+2+SG
 outoneavam-nas	outonear+V.ele.ACC.3.F.PL+IMPF+3+PL
 outoneava-as	outonear+V.ele.ACC.3.F.PL+IMPF+3+SG
+outoneá-las	outonear+V.ele.ACC.3.F.PL+INF
 outonearmo-las	outonear+V.ele.ACC.3.F.PL+INF+1+PL
 outoneá-las	outonear+V.ele.ACC.3.F.PL+INF+1+SG
 outonearde-las	outonear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -18246,6 +18355,7 @@ outoneávei-la	outonear+V.ele.ACC.3.F.SG+IMPF+2+PL
 outoneava-la	outonear+V.ele.ACC.3.F.SG+IMPF+2+SG
 outoneavam-na	outonear+V.ele.ACC.3.F.SG+IMPF+3+PL
 outoneava-a	outonear+V.ele.ACC.3.F.SG+IMPF+3+SG
+outoneá-la	outonear+V.ele.ACC.3.F.SG+INF
 outonearmo-la	outonear+V.ele.ACC.3.F.SG+INF+1+PL
 outoneá-la	outonear+V.ele.ACC.3.F.SG+INF+1+SG
 outonearde-la	outonear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -18295,6 +18405,7 @@ outoneávei-los	outonear+V.ele.ACC.3.M.PL+IMPF+2+PL
 outoneava-los	outonear+V.ele.ACC.3.M.PL+IMPF+2+SG
 outoneavam-nos	outonear+V.ele.ACC.3.M.PL+IMPF+3+PL
 outoneava-os	outonear+V.ele.ACC.3.M.PL+IMPF+3+SG
+outoneá-los	outonear+V.ele.ACC.3.M.PL+INF
 outonearmo-los	outonear+V.ele.ACC.3.M.PL+INF+1+PL
 outoneá-los	outonear+V.ele.ACC.3.M.PL+INF+1+SG
 outonearde-los	outonear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -18344,6 +18455,7 @@ outoneávei-lo	outonear+V.ele.ACC.3.M.SG+IMPF+2+PL
 outoneava-lo	outonear+V.ele.ACC.3.M.SG+IMPF+2+SG
 outoneavam-no	outonear+V.ele.ACC.3.M.SG+IMPF+3+PL
 outoneava-o	outonear+V.ele.ACC.3.M.SG+IMPF+3+SG
+outoneá-lo	outonear+V.ele.ACC.3.M.SG+INF
 outonearmo-lo	outonear+V.ele.ACC.3.M.SG+INF+1+PL
 outoneá-lo	outonear+V.ele.ACC.3.M.SG+INF+1+SG
 outonearde-lo	outonear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -18717,6 +18829,7 @@ ouvíei-las	ouvir+V.ele.ACC.3.F.PL+IMPF+2+PL
 ouvia-las	ouvir+V.ele.ACC.3.F.PL+IMPF+2+SG
 ouviam-nas	ouvir+V.ele.ACC.3.F.PL+IMPF+3+PL
 ouvia-as	ouvir+V.ele.ACC.3.F.PL+IMPF+3+SG
+ouvi-las	ouvir+V.ele.ACC.3.F.PL+INF
 ouvirmo-las	ouvir+V.ele.ACC.3.F.PL+INF+1+PL
 ouvi-las	ouvir+V.ele.ACC.3.F.PL+INF+1+SG
 ouvirde-las	ouvir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -18767,6 +18880,7 @@ ouvíei-la	ouvir+V.ele.ACC.3.F.SG+IMPF+2+PL
 ouvia-la	ouvir+V.ele.ACC.3.F.SG+IMPF+2+SG
 ouviam-na	ouvir+V.ele.ACC.3.F.SG+IMPF+3+PL
 ouvia-a	ouvir+V.ele.ACC.3.F.SG+IMPF+3+SG
+ouvi-la	ouvir+V.ele.ACC.3.F.SG+INF
 ouvirmo-la	ouvir+V.ele.ACC.3.F.SG+INF+1+PL
 ouvi-la	ouvir+V.ele.ACC.3.F.SG+INF+1+SG
 ouvirde-la	ouvir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -18815,6 +18929,7 @@ ouvíei-los	ouvir+V.ele.ACC.3.M.PL+IMPF+2+PL
 ouvia-los	ouvir+V.ele.ACC.3.M.PL+IMPF+2+SG
 ouviam-nos	ouvir+V.ele.ACC.3.M.PL+IMPF+3+PL
 ouvia-os	ouvir+V.ele.ACC.3.M.PL+IMPF+3+SG
+ouvi-los	ouvir+V.ele.ACC.3.M.PL+INF
 ouvirmo-los	ouvir+V.ele.ACC.3.M.PL+INF+1+PL
 ouvi-los	ouvir+V.ele.ACC.3.M.PL+INF+1+SG
 ouvirde-los	ouvir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -18865,6 +18980,7 @@ ouvíei-lo	ouvir+V.ele.ACC.3.M.SG+IMPF+2+PL
 ouvia-lo	ouvir+V.ele.ACC.3.M.SG+IMPF+2+SG
 ouviam-no	ouvir+V.ele.ACC.3.M.SG+IMPF+3+PL
 ouvia-o	ouvir+V.ele.ACC.3.M.SG+IMPF+3+SG
+ouvi-lo	ouvir+V.ele.ACC.3.M.SG+INF
 ouvirmo-lo	ouvir+V.ele.ACC.3.M.SG+INF+1+PL
 ouvi-lo	ouvir+V.ele.ACC.3.M.SG+INF+1+SG
 ouvirde-lo	ouvir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -19238,6 +19354,7 @@ ozonificávei-las	ozonificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 ozonificava-las	ozonificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 ozonificavam-nas	ozonificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 ozonificava-as	ozonificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+ozonificá-las	ozonificar+V.ele.ACC.3.F.PL+INF
 ozonificarmo-las	ozonificar+V.ele.ACC.3.F.PL+INF+1+PL
 ozonificá-las	ozonificar+V.ele.ACC.3.F.PL+INF+1+SG
 ozonificarde-las	ozonificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -19289,6 +19406,7 @@ ozonificávei-la	ozonificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 ozonificava-la	ozonificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 ozonificavam-na	ozonificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 ozonificava-a	ozonificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+ozonificá-la	ozonificar+V.ele.ACC.3.F.SG+INF
 ozonificarmo-la	ozonificar+V.ele.ACC.3.F.SG+INF+1+PL
 ozonificá-la	ozonificar+V.ele.ACC.3.F.SG+INF+1+SG
 ozonificarde-la	ozonificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -19340,6 +19458,7 @@ ozonificávei-los	ozonificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 ozonificava-los	ozonificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 ozonificavam-nos	ozonificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 ozonificava-os	ozonificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+ozonificá-los	ozonificar+V.ele.ACC.3.M.PL+INF
 ozonificarmo-los	ozonificar+V.ele.ACC.3.M.PL+INF+1+PL
 ozonificá-los	ozonificar+V.ele.ACC.3.M.PL+INF+1+SG
 ozonificarde-los	ozonificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -19391,6 +19510,7 @@ ozonificávei-lo	ozonificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 ozonificava-lo	ozonificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 ozonificavam-no	ozonificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 ozonificava-o	ozonificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+ozonificá-lo	ozonificar+V.ele.ACC.3.M.SG+INF
 ozonificarmo-lo	ozonificar+V.ele.ACC.3.M.SG+INF+1+PL
 ozonificá-lo	ozonificar+V.ele.ACC.3.M.SG+INF+1+SG
 ozonificarde-lo	ozonificar+V.ele.ACC.3.M.SG+INF+2+PL

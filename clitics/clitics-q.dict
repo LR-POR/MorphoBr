@@ -20,6 +20,7 @@ quadriplicávei-las	quadriplicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 quadriplicava-las	quadriplicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 quadriplicavam-nas	quadriplicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 quadriplicava-as	quadriplicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+quadriplicá-las	quadriplicar+V.ele.ACC.3.F.PL+INF
 quadriplicarmo-las	quadriplicar+V.ele.ACC.3.F.PL+INF+1+PL
 quadriplicá-las	quadriplicar+V.ele.ACC.3.F.PL+INF+1+SG
 quadriplicarde-las	quadriplicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -71,6 +72,7 @@ quadriplicávei-la	quadriplicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 quadriplicava-la	quadriplicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 quadriplicavam-na	quadriplicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 quadriplicava-a	quadriplicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+quadriplicá-la	quadriplicar+V.ele.ACC.3.F.SG+INF
 quadriplicarmo-la	quadriplicar+V.ele.ACC.3.F.SG+INF+1+PL
 quadriplicá-la	quadriplicar+V.ele.ACC.3.F.SG+INF+1+SG
 quadriplicarde-la	quadriplicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -122,6 +124,7 @@ quadriplicávei-los	quadriplicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 quadriplicava-los	quadriplicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 quadriplicavam-nos	quadriplicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 quadriplicava-os	quadriplicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+quadriplicá-los	quadriplicar+V.ele.ACC.3.M.PL+INF
 quadriplicarmo-los	quadriplicar+V.ele.ACC.3.M.PL+INF+1+PL
 quadriplicá-los	quadriplicar+V.ele.ACC.3.M.PL+INF+1+SG
 quadriplicarde-los	quadriplicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -173,6 +176,7 @@ quadriplicávei-lo	quadriplicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 quadriplicava-lo	quadriplicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 quadriplicavam-no	quadriplicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 quadriplicava-o	quadriplicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+quadriplicá-lo	quadriplicar+V.ele.ACC.3.M.SG+INF
 quadriplicarmo-lo	quadriplicar+V.ele.ACC.3.M.SG+INF+1+PL
 quadriplicá-lo	quadriplicar+V.ele.ACC.3.M.SG+INF+1+SG
 quadriplicarde-lo	quadriplicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -556,6 +560,7 @@ quadruplicávei-las	quadruplicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 quadruplicava-las	quadruplicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 quadruplicavam-nas	quadruplicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 quadruplicava-as	quadruplicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+quadruplicá-las	quadruplicar+V.ele.ACC.3.F.PL+INF
 quadruplicarmo-las	quadruplicar+V.ele.ACC.3.F.PL+INF+1+PL
 quadruplicá-las	quadruplicar+V.ele.ACC.3.F.PL+INF+1+SG
 quadruplicarde-las	quadruplicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -607,6 +612,7 @@ quadruplicávei-la	quadruplicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 quadruplicava-la	quadruplicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 quadruplicavam-na	quadruplicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 quadruplicava-a	quadruplicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+quadruplicá-la	quadruplicar+V.ele.ACC.3.F.SG+INF
 quadruplicarmo-la	quadruplicar+V.ele.ACC.3.F.SG+INF+1+PL
 quadruplicá-la	quadruplicar+V.ele.ACC.3.F.SG+INF+1+SG
 quadruplicarde-la	quadruplicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -658,6 +664,7 @@ quadruplicávei-los	quadruplicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 quadruplicava-los	quadruplicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 quadruplicavam-nos	quadruplicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 quadruplicava-os	quadruplicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+quadruplicá-los	quadruplicar+V.ele.ACC.3.M.PL+INF
 quadruplicarmo-los	quadruplicar+V.ele.ACC.3.M.PL+INF+1+PL
 quadruplicá-los	quadruplicar+V.ele.ACC.3.M.PL+INF+1+SG
 quadruplicarde-los	quadruplicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -709,6 +716,7 @@ quadruplicávei-lo	quadruplicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 quadruplicava-lo	quadruplicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 quadruplicavam-no	quadruplicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 quadruplicava-o	quadruplicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+quadruplicá-lo	quadruplicar+V.ele.ACC.3.M.SG+INF
 quadruplicarmo-lo	quadruplicar+V.ele.ACC.3.M.SG+INF+1+PL
 quadruplicá-lo	quadruplicar+V.ele.ACC.3.M.SG+INF+1+SG
 quadruplicarde-lo	quadruplicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1092,6 +1100,7 @@ qualificávei-las	qualificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 qualificava-las	qualificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 qualificavam-nas	qualificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 qualificava-as	qualificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+qualificá-las	qualificar+V.ele.ACC.3.F.PL+INF
 qualificarmo-las	qualificar+V.ele.ACC.3.F.PL+INF+1+PL
 qualificá-las	qualificar+V.ele.ACC.3.F.PL+INF+1+SG
 qualificarde-las	qualificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1143,6 +1152,7 @@ qualificávei-la	qualificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 qualificava-la	qualificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 qualificavam-na	qualificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 qualificava-a	qualificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+qualificá-la	qualificar+V.ele.ACC.3.F.SG+INF
 qualificarmo-la	qualificar+V.ele.ACC.3.F.SG+INF+1+PL
 qualificá-la	qualificar+V.ele.ACC.3.F.SG+INF+1+SG
 qualificarde-la	qualificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1194,6 +1204,7 @@ qualificávei-los	qualificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 qualificava-los	qualificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 qualificavam-nos	qualificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 qualificava-os	qualificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+qualificá-los	qualificar+V.ele.ACC.3.M.PL+INF
 qualificarmo-los	qualificar+V.ele.ACC.3.M.PL+INF+1+PL
 qualificá-los	qualificar+V.ele.ACC.3.M.PL+INF+1+SG
 qualificarde-los	qualificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1245,6 +1256,7 @@ qualificávei-lo	qualificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 qualificava-lo	qualificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 qualificavam-no	qualificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 qualificava-o	qualificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+qualificá-lo	qualificar+V.ele.ACC.3.M.SG+INF
 qualificarmo-lo	qualificar+V.ele.ACC.3.M.SG+INF+1+PL
 qualificá-lo	qualificar+V.ele.ACC.3.M.SG+INF+1+SG
 qualificarde-lo	qualificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1628,6 +1640,7 @@ quantificávei-las	quantificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 quantificava-las	quantificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 quantificavam-nas	quantificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 quantificava-as	quantificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+quantificá-las	quantificar+V.ele.ACC.3.F.PL+INF
 quantificarmo-las	quantificar+V.ele.ACC.3.F.PL+INF+1+PL
 quantificá-las	quantificar+V.ele.ACC.3.F.PL+INF+1+SG
 quantificarde-las	quantificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1679,6 +1692,7 @@ quantificávei-la	quantificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 quantificava-la	quantificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 quantificavam-na	quantificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 quantificava-a	quantificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+quantificá-la	quantificar+V.ele.ACC.3.F.SG+INF
 quantificarmo-la	quantificar+V.ele.ACC.3.F.SG+INF+1+PL
 quantificá-la	quantificar+V.ele.ACC.3.F.SG+INF+1+SG
 quantificarde-la	quantificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1730,6 +1744,7 @@ quantificávei-los	quantificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 quantificava-los	quantificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 quantificavam-nos	quantificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 quantificava-os	quantificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+quantificá-los	quantificar+V.ele.ACC.3.M.PL+INF
 quantificarmo-los	quantificar+V.ele.ACC.3.M.PL+INF+1+PL
 quantificá-los	quantificar+V.ele.ACC.3.M.PL+INF+1+SG
 quantificarde-los	quantificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1781,6 +1796,7 @@ quantificávei-lo	quantificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 quantificava-lo	quantificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 quantificavam-no	quantificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 quantificava-o	quantificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+quantificá-lo	quantificar+V.ele.ACC.3.M.SG+INF
 quantificarmo-lo	quantificar+V.ele.ACC.3.M.SG+INF+1+PL
 quantificá-lo	quantificar+V.ele.ACC.3.M.SG+INF+1+SG
 quantificarde-lo	quantificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2161,6 +2177,7 @@ quarteávei-las	quartear+V.ele.ACC.3.F.PL+IMPF+2+PL
 quarteava-las	quartear+V.ele.ACC.3.F.PL+IMPF+2+SG
 quarteavam-nas	quartear+V.ele.ACC.3.F.PL+IMPF+3+PL
 quarteava-as	quartear+V.ele.ACC.3.F.PL+IMPF+3+SG
+quarteá-las	quartear+V.ele.ACC.3.F.PL+INF
 quartearmo-las	quartear+V.ele.ACC.3.F.PL+INF+1+PL
 quarteá-las	quartear+V.ele.ACC.3.F.PL+INF+1+SG
 quartearde-las	quartear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2210,6 +2227,7 @@ quarteávei-la	quartear+V.ele.ACC.3.F.SG+IMPF+2+PL
 quarteava-la	quartear+V.ele.ACC.3.F.SG+IMPF+2+SG
 quarteavam-na	quartear+V.ele.ACC.3.F.SG+IMPF+3+PL
 quarteava-a	quartear+V.ele.ACC.3.F.SG+IMPF+3+SG
+quarteá-la	quartear+V.ele.ACC.3.F.SG+INF
 quartearmo-la	quartear+V.ele.ACC.3.F.SG+INF+1+PL
 quarteá-la	quartear+V.ele.ACC.3.F.SG+INF+1+SG
 quartearde-la	quartear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2259,6 +2277,7 @@ quarteávei-los	quartear+V.ele.ACC.3.M.PL+IMPF+2+PL
 quarteava-los	quartear+V.ele.ACC.3.M.PL+IMPF+2+SG
 quarteavam-nos	quartear+V.ele.ACC.3.M.PL+IMPF+3+PL
 quarteava-os	quartear+V.ele.ACC.3.M.PL+IMPF+3+SG
+quarteá-los	quartear+V.ele.ACC.3.M.PL+INF
 quartearmo-los	quartear+V.ele.ACC.3.M.PL+INF+1+PL
 quarteá-los	quartear+V.ele.ACC.3.M.PL+INF+1+SG
 quartearde-los	quartear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2308,6 +2327,7 @@ quarteávei-lo	quartear+V.ele.ACC.3.M.SG+IMPF+2+PL
 quarteava-lo	quartear+V.ele.ACC.3.M.SG+IMPF+2+SG
 quarteavam-no	quartear+V.ele.ACC.3.M.SG+IMPF+3+PL
 quarteava-o	quartear+V.ele.ACC.3.M.SG+IMPF+3+SG
+quarteá-lo	quartear+V.ele.ACC.3.M.SG+INF
 quartearmo-lo	quartear+V.ele.ACC.3.M.SG+INF+1+PL
 quarteá-lo	quartear+V.ele.ACC.3.M.SG+INF+1+SG
 quartearde-lo	quartear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3214,6 +3234,7 @@ quicávei-las	quicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 quicava-las	quicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 quicavam-nas	quicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 quicava-as	quicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+quicá-las	quicar+V.ele.ACC.3.F.PL+INF
 quicarmo-las	quicar+V.ele.ACC.3.F.PL+INF+1+PL
 quicá-las	quicar+V.ele.ACC.3.F.PL+INF+1+SG
 quicarde-las	quicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3265,6 +3286,7 @@ quicávei-la	quicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 quicava-la	quicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 quicavam-na	quicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 quicava-a	quicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+quicá-la	quicar+V.ele.ACC.3.F.SG+INF
 quicarmo-la	quicar+V.ele.ACC.3.F.SG+INF+1+PL
 quicá-la	quicar+V.ele.ACC.3.F.SG+INF+1+SG
 quicarde-la	quicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3316,6 +3338,7 @@ quicávei-los	quicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 quicava-los	quicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 quicavam-nos	quicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 quicava-os	quicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+quicá-los	quicar+V.ele.ACC.3.M.PL+INF
 quicarmo-los	quicar+V.ele.ACC.3.M.PL+INF+1+PL
 quicá-los	quicar+V.ele.ACC.3.M.PL+INF+1+SG
 quicarde-los	quicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3367,6 +3390,7 @@ quicávei-lo	quicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 quicava-lo	quicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 quicavam-no	quicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 quicava-o	quicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+quicá-lo	quicar+V.ele.ACC.3.M.SG+INF
 quicarmo-lo	quicar+V.ele.ACC.3.M.SG+INF+1+PL
 quicá-lo	quicar+V.ele.ACC.3.M.SG+INF+1+SG
 quicarde-lo	quicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3750,6 +3774,7 @@ quilificávei-las	quilificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 quilificava-las	quilificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 quilificavam-nas	quilificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 quilificava-as	quilificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+quilificá-las	quilificar+V.ele.ACC.3.F.PL+INF
 quilificarmo-las	quilificar+V.ele.ACC.3.F.PL+INF+1+PL
 quilificá-las	quilificar+V.ele.ACC.3.F.PL+INF+1+SG
 quilificarde-las	quilificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3801,6 +3826,7 @@ quilificávei-la	quilificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 quilificava-la	quilificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 quilificavam-na	quilificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 quilificava-a	quilificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+quilificá-la	quilificar+V.ele.ACC.3.F.SG+INF
 quilificarmo-la	quilificar+V.ele.ACC.3.F.SG+INF+1+PL
 quilificá-la	quilificar+V.ele.ACC.3.F.SG+INF+1+SG
 quilificarde-la	quilificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3852,6 +3878,7 @@ quilificávei-los	quilificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 quilificava-los	quilificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 quilificavam-nos	quilificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 quilificava-os	quilificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+quilificá-los	quilificar+V.ele.ACC.3.M.PL+INF
 quilificarmo-los	quilificar+V.ele.ACC.3.M.PL+INF+1+PL
 quilificá-los	quilificar+V.ele.ACC.3.M.PL+INF+1+SG
 quilificarde-los	quilificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3903,6 +3930,7 @@ quilificávei-lo	quilificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 quilificava-lo	quilificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 quilificavam-no	quilificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 quilificava-o	quilificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+quilificá-lo	quilificar+V.ele.ACC.3.M.SG+INF
 quilificarmo-lo	quilificar+V.ele.ACC.3.M.SG+INF+1+PL
 quilificá-lo	quilificar+V.ele.ACC.3.M.SG+INF+1+SG
 quilificarde-lo	quilificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4286,6 +4314,7 @@ quimificávei-las	quimificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 quimificava-las	quimificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 quimificavam-nas	quimificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 quimificava-as	quimificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+quimificá-las	quimificar+V.ele.ACC.3.F.PL+INF
 quimificarmo-las	quimificar+V.ele.ACC.3.F.PL+INF+1+PL
 quimificá-las	quimificar+V.ele.ACC.3.F.PL+INF+1+SG
 quimificarde-las	quimificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4337,6 +4366,7 @@ quimificávei-la	quimificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 quimificava-la	quimificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 quimificavam-na	quimificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 quimificava-a	quimificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+quimificá-la	quimificar+V.ele.ACC.3.F.SG+INF
 quimificarmo-la	quimificar+V.ele.ACC.3.F.SG+INF+1+PL
 quimificá-la	quimificar+V.ele.ACC.3.F.SG+INF+1+SG
 quimificarde-la	quimificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4388,6 +4418,7 @@ quimificávei-los	quimificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 quimificava-los	quimificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 quimificavam-nos	quimificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 quimificava-os	quimificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+quimificá-los	quimificar+V.ele.ACC.3.M.PL+INF
 quimificarmo-los	quimificar+V.ele.ACC.3.M.PL+INF+1+PL
 quimificá-los	quimificar+V.ele.ACC.3.M.PL+INF+1+SG
 quimificarde-los	quimificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4439,6 +4470,7 @@ quimificávei-lo	quimificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 quimificava-lo	quimificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 quimificavam-no	quimificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 quimificava-o	quimificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+quimificá-lo	quimificar+V.ele.ACC.3.M.SG+INF
 quimificarmo-lo	quimificar+V.ele.ACC.3.M.SG+INF+1+PL
 quimificá-lo	quimificar+V.ele.ACC.3.M.SG+INF+1+SG
 quimificarde-lo	quimificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4822,6 +4854,7 @@ quinhoávei-las	quinhoar+V.ele.ACC.3.F.PL+IMPF+2+PL
 quinhoava-las	quinhoar+V.ele.ACC.3.F.PL+IMPF+2+SG
 quinhoavam-nas	quinhoar+V.ele.ACC.3.F.PL+IMPF+3+PL
 quinhoava-as	quinhoar+V.ele.ACC.3.F.PL+IMPF+3+SG
+quinhoá-las	quinhoar+V.ele.ACC.3.F.PL+INF
 quinhoarmo-las	quinhoar+V.ele.ACC.3.F.PL+INF+1+PL
 quinhoá-las	quinhoar+V.ele.ACC.3.F.PL+INF+1+SG
 quinhoarde-las	quinhoar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4874,6 +4907,7 @@ quinhoávei-la	quinhoar+V.ele.ACC.3.F.SG+IMPF+2+PL
 quinhoava-la	quinhoar+V.ele.ACC.3.F.SG+IMPF+2+SG
 quinhoavam-na	quinhoar+V.ele.ACC.3.F.SG+IMPF+3+PL
 quinhoava-a	quinhoar+V.ele.ACC.3.F.SG+IMPF+3+SG
+quinhoá-la	quinhoar+V.ele.ACC.3.F.SG+INF
 quinhoarmo-la	quinhoar+V.ele.ACC.3.F.SG+INF+1+PL
 quinhoá-la	quinhoar+V.ele.ACC.3.F.SG+INF+1+SG
 quinhoarde-la	quinhoar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4926,6 +4960,7 @@ quinhoávei-los	quinhoar+V.ele.ACC.3.M.PL+IMPF+2+PL
 quinhoava-los	quinhoar+V.ele.ACC.3.M.PL+IMPF+2+SG
 quinhoavam-nos	quinhoar+V.ele.ACC.3.M.PL+IMPF+3+PL
 quinhoava-os	quinhoar+V.ele.ACC.3.M.PL+IMPF+3+SG
+quinhoá-los	quinhoar+V.ele.ACC.3.M.PL+INF
 quinhoarmo-los	quinhoar+V.ele.ACC.3.M.PL+INF+1+PL
 quinhoá-los	quinhoar+V.ele.ACC.3.M.PL+INF+1+SG
 quinhoarde-los	quinhoar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4978,6 +5013,7 @@ quinhoávei-lo	quinhoar+V.ele.ACC.3.M.SG+IMPF+2+PL
 quinhoava-lo	quinhoar+V.ele.ACC.3.M.SG+IMPF+2+SG
 quinhoavam-no	quinhoar+V.ele.ACC.3.M.SG+IMPF+3+PL
 quinhoava-o	quinhoar+V.ele.ACC.3.M.SG+IMPF+3+SG
+quinhoá-lo	quinhoar+V.ele.ACC.3.M.SG+INF
 quinhoarmo-lo	quinhoar+V.ele.ACC.3.M.SG+INF+1+PL
 quinhoá-lo	quinhoar+V.ele.ACC.3.M.SG+INF+1+SG
 quinhoarde-lo	quinhoar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5368,6 +5404,7 @@ quintuplicávei-las	quintuplicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 quintuplicava-las	quintuplicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 quintuplicavam-nas	quintuplicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 quintuplicava-as	quintuplicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+quintuplicá-las	quintuplicar+V.ele.ACC.3.F.PL+INF
 quintuplicarmo-las	quintuplicar+V.ele.ACC.3.F.PL+INF+1+PL
 quintuplicá-las	quintuplicar+V.ele.ACC.3.F.PL+INF+1+SG
 quintuplicarde-las	quintuplicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5419,6 +5456,7 @@ quintuplicávei-la	quintuplicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 quintuplicava-la	quintuplicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 quintuplicavam-na	quintuplicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 quintuplicava-a	quintuplicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+quintuplicá-la	quintuplicar+V.ele.ACC.3.F.SG+INF
 quintuplicarmo-la	quintuplicar+V.ele.ACC.3.F.SG+INF+1+PL
 quintuplicá-la	quintuplicar+V.ele.ACC.3.F.SG+INF+1+SG
 quintuplicarde-la	quintuplicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5470,6 +5508,7 @@ quintuplicávei-los	quintuplicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 quintuplicava-los	quintuplicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 quintuplicavam-nos	quintuplicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 quintuplicava-os	quintuplicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+quintuplicá-los	quintuplicar+V.ele.ACC.3.M.PL+INF
 quintuplicarmo-los	quintuplicar+V.ele.ACC.3.M.PL+INF+1+PL
 quintuplicá-los	quintuplicar+V.ele.ACC.3.M.PL+INF+1+SG
 quintuplicarde-los	quintuplicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5521,6 +5560,7 @@ quintuplicávei-lo	quintuplicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 quintuplicava-lo	quintuplicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 quintuplicavam-no	quintuplicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 quintuplicava-o	quintuplicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+quintuplicá-lo	quintuplicar+V.ele.ACC.3.M.SG+INF
 quintuplicarmo-lo	quintuplicar+V.ele.ACC.3.M.SG+INF+1+PL
 quintuplicá-lo	quintuplicar+V.ele.ACC.3.M.SG+INF+1+SG
 quintuplicarde-lo	quintuplicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5901,6 +5941,7 @@ quirereávei-las	quirerear+V.ele.ACC.3.F.PL+IMPF+2+PL
 quirereava-las	quirerear+V.ele.ACC.3.F.PL+IMPF+2+SG
 quirereavam-nas	quirerear+V.ele.ACC.3.F.PL+IMPF+3+PL
 quirereava-as	quirerear+V.ele.ACC.3.F.PL+IMPF+3+SG
+quirereá-las	quirerear+V.ele.ACC.3.F.PL+INF
 quirerearmo-las	quirerear+V.ele.ACC.3.F.PL+INF+1+PL
 quirereá-las	quirerear+V.ele.ACC.3.F.PL+INF+1+SG
 quirerearde-las	quirerear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5950,6 +5991,7 @@ quirereávei-la	quirerear+V.ele.ACC.3.F.SG+IMPF+2+PL
 quirereava-la	quirerear+V.ele.ACC.3.F.SG+IMPF+2+SG
 quirereavam-na	quirerear+V.ele.ACC.3.F.SG+IMPF+3+PL
 quirereava-a	quirerear+V.ele.ACC.3.F.SG+IMPF+3+SG
+quirereá-la	quirerear+V.ele.ACC.3.F.SG+INF
 quirerearmo-la	quirerear+V.ele.ACC.3.F.SG+INF+1+PL
 quirereá-la	quirerear+V.ele.ACC.3.F.SG+INF+1+SG
 quirerearde-la	quirerear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5999,6 +6041,7 @@ quirereávei-los	quirerear+V.ele.ACC.3.M.PL+IMPF+2+PL
 quirereava-los	quirerear+V.ele.ACC.3.M.PL+IMPF+2+SG
 quirereavam-nos	quirerear+V.ele.ACC.3.M.PL+IMPF+3+PL
 quirereava-os	quirerear+V.ele.ACC.3.M.PL+IMPF+3+SG
+quirereá-los	quirerear+V.ele.ACC.3.M.PL+INF
 quirerearmo-los	quirerear+V.ele.ACC.3.M.PL+INF+1+PL
 quirereá-los	quirerear+V.ele.ACC.3.M.PL+INF+1+SG
 quirerearde-los	quirerear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6048,6 +6091,7 @@ quirereávei-lo	quirerear+V.ele.ACC.3.M.SG+IMPF+2+PL
 quirereava-lo	quirerear+V.ele.ACC.3.M.SG+IMPF+2+SG
 quirereavam-no	quirerear+V.ele.ACC.3.M.SG+IMPF+3+PL
 quirereava-o	quirerear+V.ele.ACC.3.M.SG+IMPF+3+SG
+quirereá-lo	quirerear+V.ele.ACC.3.M.SG+INF
 quirerearmo-lo	quirerear+V.ele.ACC.3.M.SG+INF+1+PL
 quirereá-lo	quirerear+V.ele.ACC.3.M.SG+INF+1+SG
 quirerearde-lo	quirerear+V.ele.ACC.3.M.SG+INF+2+PL

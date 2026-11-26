@@ -20,6 +20,7 @@ labariscávei-las	labariscar+V.ele.ACC.3.F.PL+IMPF+2+PL
 labariscava-las	labariscar+V.ele.ACC.3.F.PL+IMPF+2+SG
 labariscavam-nas	labariscar+V.ele.ACC.3.F.PL+IMPF+3+PL
 labariscava-as	labariscar+V.ele.ACC.3.F.PL+IMPF+3+SG
+labariscá-las	labariscar+V.ele.ACC.3.F.PL+INF
 labariscarmo-las	labariscar+V.ele.ACC.3.F.PL+INF+1+PL
 labariscá-las	labariscar+V.ele.ACC.3.F.PL+INF+1+SG
 labariscarde-las	labariscar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -71,6 +72,7 @@ labariscávei-la	labariscar+V.ele.ACC.3.F.SG+IMPF+2+PL
 labariscava-la	labariscar+V.ele.ACC.3.F.SG+IMPF+2+SG
 labariscavam-na	labariscar+V.ele.ACC.3.F.SG+IMPF+3+PL
 labariscava-a	labariscar+V.ele.ACC.3.F.SG+IMPF+3+SG
+labariscá-la	labariscar+V.ele.ACC.3.F.SG+INF
 labariscarmo-la	labariscar+V.ele.ACC.3.F.SG+INF+1+PL
 labariscá-la	labariscar+V.ele.ACC.3.F.SG+INF+1+SG
 labariscarde-la	labariscar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -122,6 +124,7 @@ labariscávei-los	labariscar+V.ele.ACC.3.M.PL+IMPF+2+PL
 labariscava-los	labariscar+V.ele.ACC.3.M.PL+IMPF+2+SG
 labariscavam-nos	labariscar+V.ele.ACC.3.M.PL+IMPF+3+PL
 labariscava-os	labariscar+V.ele.ACC.3.M.PL+IMPF+3+SG
+labariscá-los	labariscar+V.ele.ACC.3.M.PL+INF
 labariscarmo-los	labariscar+V.ele.ACC.3.M.PL+INF+1+PL
 labariscá-los	labariscar+V.ele.ACC.3.M.PL+INF+1+SG
 labariscarde-los	labariscar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -173,6 +176,7 @@ labariscávei-lo	labariscar+V.ele.ACC.3.M.SG+IMPF+2+PL
 labariscava-lo	labariscar+V.ele.ACC.3.M.SG+IMPF+2+SG
 labariscavam-no	labariscar+V.ele.ACC.3.M.SG+IMPF+3+PL
 labariscava-o	labariscar+V.ele.ACC.3.M.SG+IMPF+3+SG
+labariscá-lo	labariscar+V.ele.ACC.3.M.SG+INF
 labariscarmo-lo	labariscar+V.ele.ACC.3.M.SG+INF+1+PL
 labariscá-lo	labariscar+V.ele.ACC.3.M.SG+INF+1+SG
 labariscarde-lo	labariscar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -553,6 +557,7 @@ labreávei-las	labrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 labreava-las	labrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 labreavam-nas	labrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 labreava-as	labrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+labreá-las	labrear+V.ele.ACC.3.F.PL+INF
 labrearmo-las	labrear+V.ele.ACC.3.F.PL+INF+1+PL
 labreá-las	labrear+V.ele.ACC.3.F.PL+INF+1+SG
 labrearde-las	labrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -602,6 +607,7 @@ labreávei-la	labrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 labreava-la	labrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 labreavam-na	labrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 labreava-a	labrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+labreá-la	labrear+V.ele.ACC.3.F.SG+INF
 labrearmo-la	labrear+V.ele.ACC.3.F.SG+INF+1+PL
 labreá-la	labrear+V.ele.ACC.3.F.SG+INF+1+SG
 labrearde-la	labrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -651,6 +657,7 @@ labreávei-los	labrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 labreava-los	labrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 labreavam-nos	labrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 labreava-os	labrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+labreá-los	labrear+V.ele.ACC.3.M.PL+INF
 labrearmo-los	labrear+V.ele.ACC.3.M.PL+INF+1+PL
 labreá-los	labrear+V.ele.ACC.3.M.PL+INF+1+SG
 labrearde-los	labrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -700,6 +707,7 @@ labreávei-lo	labrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 labreava-lo	labrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 labreavam-no	labrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 labreava-o	labrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+labreá-lo	labrear+V.ele.ACC.3.M.SG+INF
 labrearmo-lo	labrear+V.ele.ACC.3.M.SG+INF+1+PL
 labreá-lo	labrear+V.ele.ACC.3.M.SG+INF+1+SG
 labrearde-lo	labrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1070,6 +1078,7 @@ lacávei-las	lacar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lacava-las	lacar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lacavam-nas	lacar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lacava-as	lacar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lacá-las	lacar+V.ele.ACC.3.F.PL+INF
 lacarmo-las	lacar+V.ele.ACC.3.F.PL+INF+1+PL
 lacá-las	lacar+V.ele.ACC.3.F.PL+INF+1+SG
 lacarde-las	lacar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1121,6 +1130,7 @@ lacávei-la	lacar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lacava-la	lacar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lacavam-na	lacar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lacava-a	lacar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lacá-la	lacar+V.ele.ACC.3.F.SG+INF
 lacarmo-la	lacar+V.ele.ACC.3.F.SG+INF+1+PL
 lacá-la	lacar+V.ele.ACC.3.F.SG+INF+1+SG
 lacarde-la	lacar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1172,6 +1182,7 @@ lacávei-los	lacar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lacava-los	lacar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lacavam-nos	lacar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lacava-os	lacar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lacá-los	lacar+V.ele.ACC.3.M.PL+INF
 lacarmo-los	lacar+V.ele.ACC.3.M.PL+INF+1+PL
 lacá-los	lacar+V.ele.ACC.3.M.PL+INF+1+SG
 lacarde-los	lacar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1223,6 +1234,7 @@ lacávei-lo	lacar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lacava-lo	lacar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lacavam-no	lacar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lacava-o	lacar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lacá-lo	lacar+V.ele.ACC.3.M.SG+INF
 lacarmo-lo	lacar+V.ele.ACC.3.M.SG+INF+1+PL
 lacá-lo	lacar+V.ele.ACC.3.M.SG+INF+1+SG
 lacarde-lo	lacar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1603,6 +1615,7 @@ laceávei-las	lacear+V.ele.ACC.3.F.PL+IMPF+2+PL
 laceava-las	lacear+V.ele.ACC.3.F.PL+IMPF+2+SG
 laceavam-nas	lacear+V.ele.ACC.3.F.PL+IMPF+3+PL
 laceava-as	lacear+V.ele.ACC.3.F.PL+IMPF+3+SG
+laceá-las	lacear+V.ele.ACC.3.F.PL+INF
 lacearmo-las	lacear+V.ele.ACC.3.F.PL+INF+1+PL
 laceá-las	lacear+V.ele.ACC.3.F.PL+INF+1+SG
 lacearde-las	lacear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1652,6 +1665,7 @@ laceávei-la	lacear+V.ele.ACC.3.F.SG+IMPF+2+PL
 laceava-la	lacear+V.ele.ACC.3.F.SG+IMPF+2+SG
 laceavam-na	lacear+V.ele.ACC.3.F.SG+IMPF+3+PL
 laceava-a	lacear+V.ele.ACC.3.F.SG+IMPF+3+SG
+laceá-la	lacear+V.ele.ACC.3.F.SG+INF
 lacearmo-la	lacear+V.ele.ACC.3.F.SG+INF+1+PL
 laceá-la	lacear+V.ele.ACC.3.F.SG+INF+1+SG
 lacearde-la	lacear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1701,6 +1715,7 @@ laceávei-los	lacear+V.ele.ACC.3.M.PL+IMPF+2+PL
 laceava-los	lacear+V.ele.ACC.3.M.PL+IMPF+2+SG
 laceavam-nos	lacear+V.ele.ACC.3.M.PL+IMPF+3+PL
 laceava-os	lacear+V.ele.ACC.3.M.PL+IMPF+3+SG
+laceá-los	lacear+V.ele.ACC.3.M.PL+INF
 lacearmo-los	lacear+V.ele.ACC.3.M.PL+INF+1+PL
 laceá-los	lacear+V.ele.ACC.3.M.PL+INF+1+SG
 lacearde-los	lacear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1750,6 +1765,7 @@ laceávei-lo	lacear+V.ele.ACC.3.M.SG+IMPF+2+PL
 laceava-lo	lacear+V.ele.ACC.3.M.SG+IMPF+2+SG
 laceavam-no	lacear+V.ele.ACC.3.M.SG+IMPF+3+PL
 laceava-o	lacear+V.ele.ACC.3.M.SG+IMPF+3+SG
+laceá-lo	lacear+V.ele.ACC.3.M.SG+INF
 lacearmo-lo	lacear+V.ele.ACC.3.M.SG+INF+1+PL
 laceá-lo	lacear+V.ele.ACC.3.M.SG+INF+1+SG
 lacearde-lo	lacear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2117,6 +2133,7 @@ lacreávei-las	lacrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lacreava-las	lacrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lacreavam-nas	lacrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lacreava-as	lacrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lacreá-las	lacrear+V.ele.ACC.3.F.PL+INF
 lacrearmo-las	lacrear+V.ele.ACC.3.F.PL+INF+1+PL
 lacreá-las	lacrear+V.ele.ACC.3.F.PL+INF+1+SG
 lacrearde-las	lacrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2166,6 +2183,7 @@ lacreávei-la	lacrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lacreava-la	lacrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lacreavam-na	lacrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lacreava-a	lacrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lacreá-la	lacrear+V.ele.ACC.3.F.SG+INF
 lacrearmo-la	lacrear+V.ele.ACC.3.F.SG+INF+1+PL
 lacreá-la	lacrear+V.ele.ACC.3.F.SG+INF+1+SG
 lacrearde-la	lacrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2215,6 +2233,7 @@ lacreávei-los	lacrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lacreava-los	lacrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lacreavam-nos	lacrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lacreava-os	lacrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lacreá-los	lacrear+V.ele.ACC.3.M.PL+INF
 lacrearmo-los	lacrear+V.ele.ACC.3.M.PL+INF+1+PL
 lacreá-los	lacrear+V.ele.ACC.3.M.PL+INF+1+SG
 lacrearde-los	lacrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2264,6 +2283,7 @@ lacreávei-lo	lacrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lacreava-lo	lacrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lacreavam-no	lacrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lacreava-o	lacrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lacreá-lo	lacrear+V.ele.ACC.3.M.SG+INF
 lacrearmo-lo	lacrear+V.ele.ACC.3.M.SG+INF+1+PL
 lacreá-lo	lacrear+V.ele.ACC.3.M.SG+INF+1+SG
 lacrearde-lo	lacrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2631,6 +2651,7 @@ ladeávei-las	ladear+V.ele.ACC.3.F.PL+IMPF+2+PL
 ladeava-las	ladear+V.ele.ACC.3.F.PL+IMPF+2+SG
 ladeavam-nas	ladear+V.ele.ACC.3.F.PL+IMPF+3+PL
 ladeava-as	ladear+V.ele.ACC.3.F.PL+IMPF+3+SG
+ladeá-las	ladear+V.ele.ACC.3.F.PL+INF
 ladearmo-las	ladear+V.ele.ACC.3.F.PL+INF+1+PL
 ladeá-las	ladear+V.ele.ACC.3.F.PL+INF+1+SG
 ladearde-las	ladear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2680,6 +2701,7 @@ ladeávei-la	ladear+V.ele.ACC.3.F.SG+IMPF+2+PL
 ladeava-la	ladear+V.ele.ACC.3.F.SG+IMPF+2+SG
 ladeavam-na	ladear+V.ele.ACC.3.F.SG+IMPF+3+PL
 ladeava-a	ladear+V.ele.ACC.3.F.SG+IMPF+3+SG
+ladeá-la	ladear+V.ele.ACC.3.F.SG+INF
 ladearmo-la	ladear+V.ele.ACC.3.F.SG+INF+1+PL
 ladeá-la	ladear+V.ele.ACC.3.F.SG+INF+1+SG
 ladearde-la	ladear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2729,6 +2751,7 @@ ladeávei-los	ladear+V.ele.ACC.3.M.PL+IMPF+2+PL
 ladeava-los	ladear+V.ele.ACC.3.M.PL+IMPF+2+SG
 ladeavam-nos	ladear+V.ele.ACC.3.M.PL+IMPF+3+PL
 ladeava-os	ladear+V.ele.ACC.3.M.PL+IMPF+3+SG
+ladeá-los	ladear+V.ele.ACC.3.M.PL+INF
 ladearmo-los	ladear+V.ele.ACC.3.M.PL+INF+1+PL
 ladeá-los	ladear+V.ele.ACC.3.M.PL+INF+1+SG
 ladearde-los	ladear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2778,6 +2801,7 @@ ladeávei-lo	ladear+V.ele.ACC.3.M.SG+IMPF+2+PL
 ladeava-lo	ladear+V.ele.ACC.3.M.SG+IMPF+2+SG
 ladeavam-no	ladear+V.ele.ACC.3.M.SG+IMPF+3+PL
 ladeava-o	ladear+V.ele.ACC.3.M.SG+IMPF+3+SG
+ladeá-lo	ladear+V.ele.ACC.3.M.SG+INF
 ladearmo-lo	ladear+V.ele.ACC.3.M.SG+INF+1+PL
 ladeá-lo	ladear+V.ele.ACC.3.M.SG+INF+1+SG
 ladearde-lo	ladear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3148,6 +3172,7 @@ ladroávei-las	ladroar+V.ele.ACC.3.F.PL+IMPF+2+PL
 ladroava-las	ladroar+V.ele.ACC.3.F.PL+IMPF+2+SG
 ladroavam-nas	ladroar+V.ele.ACC.3.F.PL+IMPF+3+PL
 ladroava-as	ladroar+V.ele.ACC.3.F.PL+IMPF+3+SG
+ladroá-las	ladroar+V.ele.ACC.3.F.PL+INF
 ladroarmo-las	ladroar+V.ele.ACC.3.F.PL+INF+1+PL
 ladroá-las	ladroar+V.ele.ACC.3.F.PL+INF+1+SG
 ladroarde-las	ladroar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3200,6 +3225,7 @@ ladroávei-la	ladroar+V.ele.ACC.3.F.SG+IMPF+2+PL
 ladroava-la	ladroar+V.ele.ACC.3.F.SG+IMPF+2+SG
 ladroavam-na	ladroar+V.ele.ACC.3.F.SG+IMPF+3+PL
 ladroava-a	ladroar+V.ele.ACC.3.F.SG+IMPF+3+SG
+ladroá-la	ladroar+V.ele.ACC.3.F.SG+INF
 ladroarmo-la	ladroar+V.ele.ACC.3.F.SG+INF+1+PL
 ladroá-la	ladroar+V.ele.ACC.3.F.SG+INF+1+SG
 ladroarde-la	ladroar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3252,6 +3278,7 @@ ladroávei-los	ladroar+V.ele.ACC.3.M.PL+IMPF+2+PL
 ladroava-los	ladroar+V.ele.ACC.3.M.PL+IMPF+2+SG
 ladroavam-nos	ladroar+V.ele.ACC.3.M.PL+IMPF+3+PL
 ladroava-os	ladroar+V.ele.ACC.3.M.PL+IMPF+3+SG
+ladroá-los	ladroar+V.ele.ACC.3.M.PL+INF
 ladroarmo-los	ladroar+V.ele.ACC.3.M.PL+INF+1+PL
 ladroá-los	ladroar+V.ele.ACC.3.M.PL+INF+1+SG
 ladroarde-los	ladroar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3304,6 +3331,7 @@ ladroávei-lo	ladroar+V.ele.ACC.3.M.SG+IMPF+2+PL
 ladroava-lo	ladroar+V.ele.ACC.3.M.SG+IMPF+2+SG
 ladroavam-no	ladroar+V.ele.ACC.3.M.SG+IMPF+3+PL
 ladroava-o	ladroar+V.ele.ACC.3.M.SG+IMPF+3+SG
+ladroá-lo	ladroar+V.ele.ACC.3.M.SG+INF
 ladroarmo-lo	ladroar+V.ele.ACC.3.M.SG+INF+1+PL
 ladroá-lo	ladroar+V.ele.ACC.3.M.SG+INF+1+SG
 ladroarde-lo	ladroar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3691,6 +3719,7 @@ lagarteávei-las	lagartear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lagarteava-las	lagartear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lagarteavam-nas	lagartear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lagarteava-as	lagartear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lagarteá-las	lagartear+V.ele.ACC.3.F.PL+INF
 lagartearmo-las	lagartear+V.ele.ACC.3.F.PL+INF+1+PL
 lagarteá-las	lagartear+V.ele.ACC.3.F.PL+INF+1+SG
 lagartearde-las	lagartear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3740,6 +3769,7 @@ lagarteávei-la	lagartear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lagarteava-la	lagartear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lagarteavam-na	lagartear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lagarteava-a	lagartear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lagarteá-la	lagartear+V.ele.ACC.3.F.SG+INF
 lagartearmo-la	lagartear+V.ele.ACC.3.F.SG+INF+1+PL
 lagarteá-la	lagartear+V.ele.ACC.3.F.SG+INF+1+SG
 lagartearde-la	lagartear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3789,6 +3819,7 @@ lagarteávei-los	lagartear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lagarteava-los	lagartear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lagarteavam-nos	lagartear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lagarteava-os	lagartear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lagarteá-los	lagartear+V.ele.ACC.3.M.PL+INF
 lagartearmo-los	lagartear+V.ele.ACC.3.M.PL+INF+1+PL
 lagarteá-los	lagartear+V.ele.ACC.3.M.PL+INF+1+SG
 lagartearde-los	lagartear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3838,6 +3869,7 @@ lagarteávei-lo	lagartear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lagarteava-lo	lagartear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lagarteavam-no	lagartear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lagarteava-o	lagartear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lagarteá-lo	lagartear+V.ele.ACC.3.M.SG+INF
 lagartearmo-lo	lagartear+V.ele.ACC.3.M.SG+INF+1+PL
 lagarteá-lo	lagartear+V.ele.ACC.3.M.SG+INF+1+SG
 lagartearde-lo	lagartear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4208,6 +4240,7 @@ laicificávei-las	laicificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 laicificava-las	laicificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 laicificavam-nas	laicificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 laicificava-as	laicificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+laicificá-las	laicificar+V.ele.ACC.3.F.PL+INF
 laicificarmo-las	laicificar+V.ele.ACC.3.F.PL+INF+1+PL
 laicificá-las	laicificar+V.ele.ACC.3.F.PL+INF+1+SG
 laicificarde-las	laicificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4259,6 +4292,7 @@ laicificávei-la	laicificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 laicificava-la	laicificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 laicificavam-na	laicificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 laicificava-a	laicificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+laicificá-la	laicificar+V.ele.ACC.3.F.SG+INF
 laicificarmo-la	laicificar+V.ele.ACC.3.F.SG+INF+1+PL
 laicificá-la	laicificar+V.ele.ACC.3.F.SG+INF+1+SG
 laicificarde-la	laicificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4310,6 +4344,7 @@ laicificávei-los	laicificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 laicificava-los	laicificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 laicificavam-nos	laicificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 laicificava-os	laicificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+laicificá-los	laicificar+V.ele.ACC.3.M.PL+INF
 laicificarmo-los	laicificar+V.ele.ACC.3.M.PL+INF+1+PL
 laicificá-los	laicificar+V.ele.ACC.3.M.PL+INF+1+SG
 laicificarde-los	laicificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4361,6 +4396,7 @@ laicificávei-lo	laicificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 laicificava-lo	laicificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 laicificavam-no	laicificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 laicificava-o	laicificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+laicificá-lo	laicificar+V.ele.ACC.3.M.SG+INF
 laicificarmo-lo	laicificar+V.ele.ACC.3.M.SG+INF+1+PL
 laicificá-lo	laicificar+V.ele.ACC.3.M.SG+INF+1+SG
 laicificarde-lo	laicificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4741,6 +4777,7 @@ lajeávei-las	lajear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lajeava-las	lajear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lajeavam-nas	lajear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lajeava-as	lajear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lajeá-las	lajear+V.ele.ACC.3.F.PL+INF
 lajearmo-las	lajear+V.ele.ACC.3.F.PL+INF+1+PL
 lajeá-las	lajear+V.ele.ACC.3.F.PL+INF+1+SG
 lajearde-las	lajear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4790,6 +4827,7 @@ lajeávei-la	lajear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lajeava-la	lajear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lajeavam-na	lajear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lajeava-a	lajear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lajeá-la	lajear+V.ele.ACC.3.F.SG+INF
 lajearmo-la	lajear+V.ele.ACC.3.F.SG+INF+1+PL
 lajeá-la	lajear+V.ele.ACC.3.F.SG+INF+1+SG
 lajearde-la	lajear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4839,6 +4877,7 @@ lajeávei-los	lajear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lajeava-los	lajear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lajeavam-nos	lajear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lajeava-os	lajear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lajeá-los	lajear+V.ele.ACC.3.M.PL+INF
 lajearmo-los	lajear+V.ele.ACC.3.M.PL+INF+1+PL
 lajeá-los	lajear+V.ele.ACC.3.M.PL+INF+1+SG
 lajearde-los	lajear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4888,6 +4927,7 @@ lajeávei-lo	lajear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lajeava-lo	lajear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lajeavam-no	lajear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lajeava-o	lajear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lajeá-lo	lajear+V.ele.ACC.3.M.SG+INF
 lajearmo-lo	lajear+V.ele.ACC.3.M.SG+INF+1+PL
 lajeá-lo	lajear+V.ele.ACC.3.M.SG+INF+1+SG
 lajearde-lo	lajear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5255,6 +5295,7 @@ lambanceávei-las	lambancear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lambanceava-las	lambancear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lambanceavam-nas	lambancear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lambanceava-as	lambancear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lambanceá-las	lambancear+V.ele.ACC.3.F.PL+INF
 lambancearmo-las	lambancear+V.ele.ACC.3.F.PL+INF+1+PL
 lambanceá-las	lambancear+V.ele.ACC.3.F.PL+INF+1+SG
 lambancearde-las	lambancear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5304,6 +5345,7 @@ lambanceávei-la	lambancear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lambanceava-la	lambancear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lambanceavam-na	lambancear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lambanceava-a	lambancear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lambanceá-la	lambancear+V.ele.ACC.3.F.SG+INF
 lambancearmo-la	lambancear+V.ele.ACC.3.F.SG+INF+1+PL
 lambanceá-la	lambancear+V.ele.ACC.3.F.SG+INF+1+SG
 lambancearde-la	lambancear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5353,6 +5395,7 @@ lambanceávei-los	lambancear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lambanceava-los	lambancear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lambanceavam-nos	lambancear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lambanceava-os	lambancear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lambanceá-los	lambancear+V.ele.ACC.3.M.PL+INF
 lambancearmo-los	lambancear+V.ele.ACC.3.M.PL+INF+1+PL
 lambanceá-los	lambancear+V.ele.ACC.3.M.PL+INF+1+SG
 lambancearde-los	lambancear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5402,6 +5445,7 @@ lambanceávei-lo	lambancear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lambanceava-lo	lambancear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lambanceavam-no	lambancear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lambanceava-o	lambancear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lambanceá-lo	lambancear+V.ele.ACC.3.M.SG+INF
 lambancearmo-lo	lambancear+V.ele.ACC.3.M.SG+INF+1+PL
 lambanceá-lo	lambancear+V.ele.ACC.3.M.SG+INF+1+SG
 lambancearde-lo	lambancear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5769,6 +5813,7 @@ lambeávei-las	lambear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lambeava-las	lambear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lambeavam-nas	lambear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lambeava-as	lambear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lambeá-las	lambear+V.ele.ACC.3.F.PL+INF
 lambearmo-las	lambear+V.ele.ACC.3.F.PL+INF+1+PL
 lambeá-las	lambear+V.ele.ACC.3.F.PL+INF+1+SG
 lambearde-las	lambear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5818,6 +5863,7 @@ lambeávei-la	lambear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lambeava-la	lambear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lambeavam-na	lambear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lambeava-a	lambear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lambeá-la	lambear+V.ele.ACC.3.F.SG+INF
 lambearmo-la	lambear+V.ele.ACC.3.F.SG+INF+1+PL
 lambeá-la	lambear+V.ele.ACC.3.F.SG+INF+1+SG
 lambearde-la	lambear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5867,6 +5913,7 @@ lambeávei-los	lambear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lambeava-los	lambear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lambeavam-nos	lambear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lambeava-os	lambear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lambeá-los	lambear+V.ele.ACC.3.M.PL+INF
 lambearmo-los	lambear+V.ele.ACC.3.M.PL+INF+1+PL
 lambeá-los	lambear+V.ele.ACC.3.M.PL+INF+1+SG
 lambearde-los	lambear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5916,6 +5963,7 @@ lambeávei-lo	lambear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lambeava-lo	lambear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lambeavam-no	lambear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lambeava-o	lambear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lambeá-lo	lambear+V.ele.ACC.3.M.SG+INF
 lambearmo-lo	lambear+V.ele.ACC.3.M.SG+INF+1+PL
 lambeá-lo	lambear+V.ele.ACC.3.M.SG+INF+1+SG
 lambearde-lo	lambear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6264,10 +6312,6 @@ lambeardes-vos	lambear+V.vós.AD.2.PL+SBJF+2+PL
 lambeares-vos	lambear+V.vós.AD.2.PL+SBJF+2+SG
 lambearem-vos	lambear+V.vós.AD.2.PL+SBJF+3+PL
 lambear-vos	lambear+V.vós.AD.2.PL+SBJF+3+SG
-lambê-las	lamber+V.ele.ACC.3.F.PL+INF
-lambê-la	lamber+V.ele.ACC.3.F.SG+INF
-lambê-los	lamber+V.ele.ACC.3.M.PL+INF
-lambê-lo	lamber+V.ele.ACC.3.M.SG+INF
 lambeteá-las-íamos	lambetear+V.ele.ACC.3.F.PL+COND+1+PL
 lambeteá-las-ia	lambetear+V.ele.ACC.3.F.PL+COND+1+SG
 lambeteá-las-íeis	lambetear+V.ele.ACC.3.F.PL+COND+2+PL
@@ -6287,6 +6331,7 @@ lambeteávei-las	lambetear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lambeteava-las	lambetear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lambeteavam-nas	lambetear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lambeteava-as	lambetear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lambeteá-las	lambetear+V.ele.ACC.3.F.PL+INF
 lambetearmo-las	lambetear+V.ele.ACC.3.F.PL+INF+1+PL
 lambeteá-las	lambetear+V.ele.ACC.3.F.PL+INF+1+SG
 lambetearde-las	lambetear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6336,6 +6381,7 @@ lambeteávei-la	lambetear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lambeteava-la	lambetear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lambeteavam-na	lambetear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lambeteava-a	lambetear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lambeteá-la	lambetear+V.ele.ACC.3.F.SG+INF
 lambetearmo-la	lambetear+V.ele.ACC.3.F.SG+INF+1+PL
 lambeteá-la	lambetear+V.ele.ACC.3.F.SG+INF+1+SG
 lambetearde-la	lambetear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6385,6 +6431,7 @@ lambeteávei-los	lambetear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lambeteava-los	lambetear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lambeteavam-nos	lambetear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lambeteava-os	lambetear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lambeteá-los	lambetear+V.ele.ACC.3.M.PL+INF
 lambetearmo-los	lambetear+V.ele.ACC.3.M.PL+INF+1+PL
 lambeteá-los	lambetear+V.ele.ACC.3.M.PL+INF+1+SG
 lambetearde-los	lambetear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6434,6 +6481,7 @@ lambeteávei-lo	lambetear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lambeteava-lo	lambetear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lambeteavam-no	lambetear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lambeteava-o	lambetear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lambeteá-lo	lambetear+V.ele.ACC.3.M.SG+INF
 lambetearmo-lo	lambetear+V.ele.ACC.3.M.SG+INF+1+PL
 lambeteá-lo	lambetear+V.ele.ACC.3.M.SG+INF+1+SG
 lambetearde-lo	lambetear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6804,6 +6852,7 @@ lambicávei-las	lambicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lambicava-las	lambicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lambicavam-nas	lambicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lambicava-as	lambicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lambicá-las	lambicar+V.ele.ACC.3.F.PL+INF
 lambicarmo-las	lambicar+V.ele.ACC.3.F.PL+INF+1+PL
 lambicá-las	lambicar+V.ele.ACC.3.F.PL+INF+1+SG
 lambicarde-las	lambicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6855,6 +6904,7 @@ lambicávei-la	lambicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lambicava-la	lambicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lambicavam-na	lambicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lambicava-a	lambicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lambicá-la	lambicar+V.ele.ACC.3.F.SG+INF
 lambicarmo-la	lambicar+V.ele.ACC.3.F.SG+INF+1+PL
 lambicá-la	lambicar+V.ele.ACC.3.F.SG+INF+1+SG
 lambicarde-la	lambicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6906,6 +6956,7 @@ lambicávei-los	lambicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lambicava-los	lambicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lambicavam-nos	lambicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lambicava-os	lambicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lambicá-los	lambicar+V.ele.ACC.3.M.PL+INF
 lambicarmo-los	lambicar+V.ele.ACC.3.M.PL+INF+1+PL
 lambicá-los	lambicar+V.ele.ACC.3.M.PL+INF+1+SG
 lambicarde-los	lambicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6957,6 +7008,7 @@ lambicávei-lo	lambicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lambicava-lo	lambicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lambicavam-no	lambicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lambicava-o	lambicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lambicá-lo	lambicar+V.ele.ACC.3.M.SG+INF
 lambicarmo-lo	lambicar+V.ele.ACC.3.M.SG+INF+1+PL
 lambicá-lo	lambicar+V.ele.ACC.3.M.SG+INF+1+SG
 lambicarde-lo	lambicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -7340,6 +7392,7 @@ lambiscávei-las	lambiscar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lambiscava-las	lambiscar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lambiscavam-nas	lambiscar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lambiscava-as	lambiscar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lambiscá-las	lambiscar+V.ele.ACC.3.F.PL+INF
 lambiscarmo-las	lambiscar+V.ele.ACC.3.F.PL+INF+1+PL
 lambiscá-las	lambiscar+V.ele.ACC.3.F.PL+INF+1+SG
 lambiscarde-las	lambiscar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -7391,6 +7444,7 @@ lambiscávei-la	lambiscar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lambiscava-la	lambiscar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lambiscavam-na	lambiscar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lambiscava-a	lambiscar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lambiscá-la	lambiscar+V.ele.ACC.3.F.SG+INF
 lambiscarmo-la	lambiscar+V.ele.ACC.3.F.SG+INF+1+PL
 lambiscá-la	lambiscar+V.ele.ACC.3.F.SG+INF+1+SG
 lambiscarde-la	lambiscar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7442,6 +7496,7 @@ lambiscávei-los	lambiscar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lambiscava-los	lambiscar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lambiscavam-nos	lambiscar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lambiscava-os	lambiscar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lambiscá-los	lambiscar+V.ele.ACC.3.M.PL+INF
 lambiscarmo-los	lambiscar+V.ele.ACC.3.M.PL+INF+1+PL
 lambiscá-los	lambiscar+V.ele.ACC.3.M.PL+INF+1+SG
 lambiscarde-los	lambiscar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -7493,6 +7548,7 @@ lambiscávei-lo	lambiscar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lambiscava-lo	lambiscar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lambiscavam-no	lambiscar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lambiscava-o	lambiscar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lambiscá-lo	lambiscar+V.ele.ACC.3.M.SG+INF
 lambiscarmo-lo	lambiscar+V.ele.ACC.3.M.SG+INF+1+PL
 lambiscá-lo	lambiscar+V.ele.ACC.3.M.SG+INF+1+SG
 lambiscarde-lo	lambiscar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -7876,6 +7932,7 @@ lambrecávei-las	lambrecar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lambrecava-las	lambrecar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lambrecavam-nas	lambrecar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lambrecava-as	lambrecar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lambrecá-las	lambrecar+V.ele.ACC.3.F.PL+INF
 lambrecarmo-las	lambrecar+V.ele.ACC.3.F.PL+INF+1+PL
 lambrecá-las	lambrecar+V.ele.ACC.3.F.PL+INF+1+SG
 lambrecarde-las	lambrecar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -7927,6 +7984,7 @@ lambrecávei-la	lambrecar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lambrecava-la	lambrecar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lambrecavam-na	lambrecar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lambrecava-a	lambrecar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lambrecá-la	lambrecar+V.ele.ACC.3.F.SG+INF
 lambrecarmo-la	lambrecar+V.ele.ACC.3.F.SG+INF+1+PL
 lambrecá-la	lambrecar+V.ele.ACC.3.F.SG+INF+1+SG
 lambrecarde-la	lambrecar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7978,6 +8036,7 @@ lambrecávei-los	lambrecar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lambrecava-los	lambrecar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lambrecavam-nos	lambrecar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lambrecava-os	lambrecar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lambrecá-los	lambrecar+V.ele.ACC.3.M.PL+INF
 lambrecarmo-los	lambrecar+V.ele.ACC.3.M.PL+INF+1+PL
 lambrecá-los	lambrecar+V.ele.ACC.3.M.PL+INF+1+SG
 lambrecarde-los	lambrecar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8029,6 +8088,7 @@ lambrecávei-lo	lambrecar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lambrecava-lo	lambrecar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lambrecavam-no	lambrecar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lambrecava-o	lambrecar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lambrecá-lo	lambrecar+V.ele.ACC.3.M.SG+INF
 lambrecarmo-lo	lambrecar+V.ele.ACC.3.M.SG+INF+1+PL
 lambrecá-lo	lambrecar+V.ele.ACC.3.M.SG+INF+1+SG
 lambrecarde-lo	lambrecar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8412,6 +8472,7 @@ lambuçávei-las	lambuçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lambuçava-las	lambuçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lambuçavam-nas	lambuçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lambuçava-as	lambuçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lambuçá-las	lambuçar+V.ele.ACC.3.F.PL+INF
 lambuçarmo-las	lambuçar+V.ele.ACC.3.F.PL+INF+1+PL
 lambuçá-las	lambuçar+V.ele.ACC.3.F.PL+INF+1+SG
 lambuçarde-las	lambuçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8463,6 +8524,7 @@ lambuçávei-la	lambuçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lambuçava-la	lambuçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lambuçavam-na	lambuçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lambuçava-a	lambuçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lambuçá-la	lambuçar+V.ele.ACC.3.F.SG+INF
 lambuçarmo-la	lambuçar+V.ele.ACC.3.F.SG+INF+1+PL
 lambuçá-la	lambuçar+V.ele.ACC.3.F.SG+INF+1+SG
 lambuçarde-la	lambuçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -8513,6 +8575,7 @@ lambuçava-os	lambuçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 lambuçávei-los	lambuçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lambuçava-los	lambuçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lambuçava-os	lambuçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lambuçá-los	lambuçar+V.ele.ACC.3.M.PL+INF
 lambuçarmo-los	lambuçar+V.ele.ACC.3.M.PL+INF+1+PL
 lambuçá-los	lambuçar+V.ele.ACC.3.M.PL+INF+1+SG
 lambuçarde-los	lambuçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8559,6 +8622,7 @@ lambuçávei-lo	lambuçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lambuçava-lo	lambuçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lambuçavam-no	lambuçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lambuçava-o	lambuçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lambuçá-lo	lambuçar+V.ele.ACC.3.M.SG+INF
 lambuçarmo-lo	lambuçar+V.ele.ACC.3.M.SG+INF+1+PL
 lambuçá-lo	lambuçar+V.ele.ACC.3.M.SG+INF+1+SG
 lambuçarde-lo	lambuçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8938,6 +9002,7 @@ lampreávei-las	lamprear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lampreava-las	lamprear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lampreavam-nas	lamprear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lampreava-as	lamprear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lampreá-las	lamprear+V.ele.ACC.3.F.PL+INF
 lamprearmo-las	lamprear+V.ele.ACC.3.F.PL+INF+1+PL
 lampreá-las	lamprear+V.ele.ACC.3.F.PL+INF+1+SG
 lamprearde-las	lamprear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8987,6 +9052,7 @@ lampreávei-la	lamprear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lampreava-la	lamprear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lampreavam-na	lamprear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lampreava-a	lamprear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lampreá-la	lamprear+V.ele.ACC.3.F.SG+INF
 lamprearmo-la	lamprear+V.ele.ACC.3.F.SG+INF+1+PL
 lampreá-la	lamprear+V.ele.ACC.3.F.SG+INF+1+SG
 lamprearde-la	lamprear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -9036,6 +9102,7 @@ lampreávei-los	lamprear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lampreava-los	lamprear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lampreavam-nos	lamprear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lampreava-os	lamprear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lampreá-los	lamprear+V.ele.ACC.3.M.PL+INF
 lamprearmo-los	lamprear+V.ele.ACC.3.M.PL+INF+1+PL
 lampreá-los	lamprear+V.ele.ACC.3.M.PL+INF+1+SG
 lamprearde-los	lamprear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -9085,6 +9152,7 @@ lampreávei-lo	lamprear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lampreava-lo	lamprear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lampreavam-no	lamprear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lampreava-o	lamprear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lampreá-lo	lamprear+V.ele.ACC.3.M.SG+INF
 lamprearmo-lo	lamprear+V.ele.ACC.3.M.SG+INF+1+PL
 lampreá-lo	lamprear+V.ele.ACC.3.M.SG+INF+1+SG
 lamprearde-lo	lamprear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -9452,6 +9520,7 @@ lanceávei-las	lancear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lanceava-las	lancear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lanceavam-nas	lancear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lanceava-as	lancear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lanceá-las	lancear+V.ele.ACC.3.F.PL+INF
 lancearmo-las	lancear+V.ele.ACC.3.F.PL+INF+1+PL
 lanceá-las	lancear+V.ele.ACC.3.F.PL+INF+1+SG
 lancearde-las	lancear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -9501,6 +9570,7 @@ lanceávei-la	lancear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lanceava-la	lancear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lanceavam-na	lancear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lanceava-a	lancear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lanceá-la	lancear+V.ele.ACC.3.F.SG+INF
 lancearmo-la	lancear+V.ele.ACC.3.F.SG+INF+1+PL
 lanceá-la	lancear+V.ele.ACC.3.F.SG+INF+1+SG
 lancearde-la	lancear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -9550,6 +9620,7 @@ lanceávei-los	lancear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lanceava-los	lancear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lanceavam-nos	lancear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lanceava-os	lancear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lanceá-los	lancear+V.ele.ACC.3.M.PL+INF
 lancearmo-los	lancear+V.ele.ACC.3.M.PL+INF+1+PL
 lanceá-los	lancear+V.ele.ACC.3.M.PL+INF+1+SG
 lancearde-los	lancear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -9599,6 +9670,7 @@ lanceávei-lo	lancear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lanceava-lo	lancear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lanceavam-no	lancear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lanceava-o	lancear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lanceá-lo	lancear+V.ele.ACC.3.M.SG+INF
 lancearmo-lo	lancear+V.ele.ACC.3.M.SG+INF+1+PL
 lanceá-lo	lancear+V.ele.ACC.3.M.SG+INF+1+SG
 lancearde-lo	lancear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -9966,6 +10038,7 @@ langareávei-las	langarear+V.ele.ACC.3.F.PL+IMPF+2+PL
 langareava-las	langarear+V.ele.ACC.3.F.PL+IMPF+2+SG
 langareavam-nas	langarear+V.ele.ACC.3.F.PL+IMPF+3+PL
 langareava-as	langarear+V.ele.ACC.3.F.PL+IMPF+3+SG
+langareá-las	langarear+V.ele.ACC.3.F.PL+INF
 langarearmo-las	langarear+V.ele.ACC.3.F.PL+INF+1+PL
 langareá-las	langarear+V.ele.ACC.3.F.PL+INF+1+SG
 langarearde-las	langarear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10015,6 +10088,7 @@ langareávei-la	langarear+V.ele.ACC.3.F.SG+IMPF+2+PL
 langareava-la	langarear+V.ele.ACC.3.F.SG+IMPF+2+SG
 langareavam-na	langarear+V.ele.ACC.3.F.SG+IMPF+3+PL
 langareava-a	langarear+V.ele.ACC.3.F.SG+IMPF+3+SG
+langareá-la	langarear+V.ele.ACC.3.F.SG+INF
 langarearmo-la	langarear+V.ele.ACC.3.F.SG+INF+1+PL
 langareá-la	langarear+V.ele.ACC.3.F.SG+INF+1+SG
 langarearde-la	langarear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -10064,6 +10138,7 @@ langareávei-los	langarear+V.ele.ACC.3.M.PL+IMPF+2+PL
 langareava-los	langarear+V.ele.ACC.3.M.PL+IMPF+2+SG
 langareavam-nos	langarear+V.ele.ACC.3.M.PL+IMPF+3+PL
 langareava-os	langarear+V.ele.ACC.3.M.PL+IMPF+3+SG
+langareá-los	langarear+V.ele.ACC.3.M.PL+INF
 langarearmo-los	langarear+V.ele.ACC.3.M.PL+INF+1+PL
 langareá-los	langarear+V.ele.ACC.3.M.PL+INF+1+SG
 langarearde-los	langarear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -10113,6 +10188,7 @@ langareávei-lo	langarear+V.ele.ACC.3.M.SG+IMPF+2+PL
 langareava-lo	langarear+V.ele.ACC.3.M.SG+IMPF+2+SG
 langareavam-no	langarear+V.ele.ACC.3.M.SG+IMPF+3+PL
 langareava-o	langarear+V.ele.ACC.3.M.SG+IMPF+3+SG
+langareá-lo	langarear+V.ele.ACC.3.M.SG+INF
 langarearmo-lo	langarear+V.ele.ACC.3.M.SG+INF+1+PL
 langareá-lo	langarear+V.ele.ACC.3.M.SG+INF+1+SG
 langarearde-lo	langarear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -11561,6 +11637,7 @@ languíei-las	languir+V.ele.ACC.3.F.PL+IMPF+2+PL
 languia-las	languir+V.ele.ACC.3.F.PL+IMPF+2+SG
 languiam-nas	languir+V.ele.ACC.3.F.PL+IMPF+3+PL
 languia-as	languir+V.ele.ACC.3.F.PL+IMPF+3+SG
+langui-las	languir+V.ele.ACC.3.F.PL+INF
 languirmo-las	languir+V.ele.ACC.3.F.PL+INF+1+PL
 langui-las	languir+V.ele.ACC.3.F.PL+INF+1+SG
 languirde-las	languir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -11607,6 +11684,7 @@ languíei-la	languir+V.ele.ACC.3.F.SG+IMPF+2+PL
 languia-la	languir+V.ele.ACC.3.F.SG+IMPF+2+SG
 languiam-na	languir+V.ele.ACC.3.F.SG+IMPF+3+PL
 languia-a	languir+V.ele.ACC.3.F.SG+IMPF+3+SG
+langui-la	languir+V.ele.ACC.3.F.SG+INF
 languirmo-la	languir+V.ele.ACC.3.F.SG+INF+1+PL
 langui-la	languir+V.ele.ACC.3.F.SG+INF+1+SG
 languirde-la	languir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -11653,6 +11731,7 @@ languíei-los	languir+V.ele.ACC.3.M.PL+IMPF+2+PL
 languia-los	languir+V.ele.ACC.3.M.PL+IMPF+2+SG
 languiam-nos	languir+V.ele.ACC.3.M.PL+IMPF+3+PL
 languia-os	languir+V.ele.ACC.3.M.PL+IMPF+3+SG
+langui-los	languir+V.ele.ACC.3.M.PL+INF
 languirmo-los	languir+V.ele.ACC.3.M.PL+INF+1+PL
 langui-los	languir+V.ele.ACC.3.M.PL+INF+1+SG
 languirde-los	languir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -11699,6 +11778,7 @@ languíei-lo	languir+V.ele.ACC.3.M.SG+IMPF+2+PL
 languia-lo	languir+V.ele.ACC.3.M.SG+IMPF+2+SG
 languiam-no	languir+V.ele.ACC.3.M.SG+IMPF+3+PL
 languia-o	languir+V.ele.ACC.3.M.SG+IMPF+3+SG
+langui-lo	languir+V.ele.ACC.3.M.SG+INF
 languirmo-lo	languir+V.ele.ACC.3.M.SG+INF+1+PL
 langui-lo	languir+V.ele.ACC.3.M.SG+INF+1+SG
 languirde-lo	languir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -12045,6 +12125,7 @@ lanzoávei-las	lanzoar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lanzoava-las	lanzoar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lanzoavam-nas	lanzoar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lanzoava-as	lanzoar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lanzoá-las	lanzoar+V.ele.ACC.3.F.PL+INF
 lanzoarmo-las	lanzoar+V.ele.ACC.3.F.PL+INF+1+PL
 lanzoá-las	lanzoar+V.ele.ACC.3.F.PL+INF+1+SG
 lanzoarde-las	lanzoar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12097,6 +12178,7 @@ lanzoávei-la	lanzoar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lanzoava-la	lanzoar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lanzoavam-na	lanzoar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lanzoava-a	lanzoar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lanzoá-la	lanzoar+V.ele.ACC.3.F.SG+INF
 lanzoarmo-la	lanzoar+V.ele.ACC.3.F.SG+INF+1+PL
 lanzoá-la	lanzoar+V.ele.ACC.3.F.SG+INF+1+SG
 lanzoarde-la	lanzoar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12149,6 +12231,7 @@ lanzoávei-los	lanzoar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lanzoava-los	lanzoar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lanzoavam-nos	lanzoar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lanzoava-os	lanzoar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lanzoá-los	lanzoar+V.ele.ACC.3.M.PL+INF
 lanzoarmo-los	lanzoar+V.ele.ACC.3.M.PL+INF+1+PL
 lanzoá-los	lanzoar+V.ele.ACC.3.M.PL+INF+1+SG
 lanzoarde-los	lanzoar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12201,6 +12284,7 @@ lanzoávei-lo	lanzoar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lanzoava-lo	lanzoar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lanzoavam-no	lanzoar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lanzoava-o	lanzoar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lanzoá-lo	lanzoar+V.ele.ACC.3.M.SG+INF
 lanzoarmo-lo	lanzoar+V.ele.ACC.3.M.SG+INF+1+PL
 lanzoá-lo	lanzoar+V.ele.ACC.3.M.SG+INF+1+SG
 lanzoarde-lo	lanzoar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -12591,6 +12675,7 @@ lançávei-las	lançar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lançava-las	lançar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lançavam-nas	lançar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lançava-as	lançar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lançá-las	lançar+V.ele.ACC.3.F.PL+INF
 lançarmo-las	lançar+V.ele.ACC.3.F.PL+INF+1+PL
 lançá-las	lançar+V.ele.ACC.3.F.PL+INF+1+SG
 lançarde-las	lançar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12642,6 +12727,7 @@ lançávei-la	lançar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lançava-la	lançar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lançavam-na	lançar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lançava-a	lançar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lançá-la	lançar+V.ele.ACC.3.F.SG+INF
 lançarmo-la	lançar+V.ele.ACC.3.F.SG+INF+1+PL
 lançá-la	lançar+V.ele.ACC.3.F.SG+INF+1+SG
 lançarde-la	lançar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12692,6 +12778,7 @@ lançava-os	lançar+V.ele.ACC.3.M.PL+IMPF+1+SG
 lançávei-los	lançar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lançava-los	lançar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lançava-os	lançar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lançá-los	lançar+V.ele.ACC.3.M.PL+INF
 lançarmo-los	lançar+V.ele.ACC.3.M.PL+INF+1+PL
 lançá-los	lançar+V.ele.ACC.3.M.PL+INF+1+SG
 lançarde-los	lançar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12738,6 +12825,7 @@ lançávei-lo	lançar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lançava-lo	lançar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lançavam-no	lançar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lançava-o	lançar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lançá-lo	lançar+V.ele.ACC.3.M.SG+INF
 lançarmo-lo	lançar+V.ele.ACC.3.M.SG+INF+1+PL
 lançá-lo	lançar+V.ele.ACC.3.M.SG+INF+1+SG
 lançarde-lo	lançar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13117,6 +13205,7 @@ lapeávei-las	lapear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lapeava-las	lapear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lapeavam-nas	lapear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lapeava-as	lapear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lapeá-las	lapear+V.ele.ACC.3.F.PL+INF
 lapearmo-las	lapear+V.ele.ACC.3.F.PL+INF+1+PL
 lapeá-las	lapear+V.ele.ACC.3.F.PL+INF+1+SG
 lapearde-las	lapear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -13166,6 +13255,7 @@ lapeávei-la	lapear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lapeava-la	lapear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lapeavam-na	lapear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lapeava-a	lapear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lapeá-la	lapear+V.ele.ACC.3.F.SG+INF
 lapearmo-la	lapear+V.ele.ACC.3.F.SG+INF+1+PL
 lapeá-la	lapear+V.ele.ACC.3.F.SG+INF+1+SG
 lapearde-la	lapear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -13215,6 +13305,7 @@ lapeávei-los	lapear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lapeava-los	lapear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lapeavam-nos	lapear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lapeava-os	lapear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lapeá-los	lapear+V.ele.ACC.3.M.PL+INF
 lapearmo-los	lapear+V.ele.ACC.3.M.PL+INF+1+PL
 lapeá-los	lapear+V.ele.ACC.3.M.PL+INF+1+SG
 lapearde-los	lapear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -13264,6 +13355,7 @@ lapeávei-lo	lapear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lapeava-lo	lapear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lapeavam-no	lapear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lapeava-o	lapear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lapeá-lo	lapear+V.ele.ACC.3.M.SG+INF
 lapearmo-lo	lapear+V.ele.ACC.3.M.SG+INF+1+PL
 lapeá-lo	lapear+V.ele.ACC.3.M.SG+INF+1+SG
 lapearde-lo	lapear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13634,6 +13726,7 @@ lapidificávei-las	lapidificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lapidificava-las	lapidificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lapidificavam-nas	lapidificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lapidificava-as	lapidificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lapidificá-las	lapidificar+V.ele.ACC.3.F.PL+INF
 lapidificarmo-las	lapidificar+V.ele.ACC.3.F.PL+INF+1+PL
 lapidificá-las	lapidificar+V.ele.ACC.3.F.PL+INF+1+SG
 lapidificarde-las	lapidificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -13685,6 +13778,7 @@ lapidificávei-la	lapidificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lapidificava-la	lapidificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lapidificavam-na	lapidificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lapidificava-a	lapidificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lapidificá-la	lapidificar+V.ele.ACC.3.F.SG+INF
 lapidificarmo-la	lapidificar+V.ele.ACC.3.F.SG+INF+1+PL
 lapidificá-la	lapidificar+V.ele.ACC.3.F.SG+INF+1+SG
 lapidificarde-la	lapidificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -13736,6 +13830,7 @@ lapidificávei-los	lapidificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lapidificava-los	lapidificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lapidificavam-nos	lapidificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lapidificava-os	lapidificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lapidificá-los	lapidificar+V.ele.ACC.3.M.PL+INF
 lapidificarmo-los	lapidificar+V.ele.ACC.3.M.PL+INF+1+PL
 lapidificá-los	lapidificar+V.ele.ACC.3.M.PL+INF+1+SG
 lapidificarde-los	lapidificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -13787,6 +13882,7 @@ lapidificávei-lo	lapidificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lapidificava-lo	lapidificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lapidificavam-no	lapidificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lapidificava-o	lapidificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lapidificá-lo	lapidificar+V.ele.ACC.3.M.SG+INF
 lapidificarmo-lo	lapidificar+V.ele.ACC.3.M.SG+INF+1+PL
 lapidificá-lo	lapidificar+V.ele.ACC.3.M.SG+INF+1+SG
 lapidificarde-lo	lapidificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -14167,6 +14263,7 @@ laqueávei-las	laquear+V.ele.ACC.3.F.PL+IMPF+2+PL
 laqueava-las	laquear+V.ele.ACC.3.F.PL+IMPF+2+SG
 laqueavam-nas	laquear+V.ele.ACC.3.F.PL+IMPF+3+PL
 laqueava-as	laquear+V.ele.ACC.3.F.PL+IMPF+3+SG
+laqueá-las	laquear+V.ele.ACC.3.F.PL+INF
 laquearmo-las	laquear+V.ele.ACC.3.F.PL+INF+1+PL
 laqueá-las	laquear+V.ele.ACC.3.F.PL+INF+1+SG
 laquearde-las	laquear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -14216,6 +14313,7 @@ laqueávei-la	laquear+V.ele.ACC.3.F.SG+IMPF+2+PL
 laqueava-la	laquear+V.ele.ACC.3.F.SG+IMPF+2+SG
 laqueavam-na	laquear+V.ele.ACC.3.F.SG+IMPF+3+PL
 laqueava-a	laquear+V.ele.ACC.3.F.SG+IMPF+3+SG
+laqueá-la	laquear+V.ele.ACC.3.F.SG+INF
 laquearmo-la	laquear+V.ele.ACC.3.F.SG+INF+1+PL
 laqueá-la	laquear+V.ele.ACC.3.F.SG+INF+1+SG
 laquearde-la	laquear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -14265,6 +14363,7 @@ laqueávei-los	laquear+V.ele.ACC.3.M.PL+IMPF+2+PL
 laqueava-los	laquear+V.ele.ACC.3.M.PL+IMPF+2+SG
 laqueavam-nos	laquear+V.ele.ACC.3.M.PL+IMPF+3+PL
 laqueava-os	laquear+V.ele.ACC.3.M.PL+IMPF+3+SG
+laqueá-los	laquear+V.ele.ACC.3.M.PL+INF
 laquearmo-los	laquear+V.ele.ACC.3.M.PL+INF+1+PL
 laqueá-los	laquear+V.ele.ACC.3.M.PL+INF+1+SG
 laquearde-los	laquear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -14314,6 +14413,7 @@ laqueávei-lo	laquear+V.ele.ACC.3.M.SG+IMPF+2+PL
 laqueava-lo	laquear+V.ele.ACC.3.M.SG+IMPF+2+SG
 laqueavam-no	laquear+V.ele.ACC.3.M.SG+IMPF+3+PL
 laqueava-o	laquear+V.ele.ACC.3.M.SG+IMPF+3+SG
+laqueá-lo	laquear+V.ele.ACC.3.M.SG+INF
 laquearmo-lo	laquear+V.ele.ACC.3.M.SG+INF+1+PL
 laqueá-lo	laquear+V.ele.ACC.3.M.SG+INF+1+SG
 laquearde-lo	laquear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -14681,6 +14781,7 @@ laracheávei-las	larachear+V.ele.ACC.3.F.PL+IMPF+2+PL
 laracheava-las	larachear+V.ele.ACC.3.F.PL+IMPF+2+SG
 laracheavam-nas	larachear+V.ele.ACC.3.F.PL+IMPF+3+PL
 laracheava-as	larachear+V.ele.ACC.3.F.PL+IMPF+3+SG
+laracheá-las	larachear+V.ele.ACC.3.F.PL+INF
 larachearmo-las	larachear+V.ele.ACC.3.F.PL+INF+1+PL
 laracheá-las	larachear+V.ele.ACC.3.F.PL+INF+1+SG
 larachearde-las	larachear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -14730,6 +14831,7 @@ laracheávei-la	larachear+V.ele.ACC.3.F.SG+IMPF+2+PL
 laracheava-la	larachear+V.ele.ACC.3.F.SG+IMPF+2+SG
 laracheavam-na	larachear+V.ele.ACC.3.F.SG+IMPF+3+PL
 laracheava-a	larachear+V.ele.ACC.3.F.SG+IMPF+3+SG
+laracheá-la	larachear+V.ele.ACC.3.F.SG+INF
 larachearmo-la	larachear+V.ele.ACC.3.F.SG+INF+1+PL
 laracheá-la	larachear+V.ele.ACC.3.F.SG+INF+1+SG
 larachearde-la	larachear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -14779,6 +14881,7 @@ laracheávei-los	larachear+V.ele.ACC.3.M.PL+IMPF+2+PL
 laracheava-los	larachear+V.ele.ACC.3.M.PL+IMPF+2+SG
 laracheavam-nos	larachear+V.ele.ACC.3.M.PL+IMPF+3+PL
 laracheava-os	larachear+V.ele.ACC.3.M.PL+IMPF+3+SG
+laracheá-los	larachear+V.ele.ACC.3.M.PL+INF
 larachearmo-los	larachear+V.ele.ACC.3.M.PL+INF+1+PL
 laracheá-los	larachear+V.ele.ACC.3.M.PL+INF+1+SG
 larachearde-los	larachear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -14828,6 +14931,7 @@ laracheávei-lo	larachear+V.ele.ACC.3.M.SG+IMPF+2+PL
 laracheava-lo	larachear+V.ele.ACC.3.M.SG+IMPF+2+SG
 laracheavam-no	larachear+V.ele.ACC.3.M.SG+IMPF+3+PL
 laracheava-o	larachear+V.ele.ACC.3.M.SG+IMPF+3+SG
+laracheá-lo	larachear+V.ele.ACC.3.M.SG+INF
 larachearmo-lo	larachear+V.ele.ACC.3.M.SG+INF+1+PL
 laracheá-lo	larachear+V.ele.ACC.3.M.SG+INF+1+SG
 larachearde-lo	larachear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -15195,6 +15299,7 @@ lardeávei-las	lardear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lardeava-las	lardear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lardeavam-nas	lardear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lardeava-as	lardear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lardeá-las	lardear+V.ele.ACC.3.F.PL+INF
 lardearmo-las	lardear+V.ele.ACC.3.F.PL+INF+1+PL
 lardeá-las	lardear+V.ele.ACC.3.F.PL+INF+1+SG
 lardearde-las	lardear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -15244,6 +15349,7 @@ lardeávei-la	lardear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lardeava-la	lardear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lardeavam-na	lardear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lardeava-a	lardear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lardeá-la	lardear+V.ele.ACC.3.F.SG+INF
 lardearmo-la	lardear+V.ele.ACC.3.F.SG+INF+1+PL
 lardeá-la	lardear+V.ele.ACC.3.F.SG+INF+1+SG
 lardearde-la	lardear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -15293,6 +15399,7 @@ lardeávei-los	lardear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lardeava-los	lardear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lardeavam-nos	lardear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lardeava-os	lardear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lardeá-los	lardear+V.ele.ACC.3.M.PL+INF
 lardearmo-los	lardear+V.ele.ACC.3.M.PL+INF+1+PL
 lardeá-los	lardear+V.ele.ACC.3.M.PL+INF+1+SG
 lardearde-los	lardear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -15342,6 +15449,7 @@ lardeávei-lo	lardear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lardeava-lo	lardear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lardeavam-no	lardear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lardeava-o	lardear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lardeá-lo	lardear+V.ele.ACC.3.M.SG+INF
 lardearmo-lo	lardear+V.ele.ACC.3.M.SG+INF+1+PL
 lardeá-lo	lardear+V.ele.ACC.3.M.SG+INF+1+SG
 lardearde-lo	lardear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -15709,6 +15817,7 @@ lareávei-las	larear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lareava-las	larear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lareavam-nas	larear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lareava-as	larear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lareá-las	larear+V.ele.ACC.3.F.PL+INF
 larearmo-las	larear+V.ele.ACC.3.F.PL+INF+1+PL
 lareá-las	larear+V.ele.ACC.3.F.PL+INF+1+SG
 larearde-las	larear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -15758,6 +15867,7 @@ lareávei-la	larear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lareava-la	larear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lareavam-na	larear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lareava-a	larear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lareá-la	larear+V.ele.ACC.3.F.SG+INF
 larearmo-la	larear+V.ele.ACC.3.F.SG+INF+1+PL
 lareá-la	larear+V.ele.ACC.3.F.SG+INF+1+SG
 larearde-la	larear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -15807,6 +15917,7 @@ lareávei-los	larear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lareava-los	larear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lareavam-nos	larear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lareava-os	larear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lareá-los	larear+V.ele.ACC.3.M.PL+INF
 larearmo-los	larear+V.ele.ACC.3.M.PL+INF+1+PL
 lareá-los	larear+V.ele.ACC.3.M.PL+INF+1+SG
 larearde-los	larear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -15856,6 +15967,7 @@ lareávei-lo	larear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lareava-lo	larear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lareavam-no	larear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lareava-o	larear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lareá-lo	larear+V.ele.ACC.3.M.SG+INF
 larearmo-lo	larear+V.ele.ACC.3.M.SG+INF+1+PL
 lareá-lo	larear+V.ele.ACC.3.M.SG+INF+1+SG
 larearde-lo	larear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -16223,6 +16335,7 @@ largueávei-las	larguear+V.ele.ACC.3.F.PL+IMPF+2+PL
 largueava-las	larguear+V.ele.ACC.3.F.PL+IMPF+2+SG
 largueavam-nas	larguear+V.ele.ACC.3.F.PL+IMPF+3+PL
 largueava-as	larguear+V.ele.ACC.3.F.PL+IMPF+3+SG
+largueá-las	larguear+V.ele.ACC.3.F.PL+INF
 larguearmo-las	larguear+V.ele.ACC.3.F.PL+INF+1+PL
 largueá-las	larguear+V.ele.ACC.3.F.PL+INF+1+SG
 larguearde-las	larguear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -16272,6 +16385,7 @@ largueávei-la	larguear+V.ele.ACC.3.F.SG+IMPF+2+PL
 largueava-la	larguear+V.ele.ACC.3.F.SG+IMPF+2+SG
 largueavam-na	larguear+V.ele.ACC.3.F.SG+IMPF+3+PL
 largueava-a	larguear+V.ele.ACC.3.F.SG+IMPF+3+SG
+largueá-la	larguear+V.ele.ACC.3.F.SG+INF
 larguearmo-la	larguear+V.ele.ACC.3.F.SG+INF+1+PL
 largueá-la	larguear+V.ele.ACC.3.F.SG+INF+1+SG
 larguearde-la	larguear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -16321,6 +16435,7 @@ largueávei-los	larguear+V.ele.ACC.3.M.PL+IMPF+2+PL
 largueava-los	larguear+V.ele.ACC.3.M.PL+IMPF+2+SG
 largueavam-nos	larguear+V.ele.ACC.3.M.PL+IMPF+3+PL
 largueava-os	larguear+V.ele.ACC.3.M.PL+IMPF+3+SG
+largueá-los	larguear+V.ele.ACC.3.M.PL+INF
 larguearmo-los	larguear+V.ele.ACC.3.M.PL+INF+1+PL
 largueá-los	larguear+V.ele.ACC.3.M.PL+INF+1+SG
 larguearde-los	larguear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -16370,6 +16485,7 @@ largueávei-lo	larguear+V.ele.ACC.3.M.SG+IMPF+2+PL
 largueava-lo	larguear+V.ele.ACC.3.M.SG+IMPF+2+SG
 largueavam-no	larguear+V.ele.ACC.3.M.SG+IMPF+3+PL
 largueava-o	larguear+V.ele.ACC.3.M.SG+IMPF+3+SG
+largueá-lo	larguear+V.ele.ACC.3.M.SG+INF
 larguearmo-lo	larguear+V.ele.ACC.3.M.SG+INF+1+PL
 largueá-lo	larguear+V.ele.ACC.3.M.SG+INF+1+SG
 larguearde-lo	larguear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -16740,6 +16856,7 @@ lascávei-las	lascar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lascava-las	lascar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lascavam-nas	lascar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lascava-as	lascar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lascá-las	lascar+V.ele.ACC.3.F.PL+INF
 lascarmo-las	lascar+V.ele.ACC.3.F.PL+INF+1+PL
 lascá-las	lascar+V.ele.ACC.3.F.PL+INF+1+SG
 lascarde-las	lascar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -16791,6 +16908,7 @@ lascávei-la	lascar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lascava-la	lascar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lascavam-na	lascar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lascava-a	lascar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lascá-la	lascar+V.ele.ACC.3.F.SG+INF
 lascarmo-la	lascar+V.ele.ACC.3.F.SG+INF+1+PL
 lascá-la	lascar+V.ele.ACC.3.F.SG+INF+1+SG
 lascarde-la	lascar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -16842,6 +16960,7 @@ lascávei-los	lascar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lascava-los	lascar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lascavam-nos	lascar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lascava-os	lascar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lascá-los	lascar+V.ele.ACC.3.M.PL+INF
 lascarmo-los	lascar+V.ele.ACC.3.M.PL+INF+1+PL
 lascá-los	lascar+V.ele.ACC.3.M.PL+INF+1+SG
 lascarde-los	lascar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -16893,6 +17012,7 @@ lascávei-lo	lascar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lascava-lo	lascar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lascavam-no	lascar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lascava-o	lascar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lascá-lo	lascar+V.ele.ACC.3.M.SG+INF
 lascarmo-lo	lascar+V.ele.ACC.3.M.SG+INF+1+PL
 lascá-lo	lascar+V.ele.ACC.3.M.SG+INF+1+SG
 lascarde-lo	lascar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -17273,6 +17393,7 @@ laspeávei-las	laspear+V.ele.ACC.3.F.PL+IMPF+2+PL
 laspeava-las	laspear+V.ele.ACC.3.F.PL+IMPF+2+SG
 laspeavam-nas	laspear+V.ele.ACC.3.F.PL+IMPF+3+PL
 laspeava-as	laspear+V.ele.ACC.3.F.PL+IMPF+3+SG
+laspeá-las	laspear+V.ele.ACC.3.F.PL+INF
 laspearmo-las	laspear+V.ele.ACC.3.F.PL+INF+1+PL
 laspeá-las	laspear+V.ele.ACC.3.F.PL+INF+1+SG
 laspearde-las	laspear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -17322,6 +17443,7 @@ laspeávei-la	laspear+V.ele.ACC.3.F.SG+IMPF+2+PL
 laspeava-la	laspear+V.ele.ACC.3.F.SG+IMPF+2+SG
 laspeavam-na	laspear+V.ele.ACC.3.F.SG+IMPF+3+PL
 laspeava-a	laspear+V.ele.ACC.3.F.SG+IMPF+3+SG
+laspeá-la	laspear+V.ele.ACC.3.F.SG+INF
 laspearmo-la	laspear+V.ele.ACC.3.F.SG+INF+1+PL
 laspeá-la	laspear+V.ele.ACC.3.F.SG+INF+1+SG
 laspearde-la	laspear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -17371,6 +17493,7 @@ laspeávei-los	laspear+V.ele.ACC.3.M.PL+IMPF+2+PL
 laspeava-los	laspear+V.ele.ACC.3.M.PL+IMPF+2+SG
 laspeavam-nos	laspear+V.ele.ACC.3.M.PL+IMPF+3+PL
 laspeava-os	laspear+V.ele.ACC.3.M.PL+IMPF+3+SG
+laspeá-los	laspear+V.ele.ACC.3.M.PL+INF
 laspearmo-los	laspear+V.ele.ACC.3.M.PL+INF+1+PL
 laspeá-los	laspear+V.ele.ACC.3.M.PL+INF+1+SG
 laspearde-los	laspear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -17420,6 +17543,7 @@ laspeávei-lo	laspear+V.ele.ACC.3.M.SG+IMPF+2+PL
 laspeava-lo	laspear+V.ele.ACC.3.M.SG+IMPF+2+SG
 laspeavam-no	laspear+V.ele.ACC.3.M.SG+IMPF+3+PL
 laspeava-o	laspear+V.ele.ACC.3.M.SG+IMPF+3+SG
+laspeá-lo	laspear+V.ele.ACC.3.M.SG+INF
 laspearmo-lo	laspear+V.ele.ACC.3.M.SG+INF+1+PL
 laspeá-lo	laspear+V.ele.ACC.3.M.SG+INF+1+SG
 laspearde-lo	laspear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -17787,6 +17911,7 @@ lasseávei-las	lassear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lasseava-las	lassear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lasseavam-nas	lassear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lasseava-as	lassear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lasseá-las	lassear+V.ele.ACC.3.F.PL+INF
 lassearmo-las	lassear+V.ele.ACC.3.F.PL+INF+1+PL
 lasseá-las	lassear+V.ele.ACC.3.F.PL+INF+1+SG
 lassearde-las	lassear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -17836,6 +17961,7 @@ lasseávei-la	lassear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lasseava-la	lassear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lasseavam-na	lassear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lasseava-a	lassear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lasseá-la	lassear+V.ele.ACC.3.F.SG+INF
 lassearmo-la	lassear+V.ele.ACC.3.F.SG+INF+1+PL
 lasseá-la	lassear+V.ele.ACC.3.F.SG+INF+1+SG
 lassearde-la	lassear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -17885,6 +18011,7 @@ lasseávei-los	lassear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lasseava-los	lassear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lasseavam-nos	lassear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lasseava-os	lassear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lasseá-los	lassear+V.ele.ACC.3.M.PL+INF
 lassearmo-los	lassear+V.ele.ACC.3.M.PL+INF+1+PL
 lasseá-los	lassear+V.ele.ACC.3.M.PL+INF+1+SG
 lassearde-los	lassear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -17934,6 +18061,7 @@ lasseávei-lo	lassear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lasseava-lo	lassear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lasseavam-no	lassear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lasseava-o	lassear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lasseá-lo	lassear+V.ele.ACC.3.M.SG+INF
 lassearmo-lo	lassear+V.ele.ACC.3.M.SG+INF+1+PL
 lasseá-lo	lassear+V.ele.ACC.3.M.SG+INF+1+SG
 lassearde-lo	lassear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -18301,6 +18429,7 @@ lastreávei-las	lastrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lastreava-las	lastrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lastreavam-nas	lastrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lastreava-as	lastrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lastreá-las	lastrear+V.ele.ACC.3.F.PL+INF
 lastrearmo-las	lastrear+V.ele.ACC.3.F.PL+INF+1+PL
 lastreá-las	lastrear+V.ele.ACC.3.F.PL+INF+1+SG
 lastrearde-las	lastrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -18350,6 +18479,7 @@ lastreávei-la	lastrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lastreava-la	lastrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lastreavam-na	lastrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lastreava-a	lastrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lastreá-la	lastrear+V.ele.ACC.3.F.SG+INF
 lastrearmo-la	lastrear+V.ele.ACC.3.F.SG+INF+1+PL
 lastreá-la	lastrear+V.ele.ACC.3.F.SG+INF+1+SG
 lastrearde-la	lastrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -18399,6 +18529,7 @@ lastreávei-los	lastrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lastreava-los	lastrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lastreavam-nos	lastrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lastreava-os	lastrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lastreá-los	lastrear+V.ele.ACC.3.M.PL+INF
 lastrearmo-los	lastrear+V.ele.ACC.3.M.PL+INF+1+PL
 lastreá-los	lastrear+V.ele.ACC.3.M.PL+INF+1+SG
 lastrearde-los	lastrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -18448,6 +18579,7 @@ lastreávei-lo	lastrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lastreava-lo	lastrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lastreavam-no	lastrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lastreava-o	lastrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lastreá-lo	lastrear+V.ele.ACC.3.M.SG+INF
 lastrearmo-lo	lastrear+V.ele.ACC.3.M.SG+INF+1+PL
 lastreá-lo	lastrear+V.ele.ACC.3.M.SG+INF+1+SG
 lastrearde-lo	lastrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -18815,6 +18947,7 @@ lateávei-las	latear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lateava-las	latear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lateavam-nas	latear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lateava-as	latear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lateá-las	latear+V.ele.ACC.3.F.PL+INF
 latearmo-las	latear+V.ele.ACC.3.F.PL+INF+1+PL
 lateá-las	latear+V.ele.ACC.3.F.PL+INF+1+SG
 latearde-las	latear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -18864,6 +18997,7 @@ lateávei-la	latear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lateava-la	latear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lateavam-na	latear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lateava-a	latear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lateá-la	latear+V.ele.ACC.3.F.SG+INF
 latearmo-la	latear+V.ele.ACC.3.F.SG+INF+1+PL
 lateá-la	latear+V.ele.ACC.3.F.SG+INF+1+SG
 latearde-la	latear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -18913,6 +19047,7 @@ lateávei-los	latear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lateava-los	latear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lateavam-nos	latear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lateava-os	latear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lateá-los	latear+V.ele.ACC.3.M.PL+INF
 latearmo-los	latear+V.ele.ACC.3.M.PL+INF+1+PL
 lateá-los	latear+V.ele.ACC.3.M.PL+INF+1+SG
 latearde-los	latear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -18962,6 +19097,7 @@ lateávei-lo	latear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lateava-lo	latear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lateavam-no	latear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lateava-o	latear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lateá-lo	latear+V.ele.ACC.3.M.SG+INF
 latearmo-lo	latear+V.ele.ACC.3.M.SG+INF+1+PL
 lateá-lo	latear+V.ele.ACC.3.M.SG+INF+1+SG
 latearde-lo	latear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -19310,10 +19446,6 @@ lateardes-vos	latear+V.vós.AD.2.PL+SBJF+2+PL
 lateares-vos	latear+V.vós.AD.2.PL+SBJF+2+SG
 latearem-vos	latear+V.vós.AD.2.PL+SBJF+3+PL
 latear-vos	latear+V.vós.AD.2.PL+SBJF+3+SG
-latê-las	later+V.ele.ACC.3.F.PL+INF
-latê-la	later+V.ele.ACC.3.F.SG+INF
-latê-los	later+V.ele.ACC.3.M.PL+INF
-latê-lo	later+V.ele.ACC.3.M.SG+INF
 laticá-las-íamos	laticar+V.ele.ACC.3.F.PL+COND+1+PL
 laticá-las-ia	laticar+V.ele.ACC.3.F.PL+COND+1+SG
 laticá-las-íeis	laticar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -19336,6 +19468,7 @@ laticávei-las	laticar+V.ele.ACC.3.F.PL+IMPF+2+PL
 laticava-las	laticar+V.ele.ACC.3.F.PL+IMPF+2+SG
 laticavam-nas	laticar+V.ele.ACC.3.F.PL+IMPF+3+PL
 laticava-as	laticar+V.ele.ACC.3.F.PL+IMPF+3+SG
+laticá-las	laticar+V.ele.ACC.3.F.PL+INF
 laticarmo-las	laticar+V.ele.ACC.3.F.PL+INF+1+PL
 laticá-las	laticar+V.ele.ACC.3.F.PL+INF+1+SG
 laticarde-las	laticar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -19387,6 +19520,7 @@ laticávei-la	laticar+V.ele.ACC.3.F.SG+IMPF+2+PL
 laticava-la	laticar+V.ele.ACC.3.F.SG+IMPF+2+SG
 laticavam-na	laticar+V.ele.ACC.3.F.SG+IMPF+3+PL
 laticava-a	laticar+V.ele.ACC.3.F.SG+IMPF+3+SG
+laticá-la	laticar+V.ele.ACC.3.F.SG+INF
 laticarmo-la	laticar+V.ele.ACC.3.F.SG+INF+1+PL
 laticá-la	laticar+V.ele.ACC.3.F.SG+INF+1+SG
 laticarde-la	laticar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -19438,6 +19572,7 @@ laticávei-los	laticar+V.ele.ACC.3.M.PL+IMPF+2+PL
 laticava-los	laticar+V.ele.ACC.3.M.PL+IMPF+2+SG
 laticavam-nos	laticar+V.ele.ACC.3.M.PL+IMPF+3+PL
 laticava-os	laticar+V.ele.ACC.3.M.PL+IMPF+3+SG
+laticá-los	laticar+V.ele.ACC.3.M.PL+INF
 laticarmo-los	laticar+V.ele.ACC.3.M.PL+INF+1+PL
 laticá-los	laticar+V.ele.ACC.3.M.PL+INF+1+SG
 laticarde-los	laticar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -19489,6 +19624,7 @@ laticávei-lo	laticar+V.ele.ACC.3.M.SG+IMPF+2+PL
 laticava-lo	laticar+V.ele.ACC.3.M.SG+IMPF+2+SG
 laticavam-no	laticar+V.ele.ACC.3.M.SG+IMPF+3+PL
 laticava-o	laticar+V.ele.ACC.3.M.SG+IMPF+3+SG
+laticá-lo	laticar+V.ele.ACC.3.M.SG+INF
 laticarmo-lo	laticar+V.ele.ACC.3.M.SG+INF+1+PL
 laticá-lo	laticar+V.ele.ACC.3.M.SG+INF+1+SG
 laticarde-lo	laticar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -19872,6 +20008,7 @@ latíei-las	latir+V.ele.ACC.3.F.PL+IMPF+2+PL
 latia-las	latir+V.ele.ACC.3.F.PL+IMPF+2+SG
 latiam-nas	latir+V.ele.ACC.3.F.PL+IMPF+3+PL
 latia-as	latir+V.ele.ACC.3.F.PL+IMPF+3+SG
+lati-las	latir+V.ele.ACC.3.F.PL+INF
 latirmo-las	latir+V.ele.ACC.3.F.PL+INF+1+PL
 lati-las	latir+V.ele.ACC.3.F.PL+INF+1+SG
 latirde-las	latir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -19912,6 +20049,7 @@ latíei-la	latir+V.ele.ACC.3.F.SG+IMPF+2+PL
 latia-la	latir+V.ele.ACC.3.F.SG+IMPF+2+SG
 latiam-na	latir+V.ele.ACC.3.F.SG+IMPF+3+PL
 latia-a	latir+V.ele.ACC.3.F.SG+IMPF+3+SG
+lati-la	latir+V.ele.ACC.3.F.SG+INF
 latirmo-la	latir+V.ele.ACC.3.F.SG+INF+1+PL
 lati-la	latir+V.ele.ACC.3.F.SG+INF+1+SG
 latirde-la	latir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -19952,6 +20090,7 @@ latíei-los	latir+V.ele.ACC.3.M.PL+IMPF+2+PL
 latia-los	latir+V.ele.ACC.3.M.PL+IMPF+2+SG
 latiam-nos	latir+V.ele.ACC.3.M.PL+IMPF+3+PL
 latia-os	latir+V.ele.ACC.3.M.PL+IMPF+3+SG
+lati-los	latir+V.ele.ACC.3.M.PL+INF
 latirmo-los	latir+V.ele.ACC.3.M.PL+INF+1+PL
 lati-los	latir+V.ele.ACC.3.M.PL+INF+1+SG
 latirde-los	latir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -19992,6 +20131,7 @@ latíei-lo	latir+V.ele.ACC.3.M.SG+IMPF+2+PL
 latia-lo	latir+V.ele.ACC.3.M.SG+IMPF+2+SG
 latiam-no	latir+V.ele.ACC.3.M.SG+IMPF+3+PL
 latia-o	latir+V.ele.ACC.3.M.SG+IMPF+3+SG
+lati-lo	latir+V.ele.ACC.3.M.SG+INF
 latirmo-lo	latir+V.ele.ACC.3.M.SG+INF+1+PL
 lati-lo	latir+V.ele.ACC.3.M.SG+INF+1+SG
 latirde-lo	latir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -20291,6 +20431,7 @@ laureávei-las	laurear+V.ele.ACC.3.F.PL+IMPF+2+PL
 laureava-las	laurear+V.ele.ACC.3.F.PL+IMPF+2+SG
 laureavam-nas	laurear+V.ele.ACC.3.F.PL+IMPF+3+PL
 laureava-as	laurear+V.ele.ACC.3.F.PL+IMPF+3+SG
+laureá-las	laurear+V.ele.ACC.3.F.PL+INF
 laurearmo-las	laurear+V.ele.ACC.3.F.PL+INF+1+PL
 laureá-las	laurear+V.ele.ACC.3.F.PL+INF+1+SG
 laurearde-las	laurear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -20340,6 +20481,7 @@ laureávei-la	laurear+V.ele.ACC.3.F.SG+IMPF+2+PL
 laureava-la	laurear+V.ele.ACC.3.F.SG+IMPF+2+SG
 laureavam-na	laurear+V.ele.ACC.3.F.SG+IMPF+3+PL
 laureava-a	laurear+V.ele.ACC.3.F.SG+IMPF+3+SG
+laureá-la	laurear+V.ele.ACC.3.F.SG+INF
 laurearmo-la	laurear+V.ele.ACC.3.F.SG+INF+1+PL
 laureá-la	laurear+V.ele.ACC.3.F.SG+INF+1+SG
 laurearde-la	laurear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -20389,6 +20531,7 @@ laureávei-los	laurear+V.ele.ACC.3.M.PL+IMPF+2+PL
 laureava-los	laurear+V.ele.ACC.3.M.PL+IMPF+2+SG
 laureavam-nos	laurear+V.ele.ACC.3.M.PL+IMPF+3+PL
 laureava-os	laurear+V.ele.ACC.3.M.PL+IMPF+3+SG
+laureá-los	laurear+V.ele.ACC.3.M.PL+INF
 laurearmo-los	laurear+V.ele.ACC.3.M.PL+INF+1+PL
 laureá-los	laurear+V.ele.ACC.3.M.PL+INF+1+SG
 laurearde-los	laurear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -20438,6 +20581,7 @@ laureávei-lo	laurear+V.ele.ACC.3.M.SG+IMPF+2+PL
 laureava-lo	laurear+V.ele.ACC.3.M.SG+IMPF+2+SG
 laureavam-no	laurear+V.ele.ACC.3.M.SG+IMPF+3+PL
 laureava-o	laurear+V.ele.ACC.3.M.SG+IMPF+3+SG
+laureá-lo	laurear+V.ele.ACC.3.M.SG+INF
 laurearmo-lo	laurear+V.ele.ACC.3.M.SG+INF+1+PL
 laureá-lo	laurear+V.ele.ACC.3.M.SG+INF+1+SG
 laurearde-lo	laurear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -20808,6 +20952,7 @@ laçávei-las	laçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 laçava-las	laçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 laçavam-nas	laçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 laçava-as	laçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+laçá-las	laçar+V.ele.ACC.3.F.PL+INF
 laçarmo-las	laçar+V.ele.ACC.3.F.PL+INF+1+PL
 laçá-las	laçar+V.ele.ACC.3.F.PL+INF+1+SG
 laçarde-las	laçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -20859,6 +21004,7 @@ laçávei-la	laçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 laçava-la	laçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 laçavam-na	laçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 laçava-a	laçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+laçá-la	laçar+V.ele.ACC.3.F.SG+INF
 laçarmo-la	laçar+V.ele.ACC.3.F.SG+INF+1+PL
 laçá-la	laçar+V.ele.ACC.3.F.SG+INF+1+SG
 laçarde-la	laçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -20909,6 +21055,7 @@ laçava-os	laçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 laçávei-los	laçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 laçava-los	laçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 laçava-os	laçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+laçá-los	laçar+V.ele.ACC.3.M.PL+INF
 laçarmo-los	laçar+V.ele.ACC.3.M.PL+INF+1+PL
 laçá-los	laçar+V.ele.ACC.3.M.PL+INF+1+SG
 laçarde-los	laçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -20955,6 +21102,7 @@ laçávei-lo	laçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 laçava-lo	laçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 laçavam-no	laçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 laçava-o	laçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+laçá-lo	laçar+V.ele.ACC.3.M.SG+INF
 laçarmo-lo	laçar+V.ele.ACC.3.M.SG+INF+1+PL
 laçá-lo	laçar+V.ele.ACC.3.M.SG+INF+1+SG
 laçarde-lo	laçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -21337,6 +21485,7 @@ leiloávei-las	leiloar+V.ele.ACC.3.F.PL+IMPF+2+PL
 leiloava-las	leiloar+V.ele.ACC.3.F.PL+IMPF+2+SG
 leiloavam-nas	leiloar+V.ele.ACC.3.F.PL+IMPF+3+PL
 leiloava-as	leiloar+V.ele.ACC.3.F.PL+IMPF+3+SG
+leiloá-las	leiloar+V.ele.ACC.3.F.PL+INF
 leiloarmo-las	leiloar+V.ele.ACC.3.F.PL+INF+1+PL
 leiloá-las	leiloar+V.ele.ACC.3.F.PL+INF+1+SG
 leiloarde-las	leiloar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -21389,6 +21538,7 @@ leiloávei-la	leiloar+V.ele.ACC.3.F.SG+IMPF+2+PL
 leiloava-la	leiloar+V.ele.ACC.3.F.SG+IMPF+2+SG
 leiloavam-na	leiloar+V.ele.ACC.3.F.SG+IMPF+3+PL
 leiloava-a	leiloar+V.ele.ACC.3.F.SG+IMPF+3+SG
+leiloá-la	leiloar+V.ele.ACC.3.F.SG+INF
 leiloarmo-la	leiloar+V.ele.ACC.3.F.SG+INF+1+PL
 leiloá-la	leiloar+V.ele.ACC.3.F.SG+INF+1+SG
 leiloarde-la	leiloar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -21441,6 +21591,7 @@ leiloávei-los	leiloar+V.ele.ACC.3.M.PL+IMPF+2+PL
 leiloava-los	leiloar+V.ele.ACC.3.M.PL+IMPF+2+SG
 leiloavam-nos	leiloar+V.ele.ACC.3.M.PL+IMPF+3+PL
 leiloava-os	leiloar+V.ele.ACC.3.M.PL+IMPF+3+SG
+leiloá-los	leiloar+V.ele.ACC.3.M.PL+INF
 leiloarmo-los	leiloar+V.ele.ACC.3.M.PL+INF+1+PL
 leiloá-los	leiloar+V.ele.ACC.3.M.PL+INF+1+SG
 leiloarde-los	leiloar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -21493,6 +21644,7 @@ leiloávei-lo	leiloar+V.ele.ACC.3.M.SG+IMPF+2+PL
 leiloava-lo	leiloar+V.ele.ACC.3.M.SG+IMPF+2+SG
 leiloavam-no	leiloar+V.ele.ACC.3.M.SG+IMPF+3+PL
 leiloava-o	leiloar+V.ele.ACC.3.M.SG+IMPF+3+SG
+leiloá-lo	leiloar+V.ele.ACC.3.M.SG+INF
 leiloarmo-lo	leiloar+V.ele.ACC.3.M.SG+INF+1+PL
 leiloá-lo	leiloar+V.ele.ACC.3.M.SG+INF+1+SG
 leiloarde-lo	leiloar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -21883,6 +22035,7 @@ lenhificávei-las	lenhificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lenhificava-las	lenhificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lenhificavam-nas	lenhificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lenhificava-as	lenhificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lenhificá-las	lenhificar+V.ele.ACC.3.F.PL+INF
 lenhificarmo-las	lenhificar+V.ele.ACC.3.F.PL+INF+1+PL
 lenhificá-las	lenhificar+V.ele.ACC.3.F.PL+INF+1+SG
 lenhificarde-las	lenhificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -21934,6 +22087,7 @@ lenhificávei-la	lenhificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lenhificava-la	lenhificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lenhificavam-na	lenhificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lenhificava-a	lenhificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lenhificá-la	lenhificar+V.ele.ACC.3.F.SG+INF
 lenhificarmo-la	lenhificar+V.ele.ACC.3.F.SG+INF+1+PL
 lenhificá-la	lenhificar+V.ele.ACC.3.F.SG+INF+1+SG
 lenhificarde-la	lenhificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -21985,6 +22139,7 @@ lenhificávei-los	lenhificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lenhificava-los	lenhificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lenhificavam-nos	lenhificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lenhificava-os	lenhificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lenhificá-los	lenhificar+V.ele.ACC.3.M.PL+INF
 lenhificarmo-los	lenhificar+V.ele.ACC.3.M.PL+INF+1+PL
 lenhificá-los	lenhificar+V.ele.ACC.3.M.PL+INF+1+SG
 lenhificarde-los	lenhificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -22036,6 +22191,7 @@ lenhificávei-lo	lenhificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lenhificava-lo	lenhificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lenhificavam-no	lenhificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lenhificava-o	lenhificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lenhificá-lo	lenhificar+V.ele.ACC.3.M.SG+INF
 lenhificarmo-lo	lenhificar+V.ele.ACC.3.M.SG+INF+1+PL
 lenhificá-lo	lenhificar+V.ele.ACC.3.M.SG+INF+1+SG
 lenhificarde-lo	lenhificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -22419,6 +22575,7 @@ lenificávei-las	lenificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lenificava-las	lenificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lenificavam-nas	lenificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lenificava-as	lenificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lenificá-las	lenificar+V.ele.ACC.3.F.PL+INF
 lenificarmo-las	lenificar+V.ele.ACC.3.F.PL+INF+1+PL
 lenificá-las	lenificar+V.ele.ACC.3.F.PL+INF+1+SG
 lenificarde-las	lenificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -22470,6 +22627,7 @@ lenificávei-la	lenificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lenificava-la	lenificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lenificavam-na	lenificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lenificava-a	lenificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lenificá-la	lenificar+V.ele.ACC.3.F.SG+INF
 lenificarmo-la	lenificar+V.ele.ACC.3.F.SG+INF+1+PL
 lenificá-la	lenificar+V.ele.ACC.3.F.SG+INF+1+SG
 lenificarde-la	lenificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -22521,6 +22679,7 @@ lenificávei-los	lenificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lenificava-los	lenificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lenificavam-nos	lenificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lenificava-os	lenificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lenificá-los	lenificar+V.ele.ACC.3.M.PL+INF
 lenificarmo-los	lenificar+V.ele.ACC.3.M.PL+INF+1+PL
 lenificá-los	lenificar+V.ele.ACC.3.M.PL+INF+1+SG
 lenificarde-los	lenificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -22572,6 +22731,7 @@ lenificávei-lo	lenificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lenificava-lo	lenificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lenificavam-no	lenificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lenificava-o	lenificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lenificá-lo	lenificar+V.ele.ACC.3.M.SG+INF
 lenificarmo-lo	lenificar+V.ele.ACC.3.M.SG+INF+1+PL
 lenificá-lo	lenificar+V.ele.ACC.3.M.SG+INF+1+SG
 lenificarde-lo	lenificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -22955,6 +23115,7 @@ leníei-las	lenir+V.ele.ACC.3.F.PL+IMPF+2+PL
 lenia-las	lenir+V.ele.ACC.3.F.PL+IMPF+2+SG
 leniam-nas	lenir+V.ele.ACC.3.F.PL+IMPF+3+PL
 lenia-as	lenir+V.ele.ACC.3.F.PL+IMPF+3+SG
+leni-las	lenir+V.ele.ACC.3.F.PL+INF
 lenirmo-las	lenir+V.ele.ACC.3.F.PL+INF+1+PL
 leni-las	lenir+V.ele.ACC.3.F.PL+INF+1+SG
 lenirde-las	lenir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -23001,6 +23162,7 @@ leníei-la	lenir+V.ele.ACC.3.F.SG+IMPF+2+PL
 lenia-la	lenir+V.ele.ACC.3.F.SG+IMPF+2+SG
 leniam-na	lenir+V.ele.ACC.3.F.SG+IMPF+3+PL
 lenia-a	lenir+V.ele.ACC.3.F.SG+IMPF+3+SG
+leni-la	lenir+V.ele.ACC.3.F.SG+INF
 lenirmo-la	lenir+V.ele.ACC.3.F.SG+INF+1+PL
 leni-la	lenir+V.ele.ACC.3.F.SG+INF+1+SG
 lenirde-la	lenir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -23047,6 +23209,7 @@ leníei-los	lenir+V.ele.ACC.3.M.PL+IMPF+2+PL
 lenia-los	lenir+V.ele.ACC.3.M.PL+IMPF+2+SG
 leniam-nos	lenir+V.ele.ACC.3.M.PL+IMPF+3+PL
 lenia-os	lenir+V.ele.ACC.3.M.PL+IMPF+3+SG
+leni-los	lenir+V.ele.ACC.3.M.PL+INF
 lenirmo-los	lenir+V.ele.ACC.3.M.PL+INF+1+PL
 leni-los	lenir+V.ele.ACC.3.M.PL+INF+1+SG
 lenirde-los	lenir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -23093,6 +23256,7 @@ leníei-lo	lenir+V.ele.ACC.3.M.SG+IMPF+2+PL
 lenia-lo	lenir+V.ele.ACC.3.M.SG+IMPF+2+SG
 leniam-no	lenir+V.ele.ACC.3.M.SG+IMPF+3+PL
 lenia-o	lenir+V.ele.ACC.3.M.SG+IMPF+3+SG
+leni-lo	lenir+V.ele.ACC.3.M.SG+INF
 lenirmo-lo	lenir+V.ele.ACC.3.M.SG+INF+1+PL
 leni-lo	lenir+V.ele.ACC.3.M.SG+INF+1+SG
 lenirde-lo	lenir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -23436,6 +23600,7 @@ lenteávei-las	lentear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lenteava-las	lentear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lenteavam-nas	lentear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lenteava-as	lentear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lenteá-las	lentear+V.ele.ACC.3.F.PL+INF
 lentearmo-las	lentear+V.ele.ACC.3.F.PL+INF+1+PL
 lenteá-las	lentear+V.ele.ACC.3.F.PL+INF+1+SG
 lentearde-las	lentear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -23485,6 +23650,7 @@ lenteávei-la	lentear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lenteava-la	lentear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lenteavam-na	lentear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lenteava-a	lentear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lenteá-la	lentear+V.ele.ACC.3.F.SG+INF
 lentearmo-la	lentear+V.ele.ACC.3.F.SG+INF+1+PL
 lenteá-la	lentear+V.ele.ACC.3.F.SG+INF+1+SG
 lentearde-la	lentear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -23534,6 +23700,7 @@ lenteávei-los	lentear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lenteava-los	lentear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lenteavam-nos	lentear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lenteava-os	lentear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lenteá-los	lentear+V.ele.ACC.3.M.PL+INF
 lentearmo-los	lentear+V.ele.ACC.3.M.PL+INF+1+PL
 lenteá-los	lentear+V.ele.ACC.3.M.PL+INF+1+SG
 lentearde-los	lentear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -23583,6 +23750,7 @@ lenteávei-lo	lentear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lenteava-lo	lentear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lenteavam-no	lentear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lenteava-o	lentear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lenteá-lo	lentear+V.ele.ACC.3.M.SG+INF
 lentearmo-lo	lentear+V.ele.ACC.3.M.SG+INF+1+PL
 lenteá-lo	lentear+V.ele.ACC.3.M.SG+INF+1+SG
 lentearde-lo	lentear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -25039,6 +25207,7 @@ lerdeávei-las	lerdear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lerdeava-las	lerdear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lerdeavam-nas	lerdear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lerdeava-as	lerdear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lerdeá-las	lerdear+V.ele.ACC.3.F.PL+INF
 lerdearmo-las	lerdear+V.ele.ACC.3.F.PL+INF+1+PL
 lerdeá-las	lerdear+V.ele.ACC.3.F.PL+INF+1+SG
 lerdearde-las	lerdear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -25088,6 +25257,7 @@ lerdeávei-la	lerdear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lerdeava-la	lerdear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lerdeavam-na	lerdear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lerdeava-a	lerdear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lerdeá-la	lerdear+V.ele.ACC.3.F.SG+INF
 lerdearmo-la	lerdear+V.ele.ACC.3.F.SG+INF+1+PL
 lerdeá-la	lerdear+V.ele.ACC.3.F.SG+INF+1+SG
 lerdearde-la	lerdear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -25137,6 +25307,7 @@ lerdeávei-los	lerdear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lerdeava-los	lerdear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lerdeavam-nos	lerdear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lerdeava-os	lerdear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lerdeá-los	lerdear+V.ele.ACC.3.M.PL+INF
 lerdearmo-los	lerdear+V.ele.ACC.3.M.PL+INF+1+PL
 lerdeá-los	lerdear+V.ele.ACC.3.M.PL+INF+1+SG
 lerdearde-los	lerdear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -25186,6 +25357,7 @@ lerdeávei-lo	lerdear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lerdeava-lo	lerdear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lerdeavam-no	lerdear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lerdeava-o	lerdear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lerdeá-lo	lerdear+V.ele.ACC.3.M.SG+INF
 lerdearmo-lo	lerdear+V.ele.ACC.3.M.SG+INF+1+PL
 lerdeá-lo	lerdear+V.ele.ACC.3.M.SG+INF+1+SG
 lerdearde-lo	lerdear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -25556,6 +25728,7 @@ letificávei-las	letificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 letificava-las	letificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 letificavam-nas	letificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 letificava-as	letificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+letificá-las	letificar+V.ele.ACC.3.F.PL+INF
 letificarmo-las	letificar+V.ele.ACC.3.F.PL+INF+1+PL
 letificá-las	letificar+V.ele.ACC.3.F.PL+INF+1+SG
 letificarde-las	letificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -25607,6 +25780,7 @@ letificávei-la	letificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 letificava-la	letificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 letificavam-na	letificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 letificava-a	letificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+letificá-la	letificar+V.ele.ACC.3.F.SG+INF
 letificarmo-la	letificar+V.ele.ACC.3.F.SG+INF+1+PL
 letificá-la	letificar+V.ele.ACC.3.F.SG+INF+1+SG
 letificarde-la	letificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -25658,6 +25832,7 @@ letificávei-los	letificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 letificava-los	letificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 letificavam-nos	letificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 letificava-os	letificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+letificá-los	letificar+V.ele.ACC.3.M.PL+INF
 letificarmo-los	letificar+V.ele.ACC.3.M.PL+INF+1+PL
 letificá-los	letificar+V.ele.ACC.3.M.PL+INF+1+SG
 letificarde-los	letificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -25709,6 +25884,7 @@ letificávei-lo	letificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 letificava-lo	letificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 letificavam-no	letificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 letificava-o	letificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+letificá-lo	letificar+V.ele.ACC.3.M.SG+INF
 letificarmo-lo	letificar+V.ele.ACC.3.M.SG+INF+1+PL
 letificá-lo	letificar+V.ele.ACC.3.M.SG+INF+1+SG
 letificarde-lo	letificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -26089,6 +26265,7 @@ letreávei-las	letrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 letreava-las	letrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 letreavam-nas	letrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 letreava-as	letrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+letreá-las	letrear+V.ele.ACC.3.F.PL+INF
 letrearmo-las	letrear+V.ele.ACC.3.F.PL+INF+1+PL
 letreá-las	letrear+V.ele.ACC.3.F.PL+INF+1+SG
 letrearde-las	letrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -26138,6 +26315,7 @@ letreávei-la	letrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 letreava-la	letrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 letreavam-na	letrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 letreava-a	letrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+letreá-la	letrear+V.ele.ACC.3.F.SG+INF
 letrearmo-la	letrear+V.ele.ACC.3.F.SG+INF+1+PL
 letreá-la	letrear+V.ele.ACC.3.F.SG+INF+1+SG
 letrearde-la	letrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -26187,6 +26365,7 @@ letreávei-los	letrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 letreava-los	letrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 letreavam-nos	letrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 letreava-os	letrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+letreá-los	letrear+V.ele.ACC.3.M.PL+INF
 letrearmo-los	letrear+V.ele.ACC.3.M.PL+INF+1+PL
 letreá-los	letrear+V.ele.ACC.3.M.PL+INF+1+SG
 letrearde-los	letrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -26236,6 +26415,7 @@ letreávei-lo	letrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 letreava-lo	letrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 letreavam-no	letrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 letreava-o	letrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+letreá-lo	letrear+V.ele.ACC.3.M.SG+INF
 letrearmo-lo	letrear+V.ele.ACC.3.M.SG+INF+1+PL
 letreá-lo	letrear+V.ele.ACC.3.M.SG+INF+1+SG
 letrearde-lo	letrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -26606,6 +26786,7 @@ lignificávei-las	lignificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lignificava-las	lignificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lignificavam-nas	lignificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lignificava-as	lignificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lignificá-las	lignificar+V.ele.ACC.3.F.PL+INF
 lignificarmo-las	lignificar+V.ele.ACC.3.F.PL+INF+1+PL
 lignificá-las	lignificar+V.ele.ACC.3.F.PL+INF+1+SG
 lignificarde-las	lignificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -26657,6 +26838,7 @@ lignificávei-la	lignificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lignificava-la	lignificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lignificavam-na	lignificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lignificava-a	lignificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lignificá-la	lignificar+V.ele.ACC.3.F.SG+INF
 lignificarmo-la	lignificar+V.ele.ACC.3.F.SG+INF+1+PL
 lignificá-la	lignificar+V.ele.ACC.3.F.SG+INF+1+SG
 lignificarde-la	lignificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -26708,6 +26890,7 @@ lignificávei-los	lignificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lignificava-los	lignificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lignificavam-nos	lignificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lignificava-os	lignificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lignificá-los	lignificar+V.ele.ACC.3.M.PL+INF
 lignificarmo-los	lignificar+V.ele.ACC.3.M.PL+INF+1+PL
 lignificá-los	lignificar+V.ele.ACC.3.M.PL+INF+1+SG
 lignificarde-los	lignificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -26759,6 +26942,7 @@ lignificávei-lo	lignificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lignificava-lo	lignificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lignificavam-no	lignificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lignificava-o	lignificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lignificá-lo	lignificar+V.ele.ACC.3.M.SG+INF
 lignificarmo-lo	lignificar+V.ele.ACC.3.M.SG+INF+1+PL
 lignificá-lo	lignificar+V.ele.ACC.3.M.SG+INF+1+SG
 lignificarde-lo	lignificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -28217,6 +28401,7 @@ liquidificávei-las	liquidificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 liquidificava-las	liquidificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 liquidificavam-nas	liquidificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 liquidificava-as	liquidificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+liquidificá-las	liquidificar+V.ele.ACC.3.F.PL+INF
 liquidificarmo-las	liquidificar+V.ele.ACC.3.F.PL+INF+1+PL
 liquidificá-las	liquidificar+V.ele.ACC.3.F.PL+INF+1+SG
 liquidificarde-las	liquidificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -28268,6 +28453,7 @@ liquidificávei-la	liquidificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 liquidificava-la	liquidificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 liquidificavam-na	liquidificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 liquidificava-a	liquidificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+liquidificá-la	liquidificar+V.ele.ACC.3.F.SG+INF
 liquidificarmo-la	liquidificar+V.ele.ACC.3.F.SG+INF+1+PL
 liquidificá-la	liquidificar+V.ele.ACC.3.F.SG+INF+1+SG
 liquidificarde-la	liquidificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -28319,6 +28505,7 @@ liquidificávei-los	liquidificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 liquidificava-los	liquidificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 liquidificavam-nos	liquidificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 liquidificava-os	liquidificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+liquidificá-los	liquidificar+V.ele.ACC.3.M.PL+INF
 liquidificarmo-los	liquidificar+V.ele.ACC.3.M.PL+INF+1+PL
 liquidificá-los	liquidificar+V.ele.ACC.3.M.PL+INF+1+SG
 liquidificarde-los	liquidificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -28370,6 +28557,7 @@ liquidificávei-lo	liquidificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 liquidificava-lo	liquidificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 liquidificavam-no	liquidificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 liquidificava-o	liquidificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+liquidificá-lo	liquidificar+V.ele.ACC.3.M.SG+INF
 liquidificarmo-lo	liquidificar+V.ele.ACC.3.M.SG+INF+1+PL
 liquidificá-lo	liquidificar+V.ele.ACC.3.M.SG+INF+1+SG
 liquidificarde-lo	liquidificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -28753,6 +28941,7 @@ liricávei-las	liricar+V.ele.ACC.3.F.PL+IMPF+2+PL
 liricava-las	liricar+V.ele.ACC.3.F.PL+IMPF+2+SG
 liricavam-nas	liricar+V.ele.ACC.3.F.PL+IMPF+3+PL
 liricava-as	liricar+V.ele.ACC.3.F.PL+IMPF+3+SG
+liricá-las	liricar+V.ele.ACC.3.F.PL+INF
 liricarmo-las	liricar+V.ele.ACC.3.F.PL+INF+1+PL
 liricá-las	liricar+V.ele.ACC.3.F.PL+INF+1+SG
 liricarde-las	liricar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -28804,6 +28993,7 @@ liricávei-la	liricar+V.ele.ACC.3.F.SG+IMPF+2+PL
 liricava-la	liricar+V.ele.ACC.3.F.SG+IMPF+2+SG
 liricavam-na	liricar+V.ele.ACC.3.F.SG+IMPF+3+PL
 liricava-a	liricar+V.ele.ACC.3.F.SG+IMPF+3+SG
+liricá-la	liricar+V.ele.ACC.3.F.SG+INF
 liricarmo-la	liricar+V.ele.ACC.3.F.SG+INF+1+PL
 liricá-la	liricar+V.ele.ACC.3.F.SG+INF+1+SG
 liricarde-la	liricar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -28855,6 +29045,7 @@ liricávei-los	liricar+V.ele.ACC.3.M.PL+IMPF+2+PL
 liricava-los	liricar+V.ele.ACC.3.M.PL+IMPF+2+SG
 liricavam-nos	liricar+V.ele.ACC.3.M.PL+IMPF+3+PL
 liricava-os	liricar+V.ele.ACC.3.M.PL+IMPF+3+SG
+liricá-los	liricar+V.ele.ACC.3.M.PL+INF
 liricarmo-los	liricar+V.ele.ACC.3.M.PL+INF+1+PL
 liricá-los	liricar+V.ele.ACC.3.M.PL+INF+1+SG
 liricarde-los	liricar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -28906,6 +29097,7 @@ liricávei-lo	liricar+V.ele.ACC.3.M.SG+IMPF+2+PL
 liricava-lo	liricar+V.ele.ACC.3.M.SG+IMPF+2+SG
 liricavam-no	liricar+V.ele.ACC.3.M.SG+IMPF+3+PL
 liricava-o	liricar+V.ele.ACC.3.M.SG+IMPF+3+SG
+liricá-lo	liricar+V.ele.ACC.3.M.SG+INF
 liricarmo-lo	liricar+V.ele.ACC.3.M.SG+INF+1+PL
 liricá-lo	liricar+V.ele.ACC.3.M.SG+INF+1+SG
 liricarde-lo	liricar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -29286,6 +29478,7 @@ lisonjeávei-las	lisonjear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lisonjeava-las	lisonjear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lisonjeavam-nas	lisonjear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lisonjeava-as	lisonjear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lisonjeá-las	lisonjear+V.ele.ACC.3.F.PL+INF
 lisonjearmo-las	lisonjear+V.ele.ACC.3.F.PL+INF+1+PL
 lisonjeá-las	lisonjear+V.ele.ACC.3.F.PL+INF+1+SG
 lisonjearde-las	lisonjear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -29335,6 +29528,7 @@ lisonjeávei-la	lisonjear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lisonjeava-la	lisonjear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lisonjeavam-na	lisonjear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lisonjeava-a	lisonjear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lisonjeá-la	lisonjear+V.ele.ACC.3.F.SG+INF
 lisonjearmo-la	lisonjear+V.ele.ACC.3.F.SG+INF+1+PL
 lisonjeá-la	lisonjear+V.ele.ACC.3.F.SG+INF+1+SG
 lisonjearde-la	lisonjear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -29384,6 +29578,7 @@ lisonjeávei-los	lisonjear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lisonjeava-los	lisonjear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lisonjeavam-nos	lisonjear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lisonjeava-os	lisonjear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lisonjeá-los	lisonjear+V.ele.ACC.3.M.PL+INF
 lisonjearmo-los	lisonjear+V.ele.ACC.3.M.PL+INF+1+PL
 lisonjeá-los	lisonjear+V.ele.ACC.3.M.PL+INF+1+SG
 lisonjearde-los	lisonjear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -29433,6 +29628,7 @@ lisonjeávei-lo	lisonjear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lisonjeava-lo	lisonjear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lisonjeavam-no	lisonjear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lisonjeava-o	lisonjear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lisonjeá-lo	lisonjear+V.ele.ACC.3.M.SG+INF
 lisonjearmo-lo	lisonjear+V.ele.ACC.3.M.SG+INF+1+PL
 lisonjeá-lo	lisonjear+V.ele.ACC.3.M.SG+INF+1+SG
 lisonjearde-lo	lisonjear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -30342,6 +30538,7 @@ loávei-las	loar+V.ele.ACC.3.F.PL+IMPF+2+PL
 loava-las	loar+V.ele.ACC.3.F.PL+IMPF+2+SG
 loavam-nas	loar+V.ele.ACC.3.F.PL+IMPF+3+PL
 loava-as	loar+V.ele.ACC.3.F.PL+IMPF+3+SG
+loá-las	loar+V.ele.ACC.3.F.PL+INF
 loarmo-las	loar+V.ele.ACC.3.F.PL+INF+1+PL
 loá-las	loar+V.ele.ACC.3.F.PL+INF+1+SG
 loarde-las	loar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -30394,6 +30591,7 @@ loávei-la	loar+V.ele.ACC.3.F.SG+IMPF+2+PL
 loava-la	loar+V.ele.ACC.3.F.SG+IMPF+2+SG
 loavam-na	loar+V.ele.ACC.3.F.SG+IMPF+3+PL
 loava-a	loar+V.ele.ACC.3.F.SG+IMPF+3+SG
+loá-la	loar+V.ele.ACC.3.F.SG+INF
 loarmo-la	loar+V.ele.ACC.3.F.SG+INF+1+PL
 loá-la	loar+V.ele.ACC.3.F.SG+INF+1+SG
 loarde-la	loar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -30446,6 +30644,7 @@ loávei-los	loar+V.ele.ACC.3.M.PL+IMPF+2+PL
 loava-los	loar+V.ele.ACC.3.M.PL+IMPF+2+SG
 loavam-nos	loar+V.ele.ACC.3.M.PL+IMPF+3+PL
 loava-os	loar+V.ele.ACC.3.M.PL+IMPF+3+SG
+loá-los	loar+V.ele.ACC.3.M.PL+INF
 loarmo-los	loar+V.ele.ACC.3.M.PL+INF+1+PL
 loá-los	loar+V.ele.ACC.3.M.PL+INF+1+SG
 loarde-los	loar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -30498,6 +30697,7 @@ loávei-lo	loar+V.ele.ACC.3.M.SG+IMPF+2+PL
 loava-lo	loar+V.ele.ACC.3.M.SG+IMPF+2+SG
 loavam-no	loar+V.ele.ACC.3.M.SG+IMPF+3+PL
 loava-o	loar+V.ele.ACC.3.M.SG+IMPF+3+SG
+loá-lo	loar+V.ele.ACC.3.M.SG+INF
 loarmo-lo	loar+V.ele.ACC.3.M.SG+INF+1+PL
 loá-lo	loar+V.ele.ACC.3.M.SG+INF+1+SG
 loarde-lo	loar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -30888,6 +31088,7 @@ locávei-las	locar+V.ele.ACC.3.F.PL+IMPF+2+PL
 locava-las	locar+V.ele.ACC.3.F.PL+IMPF+2+SG
 locavam-nas	locar+V.ele.ACC.3.F.PL+IMPF+3+PL
 locava-as	locar+V.ele.ACC.3.F.PL+IMPF+3+SG
+locá-las	locar+V.ele.ACC.3.F.PL+INF
 locarmo-las	locar+V.ele.ACC.3.F.PL+INF+1+PL
 locá-las	locar+V.ele.ACC.3.F.PL+INF+1+SG
 locarde-las	locar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -30939,6 +31140,7 @@ locávei-la	locar+V.ele.ACC.3.F.SG+IMPF+2+PL
 locava-la	locar+V.ele.ACC.3.F.SG+IMPF+2+SG
 locavam-na	locar+V.ele.ACC.3.F.SG+IMPF+3+PL
 locava-a	locar+V.ele.ACC.3.F.SG+IMPF+3+SG
+locá-la	locar+V.ele.ACC.3.F.SG+INF
 locarmo-la	locar+V.ele.ACC.3.F.SG+INF+1+PL
 locá-la	locar+V.ele.ACC.3.F.SG+INF+1+SG
 locarde-la	locar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -30990,6 +31192,7 @@ locávei-los	locar+V.ele.ACC.3.M.PL+IMPF+2+PL
 locava-los	locar+V.ele.ACC.3.M.PL+IMPF+2+SG
 locavam-nos	locar+V.ele.ACC.3.M.PL+IMPF+3+PL
 locava-os	locar+V.ele.ACC.3.M.PL+IMPF+3+SG
+locá-los	locar+V.ele.ACC.3.M.PL+INF
 locarmo-los	locar+V.ele.ACC.3.M.PL+INF+1+PL
 locá-los	locar+V.ele.ACC.3.M.PL+INF+1+SG
 locarde-los	locar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -31041,6 +31244,7 @@ locávei-lo	locar+V.ele.ACC.3.M.SG+IMPF+2+PL
 locava-lo	locar+V.ele.ACC.3.M.SG+IMPF+2+SG
 locavam-no	locar+V.ele.ACC.3.M.SG+IMPF+3+PL
 locava-o	locar+V.ele.ACC.3.M.SG+IMPF+3+SG
+locá-lo	locar+V.ele.ACC.3.M.SG+INF
 locarmo-lo	locar+V.ele.ACC.3.M.SG+INF+1+PL
 locá-lo	locar+V.ele.ACC.3.M.SG+INF+1+SG
 locarde-lo	locar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -31402,10 +31606,6 @@ locardes-vos	locar+V.vós.AD.2.PL+SBJF+2+PL
 locares-vos	locar+V.vós.AD.2.PL+SBJF+2+SG
 locarem-vos	locar+V.vós.AD.2.PL+SBJF+3+PL
 locar-vos	locar+V.vós.AD.2.PL+SBJF+3+SG
-locomovê-las	locomover+V.ele.ACC.3.F.PL+INF
-locomovê-la	locomover+V.ele.ACC.3.F.SG+INF
-locomovê-los	locomover+V.ele.ACC.3.M.PL+INF
-locomovê-lo	locomover+V.ele.ACC.3.M.SG+INF
 logicá-las-íamos	logicar+V.ele.ACC.3.F.PL+COND+1+PL
 logicá-las-ia	logicar+V.ele.ACC.3.F.PL+COND+1+SG
 logicá-las-íeis	logicar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -31428,6 +31628,7 @@ logicávei-las	logicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 logicava-las	logicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 logicavam-nas	logicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 logicava-as	logicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+logicá-las	logicar+V.ele.ACC.3.F.PL+INF
 logicarmo-las	logicar+V.ele.ACC.3.F.PL+INF+1+PL
 logicá-las	logicar+V.ele.ACC.3.F.PL+INF+1+SG
 logicarde-las	logicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -31479,6 +31680,7 @@ logicávei-la	logicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 logicava-la	logicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 logicavam-na	logicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 logicava-a	logicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+logicá-la	logicar+V.ele.ACC.3.F.SG+INF
 logicarmo-la	logicar+V.ele.ACC.3.F.SG+INF+1+PL
 logicá-la	logicar+V.ele.ACC.3.F.SG+INF+1+SG
 logicarde-la	logicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -31530,6 +31732,7 @@ logicávei-los	logicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 logicava-los	logicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 logicavam-nos	logicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 logicava-os	logicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+logicá-los	logicar+V.ele.ACC.3.M.PL+INF
 logicarmo-los	logicar+V.ele.ACC.3.M.PL+INF+1+PL
 logicá-los	logicar+V.ele.ACC.3.M.PL+INF+1+SG
 logicarde-los	logicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -31581,6 +31784,7 @@ logicávei-lo	logicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 logicava-lo	logicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 logicavam-no	logicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 logicava-o	logicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+logicá-lo	logicar+V.ele.ACC.3.M.SG+INF
 logicarmo-lo	logicar+V.ele.ACC.3.M.SG+INF+1+PL
 logicá-lo	logicar+V.ele.ACC.3.M.SG+INF+1+SG
 logicarde-lo	logicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -31961,6 +32165,7 @@ loireávei-las	loirear+V.ele.ACC.3.F.PL+IMPF+2+PL
 loireava-las	loirear+V.ele.ACC.3.F.PL+IMPF+2+SG
 loireavam-nas	loirear+V.ele.ACC.3.F.PL+IMPF+3+PL
 loireava-as	loirear+V.ele.ACC.3.F.PL+IMPF+3+SG
+loireá-las	loirear+V.ele.ACC.3.F.PL+INF
 loirearmo-las	loirear+V.ele.ACC.3.F.PL+INF+1+PL
 loireá-las	loirear+V.ele.ACC.3.F.PL+INF+1+SG
 loirearde-las	loirear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -32010,6 +32215,7 @@ loireávei-la	loirear+V.ele.ACC.3.F.SG+IMPF+2+PL
 loireava-la	loirear+V.ele.ACC.3.F.SG+IMPF+2+SG
 loireavam-na	loirear+V.ele.ACC.3.F.SG+IMPF+3+PL
 loireava-a	loirear+V.ele.ACC.3.F.SG+IMPF+3+SG
+loireá-la	loirear+V.ele.ACC.3.F.SG+INF
 loirearmo-la	loirear+V.ele.ACC.3.F.SG+INF+1+PL
 loireá-la	loirear+V.ele.ACC.3.F.SG+INF+1+SG
 loirearde-la	loirear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -32059,6 +32265,7 @@ loireávei-los	loirear+V.ele.ACC.3.M.PL+IMPF+2+PL
 loireava-los	loirear+V.ele.ACC.3.M.PL+IMPF+2+SG
 loireavam-nos	loirear+V.ele.ACC.3.M.PL+IMPF+3+PL
 loireava-os	loirear+V.ele.ACC.3.M.PL+IMPF+3+SG
+loireá-los	loirear+V.ele.ACC.3.M.PL+INF
 loirearmo-los	loirear+V.ele.ACC.3.M.PL+INF+1+PL
 loireá-los	loirear+V.ele.ACC.3.M.PL+INF+1+SG
 loirearde-los	loirear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -32108,6 +32315,7 @@ loireávei-lo	loirear+V.ele.ACC.3.M.SG+IMPF+2+PL
 loireava-lo	loirear+V.ele.ACC.3.M.SG+IMPF+2+SG
 loireavam-no	loirear+V.ele.ACC.3.M.SG+IMPF+3+PL
 loireava-o	loirear+V.ele.ACC.3.M.SG+IMPF+3+SG
+loireá-lo	loirear+V.ele.ACC.3.M.SG+INF
 loirearmo-lo	loirear+V.ele.ACC.3.M.SG+INF+1+PL
 loireá-lo	loirear+V.ele.ACC.3.M.SG+INF+1+SG
 loirearde-lo	loirear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -33017,6 +33225,7 @@ loiçainhávei-las	loiçainhar+V.ele.ACC.3.F.PL+IMPF+2+PL
 loiçainhava-las	loiçainhar+V.ele.ACC.3.F.PL+IMPF+2+SG
 loiçainhavam-nas	loiçainhar+V.ele.ACC.3.F.PL+IMPF+3+PL
 loiçainhava-as	loiçainhar+V.ele.ACC.3.F.PL+IMPF+3+SG
+loiçainhá-las	loiçainhar+V.ele.ACC.3.F.PL+INF
 loiçainharmo-las	loiçainhar+V.ele.ACC.3.F.PL+INF+1+PL
 loiçainhá-las	loiçainhar+V.ele.ACC.3.F.PL+INF+1+SG
 loiçainharde-las	loiçainhar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -33069,6 +33278,7 @@ loiçainhávei-la	loiçainhar+V.ele.ACC.3.F.SG+IMPF+2+PL
 loiçainhava-la	loiçainhar+V.ele.ACC.3.F.SG+IMPF+2+SG
 loiçainhavam-na	loiçainhar+V.ele.ACC.3.F.SG+IMPF+3+PL
 loiçainhava-a	loiçainhar+V.ele.ACC.3.F.SG+IMPF+3+SG
+loiçainhá-la	loiçainhar+V.ele.ACC.3.F.SG+INF
 loiçainharmo-la	loiçainhar+V.ele.ACC.3.F.SG+INF+1+PL
 loiçainhá-la	loiçainhar+V.ele.ACC.3.F.SG+INF+1+SG
 loiçainharde-la	loiçainhar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -33119,6 +33329,7 @@ loiçainhava-os	loiçainhar+V.ele.ACC.3.M.PL+IMPF+1+SG
 loiçainhávei-los	loiçainhar+V.ele.ACC.3.M.PL+IMPF+2+PL
 loiçainhava-los	loiçainhar+V.ele.ACC.3.M.PL+IMPF+2+SG
 loiçainhava-os	loiçainhar+V.ele.ACC.3.M.PL+IMPF+3+SG
+loiçainhá-los	loiçainhar+V.ele.ACC.3.M.PL+INF
 loiçainharmo-los	loiçainhar+V.ele.ACC.3.M.PL+INF+1+PL
 loiçainhá-los	loiçainhar+V.ele.ACC.3.M.PL+INF+1+SG
 loiçainharde-los	loiçainhar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -33166,6 +33377,7 @@ loiçainhávei-lo	loiçainhar+V.ele.ACC.3.M.SG+IMPF+2+PL
 loiçainhava-lo	loiçainhar+V.ele.ACC.3.M.SG+IMPF+2+SG
 loiçainhavam-no	loiçainhar+V.ele.ACC.3.M.SG+IMPF+3+PL
 loiçainhava-o	loiçainhar+V.ele.ACC.3.M.SG+IMPF+3+SG
+loiçainhá-lo	loiçainhar+V.ele.ACC.3.M.SG+INF
 loiçainharmo-lo	loiçainhar+V.ele.ACC.3.M.SG+INF+1+PL
 loiçainhá-lo	loiçainhar+V.ele.ACC.3.M.SG+INF+1+SG
 loiçainharde-lo	loiçainhar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -33553,6 +33765,7 @@ loiçaneávei-las	loiçanear+V.ele.ACC.3.F.PL+IMPF+2+PL
 loiçaneava-las	loiçanear+V.ele.ACC.3.F.PL+IMPF+2+SG
 loiçaneavam-nas	loiçanear+V.ele.ACC.3.F.PL+IMPF+3+PL
 loiçaneava-as	loiçanear+V.ele.ACC.3.F.PL+IMPF+3+SG
+loiçaneá-las	loiçanear+V.ele.ACC.3.F.PL+INF
 loiçanearmo-las	loiçanear+V.ele.ACC.3.F.PL+INF+1+PL
 loiçaneá-las	loiçanear+V.ele.ACC.3.F.PL+INF+1+SG
 loiçanearde-las	loiçanear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -33602,6 +33815,7 @@ loiçaneávei-la	loiçanear+V.ele.ACC.3.F.SG+IMPF+2+PL
 loiçaneava-la	loiçanear+V.ele.ACC.3.F.SG+IMPF+2+SG
 loiçaneavam-na	loiçanear+V.ele.ACC.3.F.SG+IMPF+3+PL
 loiçaneava-a	loiçanear+V.ele.ACC.3.F.SG+IMPF+3+SG
+loiçaneá-la	loiçanear+V.ele.ACC.3.F.SG+INF
 loiçanearmo-la	loiçanear+V.ele.ACC.3.F.SG+INF+1+PL
 loiçaneá-la	loiçanear+V.ele.ACC.3.F.SG+INF+1+SG
 loiçanearde-la	loiçanear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -33650,6 +33864,7 @@ loiçaneava-os	loiçanear+V.ele.ACC.3.M.PL+IMPF+1+SG
 loiçaneávei-los	loiçanear+V.ele.ACC.3.M.PL+IMPF+2+PL
 loiçaneava-los	loiçanear+V.ele.ACC.3.M.PL+IMPF+2+SG
 loiçaneava-os	loiçanear+V.ele.ACC.3.M.PL+IMPF+3+SG
+loiçaneá-los	loiçanear+V.ele.ACC.3.M.PL+INF
 loiçanearmo-los	loiçanear+V.ele.ACC.3.M.PL+INF+1+PL
 loiçaneá-los	loiçanear+V.ele.ACC.3.M.PL+INF+1+SG
 loiçanearde-los	loiçanear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -33694,6 +33909,7 @@ loiçaneávei-lo	loiçanear+V.ele.ACC.3.M.SG+IMPF+2+PL
 loiçaneava-lo	loiçanear+V.ele.ACC.3.M.SG+IMPF+2+SG
 loiçaneavam-no	loiçanear+V.ele.ACC.3.M.SG+IMPF+3+PL
 loiçaneava-o	loiçanear+V.ele.ACC.3.M.SG+IMPF+3+SG
+loiçaneá-lo	loiçanear+V.ele.ACC.3.M.SG+INF
 loiçanearmo-lo	loiçanear+V.ele.ACC.3.M.SG+INF+1+PL
 loiçaneá-lo	loiçanear+V.ele.ACC.3.M.SG+INF+1+SG
 loiçanearde-lo	loiçanear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -34061,6 +34277,7 @@ lombeávei-las	lombear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lombeava-las	lombear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lombeavam-nas	lombear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lombeava-as	lombear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lombeá-las	lombear+V.ele.ACC.3.F.PL+INF
 lombearmo-las	lombear+V.ele.ACC.3.F.PL+INF+1+PL
 lombeá-las	lombear+V.ele.ACC.3.F.PL+INF+1+SG
 lombearde-las	lombear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -34110,6 +34327,7 @@ lombeávei-la	lombear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lombeava-la	lombear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lombeavam-na	lombear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lombeava-a	lombear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lombeá-la	lombear+V.ele.ACC.3.F.SG+INF
 lombearmo-la	lombear+V.ele.ACC.3.F.SG+INF+1+PL
 lombeá-la	lombear+V.ele.ACC.3.F.SG+INF+1+SG
 lombearde-la	lombear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -34159,6 +34377,7 @@ lombeávei-los	lombear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lombeava-los	lombear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lombeavam-nos	lombear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lombeava-os	lombear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lombeá-los	lombear+V.ele.ACC.3.M.PL+INF
 lombearmo-los	lombear+V.ele.ACC.3.M.PL+INF+1+PL
 lombeá-los	lombear+V.ele.ACC.3.M.PL+INF+1+SG
 lombearde-los	lombear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -34208,6 +34427,7 @@ lombeávei-lo	lombear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lombeava-lo	lombear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lombeavam-no	lombear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lombeava-o	lombear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lombeá-lo	lombear+V.ele.ACC.3.M.SG+INF
 lombearmo-lo	lombear+V.ele.ACC.3.M.SG+INF+1+PL
 lombeá-lo	lombear+V.ele.ACC.3.M.SG+INF+1+SG
 lombearde-lo	lombear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -34575,6 +34795,7 @@ lonqueávei-las	lonquear+V.ele.ACC.3.F.PL+IMPF+2+PL
 lonqueava-las	lonquear+V.ele.ACC.3.F.PL+IMPF+2+SG
 lonqueavam-nas	lonquear+V.ele.ACC.3.F.PL+IMPF+3+PL
 lonqueava-as	lonquear+V.ele.ACC.3.F.PL+IMPF+3+SG
+lonqueá-las	lonquear+V.ele.ACC.3.F.PL+INF
 lonquearmo-las	lonquear+V.ele.ACC.3.F.PL+INF+1+PL
 lonqueá-las	lonquear+V.ele.ACC.3.F.PL+INF+1+SG
 lonquearde-las	lonquear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -34624,6 +34845,7 @@ lonqueávei-la	lonquear+V.ele.ACC.3.F.SG+IMPF+2+PL
 lonqueava-la	lonquear+V.ele.ACC.3.F.SG+IMPF+2+SG
 lonqueavam-na	lonquear+V.ele.ACC.3.F.SG+IMPF+3+PL
 lonqueava-a	lonquear+V.ele.ACC.3.F.SG+IMPF+3+SG
+lonqueá-la	lonquear+V.ele.ACC.3.F.SG+INF
 lonquearmo-la	lonquear+V.ele.ACC.3.F.SG+INF+1+PL
 lonqueá-la	lonquear+V.ele.ACC.3.F.SG+INF+1+SG
 lonquearde-la	lonquear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -34673,6 +34895,7 @@ lonqueávei-los	lonquear+V.ele.ACC.3.M.PL+IMPF+2+PL
 lonqueava-los	lonquear+V.ele.ACC.3.M.PL+IMPF+2+SG
 lonqueavam-nos	lonquear+V.ele.ACC.3.M.PL+IMPF+3+PL
 lonqueava-os	lonquear+V.ele.ACC.3.M.PL+IMPF+3+SG
+lonqueá-los	lonquear+V.ele.ACC.3.M.PL+INF
 lonquearmo-los	lonquear+V.ele.ACC.3.M.PL+INF+1+PL
 lonqueá-los	lonquear+V.ele.ACC.3.M.PL+INF+1+SG
 lonquearde-los	lonquear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -34722,6 +34945,7 @@ lonqueávei-lo	lonquear+V.ele.ACC.3.M.SG+IMPF+2+PL
 lonqueava-lo	lonquear+V.ele.ACC.3.M.SG+IMPF+2+SG
 lonqueavam-no	lonquear+V.ele.ACC.3.M.SG+IMPF+3+PL
 lonqueava-o	lonquear+V.ele.ACC.3.M.SG+IMPF+3+SG
+lonqueá-lo	lonquear+V.ele.ACC.3.M.SG+INF
 lonquearmo-lo	lonquear+V.ele.ACC.3.M.SG+INF+1+PL
 lonqueá-lo	lonquear+V.ele.ACC.3.M.SG+INF+1+SG
 lonquearde-lo	lonquear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -35089,6 +35313,7 @@ loteávei-las	lotear+V.ele.ACC.3.F.PL+IMPF+2+PL
 loteava-las	lotear+V.ele.ACC.3.F.PL+IMPF+2+SG
 loteavam-nas	lotear+V.ele.ACC.3.F.PL+IMPF+3+PL
 loteava-as	lotear+V.ele.ACC.3.F.PL+IMPF+3+SG
+loteá-las	lotear+V.ele.ACC.3.F.PL+INF
 lotearmo-las	lotear+V.ele.ACC.3.F.PL+INF+1+PL
 loteá-las	lotear+V.ele.ACC.3.F.PL+INF+1+SG
 lotearde-las	lotear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -35138,6 +35363,7 @@ loteávei-la	lotear+V.ele.ACC.3.F.SG+IMPF+2+PL
 loteava-la	lotear+V.ele.ACC.3.F.SG+IMPF+2+SG
 loteavam-na	lotear+V.ele.ACC.3.F.SG+IMPF+3+PL
 loteava-a	lotear+V.ele.ACC.3.F.SG+IMPF+3+SG
+loteá-la	lotear+V.ele.ACC.3.F.SG+INF
 lotearmo-la	lotear+V.ele.ACC.3.F.SG+INF+1+PL
 loteá-la	lotear+V.ele.ACC.3.F.SG+INF+1+SG
 lotearde-la	lotear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -35187,6 +35413,7 @@ loteávei-los	lotear+V.ele.ACC.3.M.PL+IMPF+2+PL
 loteava-los	lotear+V.ele.ACC.3.M.PL+IMPF+2+SG
 loteavam-nos	lotear+V.ele.ACC.3.M.PL+IMPF+3+PL
 loteava-os	lotear+V.ele.ACC.3.M.PL+IMPF+3+SG
+loteá-los	lotear+V.ele.ACC.3.M.PL+INF
 lotearmo-los	lotear+V.ele.ACC.3.M.PL+INF+1+PL
 loteá-los	lotear+V.ele.ACC.3.M.PL+INF+1+SG
 lotearde-los	lotear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -35236,6 +35463,7 @@ loteávei-lo	lotear+V.ele.ACC.3.M.SG+IMPF+2+PL
 loteava-lo	lotear+V.ele.ACC.3.M.SG+IMPF+2+SG
 loteavam-no	lotear+V.ele.ACC.3.M.SG+IMPF+3+PL
 loteava-o	lotear+V.ele.ACC.3.M.SG+IMPF+3+SG
+loteá-lo	lotear+V.ele.ACC.3.M.SG+INF
 lotearmo-lo	lotear+V.ele.ACC.3.M.SG+INF+1+PL
 loteá-lo	lotear+V.ele.ACC.3.M.SG+INF+1+SG
 lotearde-lo	lotear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -35603,6 +35831,7 @@ loureávei-las	lourear+V.ele.ACC.3.F.PL+IMPF+2+PL
 loureava-las	lourear+V.ele.ACC.3.F.PL+IMPF+2+SG
 loureavam-nas	lourear+V.ele.ACC.3.F.PL+IMPF+3+PL
 loureava-as	lourear+V.ele.ACC.3.F.PL+IMPF+3+SG
+loureá-las	lourear+V.ele.ACC.3.F.PL+INF
 lourearmo-las	lourear+V.ele.ACC.3.F.PL+INF+1+PL
 loureá-las	lourear+V.ele.ACC.3.F.PL+INF+1+SG
 lourearde-las	lourear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -35652,6 +35881,7 @@ loureávei-la	lourear+V.ele.ACC.3.F.SG+IMPF+2+PL
 loureava-la	lourear+V.ele.ACC.3.F.SG+IMPF+2+SG
 loureavam-na	lourear+V.ele.ACC.3.F.SG+IMPF+3+PL
 loureava-a	lourear+V.ele.ACC.3.F.SG+IMPF+3+SG
+loureá-la	lourear+V.ele.ACC.3.F.SG+INF
 lourearmo-la	lourear+V.ele.ACC.3.F.SG+INF+1+PL
 loureá-la	lourear+V.ele.ACC.3.F.SG+INF+1+SG
 lourearde-la	lourear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -35701,6 +35931,7 @@ loureávei-los	lourear+V.ele.ACC.3.M.PL+IMPF+2+PL
 loureava-los	lourear+V.ele.ACC.3.M.PL+IMPF+2+SG
 loureavam-nos	lourear+V.ele.ACC.3.M.PL+IMPF+3+PL
 loureava-os	lourear+V.ele.ACC.3.M.PL+IMPF+3+SG
+loureá-los	lourear+V.ele.ACC.3.M.PL+INF
 lourearmo-los	lourear+V.ele.ACC.3.M.PL+INF+1+PL
 loureá-los	lourear+V.ele.ACC.3.M.PL+INF+1+SG
 lourearde-los	lourear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -35750,6 +35981,7 @@ loureávei-lo	lourear+V.ele.ACC.3.M.SG+IMPF+2+PL
 loureava-lo	lourear+V.ele.ACC.3.M.SG+IMPF+2+SG
 loureavam-no	lourear+V.ele.ACC.3.M.SG+IMPF+3+PL
 loureava-o	lourear+V.ele.ACC.3.M.SG+IMPF+3+SG
+loureá-lo	lourear+V.ele.ACC.3.M.SG+INF
 lourearmo-lo	lourear+V.ele.ACC.3.M.SG+INF+1+PL
 loureá-lo	lourear+V.ele.ACC.3.M.SG+INF+1+SG
 lourearde-lo	lourear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -36659,6 +36891,7 @@ louçainhávei-las	louçainhar+V.ele.ACC.3.F.PL+IMPF+2+PL
 louçainhava-las	louçainhar+V.ele.ACC.3.F.PL+IMPF+2+SG
 louçainhavam-nas	louçainhar+V.ele.ACC.3.F.PL+IMPF+3+PL
 louçainhava-as	louçainhar+V.ele.ACC.3.F.PL+IMPF+3+SG
+louçainhá-las	louçainhar+V.ele.ACC.3.F.PL+INF
 louçainharmo-las	louçainhar+V.ele.ACC.3.F.PL+INF+1+PL
 louçainhá-las	louçainhar+V.ele.ACC.3.F.PL+INF+1+SG
 louçainharde-las	louçainhar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -36711,6 +36944,7 @@ louçainhávei-la	louçainhar+V.ele.ACC.3.F.SG+IMPF+2+PL
 louçainhava-la	louçainhar+V.ele.ACC.3.F.SG+IMPF+2+SG
 louçainhavam-na	louçainhar+V.ele.ACC.3.F.SG+IMPF+3+PL
 louçainhava-a	louçainhar+V.ele.ACC.3.F.SG+IMPF+3+SG
+louçainhá-la	louçainhar+V.ele.ACC.3.F.SG+INF
 louçainharmo-la	louçainhar+V.ele.ACC.3.F.SG+INF+1+PL
 louçainhá-la	louçainhar+V.ele.ACC.3.F.SG+INF+1+SG
 louçainharde-la	louçainhar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -36761,6 +36995,7 @@ louçainhava-os	louçainhar+V.ele.ACC.3.M.PL+IMPF+1+SG
 louçainhávei-los	louçainhar+V.ele.ACC.3.M.PL+IMPF+2+PL
 louçainhava-los	louçainhar+V.ele.ACC.3.M.PL+IMPF+2+SG
 louçainhava-os	louçainhar+V.ele.ACC.3.M.PL+IMPF+3+SG
+louçainhá-los	louçainhar+V.ele.ACC.3.M.PL+INF
 louçainharmo-los	louçainhar+V.ele.ACC.3.M.PL+INF+1+PL
 louçainhá-los	louçainhar+V.ele.ACC.3.M.PL+INF+1+SG
 louçainharde-los	louçainhar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -36808,6 +37043,7 @@ louçainhávei-lo	louçainhar+V.ele.ACC.3.M.SG+IMPF+2+PL
 louçainhava-lo	louçainhar+V.ele.ACC.3.M.SG+IMPF+2+SG
 louçainhavam-no	louçainhar+V.ele.ACC.3.M.SG+IMPF+3+PL
 louçainhava-o	louçainhar+V.ele.ACC.3.M.SG+IMPF+3+SG
+louçainhá-lo	louçainhar+V.ele.ACC.3.M.SG+INF
 louçainharmo-lo	louçainhar+V.ele.ACC.3.M.SG+INF+1+PL
 louçainhá-lo	louçainhar+V.ele.ACC.3.M.SG+INF+1+SG
 louçainharde-lo	louçainhar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -37195,6 +37431,7 @@ louçaneávei-las	louçanear+V.ele.ACC.3.F.PL+IMPF+2+PL
 louçaneava-las	louçanear+V.ele.ACC.3.F.PL+IMPF+2+SG
 louçaneavam-nas	louçanear+V.ele.ACC.3.F.PL+IMPF+3+PL
 louçaneava-as	louçanear+V.ele.ACC.3.F.PL+IMPF+3+SG
+louçaneá-las	louçanear+V.ele.ACC.3.F.PL+INF
 louçanearmo-las	louçanear+V.ele.ACC.3.F.PL+INF+1+PL
 louçaneá-las	louçanear+V.ele.ACC.3.F.PL+INF+1+SG
 louçanearde-las	louçanear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -37244,6 +37481,7 @@ louçaneávei-la	louçanear+V.ele.ACC.3.F.SG+IMPF+2+PL
 louçaneava-la	louçanear+V.ele.ACC.3.F.SG+IMPF+2+SG
 louçaneavam-na	louçanear+V.ele.ACC.3.F.SG+IMPF+3+PL
 louçaneava-a	louçanear+V.ele.ACC.3.F.SG+IMPF+3+SG
+louçaneá-la	louçanear+V.ele.ACC.3.F.SG+INF
 louçanearmo-la	louçanear+V.ele.ACC.3.F.SG+INF+1+PL
 louçaneá-la	louçanear+V.ele.ACC.3.F.SG+INF+1+SG
 louçanearde-la	louçanear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -37292,6 +37530,7 @@ louçaneava-os	louçanear+V.ele.ACC.3.M.PL+IMPF+1+SG
 louçaneávei-los	louçanear+V.ele.ACC.3.M.PL+IMPF+2+PL
 louçaneava-los	louçanear+V.ele.ACC.3.M.PL+IMPF+2+SG
 louçaneava-os	louçanear+V.ele.ACC.3.M.PL+IMPF+3+SG
+louçaneá-los	louçanear+V.ele.ACC.3.M.PL+INF
 louçanearmo-los	louçanear+V.ele.ACC.3.M.PL+INF+1+PL
 louçaneá-los	louçanear+V.ele.ACC.3.M.PL+INF+1+SG
 louçanearde-los	louçanear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -37336,6 +37575,7 @@ louçaneávei-lo	louçanear+V.ele.ACC.3.M.SG+IMPF+2+PL
 louçaneava-lo	louçanear+V.ele.ACC.3.M.SG+IMPF+2+SG
 louçaneavam-no	louçanear+V.ele.ACC.3.M.SG+IMPF+3+PL
 louçaneava-o	louçanear+V.ele.ACC.3.M.SG+IMPF+3+SG
+louçaneá-lo	louçanear+V.ele.ACC.3.M.SG+INF
 louçanearmo-lo	louçanear+V.ele.ACC.3.M.SG+INF+1+PL
 louçaneá-lo	louçanear+V.ele.ACC.3.M.SG+INF+1+SG
 louçanearde-lo	louçanear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -37706,6 +37946,7 @@ lubricávei-las	lubricar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lubricava-las	lubricar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lubricavam-nas	lubricar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lubricava-as	lubricar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lubricá-las	lubricar+V.ele.ACC.3.F.PL+INF
 lubricarmo-las	lubricar+V.ele.ACC.3.F.PL+INF+1+PL
 lubricá-las	lubricar+V.ele.ACC.3.F.PL+INF+1+SG
 lubricarde-las	lubricar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -37757,6 +37998,7 @@ lubricávei-la	lubricar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lubricava-la	lubricar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lubricavam-na	lubricar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lubricava-a	lubricar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lubricá-la	lubricar+V.ele.ACC.3.F.SG+INF
 lubricarmo-la	lubricar+V.ele.ACC.3.F.SG+INF+1+PL
 lubricá-la	lubricar+V.ele.ACC.3.F.SG+INF+1+SG
 lubricarde-la	lubricar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -37808,6 +38050,7 @@ lubricávei-los	lubricar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lubricava-los	lubricar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lubricavam-nos	lubricar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lubricava-os	lubricar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lubricá-los	lubricar+V.ele.ACC.3.M.PL+INF
 lubricarmo-los	lubricar+V.ele.ACC.3.M.PL+INF+1+PL
 lubricá-los	lubricar+V.ele.ACC.3.M.PL+INF+1+SG
 lubricarde-los	lubricar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -37859,6 +38102,7 @@ lubricávei-lo	lubricar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lubricava-lo	lubricar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lubricavam-no	lubricar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lubricava-o	lubricar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lubricá-lo	lubricar+V.ele.ACC.3.M.SG+INF
 lubricarmo-lo	lubricar+V.ele.ACC.3.M.SG+INF+1+PL
 lubricá-lo	lubricar+V.ele.ACC.3.M.SG+INF+1+SG
 lubricarde-lo	lubricar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -38242,6 +38486,7 @@ lubrificávei-las	lubrificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lubrificava-las	lubrificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lubrificavam-nas	lubrificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lubrificava-as	lubrificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lubrificá-las	lubrificar+V.ele.ACC.3.F.PL+INF
 lubrificarmo-las	lubrificar+V.ele.ACC.3.F.PL+INF+1+PL
 lubrificá-las	lubrificar+V.ele.ACC.3.F.PL+INF+1+SG
 lubrificarde-las	lubrificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -38293,6 +38538,7 @@ lubrificávei-la	lubrificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lubrificava-la	lubrificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lubrificavam-na	lubrificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lubrificava-a	lubrificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lubrificá-la	lubrificar+V.ele.ACC.3.F.SG+INF
 lubrificarmo-la	lubrificar+V.ele.ACC.3.F.SG+INF+1+PL
 lubrificá-la	lubrificar+V.ele.ACC.3.F.SG+INF+1+SG
 lubrificarde-la	lubrificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -38344,6 +38590,7 @@ lubrificávei-los	lubrificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lubrificava-los	lubrificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lubrificavam-nos	lubrificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lubrificava-os	lubrificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lubrificá-los	lubrificar+V.ele.ACC.3.M.PL+INF
 lubrificarmo-los	lubrificar+V.ele.ACC.3.M.PL+INF+1+PL
 lubrificá-los	lubrificar+V.ele.ACC.3.M.PL+INF+1+SG
 lubrificarde-los	lubrificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -38395,6 +38642,7 @@ lubrificávei-lo	lubrificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lubrificava-lo	lubrificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lubrificavam-no	lubrificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lubrificava-o	lubrificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lubrificá-lo	lubrificar+V.ele.ACC.3.M.SG+INF
 lubrificarmo-lo	lubrificar+V.ele.ACC.3.M.SG+INF+1+PL
 lubrificá-lo	lubrificar+V.ele.ACC.3.M.SG+INF+1+SG
 lubrificarde-lo	lubrificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -38778,6 +39026,7 @@ luciluzíei-las	luciluzir+V.ele.ACC.3.F.PL+IMPF+2+PL
 luciluzia-las	luciluzir+V.ele.ACC.3.F.PL+IMPF+2+SG
 luciluziam-nas	luciluzir+V.ele.ACC.3.F.PL+IMPF+3+PL
 luciluzia-as	luciluzir+V.ele.ACC.3.F.PL+IMPF+3+SG
+luciluzi-las	luciluzir+V.ele.ACC.3.F.PL+INF
 luciluzirmo-las	luciluzir+V.ele.ACC.3.F.PL+INF+1+PL
 luciluzi-las	luciluzir+V.ele.ACC.3.F.PL+INF+1+SG
 luciluzirde-las	luciluzir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -38824,6 +39073,7 @@ luciluzíei-la	luciluzir+V.ele.ACC.3.F.SG+IMPF+2+PL
 luciluzia-la	luciluzir+V.ele.ACC.3.F.SG+IMPF+2+SG
 luciluziam-na	luciluzir+V.ele.ACC.3.F.SG+IMPF+3+PL
 luciluzia-a	luciluzir+V.ele.ACC.3.F.SG+IMPF+3+SG
+luciluzi-la	luciluzir+V.ele.ACC.3.F.SG+INF
 luciluzirmo-la	luciluzir+V.ele.ACC.3.F.SG+INF+1+PL
 luciluzi-la	luciluzir+V.ele.ACC.3.F.SG+INF+1+SG
 luciluzirde-la	luciluzir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -38870,6 +39120,7 @@ luciluzíei-los	luciluzir+V.ele.ACC.3.M.PL+IMPF+2+PL
 luciluzia-los	luciluzir+V.ele.ACC.3.M.PL+IMPF+2+SG
 luciluziam-nos	luciluzir+V.ele.ACC.3.M.PL+IMPF+3+PL
 luciluzia-os	luciluzir+V.ele.ACC.3.M.PL+IMPF+3+SG
+luciluzi-los	luciluzir+V.ele.ACC.3.M.PL+INF
 luciluzirmo-los	luciluzir+V.ele.ACC.3.M.PL+INF+1+PL
 luciluzi-los	luciluzir+V.ele.ACC.3.M.PL+INF+1+SG
 luciluzirde-los	luciluzir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -38916,6 +39167,7 @@ luciluzíei-lo	luciluzir+V.ele.ACC.3.M.SG+IMPF+2+PL
 luciluzia-lo	luciluzir+V.ele.ACC.3.M.SG+IMPF+2+SG
 luciluziam-no	luciluzir+V.ele.ACC.3.M.SG+IMPF+3+PL
 luciluzia-o	luciluzir+V.ele.ACC.3.M.SG+IMPF+3+SG
+luciluzi-lo	luciluzir+V.ele.ACC.3.M.SG+INF
 luciluzirmo-lo	luciluzir+V.ele.ACC.3.M.SG+INF+1+PL
 luciluzi-lo	luciluzir+V.ele.ACC.3.M.SG+INF+1+SG
 luciluzirde-lo	luciluzir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -39262,6 +39514,7 @@ lusificávei-las	lusificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 lusificava-las	lusificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 lusificavam-nas	lusificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 lusificava-as	lusificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+lusificá-las	lusificar+V.ele.ACC.3.F.PL+INF
 lusificarmo-las	lusificar+V.ele.ACC.3.F.PL+INF+1+PL
 lusificá-las	lusificar+V.ele.ACC.3.F.PL+INF+1+SG
 lusificarde-las	lusificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -39313,6 +39566,7 @@ lusificávei-la	lusificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 lusificava-la	lusificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 lusificavam-na	lusificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 lusificava-a	lusificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+lusificá-la	lusificar+V.ele.ACC.3.F.SG+INF
 lusificarmo-la	lusificar+V.ele.ACC.3.F.SG+INF+1+PL
 lusificá-la	lusificar+V.ele.ACC.3.F.SG+INF+1+SG
 lusificarde-la	lusificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -39364,6 +39618,7 @@ lusificávei-los	lusificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 lusificava-los	lusificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 lusificavam-nos	lusificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 lusificava-os	lusificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+lusificá-los	lusificar+V.ele.ACC.3.M.PL+INF
 lusificarmo-los	lusificar+V.ele.ACC.3.M.PL+INF+1+PL
 lusificá-los	lusificar+V.ele.ACC.3.M.PL+INF+1+SG
 lusificarde-los	lusificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -39415,6 +39670,7 @@ lusificávei-lo	lusificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 lusificava-lo	lusificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 lusificavam-no	lusificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 lusificava-o	lusificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+lusificá-lo	lusificar+V.ele.ACC.3.M.SG+INF
 lusificarmo-lo	lusificar+V.ele.ACC.3.M.SG+INF+1+PL
 lusificá-lo	lusificar+V.ele.ACC.3.M.SG+INF+1+SG
 lusificarde-lo	lusificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -39798,6 +40054,7 @@ luziluzíei-las	luziluzir+V.ele.ACC.3.F.PL+IMPF+2+PL
 luziluzia-las	luziluzir+V.ele.ACC.3.F.PL+IMPF+2+SG
 luziluziam-nas	luziluzir+V.ele.ACC.3.F.PL+IMPF+3+PL
 luziluzia-as	luziluzir+V.ele.ACC.3.F.PL+IMPF+3+SG
+luziluzi-las	luziluzir+V.ele.ACC.3.F.PL+INF
 luziluzirmo-las	luziluzir+V.ele.ACC.3.F.PL+INF+1+PL
 luziluzi-las	luziluzir+V.ele.ACC.3.F.PL+INF+1+SG
 luziluzirde-las	luziluzir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -39844,6 +40101,7 @@ luziluzíei-la	luziluzir+V.ele.ACC.3.F.SG+IMPF+2+PL
 luziluzia-la	luziluzir+V.ele.ACC.3.F.SG+IMPF+2+SG
 luziluziam-na	luziluzir+V.ele.ACC.3.F.SG+IMPF+3+PL
 luziluzia-a	luziluzir+V.ele.ACC.3.F.SG+IMPF+3+SG
+luziluzi-la	luziluzir+V.ele.ACC.3.F.SG+INF
 luziluzirmo-la	luziluzir+V.ele.ACC.3.F.SG+INF+1+PL
 luziluzi-la	luziluzir+V.ele.ACC.3.F.SG+INF+1+SG
 luziluzirde-la	luziluzir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -39890,6 +40148,7 @@ luziluzíei-los	luziluzir+V.ele.ACC.3.M.PL+IMPF+2+PL
 luziluzia-los	luziluzir+V.ele.ACC.3.M.PL+IMPF+2+SG
 luziluziam-nos	luziluzir+V.ele.ACC.3.M.PL+IMPF+3+PL
 luziluzia-os	luziluzir+V.ele.ACC.3.M.PL+IMPF+3+SG
+luziluzi-los	luziluzir+V.ele.ACC.3.M.PL+INF
 luziluzirmo-los	luziluzir+V.ele.ACC.3.M.PL+INF+1+PL
 luziluzi-los	luziluzir+V.ele.ACC.3.M.PL+INF+1+SG
 luziluzirde-los	luziluzir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -39936,6 +40195,7 @@ luziluzíei-lo	luziluzir+V.ele.ACC.3.M.SG+IMPF+2+PL
 luziluzia-lo	luziluzir+V.ele.ACC.3.M.SG+IMPF+2+SG
 luziluziam-no	luziluzir+V.ele.ACC.3.M.SG+IMPF+3+PL
 luziluzia-o	luziluzir+V.ele.ACC.3.M.SG+IMPF+3+SG
+luziluzi-lo	luziluzir+V.ele.ACC.3.M.SG+INF
 luziluzirmo-lo	luziluzir+V.ele.ACC.3.M.SG+INF+1+PL
 luziluzi-lo	luziluzir+V.ele.ACC.3.M.SG+INF+1+SG
 luziluzirde-lo	luziluzir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -40282,6 +40542,7 @@ luzíei-las	luzir+V.ele.ACC.3.F.PL+IMPF+2+PL
 luzia-las	luzir+V.ele.ACC.3.F.PL+IMPF+2+SG
 luziam-nas	luzir+V.ele.ACC.3.F.PL+IMPF+3+PL
 luzia-as	luzir+V.ele.ACC.3.F.PL+IMPF+3+SG
+luzi-las	luzir+V.ele.ACC.3.F.PL+INF
 luzirmo-las	luzir+V.ele.ACC.3.F.PL+INF+1+PL
 luzi-las	luzir+V.ele.ACC.3.F.PL+INF+1+SG
 luzirde-las	luzir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -40328,6 +40589,7 @@ luzíei-la	luzir+V.ele.ACC.3.F.SG+IMPF+2+PL
 luzia-la	luzir+V.ele.ACC.3.F.SG+IMPF+2+SG
 luziam-na	luzir+V.ele.ACC.3.F.SG+IMPF+3+PL
 luzia-a	luzir+V.ele.ACC.3.F.SG+IMPF+3+SG
+luzi-la	luzir+V.ele.ACC.3.F.SG+INF
 luzirmo-la	luzir+V.ele.ACC.3.F.SG+INF+1+PL
 luzi-la	luzir+V.ele.ACC.3.F.SG+INF+1+SG
 luzirde-la	luzir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -40374,6 +40636,7 @@ luzíei-los	luzir+V.ele.ACC.3.M.PL+IMPF+2+PL
 luzia-los	luzir+V.ele.ACC.3.M.PL+IMPF+2+SG
 luziam-nos	luzir+V.ele.ACC.3.M.PL+IMPF+3+PL
 luzia-os	luzir+V.ele.ACC.3.M.PL+IMPF+3+SG
+luzi-los	luzir+V.ele.ACC.3.M.PL+INF
 luzirmo-los	luzir+V.ele.ACC.3.M.PL+INF+1+PL
 luzi-los	luzir+V.ele.ACC.3.M.PL+INF+1+SG
 luzirde-los	luzir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -40420,6 +40683,7 @@ luzíei-lo	luzir+V.ele.ACC.3.M.SG+IMPF+2+PL
 luzia-lo	luzir+V.ele.ACC.3.M.SG+IMPF+2+SG
 luziam-no	luzir+V.ele.ACC.3.M.SG+IMPF+3+PL
 luzia-o	luzir+V.ele.ACC.3.M.SG+IMPF+3+SG
+luzi-lo	luzir+V.ele.ACC.3.M.SG+INF
 luzirmo-lo	luzir+V.ele.ACC.3.M.SG+INF+1+PL
 luzi-lo	luzir+V.ele.ACC.3.M.SG+INF+1+SG
 luzirde-lo	luzir+V.ele.ACC.3.M.SG+INF+2+PL

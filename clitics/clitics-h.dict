@@ -17,6 +17,7 @@ haraganeávei-las	haraganear+V.ele.ACC.3.F.PL+IMPF+2+PL
 haraganeava-las	haraganear+V.ele.ACC.3.F.PL+IMPF+2+SG
 haraganeavam-nas	haraganear+V.ele.ACC.3.F.PL+IMPF+3+PL
 haraganeava-as	haraganear+V.ele.ACC.3.F.PL+IMPF+3+SG
+haraganeá-las	haraganear+V.ele.ACC.3.F.PL+INF
 haraganearmo-las	haraganear+V.ele.ACC.3.F.PL+INF+1+PL
 haraganeá-las	haraganear+V.ele.ACC.3.F.PL+INF+1+SG
 haraganearde-las	haraganear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -66,6 +67,7 @@ haraganeávei-la	haraganear+V.ele.ACC.3.F.SG+IMPF+2+PL
 haraganeava-la	haraganear+V.ele.ACC.3.F.SG+IMPF+2+SG
 haraganeavam-na	haraganear+V.ele.ACC.3.F.SG+IMPF+3+PL
 haraganeava-a	haraganear+V.ele.ACC.3.F.SG+IMPF+3+SG
+haraganeá-la	haraganear+V.ele.ACC.3.F.SG+INF
 haraganearmo-la	haraganear+V.ele.ACC.3.F.SG+INF+1+PL
 haraganeá-la	haraganear+V.ele.ACC.3.F.SG+INF+1+SG
 haraganearde-la	haraganear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -115,6 +117,7 @@ haraganeávei-los	haraganear+V.ele.ACC.3.M.PL+IMPF+2+PL
 haraganeava-los	haraganear+V.ele.ACC.3.M.PL+IMPF+2+SG
 haraganeavam-nos	haraganear+V.ele.ACC.3.M.PL+IMPF+3+PL
 haraganeava-os	haraganear+V.ele.ACC.3.M.PL+IMPF+3+SG
+haraganeá-los	haraganear+V.ele.ACC.3.M.PL+INF
 haraganearmo-los	haraganear+V.ele.ACC.3.M.PL+INF+1+PL
 haraganeá-los	haraganear+V.ele.ACC.3.M.PL+INF+1+SG
 haraganearde-los	haraganear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -164,6 +167,7 @@ haraganeávei-lo	haraganear+V.ele.ACC.3.M.SG+IMPF+2+PL
 haraganeava-lo	haraganear+V.ele.ACC.3.M.SG+IMPF+2+SG
 haraganeavam-no	haraganear+V.ele.ACC.3.M.SG+IMPF+3+PL
 haraganeava-o	haraganear+V.ele.ACC.3.M.SG+IMPF+3+SG
+haraganeá-lo	haraganear+V.ele.ACC.3.M.SG+INF
 haraganearmo-lo	haraganear+V.ele.ACC.3.M.SG+INF+1+PL
 haraganeá-lo	haraganear+V.ele.ACC.3.M.SG+INF+1+SG
 haraganearde-lo	haraganear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -531,6 +535,7 @@ harpeávei-las	harpear+V.ele.ACC.3.F.PL+IMPF+2+PL
 harpeava-las	harpear+V.ele.ACC.3.F.PL+IMPF+2+SG
 harpeavam-nas	harpear+V.ele.ACC.3.F.PL+IMPF+3+PL
 harpeava-as	harpear+V.ele.ACC.3.F.PL+IMPF+3+SG
+harpeá-las	harpear+V.ele.ACC.3.F.PL+INF
 harpearmo-las	harpear+V.ele.ACC.3.F.PL+INF+1+PL
 harpeá-las	harpear+V.ele.ACC.3.F.PL+INF+1+SG
 harpearde-las	harpear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -580,6 +585,7 @@ harpeávei-la	harpear+V.ele.ACC.3.F.SG+IMPF+2+PL
 harpeava-la	harpear+V.ele.ACC.3.F.SG+IMPF+2+SG
 harpeavam-na	harpear+V.ele.ACC.3.F.SG+IMPF+3+PL
 harpeava-a	harpear+V.ele.ACC.3.F.SG+IMPF+3+SG
+harpeá-la	harpear+V.ele.ACC.3.F.SG+INF
 harpearmo-la	harpear+V.ele.ACC.3.F.SG+INF+1+PL
 harpeá-la	harpear+V.ele.ACC.3.F.SG+INF+1+SG
 harpearde-la	harpear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -629,6 +635,7 @@ harpeávei-los	harpear+V.ele.ACC.3.M.PL+IMPF+2+PL
 harpeava-los	harpear+V.ele.ACC.3.M.PL+IMPF+2+SG
 harpeavam-nos	harpear+V.ele.ACC.3.M.PL+IMPF+3+PL
 harpeava-os	harpear+V.ele.ACC.3.M.PL+IMPF+3+SG
+harpeá-los	harpear+V.ele.ACC.3.M.PL+INF
 harpearmo-los	harpear+V.ele.ACC.3.M.PL+INF+1+PL
 harpeá-los	harpear+V.ele.ACC.3.M.PL+INF+1+SG
 harpearde-los	harpear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -678,6 +685,7 @@ harpeávei-lo	harpear+V.ele.ACC.3.M.SG+IMPF+2+PL
 harpeava-lo	harpear+V.ele.ACC.3.M.SG+IMPF+2+SG
 harpeavam-no	harpear+V.ele.ACC.3.M.SG+IMPF+3+PL
 harpeava-o	harpear+V.ele.ACC.3.M.SG+IMPF+3+SG
+harpeá-lo	harpear+V.ele.ACC.3.M.SG+INF
 harpearmo-lo	harpear+V.ele.ACC.3.M.SG+INF+1+PL
 harpeá-lo	harpear+V.ele.ACC.3.M.SG+INF+1+SG
 harpearde-lo	harpear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1045,6 +1053,7 @@ hasteávei-las	hastear+V.ele.ACC.3.F.PL+IMPF+2+PL
 hasteava-las	hastear+V.ele.ACC.3.F.PL+IMPF+2+SG
 hasteavam-nas	hastear+V.ele.ACC.3.F.PL+IMPF+3+PL
 hasteava-as	hastear+V.ele.ACC.3.F.PL+IMPF+3+SG
+hasteá-las	hastear+V.ele.ACC.3.F.PL+INF
 hastearmo-las	hastear+V.ele.ACC.3.F.PL+INF+1+PL
 hasteá-las	hastear+V.ele.ACC.3.F.PL+INF+1+SG
 hastearde-las	hastear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1094,6 +1103,7 @@ hasteávei-la	hastear+V.ele.ACC.3.F.SG+IMPF+2+PL
 hasteava-la	hastear+V.ele.ACC.3.F.SG+IMPF+2+SG
 hasteavam-na	hastear+V.ele.ACC.3.F.SG+IMPF+3+PL
 hasteava-a	hastear+V.ele.ACC.3.F.SG+IMPF+3+SG
+hasteá-la	hastear+V.ele.ACC.3.F.SG+INF
 hastearmo-la	hastear+V.ele.ACC.3.F.SG+INF+1+PL
 hasteá-la	hastear+V.ele.ACC.3.F.SG+INF+1+SG
 hastearde-la	hastear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1143,6 +1153,7 @@ hasteávei-los	hastear+V.ele.ACC.3.M.PL+IMPF+2+PL
 hasteava-los	hastear+V.ele.ACC.3.M.PL+IMPF+2+SG
 hasteavam-nos	hastear+V.ele.ACC.3.M.PL+IMPF+3+PL
 hasteava-os	hastear+V.ele.ACC.3.M.PL+IMPF+3+SG
+hasteá-los	hastear+V.ele.ACC.3.M.PL+INF
 hastearmo-los	hastear+V.ele.ACC.3.M.PL+INF+1+PL
 hasteá-los	hastear+V.ele.ACC.3.M.PL+INF+1+SG
 hastearde-los	hastear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1192,6 +1203,7 @@ hasteávei-lo	hastear+V.ele.ACC.3.M.SG+IMPF+2+PL
 hasteava-lo	hastear+V.ele.ACC.3.M.SG+IMPF+2+SG
 hasteavam-no	hastear+V.ele.ACC.3.M.SG+IMPF+3+PL
 hasteava-o	hastear+V.ele.ACC.3.M.SG+IMPF+3+SG
+hasteá-lo	hastear+V.ele.ACC.3.M.SG+INF
 hastearmo-lo	hastear+V.ele.ACC.3.M.SG+INF+1+PL
 hasteá-lo	hastear+V.ele.ACC.3.M.SG+INF+1+SG
 hastearde-lo	hastear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1562,6 +1574,7 @@ hauríei-las	haurir+V.ele.ACC.3.F.PL+IMPF+2+PL
 hauria-las	haurir+V.ele.ACC.3.F.PL+IMPF+2+SG
 hauriam-nas	haurir+V.ele.ACC.3.F.PL+IMPF+3+PL
 hauria-as	haurir+V.ele.ACC.3.F.PL+IMPF+3+SG
+hauri-las	haurir+V.ele.ACC.3.F.PL+INF
 haurirmo-las	haurir+V.ele.ACC.3.F.PL+INF+1+PL
 hauri-las	haurir+V.ele.ACC.3.F.PL+INF+1+SG
 haurirde-las	haurir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1602,6 +1615,7 @@ hauríei-la	haurir+V.ele.ACC.3.F.SG+IMPF+2+PL
 hauria-la	haurir+V.ele.ACC.3.F.SG+IMPF+2+SG
 hauriam-na	haurir+V.ele.ACC.3.F.SG+IMPF+3+PL
 hauria-a	haurir+V.ele.ACC.3.F.SG+IMPF+3+SG
+hauri-la	haurir+V.ele.ACC.3.F.SG+INF
 haurirmo-la	haurir+V.ele.ACC.3.F.SG+INF+1+PL
 hauri-la	haurir+V.ele.ACC.3.F.SG+INF+1+SG
 haurirde-la	haurir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1642,6 +1656,7 @@ hauríei-los	haurir+V.ele.ACC.3.M.PL+IMPF+2+PL
 hauria-los	haurir+V.ele.ACC.3.M.PL+IMPF+2+SG
 hauriam-nos	haurir+V.ele.ACC.3.M.PL+IMPF+3+PL
 hauria-os	haurir+V.ele.ACC.3.M.PL+IMPF+3+SG
+hauri-los	haurir+V.ele.ACC.3.M.PL+INF
 haurirmo-los	haurir+V.ele.ACC.3.M.PL+INF+1+PL
 hauri-los	haurir+V.ele.ACC.3.M.PL+INF+1+SG
 haurirde-los	haurir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1682,6 +1697,7 @@ hauríei-lo	haurir+V.ele.ACC.3.M.SG+IMPF+2+PL
 hauria-lo	haurir+V.ele.ACC.3.M.SG+IMPF+2+SG
 hauriam-no	haurir+V.ele.ACC.3.M.SG+IMPF+3+PL
 hauria-o	haurir+V.ele.ACC.3.M.SG+IMPF+3+SG
+hauri-lo	haurir+V.ele.ACC.3.M.SG+INF
 haurirmo-lo	haurir+V.ele.ACC.3.M.SG+INF+1+PL
 hauri-lo	haurir+V.ele.ACC.3.M.SG+INF+1+SG
 haurirde-lo	haurir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2444,6 +2460,7 @@ hebraizávei-las	hebraizar+V.ele.ACC.3.F.PL+IMPF+2+PL
 hebraizava-las	hebraizar+V.ele.ACC.3.F.PL+IMPF+2+SG
 hebraizavam-nas	hebraizar+V.ele.ACC.3.F.PL+IMPF+3+PL
 hebraizava-as	hebraizar+V.ele.ACC.3.F.PL+IMPF+3+SG
+hebraizá-las	hebraizar+V.ele.ACC.3.F.PL+INF
 hebraizarmo-las	hebraizar+V.ele.ACC.3.F.PL+INF+1+PL
 hebraizá-las	hebraizar+V.ele.ACC.3.F.PL+INF+1+SG
 hebraizarde-las	hebraizar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2486,6 +2503,7 @@ hebraizávei-la	hebraizar+V.ele.ACC.3.F.SG+IMPF+2+PL
 hebraizava-la	hebraizar+V.ele.ACC.3.F.SG+IMPF+2+SG
 hebraizavam-na	hebraizar+V.ele.ACC.3.F.SG+IMPF+3+PL
 hebraizava-a	hebraizar+V.ele.ACC.3.F.SG+IMPF+3+SG
+hebraizá-la	hebraizar+V.ele.ACC.3.F.SG+INF
 hebraizarmo-la	hebraizar+V.ele.ACC.3.F.SG+INF+1+PL
 hebraizá-la	hebraizar+V.ele.ACC.3.F.SG+INF+1+SG
 hebraizarde-la	hebraizar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2528,6 +2546,7 @@ hebraizávei-los	hebraizar+V.ele.ACC.3.M.PL+IMPF+2+PL
 hebraizava-los	hebraizar+V.ele.ACC.3.M.PL+IMPF+2+SG
 hebraizavam-nos	hebraizar+V.ele.ACC.3.M.PL+IMPF+3+PL
 hebraizava-os	hebraizar+V.ele.ACC.3.M.PL+IMPF+3+SG
+hebraizá-los	hebraizar+V.ele.ACC.3.M.PL+INF
 hebraizarmo-los	hebraizar+V.ele.ACC.3.M.PL+INF+1+PL
 hebraizá-los	hebraizar+V.ele.ACC.3.M.PL+INF+1+SG
 hebraizarde-los	hebraizar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2570,6 +2589,7 @@ hebraizávei-lo	hebraizar+V.ele.ACC.3.M.SG+IMPF+2+PL
 hebraizava-lo	hebraizar+V.ele.ACC.3.M.SG+IMPF+2+SG
 hebraizavam-no	hebraizar+V.ele.ACC.3.M.SG+IMPF+3+PL
 hebraizava-o	hebraizar+V.ele.ACC.3.M.SG+IMPF+3+SG
+hebraizá-lo	hebraizar+V.ele.ACC.3.M.SG+INF
 hebraizarmo-lo	hebraizar+V.ele.ACC.3.M.SG+INF+1+PL
 hebraizá-lo	hebraizar+V.ele.ACC.3.M.SG+INF+1+SG
 hebraizarde-lo	hebraizar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2889,6 +2909,7 @@ heroificávei-las	heroificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 heroificava-las	heroificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 heroificavam-nas	heroificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 heroificava-as	heroificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+heroificá-las	heroificar+V.ele.ACC.3.F.PL+INF
 heroificarmo-las	heroificar+V.ele.ACC.3.F.PL+INF+1+PL
 heroificá-las	heroificar+V.ele.ACC.3.F.PL+INF+1+SG
 heroificarde-las	heroificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2940,6 +2961,7 @@ heroificávei-la	heroificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 heroificava-la	heroificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 heroificavam-na	heroificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 heroificava-a	heroificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+heroificá-la	heroificar+V.ele.ACC.3.F.SG+INF
 heroificarmo-la	heroificar+V.ele.ACC.3.F.SG+INF+1+PL
 heroificá-la	heroificar+V.ele.ACC.3.F.SG+INF+1+SG
 heroificarde-la	heroificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2991,6 +3013,7 @@ heroificávei-los	heroificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 heroificava-los	heroificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 heroificavam-nos	heroificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 heroificava-os	heroificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+heroificá-los	heroificar+V.ele.ACC.3.M.PL+INF
 heroificarmo-los	heroificar+V.ele.ACC.3.M.PL+INF+1+PL
 heroificá-los	heroificar+V.ele.ACC.3.M.PL+INF+1+SG
 heroificarde-los	heroificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3042,6 +3065,7 @@ heroificávei-lo	heroificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 heroificava-lo	heroificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 heroificavam-no	heroificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 heroificava-o	heroificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+heroificá-lo	heroificar+V.ele.ACC.3.M.SG+INF
 heroificarmo-lo	heroificar+V.ele.ACC.3.M.SG+INF+1+PL
 heroificá-lo	heroificar+V.ele.ACC.3.M.SG+INF+1+SG
 heroificarde-lo	heroificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3425,6 +3449,7 @@ hiníei-las	hinir+V.ele.ACC.3.F.PL+IMPF+2+PL
 hinia-las	hinir+V.ele.ACC.3.F.PL+IMPF+2+SG
 hiniam-nas	hinir+V.ele.ACC.3.F.PL+IMPF+3+PL
 hinia-as	hinir+V.ele.ACC.3.F.PL+IMPF+3+SG
+hini-las	hinir+V.ele.ACC.3.F.PL+INF
 hinirmo-las	hinir+V.ele.ACC.3.F.PL+INF+1+PL
 hini-las	hinir+V.ele.ACC.3.F.PL+INF+1+SG
 hinirde-las	hinir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3465,6 +3490,7 @@ hiníei-la	hinir+V.ele.ACC.3.F.SG+IMPF+2+PL
 hinia-la	hinir+V.ele.ACC.3.F.SG+IMPF+2+SG
 hiniam-na	hinir+V.ele.ACC.3.F.SG+IMPF+3+PL
 hinia-a	hinir+V.ele.ACC.3.F.SG+IMPF+3+SG
+hini-la	hinir+V.ele.ACC.3.F.SG+INF
 hinirmo-la	hinir+V.ele.ACC.3.F.SG+INF+1+PL
 hini-la	hinir+V.ele.ACC.3.F.SG+INF+1+SG
 hinirde-la	hinir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3505,6 +3531,7 @@ hiníei-los	hinir+V.ele.ACC.3.M.PL+IMPF+2+PL
 hinia-los	hinir+V.ele.ACC.3.M.PL+IMPF+2+SG
 hiniam-nos	hinir+V.ele.ACC.3.M.PL+IMPF+3+PL
 hinia-os	hinir+V.ele.ACC.3.M.PL+IMPF+3+SG
+hini-los	hinir+V.ele.ACC.3.M.PL+INF
 hinirmo-los	hinir+V.ele.ACC.3.M.PL+INF+1+PL
 hini-los	hinir+V.ele.ACC.3.M.PL+INF+1+SG
 hinirde-los	hinir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3545,6 +3572,7 @@ hiníei-lo	hinir+V.ele.ACC.3.M.SG+IMPF+2+PL
 hinia-lo	hinir+V.ele.ACC.3.M.SG+IMPF+2+SG
 hiniam-no	hinir+V.ele.ACC.3.M.SG+IMPF+3+PL
 hinia-o	hinir+V.ele.ACC.3.M.SG+IMPF+3+SG
+hini-lo	hinir+V.ele.ACC.3.M.SG+INF
 hinirmo-lo	hinir+V.ele.ACC.3.M.SG+INF+1+PL
 hini-lo	hinir+V.ele.ACC.3.M.SG+INF+1+SG
 hinirde-lo	hinir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3847,6 +3875,7 @@ hipotecávei-las	hipotecar+V.ele.ACC.3.F.PL+IMPF+2+PL
 hipotecava-las	hipotecar+V.ele.ACC.3.F.PL+IMPF+2+SG
 hipotecavam-nas	hipotecar+V.ele.ACC.3.F.PL+IMPF+3+PL
 hipotecava-as	hipotecar+V.ele.ACC.3.F.PL+IMPF+3+SG
+hipotecá-las	hipotecar+V.ele.ACC.3.F.PL+INF
 hipotecarmo-las	hipotecar+V.ele.ACC.3.F.PL+INF+1+PL
 hipotecá-las	hipotecar+V.ele.ACC.3.F.PL+INF+1+SG
 hipotecarde-las	hipotecar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3898,6 +3927,7 @@ hipotecávei-la	hipotecar+V.ele.ACC.3.F.SG+IMPF+2+PL
 hipotecava-la	hipotecar+V.ele.ACC.3.F.SG+IMPF+2+SG
 hipotecavam-na	hipotecar+V.ele.ACC.3.F.SG+IMPF+3+PL
 hipotecava-a	hipotecar+V.ele.ACC.3.F.SG+IMPF+3+SG
+hipotecá-la	hipotecar+V.ele.ACC.3.F.SG+INF
 hipotecarmo-la	hipotecar+V.ele.ACC.3.F.SG+INF+1+PL
 hipotecá-la	hipotecar+V.ele.ACC.3.F.SG+INF+1+SG
 hipotecarde-la	hipotecar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3949,6 +3979,7 @@ hipotecávei-los	hipotecar+V.ele.ACC.3.M.PL+IMPF+2+PL
 hipotecava-los	hipotecar+V.ele.ACC.3.M.PL+IMPF+2+SG
 hipotecavam-nos	hipotecar+V.ele.ACC.3.M.PL+IMPF+3+PL
 hipotecava-os	hipotecar+V.ele.ACC.3.M.PL+IMPF+3+SG
+hipotecá-los	hipotecar+V.ele.ACC.3.M.PL+INF
 hipotecarmo-los	hipotecar+V.ele.ACC.3.M.PL+INF+1+PL
 hipotecá-los	hipotecar+V.ele.ACC.3.M.PL+INF+1+SG
 hipotecarde-los	hipotecar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4000,6 +4031,7 @@ hipotecávei-lo	hipotecar+V.ele.ACC.3.M.SG+IMPF+2+PL
 hipotecava-lo	hipotecar+V.ele.ACC.3.M.SG+IMPF+2+SG
 hipotecavam-no	hipotecar+V.ele.ACC.3.M.SG+IMPF+3+PL
 hipotecava-o	hipotecar+V.ele.ACC.3.M.SG+IMPF+3+SG
+hipotecá-lo	hipotecar+V.ele.ACC.3.M.SG+INF
 hipotecarmo-lo	hipotecar+V.ele.ACC.3.M.SG+INF+1+PL
 hipotecá-lo	hipotecar+V.ele.ACC.3.M.SG+INF+1+SG
 hipotecarde-lo	hipotecar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4380,6 +4412,7 @@ homenageávei-las	homenagear+V.ele.ACC.3.F.PL+IMPF+2+PL
 homenageava-las	homenagear+V.ele.ACC.3.F.PL+IMPF+2+SG
 homenageavam-nas	homenagear+V.ele.ACC.3.F.PL+IMPF+3+PL
 homenageava-as	homenagear+V.ele.ACC.3.F.PL+IMPF+3+SG
+homenageá-las	homenagear+V.ele.ACC.3.F.PL+INF
 homenagearmo-las	homenagear+V.ele.ACC.3.F.PL+INF+1+PL
 homenageá-las	homenagear+V.ele.ACC.3.F.PL+INF+1+SG
 homenagearde-las	homenagear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4429,6 +4462,7 @@ homenageávei-la	homenagear+V.ele.ACC.3.F.SG+IMPF+2+PL
 homenageava-la	homenagear+V.ele.ACC.3.F.SG+IMPF+2+SG
 homenageavam-na	homenagear+V.ele.ACC.3.F.SG+IMPF+3+PL
 homenageava-a	homenagear+V.ele.ACC.3.F.SG+IMPF+3+SG
+homenageá-la	homenagear+V.ele.ACC.3.F.SG+INF
 homenagearmo-la	homenagear+V.ele.ACC.3.F.SG+INF+1+PL
 homenageá-la	homenagear+V.ele.ACC.3.F.SG+INF+1+SG
 homenagearde-la	homenagear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4478,6 +4512,7 @@ homenageávei-los	homenagear+V.ele.ACC.3.M.PL+IMPF+2+PL
 homenageava-los	homenagear+V.ele.ACC.3.M.PL+IMPF+2+SG
 homenageavam-nos	homenagear+V.ele.ACC.3.M.PL+IMPF+3+PL
 homenageava-os	homenagear+V.ele.ACC.3.M.PL+IMPF+3+SG
+homenageá-los	homenagear+V.ele.ACC.3.M.PL+INF
 homenagearmo-los	homenagear+V.ele.ACC.3.M.PL+INF+1+PL
 homenageá-los	homenagear+V.ele.ACC.3.M.PL+INF+1+SG
 homenagearde-los	homenagear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4527,6 +4562,7 @@ homenageávei-lo	homenagear+V.ele.ACC.3.M.SG+IMPF+2+PL
 homenageava-lo	homenagear+V.ele.ACC.3.M.SG+IMPF+2+SG
 homenageavam-no	homenagear+V.ele.ACC.3.M.SG+IMPF+3+PL
 homenageava-o	homenagear+V.ele.ACC.3.M.SG+IMPF+3+SG
+homenageá-lo	homenagear+V.ele.ACC.3.M.SG+INF
 homenagearmo-lo	homenagear+V.ele.ACC.3.M.SG+INF+1+PL
 homenageá-lo	homenagear+V.ele.ACC.3.M.SG+INF+1+SG
 homenagearde-lo	homenagear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4893,6 +4929,7 @@ homogeneizávei-las	homogeneizar+V.ele.ACC.3.F.PL+IMPF+2+PL
 homogeneizava-las	homogeneizar+V.ele.ACC.3.F.PL+IMPF+2+SG
 homogeneizavam-nas	homogeneizar+V.ele.ACC.3.F.PL+IMPF+3+PL
 homogeneizava-as	homogeneizar+V.ele.ACC.3.F.PL+IMPF+3+SG
+homogeneizá-las	homogeneizar+V.ele.ACC.3.F.PL+INF
 homogeneizarmo-las	homogeneizar+V.ele.ACC.3.F.PL+INF+1+PL
 homogeneizá-las	homogeneizar+V.ele.ACC.3.F.PL+INF+1+SG
 homogeneizarde-las	homogeneizar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4935,6 +4972,7 @@ homogeneizávei-la	homogeneizar+V.ele.ACC.3.F.SG+IMPF+2+PL
 homogeneizava-la	homogeneizar+V.ele.ACC.3.F.SG+IMPF+2+SG
 homogeneizavam-na	homogeneizar+V.ele.ACC.3.F.SG+IMPF+3+PL
 homogeneizava-a	homogeneizar+V.ele.ACC.3.F.SG+IMPF+3+SG
+homogeneizá-la	homogeneizar+V.ele.ACC.3.F.SG+INF
 homogeneizarmo-la	homogeneizar+V.ele.ACC.3.F.SG+INF+1+PL
 homogeneizá-la	homogeneizar+V.ele.ACC.3.F.SG+INF+1+SG
 homogeneizarde-la	homogeneizar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4977,6 +5015,7 @@ homogeneizávei-los	homogeneizar+V.ele.ACC.3.M.PL+IMPF+2+PL
 homogeneizava-los	homogeneizar+V.ele.ACC.3.M.PL+IMPF+2+SG
 homogeneizavam-nos	homogeneizar+V.ele.ACC.3.M.PL+IMPF+3+PL
 homogeneizava-os	homogeneizar+V.ele.ACC.3.M.PL+IMPF+3+SG
+homogeneizá-los	homogeneizar+V.ele.ACC.3.M.PL+INF
 homogeneizarmo-los	homogeneizar+V.ele.ACC.3.M.PL+INF+1+PL
 homogeneizá-los	homogeneizar+V.ele.ACC.3.M.PL+INF+1+SG
 homogeneizarde-los	homogeneizar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5019,6 +5058,7 @@ homogeneizávei-lo	homogeneizar+V.ele.ACC.3.M.SG+IMPF+2+PL
 homogeneizava-lo	homogeneizar+V.ele.ACC.3.M.SG+IMPF+2+SG
 homogeneizavam-no	homogeneizar+V.ele.ACC.3.M.SG+IMPF+3+PL
 homogeneizava-o	homogeneizar+V.ele.ACC.3.M.SG+IMPF+3+SG
+homogeneizá-lo	homogeneizar+V.ele.ACC.3.M.SG+INF
 homogeneizarmo-lo	homogeneizar+V.ele.ACC.3.M.SG+INF+1+PL
 homogeneizá-lo	homogeneizar+V.ele.ACC.3.M.SG+INF+1+SG
 homogeneizarde-lo	homogeneizar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5338,6 +5378,7 @@ honorificávei-las	honorificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 honorificava-las	honorificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 honorificavam-nas	honorificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 honorificava-as	honorificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+honorificá-las	honorificar+V.ele.ACC.3.F.PL+INF
 honorificarmo-las	honorificar+V.ele.ACC.3.F.PL+INF+1+PL
 honorificá-las	honorificar+V.ele.ACC.3.F.PL+INF+1+SG
 honorificarde-las	honorificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5389,6 +5430,7 @@ honorificávei-la	honorificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 honorificava-la	honorificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 honorificavam-na	honorificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 honorificava-a	honorificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+honorificá-la	honorificar+V.ele.ACC.3.F.SG+INF
 honorificarmo-la	honorificar+V.ele.ACC.3.F.SG+INF+1+PL
 honorificá-la	honorificar+V.ele.ACC.3.F.SG+INF+1+SG
 honorificarde-la	honorificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5440,6 +5482,7 @@ honorificávei-los	honorificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 honorificava-los	honorificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 honorificavam-nos	honorificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 honorificava-os	honorificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+honorificá-los	honorificar+V.ele.ACC.3.M.PL+INF
 honorificarmo-los	honorificar+V.ele.ACC.3.M.PL+INF+1+PL
 honorificá-los	honorificar+V.ele.ACC.3.M.PL+INF+1+SG
 honorificarde-los	honorificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5491,6 +5534,7 @@ honorificávei-lo	honorificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 honorificava-lo	honorificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 honorificavam-no	honorificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 honorificava-o	honorificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+honorificá-lo	honorificar+V.ele.ACC.3.M.SG+INF
 honorificarmo-lo	honorificar+V.ele.ACC.3.M.SG+INF+1+PL
 honorificá-lo	honorificar+V.ele.ACC.3.M.SG+INF+1+SG
 honorificarde-lo	honorificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6413,6 +6457,7 @@ humidificávei-las	humidificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 humidificava-las	humidificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 humidificavam-nas	humidificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 humidificava-as	humidificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+humidificá-las	humidificar+V.ele.ACC.3.F.PL+INF
 humidificarmo-las	humidificar+V.ele.ACC.3.F.PL+INF+1+PL
 humidificá-las	humidificar+V.ele.ACC.3.F.PL+INF+1+SG
 humidificarde-las	humidificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6464,6 +6509,7 @@ humidificávei-la	humidificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 humidificava-la	humidificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 humidificavam-na	humidificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 humidificava-a	humidificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+humidificá-la	humidificar+V.ele.ACC.3.F.SG+INF
 humidificarmo-la	humidificar+V.ele.ACC.3.F.SG+INF+1+PL
 humidificá-la	humidificar+V.ele.ACC.3.F.SG+INF+1+SG
 humidificarde-la	humidificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6515,6 +6561,7 @@ humidificávei-los	humidificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 humidificava-los	humidificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 humidificavam-nos	humidificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 humidificava-os	humidificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+humidificá-los	humidificar+V.ele.ACC.3.M.PL+INF
 humidificarmo-los	humidificar+V.ele.ACC.3.M.PL+INF+1+PL
 humidificá-los	humidificar+V.ele.ACC.3.M.PL+INF+1+SG
 humidificarde-los	humidificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6566,6 +6613,7 @@ humidificávei-lo	humidificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 humidificava-lo	humidificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 humidificavam-no	humidificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 humidificava-o	humidificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+humidificá-lo	humidificar+V.ele.ACC.3.M.SG+INF
 humidificarmo-lo	humidificar+V.ele.ACC.3.M.SG+INF+1+PL
 humidificá-lo	humidificar+V.ele.ACC.3.M.SG+INF+1+SG
 humidificarde-lo	humidificar+V.ele.ACC.3.M.SG+INF+2+PL

@@ -17,6 +17,7 @@ janoteávei-las	janotear+V.ele.ACC.3.F.PL+IMPF+2+PL
 janoteava-las	janotear+V.ele.ACC.3.F.PL+IMPF+2+SG
 janoteavam-nas	janotear+V.ele.ACC.3.F.PL+IMPF+3+PL
 janoteava-as	janotear+V.ele.ACC.3.F.PL+IMPF+3+SG
+janoteá-las	janotear+V.ele.ACC.3.F.PL+INF
 janotearmo-las	janotear+V.ele.ACC.3.F.PL+INF+1+PL
 janoteá-las	janotear+V.ele.ACC.3.F.PL+INF+1+SG
 janotearde-las	janotear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -66,6 +67,7 @@ janoteávei-la	janotear+V.ele.ACC.3.F.SG+IMPF+2+PL
 janoteava-la	janotear+V.ele.ACC.3.F.SG+IMPF+2+SG
 janoteavam-na	janotear+V.ele.ACC.3.F.SG+IMPF+3+PL
 janoteava-a	janotear+V.ele.ACC.3.F.SG+IMPF+3+SG
+janoteá-la	janotear+V.ele.ACC.3.F.SG+INF
 janotearmo-la	janotear+V.ele.ACC.3.F.SG+INF+1+PL
 janoteá-la	janotear+V.ele.ACC.3.F.SG+INF+1+SG
 janotearde-la	janotear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -115,6 +117,7 @@ janoteávei-los	janotear+V.ele.ACC.3.M.PL+IMPF+2+PL
 janoteava-los	janotear+V.ele.ACC.3.M.PL+IMPF+2+SG
 janoteavam-nos	janotear+V.ele.ACC.3.M.PL+IMPF+3+PL
 janoteava-os	janotear+V.ele.ACC.3.M.PL+IMPF+3+SG
+janoteá-los	janotear+V.ele.ACC.3.M.PL+INF
 janotearmo-los	janotear+V.ele.ACC.3.M.PL+INF+1+PL
 janoteá-los	janotear+V.ele.ACC.3.M.PL+INF+1+SG
 janotearde-los	janotear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -164,6 +167,7 @@ janoteávei-lo	janotear+V.ele.ACC.3.M.SG+IMPF+2+PL
 janoteava-lo	janotear+V.ele.ACC.3.M.SG+IMPF+2+SG
 janoteavam-no	janotear+V.ele.ACC.3.M.SG+IMPF+3+PL
 janoteava-o	janotear+V.ele.ACC.3.M.SG+IMPF+3+SG
+janoteá-lo	janotear+V.ele.ACC.3.M.SG+INF
 janotearmo-lo	janotear+V.ele.ACC.3.M.SG+INF+1+PL
 janoteá-lo	janotear+V.ele.ACC.3.M.SG+INF+1+SG
 janotearde-lo	janotear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -531,6 +535,7 @@ jarreávei-las	jarrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 jarreava-las	jarrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 jarreavam-nas	jarrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 jarreava-as	jarrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+jarreá-las	jarrear+V.ele.ACC.3.F.PL+INF
 jarrearmo-las	jarrear+V.ele.ACC.3.F.PL+INF+1+PL
 jarreá-las	jarrear+V.ele.ACC.3.F.PL+INF+1+SG
 jarrearde-las	jarrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -580,6 +585,7 @@ jarreávei-la	jarrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 jarreava-la	jarrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 jarreavam-na	jarrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 jarreava-a	jarrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+jarreá-la	jarrear+V.ele.ACC.3.F.SG+INF
 jarrearmo-la	jarrear+V.ele.ACC.3.F.SG+INF+1+PL
 jarreá-la	jarrear+V.ele.ACC.3.F.SG+INF+1+SG
 jarrearde-la	jarrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -629,6 +635,7 @@ jarreávei-los	jarrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 jarreava-los	jarrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 jarreavam-nos	jarrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 jarreava-os	jarrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+jarreá-los	jarrear+V.ele.ACC.3.M.PL+INF
 jarrearmo-los	jarrear+V.ele.ACC.3.M.PL+INF+1+PL
 jarreá-los	jarrear+V.ele.ACC.3.M.PL+INF+1+SG
 jarrearde-los	jarrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -678,6 +685,7 @@ jarreávei-lo	jarrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 jarreava-lo	jarrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 jarreavam-no	jarrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 jarreava-o	jarrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+jarreá-lo	jarrear+V.ele.ACC.3.M.SG+INF
 jarrearmo-lo	jarrear+V.ele.ACC.3.M.SG+INF+1+PL
 jarreá-lo	jarrear+V.ele.ACC.3.M.SG+INF+1+SG
 jarrearde-lo	jarrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1045,6 +1053,7 @@ jarreteávei-las	jarretear+V.ele.ACC.3.F.PL+IMPF+2+PL
 jarreteava-las	jarretear+V.ele.ACC.3.F.PL+IMPF+2+SG
 jarreteavam-nas	jarretear+V.ele.ACC.3.F.PL+IMPF+3+PL
 jarreteava-as	jarretear+V.ele.ACC.3.F.PL+IMPF+3+SG
+jarreteá-las	jarretear+V.ele.ACC.3.F.PL+INF
 jarretearmo-las	jarretear+V.ele.ACC.3.F.PL+INF+1+PL
 jarreteá-las	jarretear+V.ele.ACC.3.F.PL+INF+1+SG
 jarretearde-las	jarretear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1094,6 +1103,7 @@ jarreteávei-la	jarretear+V.ele.ACC.3.F.SG+IMPF+2+PL
 jarreteava-la	jarretear+V.ele.ACC.3.F.SG+IMPF+2+SG
 jarreteavam-na	jarretear+V.ele.ACC.3.F.SG+IMPF+3+PL
 jarreteava-a	jarretear+V.ele.ACC.3.F.SG+IMPF+3+SG
+jarreteá-la	jarretear+V.ele.ACC.3.F.SG+INF
 jarretearmo-la	jarretear+V.ele.ACC.3.F.SG+INF+1+PL
 jarreteá-la	jarretear+V.ele.ACC.3.F.SG+INF+1+SG
 jarretearde-la	jarretear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1143,6 +1153,7 @@ jarreteávei-los	jarretear+V.ele.ACC.3.M.PL+IMPF+2+PL
 jarreteava-los	jarretear+V.ele.ACC.3.M.PL+IMPF+2+SG
 jarreteavam-nos	jarretear+V.ele.ACC.3.M.PL+IMPF+3+PL
 jarreteava-os	jarretear+V.ele.ACC.3.M.PL+IMPF+3+SG
+jarreteá-los	jarretear+V.ele.ACC.3.M.PL+INF
 jarretearmo-los	jarretear+V.ele.ACC.3.M.PL+INF+1+PL
 jarreteá-los	jarretear+V.ele.ACC.3.M.PL+INF+1+SG
 jarretearde-los	jarretear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1192,6 +1203,7 @@ jarreteávei-lo	jarretear+V.ele.ACC.3.M.SG+IMPF+2+PL
 jarreteava-lo	jarretear+V.ele.ACC.3.M.SG+IMPF+2+SG
 jarreteavam-no	jarretear+V.ele.ACC.3.M.SG+IMPF+3+PL
 jarreteava-o	jarretear+V.ele.ACC.3.M.SG+IMPF+3+SG
+jarreteá-lo	jarretear+V.ele.ACC.3.M.SG+INF
 jarretearmo-lo	jarretear+V.ele.ACC.3.M.SG+INF+1+PL
 jarreteá-lo	jarretear+V.ele.ACC.3.M.SG+INF+1+SG
 jarretearde-lo	jarretear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1559,6 +1571,7 @@ jaspeávei-las	jaspear+V.ele.ACC.3.F.PL+IMPF+2+PL
 jaspeava-las	jaspear+V.ele.ACC.3.F.PL+IMPF+2+SG
 jaspeavam-nas	jaspear+V.ele.ACC.3.F.PL+IMPF+3+PL
 jaspeava-as	jaspear+V.ele.ACC.3.F.PL+IMPF+3+SG
+jaspeá-las	jaspear+V.ele.ACC.3.F.PL+INF
 jaspearmo-las	jaspear+V.ele.ACC.3.F.PL+INF+1+PL
 jaspeá-las	jaspear+V.ele.ACC.3.F.PL+INF+1+SG
 jaspearde-las	jaspear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1608,6 +1621,7 @@ jaspeávei-la	jaspear+V.ele.ACC.3.F.SG+IMPF+2+PL
 jaspeava-la	jaspear+V.ele.ACC.3.F.SG+IMPF+2+SG
 jaspeavam-na	jaspear+V.ele.ACC.3.F.SG+IMPF+3+PL
 jaspeava-a	jaspear+V.ele.ACC.3.F.SG+IMPF+3+SG
+jaspeá-la	jaspear+V.ele.ACC.3.F.SG+INF
 jaspearmo-la	jaspear+V.ele.ACC.3.F.SG+INF+1+PL
 jaspeá-la	jaspear+V.ele.ACC.3.F.SG+INF+1+SG
 jaspearde-la	jaspear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1657,6 +1671,7 @@ jaspeávei-los	jaspear+V.ele.ACC.3.M.PL+IMPF+2+PL
 jaspeava-los	jaspear+V.ele.ACC.3.M.PL+IMPF+2+SG
 jaspeavam-nos	jaspear+V.ele.ACC.3.M.PL+IMPF+3+PL
 jaspeava-os	jaspear+V.ele.ACC.3.M.PL+IMPF+3+SG
+jaspeá-los	jaspear+V.ele.ACC.3.M.PL+INF
 jaspearmo-los	jaspear+V.ele.ACC.3.M.PL+INF+1+PL
 jaspeá-los	jaspear+V.ele.ACC.3.M.PL+INF+1+SG
 jaspearde-los	jaspear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1706,6 +1721,7 @@ jaspeávei-lo	jaspear+V.ele.ACC.3.M.SG+IMPF+2+PL
 jaspeava-lo	jaspear+V.ele.ACC.3.M.SG+IMPF+2+SG
 jaspeavam-no	jaspear+V.ele.ACC.3.M.SG+IMPF+3+PL
 jaspeava-o	jaspear+V.ele.ACC.3.M.SG+IMPF+3+SG
+jaspeá-lo	jaspear+V.ele.ACC.3.M.SG+INF
 jaspearmo-lo	jaspear+V.ele.ACC.3.M.SG+INF+1+PL
 jaspeá-lo	jaspear+V.ele.ACC.3.M.SG+INF+1+SG
 jaspearde-lo	jaspear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2054,10 +2070,6 @@ jaspeardes-vos	jaspear+V.vós.AD.2.PL+SBJF+2+PL
 jaspeares-vos	jaspear+V.vós.AD.2.PL+SBJF+2+SG
 jaspearem-vos	jaspear+V.vós.AD.2.PL+SBJF+3+PL
 jaspear-vos	jaspear+V.vós.AD.2.PL+SBJF+3+SG
-jazê-las	jazer+V.ele.ACC.3.F.PL+INF
-jazê-la	jazer+V.ele.ACC.3.F.SG+INF
-jazê-los	jazer+V.ele.ACC.3.M.PL+INF
-jazê-lo	jazer+V.ele.ACC.3.M.SG+INF
 jiboiá-las-íamos	jiboiar+V.ele.ACC.3.F.PL+COND+1+PL
 jiboiá-las-ia	jiboiar+V.ele.ACC.3.F.PL+COND+1+SG
 jiboiá-las-íeis	jiboiar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -2080,6 +2092,7 @@ jiboiávei-las	jiboiar+V.ele.ACC.3.F.PL+IMPF+2+PL
 jiboiava-las	jiboiar+V.ele.ACC.3.F.PL+IMPF+2+SG
 jiboiavam-nas	jiboiar+V.ele.ACC.3.F.PL+IMPF+3+PL
 jiboiava-as	jiboiar+V.ele.ACC.3.F.PL+IMPF+3+SG
+jiboiá-las	jiboiar+V.ele.ACC.3.F.PL+INF
 jiboiarmo-las	jiboiar+V.ele.ACC.3.F.PL+INF+1+PL
 jiboiá-las	jiboiar+V.ele.ACC.3.F.PL+INF+1+SG
 jiboiarde-las	jiboiar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2132,6 +2145,7 @@ jiboiávei-la	jiboiar+V.ele.ACC.3.F.SG+IMPF+2+PL
 jiboiava-la	jiboiar+V.ele.ACC.3.F.SG+IMPF+2+SG
 jiboiavam-na	jiboiar+V.ele.ACC.3.F.SG+IMPF+3+PL
 jiboiava-a	jiboiar+V.ele.ACC.3.F.SG+IMPF+3+SG
+jiboiá-la	jiboiar+V.ele.ACC.3.F.SG+INF
 jiboiarmo-la	jiboiar+V.ele.ACC.3.F.SG+INF+1+PL
 jiboiá-la	jiboiar+V.ele.ACC.3.F.SG+INF+1+SG
 jiboiarde-la	jiboiar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2184,6 +2198,7 @@ jiboiávei-los	jiboiar+V.ele.ACC.3.M.PL+IMPF+2+PL
 jiboiava-los	jiboiar+V.ele.ACC.3.M.PL+IMPF+2+SG
 jiboiavam-nos	jiboiar+V.ele.ACC.3.M.PL+IMPF+3+PL
 jiboiava-os	jiboiar+V.ele.ACC.3.M.PL+IMPF+3+SG
+jiboiá-los	jiboiar+V.ele.ACC.3.M.PL+INF
 jiboiarmo-los	jiboiar+V.ele.ACC.3.M.PL+INF+1+PL
 jiboiá-los	jiboiar+V.ele.ACC.3.M.PL+INF+1+SG
 jiboiarde-los	jiboiar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2236,6 +2251,7 @@ jiboiávei-lo	jiboiar+V.ele.ACC.3.M.SG+IMPF+2+PL
 jiboiava-lo	jiboiar+V.ele.ACC.3.M.SG+IMPF+2+SG
 jiboiavam-no	jiboiar+V.ele.ACC.3.M.SG+IMPF+3+PL
 jiboiava-o	jiboiar+V.ele.ACC.3.M.SG+IMPF+3+SG
+jiboiá-lo	jiboiar+V.ele.ACC.3.M.SG+INF
 jiboiarmo-lo	jiboiar+V.ele.ACC.3.M.SG+INF+1+PL
 jiboiá-lo	jiboiar+V.ele.ACC.3.M.SG+INF+1+SG
 jiboiarde-lo	jiboiar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2623,6 +2639,7 @@ jogueteávei-las	joguetear+V.ele.ACC.3.F.PL+IMPF+2+PL
 jogueteava-las	joguetear+V.ele.ACC.3.F.PL+IMPF+2+SG
 jogueteavam-nas	joguetear+V.ele.ACC.3.F.PL+IMPF+3+PL
 jogueteava-as	joguetear+V.ele.ACC.3.F.PL+IMPF+3+SG
+jogueteá-las	joguetear+V.ele.ACC.3.F.PL+INF
 joguetearmo-las	joguetear+V.ele.ACC.3.F.PL+INF+1+PL
 jogueteá-las	joguetear+V.ele.ACC.3.F.PL+INF+1+SG
 joguetearde-las	joguetear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2672,6 +2689,7 @@ jogueteávei-la	joguetear+V.ele.ACC.3.F.SG+IMPF+2+PL
 jogueteava-la	joguetear+V.ele.ACC.3.F.SG+IMPF+2+SG
 jogueteavam-na	joguetear+V.ele.ACC.3.F.SG+IMPF+3+PL
 jogueteava-a	joguetear+V.ele.ACC.3.F.SG+IMPF+3+SG
+jogueteá-la	joguetear+V.ele.ACC.3.F.SG+INF
 joguetearmo-la	joguetear+V.ele.ACC.3.F.SG+INF+1+PL
 jogueteá-la	joguetear+V.ele.ACC.3.F.SG+INF+1+SG
 joguetearde-la	joguetear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2721,6 +2739,7 @@ jogueteávei-los	joguetear+V.ele.ACC.3.M.PL+IMPF+2+PL
 jogueteava-los	joguetear+V.ele.ACC.3.M.PL+IMPF+2+SG
 jogueteavam-nos	joguetear+V.ele.ACC.3.M.PL+IMPF+3+PL
 jogueteava-os	joguetear+V.ele.ACC.3.M.PL+IMPF+3+SG
+jogueteá-los	joguetear+V.ele.ACC.3.M.PL+INF
 joguetearmo-los	joguetear+V.ele.ACC.3.M.PL+INF+1+PL
 jogueteá-los	joguetear+V.ele.ACC.3.M.PL+INF+1+SG
 joguetearde-los	joguetear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2770,6 +2789,7 @@ jogueteávei-lo	joguetear+V.ele.ACC.3.M.SG+IMPF+2+PL
 jogueteava-lo	joguetear+V.ele.ACC.3.M.SG+IMPF+2+SG
 jogueteavam-no	joguetear+V.ele.ACC.3.M.SG+IMPF+3+PL
 jogueteava-o	joguetear+V.ele.ACC.3.M.SG+IMPF+3+SG
+jogueteá-lo	joguetear+V.ele.ACC.3.M.SG+INF
 joguetearmo-lo	joguetear+V.ele.ACC.3.M.SG+INF+1+PL
 jogueteá-lo	joguetear+V.ele.ACC.3.M.SG+INF+1+SG
 joguetearde-lo	joguetear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3137,6 +3157,7 @@ jornadeávei-las	jornadear+V.ele.ACC.3.F.PL+IMPF+2+PL
 jornadeava-las	jornadear+V.ele.ACC.3.F.PL+IMPF+2+SG
 jornadeavam-nas	jornadear+V.ele.ACC.3.F.PL+IMPF+3+PL
 jornadeava-as	jornadear+V.ele.ACC.3.F.PL+IMPF+3+SG
+jornadeá-las	jornadear+V.ele.ACC.3.F.PL+INF
 jornadearmo-las	jornadear+V.ele.ACC.3.F.PL+INF+1+PL
 jornadeá-las	jornadear+V.ele.ACC.3.F.PL+INF+1+SG
 jornadearde-las	jornadear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3186,6 +3207,7 @@ jornadeávei-la	jornadear+V.ele.ACC.3.F.SG+IMPF+2+PL
 jornadeava-la	jornadear+V.ele.ACC.3.F.SG+IMPF+2+SG
 jornadeavam-na	jornadear+V.ele.ACC.3.F.SG+IMPF+3+PL
 jornadeava-a	jornadear+V.ele.ACC.3.F.SG+IMPF+3+SG
+jornadeá-la	jornadear+V.ele.ACC.3.F.SG+INF
 jornadearmo-la	jornadear+V.ele.ACC.3.F.SG+INF+1+PL
 jornadeá-la	jornadear+V.ele.ACC.3.F.SG+INF+1+SG
 jornadearde-la	jornadear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3235,6 +3257,7 @@ jornadeávei-los	jornadear+V.ele.ACC.3.M.PL+IMPF+2+PL
 jornadeava-los	jornadear+V.ele.ACC.3.M.PL+IMPF+2+SG
 jornadeavam-nos	jornadear+V.ele.ACC.3.M.PL+IMPF+3+PL
 jornadeava-os	jornadear+V.ele.ACC.3.M.PL+IMPF+3+SG
+jornadeá-los	jornadear+V.ele.ACC.3.M.PL+INF
 jornadearmo-los	jornadear+V.ele.ACC.3.M.PL+INF+1+PL
 jornadeá-los	jornadear+V.ele.ACC.3.M.PL+INF+1+SG
 jornadearde-los	jornadear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3284,6 +3307,7 @@ jornadeávei-lo	jornadear+V.ele.ACC.3.M.SG+IMPF+2+PL
 jornadeava-lo	jornadear+V.ele.ACC.3.M.SG+IMPF+2+SG
 jornadeavam-no	jornadear+V.ele.ACC.3.M.SG+IMPF+3+PL
 jornadeava-o	jornadear+V.ele.ACC.3.M.SG+IMPF+3+SG
+jornadeá-lo	jornadear+V.ele.ACC.3.M.SG+INF
 jornadearmo-lo	jornadear+V.ele.ACC.3.M.SG+INF+1+PL
 jornadeá-lo	jornadear+V.ele.ACC.3.M.SG+INF+1+SG
 jornadearde-lo	jornadear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3650,6 +3674,7 @@ judaizávei-las	judaizar+V.ele.ACC.3.F.PL+IMPF+2+PL
 judaizava-las	judaizar+V.ele.ACC.3.F.PL+IMPF+2+SG
 judaizavam-nas	judaizar+V.ele.ACC.3.F.PL+IMPF+3+PL
 judaizava-as	judaizar+V.ele.ACC.3.F.PL+IMPF+3+SG
+judaizá-las	judaizar+V.ele.ACC.3.F.PL+INF
 judaizarmo-las	judaizar+V.ele.ACC.3.F.PL+INF+1+PL
 judaizá-las	judaizar+V.ele.ACC.3.F.PL+INF+1+SG
 judaizarde-las	judaizar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3692,6 +3717,7 @@ judaizávei-la	judaizar+V.ele.ACC.3.F.SG+IMPF+2+PL
 judaizava-la	judaizar+V.ele.ACC.3.F.SG+IMPF+2+SG
 judaizavam-na	judaizar+V.ele.ACC.3.F.SG+IMPF+3+PL
 judaizava-a	judaizar+V.ele.ACC.3.F.SG+IMPF+3+SG
+judaizá-la	judaizar+V.ele.ACC.3.F.SG+INF
 judaizarmo-la	judaizar+V.ele.ACC.3.F.SG+INF+1+PL
 judaizá-la	judaizar+V.ele.ACC.3.F.SG+INF+1+SG
 judaizarde-la	judaizar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3734,6 +3760,7 @@ judaizávei-los	judaizar+V.ele.ACC.3.M.PL+IMPF+2+PL
 judaizava-los	judaizar+V.ele.ACC.3.M.PL+IMPF+2+SG
 judaizavam-nos	judaizar+V.ele.ACC.3.M.PL+IMPF+3+PL
 judaizava-os	judaizar+V.ele.ACC.3.M.PL+IMPF+3+SG
+judaizá-los	judaizar+V.ele.ACC.3.M.PL+INF
 judaizarmo-los	judaizar+V.ele.ACC.3.M.PL+INF+1+PL
 judaizá-los	judaizar+V.ele.ACC.3.M.PL+INF+1+SG
 judaizarde-los	judaizar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3776,6 +3803,7 @@ judaizávei-lo	judaizar+V.ele.ACC.3.M.SG+IMPF+2+PL
 judaizava-lo	judaizar+V.ele.ACC.3.M.SG+IMPF+2+SG
 judaizavam-no	judaizar+V.ele.ACC.3.M.SG+IMPF+3+PL
 judaizava-o	judaizar+V.ele.ACC.3.M.SG+IMPF+3+SG
+judaizá-lo	judaizar+V.ele.ACC.3.M.SG+INF
 judaizarmo-lo	judaizar+V.ele.ACC.3.M.SG+INF+1+PL
 judaizá-lo	judaizar+V.ele.ACC.3.M.SG+INF+1+SG
 judaizarde-lo	judaizar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4095,6 +4123,7 @@ juncávei-las	juncar+V.ele.ACC.3.F.PL+IMPF+2+PL
 juncava-las	juncar+V.ele.ACC.3.F.PL+IMPF+2+SG
 juncavam-nas	juncar+V.ele.ACC.3.F.PL+IMPF+3+PL
 juncava-as	juncar+V.ele.ACC.3.F.PL+IMPF+3+SG
+juncá-las	juncar+V.ele.ACC.3.F.PL+INF
 juncarmo-las	juncar+V.ele.ACC.3.F.PL+INF+1+PL
 juncá-las	juncar+V.ele.ACC.3.F.PL+INF+1+SG
 juncarde-las	juncar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4146,6 +4175,7 @@ juncávei-la	juncar+V.ele.ACC.3.F.SG+IMPF+2+PL
 juncava-la	juncar+V.ele.ACC.3.F.SG+IMPF+2+SG
 juncavam-na	juncar+V.ele.ACC.3.F.SG+IMPF+3+PL
 juncava-a	juncar+V.ele.ACC.3.F.SG+IMPF+3+SG
+juncá-la	juncar+V.ele.ACC.3.F.SG+INF
 juncarmo-la	juncar+V.ele.ACC.3.F.SG+INF+1+PL
 juncá-la	juncar+V.ele.ACC.3.F.SG+INF+1+SG
 juncarde-la	juncar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4197,6 +4227,7 @@ juncávei-los	juncar+V.ele.ACC.3.M.PL+IMPF+2+PL
 juncava-los	juncar+V.ele.ACC.3.M.PL+IMPF+2+SG
 juncavam-nos	juncar+V.ele.ACC.3.M.PL+IMPF+3+PL
 juncava-os	juncar+V.ele.ACC.3.M.PL+IMPF+3+SG
+juncá-los	juncar+V.ele.ACC.3.M.PL+INF
 juncarmo-los	juncar+V.ele.ACC.3.M.PL+INF+1+PL
 juncá-los	juncar+V.ele.ACC.3.M.PL+INF+1+SG
 juncarde-los	juncar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4248,6 +4279,7 @@ juncávei-lo	juncar+V.ele.ACC.3.M.SG+IMPF+2+PL
 juncava-lo	juncar+V.ele.ACC.3.M.SG+IMPF+2+SG
 juncavam-no	juncar+V.ele.ACC.3.M.SG+IMPF+3+PL
 juncava-o	juncar+V.ele.ACC.3.M.SG+IMPF+3+SG
+juncá-lo	juncar+V.ele.ACC.3.M.SG+INF
 juncarmo-lo	juncar+V.ele.ACC.3.M.SG+INF+1+PL
 juncá-lo	juncar+V.ele.ACC.3.M.SG+INF+1+SG
 juncarde-lo	juncar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4631,6 +4663,7 @@ jungíei-las	jungir+V.ele.ACC.3.F.PL+IMPF+2+PL
 jungia-las	jungir+V.ele.ACC.3.F.PL+IMPF+2+SG
 jungiam-nas	jungir+V.ele.ACC.3.F.PL+IMPF+3+PL
 jungia-as	jungir+V.ele.ACC.3.F.PL+IMPF+3+SG
+jungi-las	jungir+V.ele.ACC.3.F.PL+INF
 jungirmo-las	jungir+V.ele.ACC.3.F.PL+INF+1+PL
 jungi-las	jungir+V.ele.ACC.3.F.PL+INF+1+SG
 jungirde-las	jungir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4677,6 +4710,7 @@ jungíei-la	jungir+V.ele.ACC.3.F.SG+IMPF+2+PL
 jungia-la	jungir+V.ele.ACC.3.F.SG+IMPF+2+SG
 jungiam-na	jungir+V.ele.ACC.3.F.SG+IMPF+3+PL
 jungia-a	jungir+V.ele.ACC.3.F.SG+IMPF+3+SG
+jungi-la	jungir+V.ele.ACC.3.F.SG+INF
 jungirmo-la	jungir+V.ele.ACC.3.F.SG+INF+1+PL
 jungi-la	jungir+V.ele.ACC.3.F.SG+INF+1+SG
 jungirde-la	jungir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4723,6 +4757,7 @@ jungíei-los	jungir+V.ele.ACC.3.M.PL+IMPF+2+PL
 jungia-los	jungir+V.ele.ACC.3.M.PL+IMPF+2+SG
 jungiam-nos	jungir+V.ele.ACC.3.M.PL+IMPF+3+PL
 jungia-os	jungir+V.ele.ACC.3.M.PL+IMPF+3+SG
+jungi-los	jungir+V.ele.ACC.3.M.PL+INF
 jungirmo-los	jungir+V.ele.ACC.3.M.PL+INF+1+PL
 jungi-los	jungir+V.ele.ACC.3.M.PL+INF+1+SG
 jungirde-los	jungir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4769,6 +4804,7 @@ jungíei-lo	jungir+V.ele.ACC.3.M.SG+IMPF+2+PL
 jungia-lo	jungir+V.ele.ACC.3.M.SG+IMPF+2+SG
 jungiam-no	jungir+V.ele.ACC.3.M.SG+IMPF+3+PL
 jungia-o	jungir+V.ele.ACC.3.M.SG+IMPF+3+SG
+jungi-lo	jungir+V.ele.ACC.3.M.SG+INF
 jungirmo-lo	jungir+V.ele.ACC.3.M.SG+INF+1+PL
 jungi-lo	jungir+V.ele.ACC.3.M.SG+INF+1+SG
 jungirde-lo	jungir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5116,6 +5152,7 @@ justapúnhei-las	justapor+V.ele.ACC.3.F.PL+IMPF+2+PL
 justapunha-las	justapor+V.ele.ACC.3.F.PL+IMPF+2+SG
 justapunham-nas	justapor+V.ele.ACC.3.F.PL+IMPF+3+PL
 justapunha-as	justapor+V.ele.ACC.3.F.PL+IMPF+3+SG
+justapô-las	justapor+V.ele.ACC.3.F.PL+INF
 justapô-las	justapor+V.ele.ACC.3.F.PL+INF+1+SG
 justapô-las	justapor+V.ele.ACC.3.F.PL+INF+3+SG
 justapuséramo-las	justapor+V.ele.ACC.3.F.PL+PQP+1+PL
@@ -5164,6 +5201,7 @@ justapúnhei-la	justapor+V.ele.ACC.3.F.SG+IMPF+2+PL
 justapunha-la	justapor+V.ele.ACC.3.F.SG+IMPF+2+SG
 justapunham-na	justapor+V.ele.ACC.3.F.SG+IMPF+3+PL
 justapunha-a	justapor+V.ele.ACC.3.F.SG+IMPF+3+SG
+justapô-la	justapor+V.ele.ACC.3.F.SG+INF
 justapô-la	justapor+V.ele.ACC.3.F.SG+INF+1+SG
 justapô-la	justapor+V.ele.ACC.3.F.SG+INF+3+SG
 justapuséramo-la	justapor+V.ele.ACC.3.F.SG+PQP+1+PL
@@ -5212,6 +5250,7 @@ justapúnhei-los	justapor+V.ele.ACC.3.M.PL+IMPF+2+PL
 justapunha-los	justapor+V.ele.ACC.3.M.PL+IMPF+2+SG
 justapunham-nos	justapor+V.ele.ACC.3.M.PL+IMPF+3+PL
 justapunha-os	justapor+V.ele.ACC.3.M.PL+IMPF+3+SG
+justapô-los	justapor+V.ele.ACC.3.M.PL+INF
 justapô-los	justapor+V.ele.ACC.3.M.PL+INF+1+SG
 justaporem-nos	justapor+V.ele.ACC.3.M.PL+INF+3+PL
 justapô-los	justapor+V.ele.ACC.3.M.PL+INF+3+SG
@@ -5260,6 +5299,7 @@ justapúnhei-lo	justapor+V.ele.ACC.3.M.SG+IMPF+2+PL
 justapunha-lo	justapor+V.ele.ACC.3.M.SG+IMPF+2+SG
 justapunham-no	justapor+V.ele.ACC.3.M.SG+IMPF+3+PL
 justapunha-o	justapor+V.ele.ACC.3.M.SG+IMPF+3+SG
+justapô-lo	justapor+V.ele.ACC.3.M.SG+INF
 justapô-lo	justapor+V.ele.ACC.3.M.SG+INF+1+SG
 justapô-lo	justapor+V.ele.ACC.3.M.SG+INF+3+SG
 justapuséramo-lo	justapor+V.ele.ACC.3.M.SG+PQP+1+PL
@@ -5646,6 +5686,7 @@ justificávei-las	justificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 justificava-las	justificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 justificavam-nas	justificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 justificava-as	justificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+justificá-las	justificar+V.ele.ACC.3.F.PL+INF
 justificarmo-las	justificar+V.ele.ACC.3.F.PL+INF+1+PL
 justificá-las	justificar+V.ele.ACC.3.F.PL+INF+1+SG
 justificarde-las	justificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5697,6 +5738,7 @@ justificávei-la	justificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 justificava-la	justificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 justificavam-na	justificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 justificava-a	justificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+justificá-la	justificar+V.ele.ACC.3.F.SG+INF
 justificarmo-la	justificar+V.ele.ACC.3.F.SG+INF+1+PL
 justificá-la	justificar+V.ele.ACC.3.F.SG+INF+1+SG
 justificarde-la	justificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5748,6 +5790,7 @@ justificávei-los	justificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 justificava-los	justificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 justificavam-nos	justificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 justificava-os	justificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+justificá-los	justificar+V.ele.ACC.3.M.PL+INF
 justificarmo-los	justificar+V.ele.ACC.3.M.PL+INF+1+PL
 justificá-los	justificar+V.ele.ACC.3.M.PL+INF+1+SG
 justificarde-los	justificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5799,6 +5842,7 @@ justificávei-lo	justificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 justificava-lo	justificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 justificavam-no	justificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 justificava-o	justificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+justificá-lo	justificar+V.ele.ACC.3.M.SG+INF
 justificarmo-lo	justificar+V.ele.ACC.3.M.SG+INF+1+PL
 justificá-lo	justificar+V.ele.ACC.3.M.SG+INF+1+SG
 justificarde-lo	justificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6182,6 +6226,7 @@ justiçávei-las	justiçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 justiçava-las	justiçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 justiçavam-nas	justiçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 justiçava-as	justiçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+justiçá-las	justiçar+V.ele.ACC.3.F.PL+INF
 justiçarmo-las	justiçar+V.ele.ACC.3.F.PL+INF+1+PL
 justiçá-las	justiçar+V.ele.ACC.3.F.PL+INF+1+SG
 justiçarde-las	justiçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6233,6 +6278,7 @@ justiçávei-la	justiçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 justiçava-la	justiçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 justiçavam-na	justiçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 justiçava-a	justiçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+justiçá-la	justiçar+V.ele.ACC.3.F.SG+INF
 justiçarmo-la	justiçar+V.ele.ACC.3.F.SG+INF+1+PL
 justiçá-la	justiçar+V.ele.ACC.3.F.SG+INF+1+SG
 justiçarde-la	justiçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6283,6 +6329,7 @@ justiçava-os	justiçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 justiçávei-los	justiçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 justiçava-los	justiçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 justiçava-os	justiçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+justiçá-los	justiçar+V.ele.ACC.3.M.PL+INF
 justiçarmo-los	justiçar+V.ele.ACC.3.M.PL+INF+1+PL
 justiçá-los	justiçar+V.ele.ACC.3.M.PL+INF+1+SG
 justiçarde-los	justiçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6329,6 +6376,7 @@ justiçávei-lo	justiçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 justiçava-lo	justiçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 justiçavam-no	justiçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 justiçava-o	justiçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+justiçá-lo	justiçar+V.ele.ACC.3.M.SG+INF
 justiçarmo-lo	justiçar+V.ele.ACC.3.M.SG+INF+1+PL
 justiçá-lo	justiçar+V.ele.ACC.3.M.SG+INF+1+SG
 justiçarde-lo	justiçar+V.ele.ACC.3.M.SG+INF+2+PL
