@@ -36,6 +36,15 @@ read spaced-text tmp/dim.stxt
 define dims ;
 clear stack
 
-regex  nouns | dims | verbs | verbRules | clitics | adjs | advs;
+! Formas com clíticos geradas por regras (rules/clitics.foma +
+! lexicon/clitics/, ver #165) sobre os verbos regulares e irregulares.
+define VerbAn [verbs | verbRules].i ;
+read text lexicon/clitics/verbs.tsv
+define CliticLemmas ;
+clear stack
+source rules/clitics.foma
+define clitRules Clitic.i ;
+
+regex  nouns | dims | verbs | verbRules | clitics | clitRules | adjs | advs;
 save stack morphobr.bin
 
