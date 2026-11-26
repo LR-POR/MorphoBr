@@ -24,14 +24,12 @@ concurrency:
 env:
   FOMA_REPO: https://github.com/arademaker/foma
   FOMA_REF: cc6da1fed97f245b2dc6d24105c81154a3627e37
-  FOMA: ${{ github.workspace }}/../foma-src/foma/build/foma
-  FLOOKUP: ${{ github.workspace }}/../foma-src/foma/build/flookup
 
 jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Ordem canônica dos dicionários e das listas de lemas
         run: tools/canonicalize.sh --check
 
@@ -40,25 +38,28 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
       - name: Dependências do sistema
-        run: sudo apt-get update && sudo apt-get install -y bison flex libreadline-dev zlib1g-dev
+        run: |
+          sudo apt-get update && sudo apt-get install -y bison flex libreadline-dev zlib1g-dev
+          echo "FOMA=$HOME/foma-src/foma/build/foma" >> "$GITHUB_ENV"
+          echo "FLOOKUP=$HOME/foma-src/foma/build/flookup" >> "$GITHUB_ENV"
 
       - name: Cache do foma
         id: foma-cache
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
-          path: ${{ github.workspace }}/../foma-src
+          path: ~/foma-src
           key: foma-${{ runner.os }}-${{ env.FOMA_REF }}
 
       - name: Compila o foma (pilha dinâmica)
         if: steps.foma-cache.outputs.cache-hit != 'true'
         run: |
-          git clone "$FOMA_REPO" ../foma-src
-          cd ../foma-src
+          git clone "$FOMA_REPO" ~/foma-src
+          cd ~/foma-src
           git checkout "$FOMA_REF"
           cmake -S foma -B foma/build -DCMAKE_BUILD_TYPE=Release
           cmake --build foma/build -j "$(nproc)"
@@ -70,7 +71,7 @@ jobs:
           stack-no-global: true
 
       - name: Cache do stack
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: |
             ~/.stack
@@ -99,7 +100,7 @@ jobs:
           check comprei-o comprar+V.ele.ACC.3.M.SG+PRF+1+SG  # clítico
 
       - name: Publica o transdutor
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: morphobr.bin
           path: morphobr.bin
@@ -108,44 +109,45 @@ jobs:
       - name: Diferença no léxico em relação à base
         if: github.event_name == 'pull_request'
         run: |
-          tools/expand.sh > ../after.txt
-          git worktree add ../base "${{ github.event.pull_request.base.sha }}"
-          if [ -x ../base/tools/expand.sh ]; then
-            (cd ../base && tools/expand.sh > ../before.txt)
+          T="$RUNNER_TEMP"
+          tools/expand.sh > "$T/after.txt"
+          git worktree add "$T/base" "${{ github.event.pull_request.base.sha }}"
+          if [ -x "$T/base/tools/expand.sh" ]; then
+            (cd "$T/base" && tools/expand.sh > "$T/before.txt")
           else
-            cat ../base/{nouns,verbs,clitics,adjectives,adverbs}/*.dict | LC_ALL=C sort -u > ../before.txt
+            cat "$T"/base/{nouns,verbs,clitics,adjectives,adverbs}/*.dict > "$T/before.txt"
           fi
-          LC_ALL=C sort -u ../before.txt > ../before.s
-          LC_ALL=C sort -u ../after.txt > ../after.s
-          LC_ALL=C comm -23 ../before.s ../after.s > ../removidos.txt
-          LC_ALL=C comm -13 ../before.s ../after.s > ../acrescentados.txt
+          LC_ALL=C sort -u "$T/before.txt" > "$T/before.s"
+          LC_ALL=C sort -u "$T/after.txt" > "$T/after.s"
+          mkdir -p "$T/diff"
+          LC_ALL=C comm -23 "$T/before.s" "$T/after.s" > "$T/diff/removidos.txt"
+          LC_ALL=C comm -13 "$T/before.s" "$T/after.s" > "$T/diff/acrescentados.txt"
           {
             echo "## Diferença no léxico (tools/expand.sh): base × PR"
             echo
             echo "| | pares |"
             echo "|---|---|"
-            echo "| base | $(wc -l < ../before.s) |"
-            echo "| PR | $(wc -l < ../after.s) |"
-            echo "| removidos | $(wc -l < ../removidos.txt) |"
-            echo "| acrescentados | $(wc -l < ../acrescentados.txt) |"
+            echo "| base | $(wc -l < "$T/before.s") |"
+            echo "| PR | $(wc -l < "$T/after.s") |"
+            echo "| removidos | $(wc -l < "$T/diff/removidos.txt") |"
+            echo "| acrescentados | $(wc -l < "$T/diff/acrescentados.txt") |"
             for f in removidos acrescentados; do
-              if [ -s ../$f.txt ]; then
+              if [ -s "$T/diff/$f.txt" ]; then
                 echo
                 echo "<details><summary>$f (primeiros 100)</summary>"
                 echo
                 echo '```'
-                head -100 ../$f.txt
+                head -100 "$T/diff/$f.txt"
                 echo '```'
                 echo "</details>"
               fi
             done
           } >> "$GITHUB_STEP_SUMMARY"
-          mkdir -p ../diff && cp ../removidos.txt ../acrescentados.txt ../diff/
 
       - name: Publica a diferença
         if: github.event_name == 'pull_request'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: diferenca-lexico
-          path: ${{ github.workspace }}/../diff/
+          path: ${{ runner.temp }}/diff/
           retention-days: 30
