@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Converte arquivos .dict (forma<TAB>lema+TAG+TAG...) no formato spaced-text
 do foma: a forma e o lema letra a letra, cada etiqueta (+TAG) como um símbolo.
-Faz o mesmo que o conversor em Haskell de code/ (code-exe -m).
+Substitui o conversor em Haskell que ficava em code/ (ver #168).
 
 Uso: tools/dict2stxt.py ARQUIVO... > saída.stxt
 """

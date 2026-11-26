@@ -64,21 +64,6 @@ jobs:
           cmake -S foma -B foma/build -DCMAKE_BUILD_TYPE=Release
           cmake --build foma/build -j "$(nproc)"
 
-      - name: Stack (Haskell)
-        uses: haskell-actions/setup@v2
-        with:
-          enable-stack: true
-          stack-no-global: true
-
-      - name: Cache do stack
-        uses: actions/cache@v6
-        with:
-          path: |
-            ~/.stack
-            code/.stack-work
-          key: stack-${{ runner.os }}-${{ hashFiles('code/stack.yaml', 'code/stack.yaml.lock', 'code/package.yaml', 'code/src/**', 'code/app/**') }}
-          restore-keys: stack-${{ runner.os }}-
-
       - name: Compila o léxico (compile.sh)
         run: ./compile.sh
 
