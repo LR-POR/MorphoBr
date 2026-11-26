@@ -1,0 +1,153 @@
+# Integração contínua do MorphoBr (ver #143).
+#
+# - check: os dicionários e as listas de lemas estão na ordem canônica.
+# - build: compila o léxico completo (morphobr.bin) com compile.sh, confere
+#   algumas análises e publica o transdutor como artefato do run. Em pull
+#   requests, compara a lista full-form completa (tools/expand.sh) com a da
+#   base e escreve no resumo do run quantos pares saíram e entraram.
+#
+# O foma é compilado do fork com pilha dinâmica (mhulden/foma#176): o foma
+# 0.10.0 aborta com "Stack full!" ao ler o léxico. Quando o PR for aceito e
+# houver uma versão nova, basta trocar FOMA_REPO/FOMA_REF.
+
+name: CI
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  FOMA_REPO: https://github.com/arademaker/foma
+  FOMA_REF: cc6da1fed97f245b2dc6d24105c81154a3627e37
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Ordem canônica dos dicionários e das listas de lemas
+        run: tools/canonicalize.sh --check
+
+  build:
+    needs: check
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Dependências do sistema
+        run: |
+          sudo apt-get update && sudo apt-get install -y bison flex libreadline-dev zlib1g-dev
+          echo "FOMA=$HOME/foma-src/foma/build/foma" >> "$GITHUB_ENV"
+          echo "FLOOKUP=$HOME/foma-src/foma/build/flookup" >> "$GITHUB_ENV"
+
+      - name: Cache do foma
+        id: foma-cache
+        uses: actions/cache@v6
+        with:
+          path: ~/foma-src
+          key: foma-${{ runner.os }}-${{ env.FOMA_REF }}
+
+      - name: Compila o foma (pilha dinâmica)
+        if: steps.foma-cache.outputs.cache-hit != 'true'
+        run: |
+          git clone "$FOMA_REPO" ~/foma-src
+          cd ~/foma-src
+          git checkout "$FOMA_REF"
+          cmake -S foma -B foma/build -DCMAKE_BUILD_TYPE=Release
+          cmake --build foma/build -j "$(nproc)"
+
+      - name: Stack (Haskell)
+        uses: haskell-actions/setup@v2
+        with:
+          enable-stack: true
+          stack-no-global: true
+
+      - name: Cache do stack
+        uses: actions/cache@v6
+        with:
+          path: |
+            ~/.stack
+            code/.stack-work
+          key: stack-${{ runner.os }}-${{ hashFiles('code/stack.yaml', 'code/stack.yaml.lock', 'code/package.yaml', 'code/src/**', 'code/app/**') }}
+          restore-keys: stack-${{ runner.os }}-
+
+      - name: Compila o léxico (compile.sh)
+        run: ./compile.sh
+
+      - name: Confere algumas análises
+        run: |
+          check() {
+            if ! echo "$1" | "$FLOOKUP" -i -a morphobr.bin | grep -qxF "$(printf '%s\t%s' "$1" "$2")"; then
+              echo "::error::análise ausente: $1 -> $2"
+              exit 1
+            fi
+          }
+          check casa      casa+N+F+SG                      # full-form
+          check casinha   casa+N+DIM+F+SG                  # diminutivo (regras)
+          check pãezinhos pão+N+DIM+M+PL                   # diminutivo do plural
+          check fique     ficar+V+SBJR+1+SG                # verbo em -ar (regras)
+          check conheço   conhecer+V+PRS+1+SG              # verbo em -er (regras)
+          check atribui   atribuir+V+PRS+3+SG              # classe -uir (regras)
+          check quis      querer+V+PRF+1+SG                # irregular (full-form)
+          check comprei-o comprar+V.ele.ACC.3.M.SG+PRF+1+SG  # clítico
+
+      - name: Publica o transdutor
+        uses: actions/upload-artifact@v7
+        with:
+          name: morphobr.bin
+          path: morphobr.bin
+          retention-days: 30
+
+      - name: Diferença no léxico em relação à base
+        if: github.event_name == 'pull_request'
+        run: |
+          T="$RUNNER_TEMP"
+          tools/expand.sh > "$T/after.txt"
+          git worktree add "$T/base" "${{ github.event.pull_request.base.sha }}"
+          if [ -x "$T/base/tools/expand.sh" ]; then
+            (cd "$T/base" && tools/expand.sh > "$T/before.txt")
+          else
+            cat "$T"/base/{nouns,verbs,clitics,adjectives,adverbs}/*.dict > "$T/before.txt"
+          fi
+          LC_ALL=C sort -u "$T/before.txt" > "$T/before.s"
+          LC_ALL=C sort -u "$T/after.txt" > "$T/after.s"
+          mkdir -p "$T/diff"
+          LC_ALL=C comm -23 "$T/before.s" "$T/after.s" > "$T/diff/removidos.txt"
+          LC_ALL=C comm -13 "$T/before.s" "$T/after.s" > "$T/diff/acrescentados.txt"
+          {
+            echo "## Diferença no léxico (tools/expand.sh): base × PR"
+            echo
+            echo "| | pares |"
+            echo "|---|---|"
+            echo "| base | $(wc -l < "$T/before.s") |"
+            echo "| PR | $(wc -l < "$T/after.s") |"
+            echo "| removidos | $(wc -l < "$T/diff/removidos.txt") |"
+            echo "| acrescentados | $(wc -l < "$T/diff/acrescentados.txt") |"
+            for f in removidos acrescentados; do
+              if [ -s "$T/diff/$f.txt" ]; then
+                echo
+                echo "<details><summary>$f (primeiros 100)</summary>"
+                echo
+                echo '```'
+                head -100 "$T/diff/$f.txt"
+                echo '```'
+                echo "</details>"
+              fi
+            done
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publica a diferença
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v7
+        with:
+          name: diferenca-lexico
+          path: ${{ runner.temp }}/diff/
+          retention-days: 30
