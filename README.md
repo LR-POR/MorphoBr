@@ -19,8 +19,8 @@ Authors: Leonel F. de Alencar, Alexandre Rademaker, Bruno Cuconato.
 | Adjectives | 55,468 | 543,778 |
 | Verbs | 28,095 | 2,052,004 |
 | Adverbs | 21,146 | 21,181 |
-| Verbs with clitics | 14,274 | 7,731,365 |
-| **Total** | | **10,885,900** |
+| Verbs with clitics | 14,274 | 7,783,593 |
+| **Total** | | **10,938,128** |
 
 Each entry pairs a form with an analysis:
 
