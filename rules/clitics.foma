@@ -76,7 +76,11 @@ define V VerbAn [Flag | Cl]* ;
 ! Formas que não recebem clítico: o imperativo 1PL truncado (amemo, o
 ! clítico se liga a amemos) e a variante europeia do perfeito 1PL em -ámos
 ! (ver #154/#155), que ainda não tem clíticos nos dados.
-define Excl ~[?* m o "^IMP1PL" ?*] & ~[?* á m o s "^PRF1PL" ?*] ;
+! Nem quer/requer com o acusativo: na ênclise eles ficam quere/requere
+! (quere-o, requere-o; AO90, Base XVII, 2, obs.), formas que já estão nos
+! verbos.
+define Excl ~[?* m o "^IMP1PL" ?*] & ~[?* á m o s "^PRF1PL" ?*]
+          & ~[[?* q u e r] [Flag]* Acc ?*] ;
 define DelFlag ["^IMP1PL" | "^PRF1PL"] -> 0 ;
 
 ! Mesóclise no futuro e no condicional: o pronome vai para depois do r

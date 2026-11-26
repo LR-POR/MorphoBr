@@ -1,14 +1,3 @@
-ecludamo	eclodir+V+IMP+1+PL
-ecludamos	eclodir+V+IMP+1+PL
-ecludam	eclodir+V+IMP+3+PL
-ecluda	eclodir+V+IMP+3+SG
-ecludo	eclodir+V+PRS+1+SG
-ecludamos	eclodir+V+SBJR+1+PL
-ecluda	eclodir+V+SBJR+1+SG
-ecludais	eclodir+V+SBJR+2+PL
-ecludas	eclodir+V+SBJR+2+SG
-ecludam	eclodir+V+SBJR+3+PL
-ecluda	eclodir+V+SBJR+3+SG
 ecôo	ecoar+V+PRS+1+SG
 efusas	efundir+V+PTPST+F+PL
 efusa	efundir+V+PTPST+F+SG
@@ -823,7 +812,6 @@ entreoiçamo	entreouvir+V+IMP+1+PL
 entreoiçamos	entreouvir+V+IMP+1+PL
 entreouçamo	entreouvir+V+IMP+1+PL
 entreouçamos	entreouvir+V+IMP+1+PL
-entreoiçei	entreouvir+V+IMP+2+PL
 entreouvi	entreouvir+V+IMP+2+PL
 entreouve	entreouvir+V+IMP+2+SG
 entreoiçam	entreouvir+V+IMP+3+PL
@@ -1877,7 +1865,6 @@ exouvindo	exouvir+V+GRD
 exoiçamos	exouvir+V+IMP+1+PL
 exouçamo	exouvir+V+IMP+1+PL
 exouçamos	exouvir+V+IMP+1+PL
-exoiçei	exouvir+V+IMP+2+PL
 exouvi	exouvir+V+IMP+2+PL
 exouve	exouvir+V+IMP+2+SG
 exoiçam	exouvir+V+IMP+3+PL

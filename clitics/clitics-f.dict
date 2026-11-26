@@ -17688,13 +17688,13 @@ fi-las	fazer+V.ele.ACC.3.F.PL+PRF+1+SG
 fizeste-las	fazer+V.ele.ACC.3.F.PL+PRF+2+PL
 fizeste-as	fazer+V.ele.ACC.3.F.PL+PRF+2+SG
 fizeram-nas	fazer+V.ele.ACC.3.F.PL+PRF+3+PL
-fizê-las	fazer+V.ele.ACC.3.F.PL+PRF+3+SG
+fê-las	fazer+V.ele.ACC.3.F.PL+PRF+3+SG
 fazemo-las	fazer+V.ele.ACC.3.F.PL+PRS+1+PL
 faço-as	fazer+V.ele.ACC.3.F.PL+PRS+1+SG
 fazei-las	fazer+V.ele.ACC.3.F.PL+PRS+2+PL
 faze-las	fazer+V.ele.ACC.3.F.PL+PRS+2+SG
 fazem-nas	fazer+V.ele.ACC.3.F.PL+PRS+3+PL
-faz-as	fazer+V.ele.ACC.3.F.PL+PRS+3+SG
+fá-las	fazer+V.ele.ACC.3.F.PL+PRS+3+SG
 fizermo-las	fazer+V.ele.ACC.3.F.PL+SBJF+1+PL
 fizê-las	fazer+V.ele.ACC.3.F.PL+SBJF+1+SG
 fizerde-las	fazer+V.ele.ACC.3.F.PL+SBJF+2+PL
@@ -17741,13 +17741,13 @@ fi-la	fazer+V.ele.ACC.3.F.SG+PRF+1+SG
 fizeste-la	fazer+V.ele.ACC.3.F.SG+PRF+2+PL
 fizeste-a	fazer+V.ele.ACC.3.F.SG+PRF+2+SG
 fizeram-na	fazer+V.ele.ACC.3.F.SG+PRF+3+PL
-fizê-la	fazer+V.ele.ACC.3.F.SG+PRF+3+SG
+fê-la	fazer+V.ele.ACC.3.F.SG+PRF+3+SG
 fazemo-la	fazer+V.ele.ACC.3.F.SG+PRS+1+PL
 faço-a	fazer+V.ele.ACC.3.F.SG+PRS+1+SG
 fazei-la	fazer+V.ele.ACC.3.F.SG+PRS+2+PL
 faze-la	fazer+V.ele.ACC.3.F.SG+PRS+2+SG
 fazem-na	fazer+V.ele.ACC.3.F.SG+PRS+3+PL
-faz-a	fazer+V.ele.ACC.3.F.SG+PRS+3+SG
+fá-la	fazer+V.ele.ACC.3.F.SG+PRS+3+SG
 fizermo-la	fazer+V.ele.ACC.3.F.SG+SBJF+1+PL
 fizê-la	fazer+V.ele.ACC.3.F.SG+SBJF+1+SG
 fizerde-la	fazer+V.ele.ACC.3.F.SG+SBJF+2+PL
@@ -17793,13 +17793,13 @@ fi-los	fazer+V.ele.ACC.3.M.PL+PRF+1+SG
 fizeste-los	fazer+V.ele.ACC.3.M.PL+PRF+2+PL
 fizeste-os	fazer+V.ele.ACC.3.M.PL+PRF+2+SG
 fizeram-nos	fazer+V.ele.ACC.3.M.PL+PRF+3+PL
-fizê-los	fazer+V.ele.ACC.3.M.PL+PRF+3+SG
+fê-los	fazer+V.ele.ACC.3.M.PL+PRF+3+SG
 fazemo-los	fazer+V.ele.ACC.3.M.PL+PRS+1+PL
 faço-os	fazer+V.ele.ACC.3.M.PL+PRS+1+SG
 fazei-los	fazer+V.ele.ACC.3.M.PL+PRS+2+PL
 faze-los	fazer+V.ele.ACC.3.M.PL+PRS+2+SG
 fazem-nos	fazer+V.ele.ACC.3.M.PL+PRS+3+PL
-faz-os	fazer+V.ele.ACC.3.M.PL+PRS+3+SG
+fá-los	fazer+V.ele.ACC.3.M.PL+PRS+3+SG
 fizermo-los	fazer+V.ele.ACC.3.M.PL+SBJF+1+PL
 fizê-los	fazer+V.ele.ACC.3.M.PL+SBJF+1+SG
 fizerde-los	fazer+V.ele.ACC.3.M.PL+SBJF+2+PL
@@ -17846,13 +17846,13 @@ fi-lo	fazer+V.ele.ACC.3.M.SG+PRF+1+SG
 fizeste-lo	fazer+V.ele.ACC.3.M.SG+PRF+2+PL
 fizeste-o	fazer+V.ele.ACC.3.M.SG+PRF+2+SG
 fizeram-no	fazer+V.ele.ACC.3.M.SG+PRF+3+PL
-fizê-lo	fazer+V.ele.ACC.3.M.SG+PRF+3+SG
+fê-lo	fazer+V.ele.ACC.3.M.SG+PRF+3+SG
 fazemo-lo	fazer+V.ele.ACC.3.M.SG+PRS+1+PL
 faço-o	fazer+V.ele.ACC.3.M.SG+PRS+1+SG
 fazei-lo	fazer+V.ele.ACC.3.M.SG+PRS+2+PL
 faze-lo	fazer+V.ele.ACC.3.M.SG+PRS+2+SG
 fazem-no	fazer+V.ele.ACC.3.M.SG+PRS+3+PL
-faz-o	fazer+V.ele.ACC.3.M.SG+PRS+3+SG
+fá-lo	fazer+V.ele.ACC.3.M.SG+PRS+3+SG
 fizermo-lo	fazer+V.ele.ACC.3.M.SG+SBJF+1+PL
 fizê-lo	fazer+V.ele.ACC.3.M.SG+SBJF+1+SG
 fizerde-lo	fazer+V.ele.ACC.3.M.SG+SBJF+2+PL
@@ -64723,7 +64723,6 @@ fujo-as	fugir+V.ele.ACC.3.F.PL+PRS+1+SG
 fugi-las	fugir+V.ele.ACC.3.F.PL+PRS+2+PL
 foge-las	fugir+V.ele.ACC.3.F.PL+PRS+2+SG
 foge-as	fugir+V.ele.ACC.3.F.PL+PRS+3+SG
-fogem-nas	fugir+V.ele.ACC.3.F.PL+PRS+3+SG
 fugirmo-las	fugir+V.ele.ACC.3.F.PL+SBJF+1+PL
 fugi-las	fugir+V.ele.ACC.3.F.PL+SBJF+1+SG
 fugirde-las	fugir+V.ele.ACC.3.F.PL+SBJF+2+PL
@@ -64769,7 +64768,6 @@ fujo-a	fugir+V.ele.ACC.3.F.SG+PRS+1+SG
 fugi-la	fugir+V.ele.ACC.3.F.SG+PRS+2+PL
 foge-la	fugir+V.ele.ACC.3.F.SG+PRS+2+SG
 foge-a	fugir+V.ele.ACC.3.F.SG+PRS+3+SG
-fogem-na	fugir+V.ele.ACC.3.F.SG+PRS+3+SG
 fugirmo-la	fugir+V.ele.ACC.3.F.SG+SBJF+1+PL
 fugi-la	fugir+V.ele.ACC.3.F.SG+SBJF+1+SG
 fugirde-la	fugir+V.ele.ACC.3.F.SG+SBJF+2+PL
@@ -64815,7 +64813,6 @@ fujo-os	fugir+V.ele.ACC.3.M.PL+PRS+1+SG
 fugi-los	fugir+V.ele.ACC.3.M.PL+PRS+2+PL
 foge-los	fugir+V.ele.ACC.3.M.PL+PRS+2+SG
 foge-os	fugir+V.ele.ACC.3.M.PL+PRS+3+SG
-fogem-nos	fugir+V.ele.ACC.3.M.PL+PRS+3+SG
 fugirmo-los	fugir+V.ele.ACC.3.M.PL+SBJF+1+PL
 fugi-los	fugir+V.ele.ACC.3.M.PL+SBJF+1+SG
 fugirde-los	fugir+V.ele.ACC.3.M.PL+SBJF+2+PL
@@ -64861,7 +64858,6 @@ fujo-o	fugir+V.ele.ACC.3.M.SG+PRS+1+SG
 fugi-lo	fugir+V.ele.ACC.3.M.SG+PRS+2+PL
 foge-lo	fugir+V.ele.ACC.3.M.SG+PRS+2+SG
 foge-o	fugir+V.ele.ACC.3.M.SG+PRS+3+SG
-fogem-no	fugir+V.ele.ACC.3.M.SG+PRS+3+SG
 fugirmo-lo	fugir+V.ele.ACC.3.M.SG+SBJF+1+PL
 fugi-lo	fugir+V.ele.ACC.3.M.SG+SBJF+1+SG
 fugirde-lo	fugir+V.ele.ACC.3.M.SG+SBJF+2+PL
@@ -64908,7 +64904,6 @@ fujo-lhes	fugir+V.ele.DAT.3.PL+PRS+1+SG
 fugis-lhes	fugir+V.ele.DAT.3.PL+PRS+2+PL
 foges-lhes	fugir+V.ele.DAT.3.PL+PRS+2+SG
 foge-lhes	fugir+V.ele.DAT.3.PL+PRS+3+SG
-fogem-lhes	fugir+V.ele.DAT.3.PL+PRS+3+SG
 fugirmos-lhes	fugir+V.ele.DAT.3.PL+SBJF+1+PL
 fugir-lhes	fugir+V.ele.DAT.3.PL+SBJF+1+SG
 fugirdes-lhes	fugir+V.ele.DAT.3.PL+SBJF+2+PL
@@ -64955,7 +64950,6 @@ fujo-lhe	fugir+V.ele.DAT.3.SG+PRS+1+SG
 fugis-lhe	fugir+V.ele.DAT.3.SG+PRS+2+PL
 foges-lhe	fugir+V.ele.DAT.3.SG+PRS+2+SG
 foge-lhe	fugir+V.ele.DAT.3.SG+PRS+3+SG
-fogem-lhe	fugir+V.ele.DAT.3.SG+PRS+3+SG
 fugirmos-lhe	fugir+V.ele.DAT.3.SG+SBJF+1+PL
 fugir-lhe	fugir+V.ele.DAT.3.SG+SBJF+1+SG
 fugirdes-lhe	fugir+V.ele.DAT.3.SG+SBJF+2+PL
@@ -64977,7 +64971,6 @@ fugir-se	fugir+V.ele.REFL+INF+3+SG
 fugiram-se	fugir+V.ele.REFL+PRF+3+PL
 fugiu-se	fugir+V.ele.REFL+PRF+3+SG
 foge-se	fugir+V.ele.REFL+PRS+3+SG
-fogem-se	fugir+V.ele.REFL+PRS+3+SG
 fugirem-se	fugir+V.ele.REFL+SBJF+3+PL
 fugir-se	fugir+V.ele.REFL+SBJF+3+SG
 fugir-me-íamos	fugir+V.eu.AD.1.SG+COND+1+PL
@@ -65020,7 +65013,6 @@ fujo-me	fugir+V.eu.AD.1.SG+PRS+1+SG
 fugis-me	fugir+V.eu.AD.1.SG+PRS+2+PL
 foges-me	fugir+V.eu.AD.1.SG+PRS+2+SG
 foge-me	fugir+V.eu.AD.1.SG+PRS+3+SG
-fogem-me	fugir+V.eu.AD.1.SG+PRS+3+SG
 fugirmos-me	fugir+V.eu.AD.1.SG+SBJF+1+PL
 fugir-me	fugir+V.eu.AD.1.SG+SBJF+1+SG
 fugirdes-me	fugir+V.eu.AD.1.SG+SBJF+2+PL
@@ -65067,7 +65059,6 @@ fujo-nos	fugir+V.nós.AD.1.PL+PRS+1+SG
 fugis-nos	fugir+V.nós.AD.1.PL+PRS+2+PL
 foges-nos	fugir+V.nós.AD.1.PL+PRS+2+SG
 foge-nos	fugir+V.nós.AD.1.PL+PRS+3+SG
-fogem-nos	fugir+V.nós.AD.1.PL+PRS+3+SG
 fugirmo-nos	fugir+V.nós.AD.1.PL+SBJF+1+PL
 fugir-nos	fugir+V.nós.AD.1.PL+SBJF+1+SG
 fugirdes-nos	fugir+V.nós.AD.1.PL+SBJF+2+PL
@@ -65114,7 +65105,6 @@ fujo-te	fugir+V.tu.AD.2.SG+PRS+1+SG
 fugis-te	fugir+V.tu.AD.2.SG+PRS+2+PL
 foges-te	fugir+V.tu.AD.2.SG+PRS+2+SG
 foge-te	fugir+V.tu.AD.2.SG+PRS+3+SG
-fogem-te	fugir+V.tu.AD.2.SG+PRS+3+SG
 fugirmos-te	fugir+V.tu.AD.2.SG+SBJF+1+PL
 fugir-te	fugir+V.tu.AD.2.SG+SBJF+1+SG
 fugirdes-te	fugir+V.tu.AD.2.SG+SBJF+2+PL
@@ -65161,7 +65151,6 @@ fujo-vos	fugir+V.vós.AD.2.PL+PRS+1+SG
 fugis-vos	fugir+V.vós.AD.2.PL+PRS+2+PL
 foges-vos	fugir+V.vós.AD.2.PL+PRS+2+SG
 foge-vos	fugir+V.vós.AD.2.PL+PRS+3+SG
-fogem-vos	fugir+V.vós.AD.2.PL+PRS+3+SG
 fugirmos-vos	fugir+V.vós.AD.2.PL+SBJF+1+PL
 fugir-vos	fugir+V.vós.AD.2.PL+SBJF+1+SG
 fugirdes-vos	fugir+V.vós.AD.2.PL+SBJF+2+PL

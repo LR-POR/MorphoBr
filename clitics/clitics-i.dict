@@ -34557,7 +34557,7 @@ interdigo-as	interdizer+V.ele.ACC.3.F.PL+PRS+1+SG
 interdizei-las	interdizer+V.ele.ACC.3.F.PL+PRS+2+PL
 interdize-las	interdizer+V.ele.ACC.3.F.PL+PRS+2+SG
 interdizem-nas	interdizer+V.ele.ACC.3.F.PL+PRS+3+PL
-interdiz-as	interdizer+V.ele.ACC.3.F.PL+PRS+3+SG
+interdi-las	interdizer+V.ele.ACC.3.F.PL+PRS+3+SG
 interdissermo-las	interdizer+V.ele.ACC.3.F.PL+SBJF+1+PL
 interdissê-las	interdizer+V.ele.ACC.3.F.PL+SBJF+1+SG
 interdisserde-las	interdizer+V.ele.ACC.3.F.PL+SBJF+2+PL
@@ -34610,7 +34610,7 @@ interdigo-a	interdizer+V.ele.ACC.3.F.SG+PRS+1+SG
 interdizei-la	interdizer+V.ele.ACC.3.F.SG+PRS+2+PL
 interdize-la	interdizer+V.ele.ACC.3.F.SG+PRS+2+SG
 interdizem-na	interdizer+V.ele.ACC.3.F.SG+PRS+3+PL
-interdiz-a	interdizer+V.ele.ACC.3.F.SG+PRS+3+SG
+interdi-la	interdizer+V.ele.ACC.3.F.SG+PRS+3+SG
 interdissermo-la	interdizer+V.ele.ACC.3.F.SG+SBJF+1+PL
 interdissê-la	interdizer+V.ele.ACC.3.F.SG+SBJF+1+SG
 interdisserde-la	interdizer+V.ele.ACC.3.F.SG+SBJF+2+PL
@@ -34663,7 +34663,7 @@ interdigo-os	interdizer+V.ele.ACC.3.M.PL+PRS+1+SG
 interdizei-los	interdizer+V.ele.ACC.3.M.PL+PRS+2+PL
 interdize-los	interdizer+V.ele.ACC.3.M.PL+PRS+2+SG
 interdizem-nos	interdizer+V.ele.ACC.3.M.PL+PRS+3+PL
-interdiz-os	interdizer+V.ele.ACC.3.M.PL+PRS+3+SG
+interdi-los	interdizer+V.ele.ACC.3.M.PL+PRS+3+SG
 interdissermo-los	interdizer+V.ele.ACC.3.M.PL+SBJF+1+PL
 interdissê-los	interdizer+V.ele.ACC.3.M.PL+SBJF+1+SG
 interdisserde-los	interdizer+V.ele.ACC.3.M.PL+SBJF+2+PL
@@ -34716,7 +34716,7 @@ interdigo-o	interdizer+V.ele.ACC.3.M.SG+PRS+1+SG
 interdizei-lo	interdizer+V.ele.ACC.3.M.SG+PRS+2+PL
 interdize-lo	interdizer+V.ele.ACC.3.M.SG+PRS+2+SG
 interdizem-no	interdizer+V.ele.ACC.3.M.SG+PRS+3+PL
-interdiz-o	interdizer+V.ele.ACC.3.M.SG+PRS+3+SG
+interdi-lo	interdizer+V.ele.ACC.3.M.SG+PRS+3+SG
 interdissermo-lo	interdizer+V.ele.ACC.3.M.SG+SBJF+1+PL
 interdissê-lo	interdizer+V.ele.ACC.3.M.SG+SBJF+1+SG
 interdisserde-lo	interdizer+V.ele.ACC.3.M.SG+SBJF+2+PL
@@ -48298,7 +48298,6 @@ vamo-las	ir+V.ele.ACC.3.F.PL+PRS+1+PL
 vou-as	ir+V.ele.ACC.3.F.PL+PRS+1+SG
 ide-las	ir+V.ele.ACC.3.F.PL+PRS+2+PL
 vai-las	ir+V.ele.ACC.3.F.PL+PRS+2+SG
-vão-as	ir+V.ele.ACC.3.F.PL+PRS+3+PL
 vão-nas	ir+V.ele.ACC.3.F.PL+PRS+3+PL
 vai-as	ir+V.ele.ACC.3.F.PL+PRS+3+SG
 formo-las	ir+V.ele.ACC.3.F.PL+SBJF+1+PL
@@ -48348,7 +48347,6 @@ vamo-la	ir+V.ele.ACC.3.F.SG+PRS+1+PL
 vou-a	ir+V.ele.ACC.3.F.SG+PRS+1+SG
 ide-la	ir+V.ele.ACC.3.F.SG+PRS+2+PL
 vai-la	ir+V.ele.ACC.3.F.SG+PRS+2+SG
-vão-a	ir+V.ele.ACC.3.F.SG+PRS+3+PL
 vão-na	ir+V.ele.ACC.3.F.SG+PRS+3+PL
 vai-a	ir+V.ele.ACC.3.F.SG+PRS+3+SG
 formo-la	ir+V.ele.ACC.3.F.SG+SBJF+1+PL
@@ -48399,7 +48397,6 @@ vou-os	ir+V.ele.ACC.3.M.PL+PRS+1+SG
 ide-los	ir+V.ele.ACC.3.M.PL+PRS+2+PL
 vai-los	ir+V.ele.ACC.3.M.PL+PRS+2+SG
 vão-nos	ir+V.ele.ACC.3.M.PL+PRS+3+PL
-vão-os	ir+V.ele.ACC.3.M.PL+PRS+3+PL
 vai-os	ir+V.ele.ACC.3.M.PL+PRS+3+SG
 formo-los	ir+V.ele.ACC.3.M.PL+SBJF+1+PL
 fô-los	ir+V.ele.ACC.3.M.PL+SBJF+1+SG
@@ -48449,7 +48446,6 @@ vou-o	ir+V.ele.ACC.3.M.SG+PRS+1+SG
 ide-lo	ir+V.ele.ACC.3.M.SG+PRS+2+PL
 vai-lo	ir+V.ele.ACC.3.M.SG+PRS+2+SG
 vão-no	ir+V.ele.ACC.3.M.SG+PRS+3+PL
-vão-o	ir+V.ele.ACC.3.M.SG+PRS+3+PL
 vai-o	ir+V.ele.ACC.3.M.SG+PRS+3+SG
 formo-lo	ir+V.ele.ACC.3.M.SG+SBJF+1+PL
 fô-lo	ir+V.ele.ACC.3.M.SG+SBJF+1+SG

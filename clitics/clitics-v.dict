@@ -19915,7 +19915,7 @@ venho-as	vir+V.ele.ACC.3.F.PL+PRS+1+SG
 vinde-las	vir+V.ele.ACC.3.F.PL+PRS+2+PL
 ven-las	vir+V.ele.ACC.3.F.PL+PRS+2+SG
 vêm-nas	vir+V.ele.ACC.3.F.PL+PRS+3+PL
-vem-as	vir+V.ele.ACC.3.F.PL+PRS+3+SG
+vem-nas	vir+V.ele.ACC.3.F.PL+PRS+3+SG
 viermo-las	vir+V.ele.ACC.3.F.PL+SBJF+1+PL
 viê-las	vir+V.ele.ACC.3.F.PL+SBJF+1+SG
 vierde-las	vir+V.ele.ACC.3.F.PL+SBJF+2+PL
@@ -19967,7 +19967,7 @@ venho-a	vir+V.ele.ACC.3.F.SG+PRS+1+SG
 vinde-la	vir+V.ele.ACC.3.F.SG+PRS+2+PL
 ven-la	vir+V.ele.ACC.3.F.SG+PRS+2+SG
 vêm-na	vir+V.ele.ACC.3.F.SG+PRS+3+PL
-vem-a	vir+V.ele.ACC.3.F.SG+PRS+3+SG
+vem-na	vir+V.ele.ACC.3.F.SG+PRS+3+SG
 viermo-la	vir+V.ele.ACC.3.F.SG+SBJF+1+PL
 viê-la	vir+V.ele.ACC.3.F.SG+SBJF+1+SG
 vierde-la	vir+V.ele.ACC.3.F.SG+SBJF+2+PL
@@ -20019,7 +20019,6 @@ venho-os	vir+V.ele.ACC.3.M.PL+PRS+1+SG
 vinde-los	vir+V.ele.ACC.3.M.PL+PRS+2+PL
 ven-los	vir+V.ele.ACC.3.M.PL+PRS+2+SG
 vem-nos	vir+V.ele.ACC.3.M.PL+PRS+3+SG
-vem-os	vir+V.ele.ACC.3.M.PL+PRS+3+SG
 viermo-los	vir+V.ele.ACC.3.M.PL+SBJF+1+PL
 viê-los	vir+V.ele.ACC.3.M.PL+SBJF+1+SG
 vierde-los	vir+V.ele.ACC.3.M.PL+SBJF+2+PL
@@ -20071,7 +20070,7 @@ venho-o	vir+V.ele.ACC.3.M.SG+PRS+1+SG
 vinde-lo	vir+V.ele.ACC.3.M.SG+PRS+2+PL
 ven-lo	vir+V.ele.ACC.3.M.SG+PRS+2+SG
 vêm-no	vir+V.ele.ACC.3.M.SG+PRS+3+PL
-vem-o	vir+V.ele.ACC.3.M.SG+PRS+3+SG
+vem-no	vir+V.ele.ACC.3.M.SG+PRS+3+SG
 viermo-lo	vir+V.ele.ACC.3.M.SG+SBJF+1+PL
 viê-lo	vir+V.ele.ACC.3.M.SG+SBJF+1+SG
 vierde-lo	vir+V.ele.ACC.3.M.SG+SBJF+2+PL
