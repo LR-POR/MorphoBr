@@ -1,10 +1,10 @@
 ! Paradigmas de flexão verbal gerados por regras (ver #143).
 ! Lado superior: lema+análise; lado inferior: forma. O build inverte o
 ! transdutor para unir ao full-form (forma no lado superior).
-! O radical (lema sem -ar) vem de lexicon/verbs/<modelo>.tsv; ^ marca a
-! fronteira radical^sufixo, usada pelas regras de rules/orthography.foma.
+! O radical (lema sem -ar/-er/-ir) vem de lexicon/verbs/<modelo>.tsv; ^ e ^E marcam a
+! fronteira radical^sufixo (-ar e -er/-ir), usada pelas regras de rules/orthography.foma.
 
-Multichar_Symbols +1 +2 +3 +COND +F +FUT +GRD +IMP +IMPF +INF +M +PL +PQP +PRF +PRS +PTPST +SBJF +SBJP +SBJR +SG +V ^
+Multichar_Symbols +1 +2 +3 +COND +F +FUT +GRD +IMP +IMPF +INF +M +PL +PQP +PRF +PRS +PTPST +SBJF +SBJP +SBJR +SG +V ^ ^E
 
 LEXICON Root
 Verbs ;
@@ -162,3 +162,155 @@ ar+V+SBJR+2+PL:^eis # ;
 ar+V+SBJR+2+SG:^ies # ;
 ar+V+SBJR+3+PL:^iem # ;
 ar+V+SBJR+3+SG:^ie # ;
+
+! Verbos regulares em -er (modelo: bater). ^E marca a fronteira radical^sufixo
+! das conjugações -er/-ir (alternâncias em rules/orthography.foma).
+LEXICON BATER
+er+V+COND+1+PL:^Eeríamos # ;
+er+V+COND+1+SG:^Eeria # ;
+er+V+COND+2+PL:^Eeríeis # ;
+er+V+COND+2+SG:^Eerias # ;
+er+V+COND+3+PL:^Eeriam # ;
+er+V+COND+3+SG:^Eeria # ;
+er+V+FUT+1+PL:^Eeremos # ;
+er+V+FUT+1+SG:^Eerei # ;
+er+V+FUT+2+PL:^Eereis # ;
+er+V+FUT+2+SG:^Eerás # ;
+er+V+FUT+3+PL:^Eerão # ;
+er+V+FUT+3+SG:^Eerá # ;
+er+V+GRD:^Eendo # ;
+er+V+IMP+1+PL:^Eamo # ;
+er+V+IMP+1+PL:^Eamos # ;
+er+V+IMP+2+PL:^Eei # ;
+er+V+IMP+2+SG:^Ee # ;
+er+V+IMP+3+PL:^Eam # ;
+er+V+IMP+3+SG:^Ea # ;
+er+V+IMPF+1+PL:^Eíamos # ;
+er+V+IMPF+1+SG:^Eia # ;
+er+V+IMPF+2+PL:^Eíeis # ;
+er+V+IMPF+2+SG:^Eias # ;
+er+V+IMPF+3+PL:^Eiam # ;
+er+V+IMPF+3+SG:^Eia # ;
+er+V+INF:^Eer # ;
+er+V+INF+1+PL:^Eermos # ;
+er+V+INF+1+SG:^Eer # ;
+er+V+INF+2+PL:^Eerdes # ;
+er+V+INF+2+SG:^Eeres # ;
+er+V+INF+3+PL:^Eerem # ;
+er+V+INF+3+SG:^Eer # ;
+er+V+PQP+1+PL:^Eêramos # ;
+er+V+PQP+1+SG:^Eera # ;
+er+V+PQP+2+PL:^Eêreis # ;
+er+V+PQP+2+SG:^Eeras # ;
+er+V+PQP+3+PL:^Eeram # ;
+er+V+PQP+3+SG:^Eera # ;
+er+V+PRF+1+PL:^Eemos # ;
+er+V+PRF+1+SG:^Ei # ;
+er+V+PRF+2+PL:^Eestes # ;
+er+V+PRF+2+SG:^Eeste # ;
+er+V+PRF+3+PL:^Eeram # ;
+er+V+PRF+3+SG:^Eeu # ;
+er+V+PRS+1+PL:^Eemos # ;
+er+V+PRS+1+SG:^Eo # ;
+er+V+PRS+2+PL:^Eeis # ;
+er+V+PRS+2+SG:^Ees # ;
+er+V+PRS+3+PL:^Eem # ;
+er+V+PRS+3+SG:^Ee # ;
+er+V+PTPST+F+PL:^Eidas # ;
+er+V+PTPST+F+SG:^Eida # ;
+er+V+PTPST+M+PL:^Eidos # ;
+er+V+PTPST+M+SG:^Eido # ;
+er+V+SBJF+1+PL:^Eermos # ;
+er+V+SBJF+1+SG:^Eer # ;
+er+V+SBJF+2+PL:^Eerdes # ;
+er+V+SBJF+2+SG:^Eeres # ;
+er+V+SBJF+3+PL:^Eerem # ;
+er+V+SBJF+3+SG:^Eer # ;
+er+V+SBJP+1+PL:^Eêssemos # ;
+er+V+SBJP+1+SG:^Eesse # ;
+er+V+SBJP+2+PL:^Eêsseis # ;
+er+V+SBJP+2+SG:^Eesses # ;
+er+V+SBJP+3+PL:^Eessem # ;
+er+V+SBJP+3+SG:^Eesse # ;
+er+V+SBJR+1+PL:^Eamos # ;
+er+V+SBJR+1+SG:^Ea # ;
+er+V+SBJR+2+PL:^Eais # ;
+er+V+SBJR+2+SG:^Eas # ;
+er+V+SBJR+3+PL:^Eam # ;
+er+V+SBJR+3+SG:^Ea # ;
+
+! Verbos regulares em -ir (modelo: partir). ^E marca a fronteira radical^sufixo
+! das conjugações -er/-ir (alternâncias em rules/orthography.foma).
+LEXICON PARTIR
+ir+V+COND+1+PL:^Eiríamos # ;
+ir+V+COND+1+SG:^Eiria # ;
+ir+V+COND+2+PL:^Eiríeis # ;
+ir+V+COND+2+SG:^Eirias # ;
+ir+V+COND+3+PL:^Eiriam # ;
+ir+V+COND+3+SG:^Eiria # ;
+ir+V+FUT+1+PL:^Eiremos # ;
+ir+V+FUT+1+SG:^Eirei # ;
+ir+V+FUT+2+PL:^Eireis # ;
+ir+V+FUT+2+SG:^Eirás # ;
+ir+V+FUT+3+PL:^Eirão # ;
+ir+V+FUT+3+SG:^Eirá # ;
+ir+V+GRD:^Eindo # ;
+ir+V+IMP+1+PL:^Eamo # ;
+ir+V+IMP+1+PL:^Eamos # ;
+ir+V+IMP+2+PL:^Ei # ;
+ir+V+IMP+2+SG:^Ee # ;
+ir+V+IMP+3+PL:^Eam # ;
+ir+V+IMP+3+SG:^Ea # ;
+ir+V+IMPF+1+PL:^Eíamos # ;
+ir+V+IMPF+1+SG:^Eia # ;
+ir+V+IMPF+2+PL:^Eíeis # ;
+ir+V+IMPF+2+SG:^Eias # ;
+ir+V+IMPF+3+PL:^Eiam # ;
+ir+V+IMPF+3+SG:^Eia # ;
+ir+V+INF:^Eir # ;
+ir+V+INF+1+PL:^Eirmos # ;
+ir+V+INF+1+SG:^Eir # ;
+ir+V+INF+2+PL:^Eirdes # ;
+ir+V+INF+2+SG:^Eires # ;
+ir+V+INF+3+PL:^Eirem # ;
+ir+V+INF+3+SG:^Eir # ;
+ir+V+PQP+1+PL:^Eíramos # ;
+ir+V+PQP+1+SG:^Eira # ;
+ir+V+PQP+2+PL:^Eíreis # ;
+ir+V+PQP+2+SG:^Eiras # ;
+ir+V+PQP+3+PL:^Eiram # ;
+ir+V+PQP+3+SG:^Eira # ;
+ir+V+PRF+1+PL:^Eimos # ;
+ir+V+PRF+1+SG:^Ei # ;
+ir+V+PRF+2+PL:^Eistes # ;
+ir+V+PRF+2+SG:^Eiste # ;
+ir+V+PRF+3+PL:^Eiram # ;
+ir+V+PRF+3+SG:^Eiu # ;
+ir+V+PRS+1+PL:^Eimos # ;
+ir+V+PRS+1+SG:^Eo # ;
+ir+V+PRS+2+PL:^Eis # ;
+ir+V+PRS+2+SG:^Ees # ;
+ir+V+PRS+3+PL:^Eem # ;
+ir+V+PRS+3+SG:^Ee # ;
+ir+V+PTPST+F+PL:^Eidas # ;
+ir+V+PTPST+F+SG:^Eida # ;
+ir+V+PTPST+M+PL:^Eidos # ;
+ir+V+PTPST+M+SG:^Eido # ;
+ir+V+SBJF+1+PL:^Eirmos # ;
+ir+V+SBJF+1+SG:^Eir # ;
+ir+V+SBJF+2+PL:^Eirdes # ;
+ir+V+SBJF+2+SG:^Eires # ;
+ir+V+SBJF+3+PL:^Eirem # ;
+ir+V+SBJF+3+SG:^Eir # ;
+ir+V+SBJP+1+PL:^Eíssemos # ;
+ir+V+SBJP+1+SG:^Eisse # ;
+ir+V+SBJP+2+PL:^Eísseis # ;
+ir+V+SBJP+2+SG:^Eisses # ;
+ir+V+SBJP+3+PL:^Eissem # ;
+ir+V+SBJP+3+SG:^Eisse # ;
+ir+V+SBJR+1+PL:^Eamos # ;
+ir+V+SBJR+1+SG:^Ea # ;
+ir+V+SBJR+2+PL:^Eais # ;
+ir+V+SBJR+2+SG:^Eas # ;
+ir+V+SBJR+3+PL:^Eam # ;
+ir+V+SBJR+3+SG:^Ea # ;
