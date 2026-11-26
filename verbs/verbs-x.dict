@@ -36,6 +36,7 @@ xaboucáreis	xaboucar+V+PQP+2+PL
 xaboucaras	xaboucar+V+PQP+2+SG
 xaboucaram	xaboucar+V+PQP+3+PL
 xaboucara	xaboucar+V+PQP+3+SG
+xaboucamos	xaboucar+V+PRF+1+PL
 xaboucámos	xaboucar+V+PRF+1+PL
 xabouquei	xaboucar+V+PRF+1+SG
 xaboucastes	xaboucar+V+PRF+2+PL
@@ -1416,6 +1417,7 @@ xaqueáreis	xaquear+V+PQP+2+PL
 xaquearas	xaquear+V+PQP+2+SG
 xaquearam	xaquear+V+PQP+3+PL
 xaqueara	xaquear+V+PQP+3+SG
+xaqueamos	xaquear+V+PRF+1+PL
 xaqueámos	xaquear+V+PRF+1+PL
 xaqueei	xaquear+V+PRF+1+SG
 xaqueastes	xaquear+V+PRF+2+PL
@@ -1562,6 +1564,7 @@ xaropearas	xaropear+V+PQP+2+SG
 xaropearam	xaropear+V+PQP+3+PL
 xaropeara	xaropear+V+PQP+3+SG
 xaropeamos	xaropear+V+PRF+1+PL
+xaropeámos	xaropear+V+PRF+1+PL
 xaropeei	xaropear+V+PRF+1+SG
 xaropeastes	xaropear+V+PRF+2+PL
 xaropeaste	xaropear+V+PRF+2+SG
@@ -2292,6 +2295,7 @@ xeretearas	xeretear+V+PQP+2+SG
 xeretearam	xeretear+V+PQP+3+PL
 xereteara	xeretear+V+PQP+3+SG
 xereteamos	xeretear+V+PRF+1+PL
+xereteámos	xeretear+V+PRF+1+PL
 xereteei	xeretear+V+PRF+1+SG
 xereteastes	xeretear+V+PRF+2+PL
 xereteaste	xeretear+V+PRF+2+SG
@@ -2762,6 +2766,7 @@ xerografaras	xerografar+V+PQP+2+SG
 xerografaram	xerografar+V+PQP+3+PL
 xerografara	xerografar+V+PQP+3+SG
 xerografamos	xerografar+V+PRF+1+PL
+xerografámos	xerografar+V+PRF+1+PL
 xerografei	xerografar+V+PRF+1+SG
 xerografastes	xerografar+V+PRF+2+PL
 xerografaste	xerografar+V+PRF+2+SG
@@ -3029,6 +3034,7 @@ xeroxaras	xeroxar+V+PQP+2+SG
 xeroxaram	xeroxar+V+PQP+3+PL
 xeroxara	xeroxar+V+PQP+3+SG
 xeroxamos	xeroxar+V+PRF+1+PL
+xeroxámos	xeroxar+V+PRF+1+PL
 xeroxei	xeroxar+V+PRF+1+SG
 xeroxastes	xeroxar+V+PRF+2+PL
 xeroxaste	xeroxar+V+PRF+2+SG
@@ -3101,6 +3107,7 @@ xetraras	xetrar+V+PQP+2+SG
 xetraram	xetrar+V+PQP+3+PL
 xetrara	xetrar+V+PQP+3+SG
 xetramos	xetrar+V+PRF+1+PL
+xetrámos	xetrar+V+PRF+1+PL
 xetrei	xetrar+V+PRF+1+SG
 xetrastes	xetrar+V+PRF+2+PL
 xetraste	xetrar+V+PRF+2+SG
@@ -3563,6 +3570,7 @@ xilografaras	xilografar+V+PQP+2+SG
 xilografaram	xilografar+V+PQP+3+PL
 xilografara	xilografar+V+PQP+3+SG
 xilografamos	xilografar+V+PRF+1+PL
+xilografámos	xilografar+V+PRF+1+PL
 xilografei	xilografar+V+PRF+1+SG
 xilografastes	xilografar+V+PRF+2+PL
 xilografaste	xilografar+V+PRF+2+SG
@@ -3700,6 +3708,7 @@ xilogravaras	xilogravar+V+PQP+2+SG
 xilogravaram	xilogravar+V+PQP+3+PL
 xilogravara	xilogravar+V+PQP+3+SG
 xilogravamos	xilogravar+V+PRF+1+PL
+xilogravámos	xilogravar+V+PRF+1+PL
 xilogravei	xilogravar+V+PRF+1+SG
 xilogravastes	xilogravar+V+PRF+2+PL
 xilogravaste	xilogravar+V+PRF+2+SG
@@ -4169,6 +4178,7 @@ xocáreis	xocar+V+PQP+2+PL
 xocaras	xocar+V+PQP+2+SG
 xocaram	xocar+V+PQP+3+PL
 xocara	xocar+V+PQP+3+SG
+xocamos	xocar+V+PRF+1+PL
 xocámos	xocar+V+PRF+1+PL
 xoquei	xocar+V+PRF+1+SG
 xocastes	xocar+V+PRF+2+PL
@@ -4241,6 +4251,7 @@ xotáreis	xotar+V+PQP+2+PL
 xotaras	xotar+V+PQP+2+SG
 xotaram	xotar+V+PQP+3+PL
 xotara	xotar+V+PQP+3+SG
+xotamos	xotar+V+PRF+1+PL
 xotámos	xotar+V+PRF+1+PL
 xotei	xotar+V+PRF+1+SG
 xotastes	xotar+V+PRF+2+PL
@@ -4387,6 +4398,7 @@ xumbregaras	xumbregar+V+PQP+2+SG
 xumbregaram	xumbregar+V+PQP+3+PL
 xumbregara	xumbregar+V+PQP+3+SG
 xumbregamos	xumbregar+V+PRF+1+PL
+xumbregámos	xumbregar+V+PRF+1+PL
 xumbreguei	xumbregar+V+PRF+1+SG
 xumbregastes	xumbregar+V+PRF+2+PL
 xumbregaste	xumbregar+V+PRF+2+SG

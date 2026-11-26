@@ -110,6 +110,7 @@ gabarolaras	gabarolar+V+PQP+2+SG
 gabarolaram	gabarolar+V+PQP+3+PL
 gabarolara	gabarolar+V+PQP+3+SG
 gabarolamos	gabarolar+V+PRF+1+PL
+gabarolámos	gabarolar+V+PRF+1+PL
 gabarolei	gabarolar+V+PRF+1+SG
 gabarolastes	gabarolar+V+PRF+2+PL
 gabarolaste	gabarolar+V+PRF+2+SG
@@ -466,6 +467,7 @@ gadunharas	gadunhar+V+PQP+2+SG
 gadunharam	gadunhar+V+PQP+3+PL
 gadunhara	gadunhar+V+PQP+3+SG
 gadunhamos	gadunhar+V+PRF+1+PL
+gadunhámos	gadunhar+V+PRF+1+PL
 gadunhei	gadunhar+V+PRF+1+SG
 gadunhastes	gadunhar+V+PRF+2+PL
 gadunhaste	gadunhar+V+PRF+2+SG
@@ -749,6 +751,7 @@ gafejaras	gafejar+V+PQP+2+SG
 gafejaram	gafejar+V+PQP+3+PL
 gafejara	gafejar+V+PQP+3+SG
 gafejamos	gafejar+V+PRF+1+PL
+gafejámos	gafejar+V+PRF+1+PL
 gafejei	gafejar+V+PRF+1+SG
 gafejastes	gafejar+V+PRF+2+PL
 gafejaste	gafejar+V+PRF+2+SG
@@ -820,6 +823,7 @@ gagueáreis	gaguear+V+PQP+2+PL
 gaguearas	gaguear+V+PQP+2+SG
 gaguearam	gaguear+V+PQP+3+PL
 gagueara	gaguear+V+PQP+3+SG
+gagueamos	gaguear+V+PRF+1+PL
 gagueámos	gaguear+V+PRF+1+PL
 gagueei	gaguear+V+PRF+1+SG
 gagueastes	gaguear+V+PRF+2+PL
@@ -1184,6 +1188,7 @@ gaitáreis	gaitar+V+PQP+2+PL
 gaitaras	gaitar+V+PQP+2+SG
 gaitaram	gaitar+V+PQP+3+PL
 gaitara	gaitar+V+PQP+3+SG
+gaitamos	gaitar+V+PRF+1+PL
 gaitámos	gaitar+V+PRF+1+PL
 gaitei	gaitar+V+PRF+1+SG
 gaitastes	gaitar+V+PRF+2+PL
@@ -2995,6 +3000,7 @@ galiciparlaras	galiciparlar+V+PQP+2+SG
 galiciparlaram	galiciparlar+V+PQP+3+PL
 galiciparlara	galiciparlar+V+PQP+3+SG
 galiciparlamos	galiciparlar+V+PRF+1+PL
+galiciparlámos	galiciparlar+V+PRF+1+PL
 galiciparlei	galiciparlar+V+PRF+1+SG
 galiciparlastes	galiciparlar+V+PRF+2+PL
 galiciparlaste	galiciparlar+V+PRF+2+SG
@@ -3067,6 +3073,7 @@ galicismaras	galicismar+V+PQP+2+SG
 galicismaram	galicismar+V+PQP+3+PL
 galicismara	galicismar+V+PQP+3+SG
 galicismamos	galicismar+V+PRF+1+PL
+galicismámos	galicismar+V+PRF+1+PL
 galicismei	galicismar+V+PRF+1+SG
 galicismastes	galicismar+V+PRF+2+PL
 galicismaste	galicismar+V+PRF+2+SG
@@ -3277,6 +3284,7 @@ galimaras	galimar+V+PQP+2+SG
 galimaram	galimar+V+PQP+3+PL
 galimara	galimar+V+PQP+3+SG
 galimamos	galimar+V+PRF+1+PL
+galimámos	galimar+V+PRF+1+PL
 galimei	galimar+V+PRF+1+SG
 galimastes	galimar+V+PRF+2+PL
 galimaste	galimar+V+PRF+2+SG
@@ -3349,6 +3357,7 @@ galimatizaras	galimatizar+V+PQP+2+SG
 galimatizaram	galimatizar+V+PQP+3+PL
 galimatizara	galimatizar+V+PQP+3+SG
 galimatizamos	galimatizar+V+PRF+1+PL
+galimatizámos	galimatizar+V+PRF+1+PL
 galimatizei	galimatizar+V+PRF+1+SG
 galimatizastes	galimatizar+V+PRF+2+PL
 galimatizaste	galimatizar+V+PRF+2+SG
@@ -3624,6 +3633,7 @@ galonaras	galonar+V+PQP+2+SG
 galonaram	galonar+V+PQP+3+PL
 galonara	galonar+V+PQP+3+SG
 galonamos	galonar+V+PRF+1+PL
+galonámos	galonar+V+PRF+1+PL
 galonei	galonar+V+PRF+1+SG
 galonastes	galonar+V+PRF+2+PL
 galonaste	galonar+V+PRF+2+SG
@@ -5312,6 +5322,7 @@ galvonotiparas	galvonotipar+V+PQP+2+SG
 galvonotiparam	galvonotipar+V+PQP+3+PL
 galvonotipara	galvonotipar+V+PQP+3+SG
 galvonotipamos	galvonotipar+V+PRF+1+PL
+galvonotipámos	galvonotipar+V+PRF+1+PL
 galvonotipei	galvonotipar+V+PRF+1+SG
 galvonotipastes	galvonotipar+V+PRF+2+PL
 galvonotipaste	galvonotipar+V+PRF+2+SG
@@ -5717,6 +5728,7 @@ gambelaras	gambelar+V+PQP+2+SG
 gambelaram	gambelar+V+PQP+3+PL
 gambelara	gambelar+V+PQP+3+SG
 gambelamos	gambelar+V+PRF+1+PL
+gambelámos	gambelar+V+PRF+1+PL
 gambelei	gambelar+V+PRF+1+SG
 gambelastes	gambelar+V+PRF+2+PL
 gambelaste	gambelar+V+PRF+2+SG
@@ -5789,6 +5801,7 @@ gambetearas	gambetear+V+PQP+2+SG
 gambetearam	gambetear+V+PQP+3+PL
 gambeteara	gambetear+V+PQP+3+SG
 gambeteamos	gambetear+V+PRF+1+PL
+gambeteámos	gambetear+V+PRF+1+PL
 gambeteei	gambetear+V+PRF+1+SG
 gambeteastes	gambetear+V+PRF+2+PL
 gambeteaste	gambetear+V+PRF+2+SG
@@ -5926,6 +5939,7 @@ gambitaras	gambitar+V+PQP+2+SG
 gambitaram	gambitar+V+PQP+3+PL
 gambitara	gambitar+V+PQP+3+SG
 gambitamos	gambitar+V+PRF+1+PL
+gambitámos	gambitar+V+PRF+1+PL
 gambitei	gambitar+V+PRF+1+SG
 gambitastes	gambitar+V+PRF+2+PL
 gambitaste	gambitar+V+PRF+2+SG
@@ -5998,6 +6012,7 @@ gamenharas	gamenhar+V+PQP+2+SG
 gamenharam	gamenhar+V+PQP+3+PL
 gamenhara	gamenhar+V+PQP+3+SG
 gamenhamos	gamenhar+V+PRF+1+PL
+gamenhámos	gamenhar+V+PRF+1+PL
 gamenhei	gamenhar+V+PRF+1+SG
 gamenhastes	gamenhar+V+PRF+2+PL
 gamenhaste	gamenhar+V+PRF+2+SG
@@ -6923,6 +6938,7 @@ gancharas	ganchar+V+PQP+2+SG
 gancharam	ganchar+V+PQP+3+PL
 ganchara	ganchar+V+PQP+3+SG
 ganchamos	ganchar+V+PRF+1+PL
+ganchámos	ganchar+V+PRF+1+PL
 ganchei	ganchar+V+PRF+1+SG
 ganchastes	ganchar+V+PRF+2+PL
 ganchaste	ganchar+V+PRF+2+SG
@@ -6995,6 +7011,7 @@ ganchearas	ganchear+V+PQP+2+SG
 ganchearam	ganchear+V+PQP+3+PL
 gancheara	ganchear+V+PQP+3+SG
 gancheamos	ganchear+V+PRF+1+PL
+gancheámos	ganchear+V+PRF+1+PL
 gancheei	ganchear+V+PRF+1+SG
 gancheastes	ganchear+V+PRF+2+PL
 gancheaste	ganchear+V+PRF+2+SG
@@ -7205,6 +7222,7 @@ gandularas	gandular+V+PQP+2+SG
 gandularam	gandular+V+PQP+3+PL
 gandulara	gandular+V+PQP+3+SG
 gandulamos	gandular+V+PRF+1+PL
+gandulámos	gandular+V+PRF+1+PL
 gandulei	gandular+V+PRF+1+SG
 gandulastes	gandular+V+PRF+2+PL
 gandulaste	gandular+V+PRF+2+SG
@@ -7342,6 +7360,7 @@ ganglionaras	ganglionar+V+PQP+2+SG
 ganglionaram	ganglionar+V+PQP+3+PL
 ganglionara	ganglionar+V+PQP+3+SG
 ganglionamos	ganglionar+V+PRF+1+PL
+ganglionámos	ganglionar+V+PRF+1+PL
 ganglionei	ganglionar+V+PRF+1+SG
 ganglionastes	ganglionar+V+PRF+2+PL
 ganglionaste	ganglionar+V+PRF+2+SG
@@ -7544,6 +7563,7 @@ gangorraras	gangorrar+V+PQP+2+SG
 gangorraram	gangorrar+V+PQP+3+PL
 gangorrara	gangorrar+V+PQP+3+SG
 gangorramos	gangorrar+V+PRF+1+PL
+gangorrámos	gangorrar+V+PRF+1+PL
 gangorrei	gangorrar+V+PRF+1+SG
 gangorrastes	gangorrar+V+PRF+2+PL
 gangorraste	gangorrar+V+PRF+2+SG
@@ -7616,6 +7636,7 @@ gangorrearas	gangorrear+V+PQP+2+SG
 gangorrearam	gangorrear+V+PQP+3+PL
 gangorreara	gangorrear+V+PQP+3+SG
 gangorreamos	gangorrear+V+PRF+1+PL
+gangorreámos	gangorrear+V+PRF+1+PL
 gangorreei	gangorrear+V+PRF+1+SG
 gangorreastes	gangorrear+V+PRF+2+PL
 gangorreaste	gangorrear+V+PRF+2+SG
@@ -7974,6 +7995,7 @@ ganizáreis	ganizar+V+PQP+2+PL
 ganizaras	ganizar+V+PQP+2+SG
 ganizaram	ganizar+V+PQP+3+PL
 ganizara	ganizar+V+PQP+3+SG
+ganizamos	ganizar+V+PRF+1+PL
 ganizámos	ganizar+V+PRF+1+PL
 ganizei	ganizar+V+PRF+1+SG
 ganizastes	ganizar+V+PRF+2+PL
@@ -8047,6 +8069,7 @@ ganiçaras	ganiçar+V+PQP+2+SG
 ganiçaram	ganiçar+V+PQP+3+PL
 ganiçara	ganiçar+V+PQP+3+SG
 ganiçamos	ganiçar+V+PRF+1+PL
+ganiçámos	ganiçar+V+PRF+1+PL
 ganicei	ganiçar+V+PRF+1+SG
 ganiçastes	ganiçar+V+PRF+2+PL
 ganiçaste	ganiçar+V+PRF+2+SG
@@ -8119,6 +8142,7 @@ gapinaras	gapinar+V+PQP+2+SG
 gapinaram	gapinar+V+PQP+3+PL
 gapinara	gapinar+V+PQP+3+SG
 gapinamos	gapinar+V+PRF+1+PL
+gapinámos	gapinar+V+PRF+1+PL
 gapinei	gapinar+V+PRF+1+SG
 gapinastes	gapinar+V+PRF+2+PL
 gapinaste	gapinar+V+PRF+2+SG
@@ -8191,6 +8215,7 @@ gapuiaras	gapuiar+V+PQP+2+SG
 gapuiaram	gapuiar+V+PQP+3+PL
 gapuiara	gapuiar+V+PQP+3+SG
 gapuiamos	gapuiar+V+PRF+1+PL
+gapuiámos	gapuiar+V+PRF+1+PL
 gapuiei	gapuiar+V+PRF+1+SG
 gapuiastes	gapuiar+V+PRF+2+PL
 gapuiaste	gapuiar+V+PRF+2+SG
@@ -8263,6 +8288,7 @@ garabulharas	garabulhar+V+PQP+2+SG
 garabulharam	garabulhar+V+PQP+3+PL
 garabulhara	garabulhar+V+PQP+3+SG
 garabulhamos	garabulhar+V+PRF+1+PL
+garabulhámos	garabulhar+V+PRF+1+PL
 garabulhei	garabulhar+V+PRF+1+SG
 garabulhastes	garabulhar+V+PRF+2+PL
 garabulhaste	garabulhar+V+PRF+2+SG
@@ -8335,6 +8361,7 @@ garalharas	garalhar+V+PQP+2+SG
 garalharam	garalhar+V+PQP+3+PL
 garalhara	garalhar+V+PQP+3+SG
 garalhamos	garalhar+V+PRF+1+PL
+garalhámos	garalhar+V+PRF+1+PL
 garalhei	garalhar+V+PRF+1+SG
 garalhastes	garalhar+V+PRF+2+PL
 garalhaste	garalhar+V+PRF+2+SG
@@ -8552,6 +8579,7 @@ garatujaras	garatujar+V+PQP+2+SG
 garatujaram	garatujar+V+PQP+3+PL
 garatujara	garatujar+V+PQP+3+SG
 garatujamos	garatujar+V+PRF+1+PL
+garatujámos	garatujar+V+PRF+1+PL
 garatujei	garatujar+V+PRF+1+SG
 garatujastes	garatujar+V+PRF+2+PL
 garatujaste	garatujar+V+PRF+2+SG
@@ -8624,6 +8652,7 @@ garavetaras	garavetar+V+PQP+2+SG
 garavetaram	garavetar+V+PQP+3+PL
 garavetara	garavetar+V+PQP+3+SG
 garavetamos	garavetar+V+PRF+1+PL
+garavetámos	garavetar+V+PRF+1+PL
 garavetei	garavetar+V+PRF+1+SG
 garavetastes	garavetar+V+PRF+2+PL
 garavetaste	garavetar+V+PRF+2+SG
@@ -8842,6 +8871,7 @@ garfiaras	garfiar+V+PQP+2+SG
 garfiaram	garfiar+V+PQP+3+PL
 garfiara	garfiar+V+PQP+3+SG
 garfiamos	garfiar+V+PRF+1+PL
+garfiámos	garfiar+V+PRF+1+PL
 garfiei	garfiar+V+PRF+1+SG
 garfiastes	garfiar+V+PRF+2+PL
 garfiaste	garfiar+V+PRF+2+SG
@@ -8986,6 +9016,7 @@ gargalejáreis	gargalejar+V+PQP+2+PL
 gargalejaras	gargalejar+V+PQP+2+SG
 gargalejaram	gargalejar+V+PQP+3+PL
 gargalejara	gargalejar+V+PQP+3+SG
+gargalejamos	gargalejar+V+PRF+1+PL
 gargalejámos	gargalejar+V+PRF+1+PL
 gargalejei	gargalejar+V+PRF+1+SG
 gargalejastes	gargalejar+V+PRF+2+PL
@@ -9059,6 +9090,7 @@ gargalhadearas	gargalhadear+V+PQP+2+SG
 gargalhadearam	gargalhadear+V+PQP+3+PL
 gargalhadeara	gargalhadear+V+PQP+3+SG
 gargalhadeamos	gargalhadear+V+PRF+1+PL
+gargalhadeámos	gargalhadear+V+PRF+1+PL
 gargalhadeei	gargalhadear+V+PRF+1+SG
 gargalhadeastes	gargalhadear+V+PRF+2+PL
 gargalhadeaste	gargalhadear+V+PRF+2+SG
@@ -9277,6 +9309,7 @@ gargantuaras	gargantuar+V+PQP+2+SG
 gargantuaram	gargantuar+V+PQP+3+PL
 gargantuara	gargantuar+V+PQP+3+SG
 gargantuamos	gargantuar+V+PRF+1+PL
+gargantuámos	gargantuar+V+PRF+1+PL
 gargantuei	gargantuar+V+PRF+1+SG
 gargantuastes	gargantuar+V+PRF+2+PL
 gargantuaste	gargantuar+V+PRF+2+SG
@@ -9422,6 +9455,7 @@ garguitearas	garguitear+V+PQP+2+SG
 garguitearam	garguitear+V+PQP+3+PL
 garguiteara	garguitear+V+PQP+3+SG
 garguiteamos	garguitear+V+PRF+1+PL
+garguiteámos	garguitear+V+PRF+1+PL
 garguiteei	garguitear+V+PRF+1+SG
 garguiteastes	garguitear+V+PRF+2+PL
 garguiteaste	garguitear+V+PRF+2+SG
@@ -9712,6 +9746,7 @@ garoaras	garoar+V+PQP+2+SG
 garoaram	garoar+V+PQP+3+PL
 garoara	garoar+V+PQP+3+SG
 garoamos	garoar+V+PRF+1+PL
+garoámos	garoar+V+PRF+1+PL
 garoei	garoar+V+PRF+1+SG
 garoastes	garoar+V+PRF+2+PL
 garoaste	garoar+V+PRF+2+SG
@@ -9923,6 +9958,7 @@ garotearas	garotear+V+PQP+2+SG
 garotearam	garotear+V+PQP+3+PL
 garoteara	garotear+V+PQP+3+SG
 garoteamos	garotear+V+PRF+1+PL
+garoteámos	garotear+V+PRF+1+PL
 garoteei	garotear+V+PRF+1+SG
 garoteastes	garotear+V+PRF+2+PL
 garoteaste	garotear+V+PRF+2+SG
@@ -10635,6 +10671,7 @@ garrucharas	garruchar+V+PQP+2+SG
 garrucharam	garruchar+V+PQP+3+PL
 garruchara	garruchar+V+PQP+3+SG
 garruchamos	garruchar+V+PRF+1+PL
+garruchámos	garruchar+V+PRF+1+PL
 garruchei	garruchar+V+PRF+1+SG
 garruchastes	garruchar+V+PRF+2+PL
 garruchaste	garruchar+V+PRF+2+SG
@@ -10780,6 +10817,7 @@ garrulearas	garrulear+V+PQP+2+SG
 garrulearam	garrulear+V+PQP+3+PL
 garruleara	garrulear+V+PQP+3+SG
 garruleamos	garrulear+V+PRF+1+PL
+garruleámos	garrulear+V+PRF+1+PL
 garruleei	garrulear+V+PRF+1+SG
 garruleastes	garrulear+V+PRF+2+PL
 garruleaste	garrulear+V+PRF+2+SG
@@ -10852,6 +10890,7 @@ garuaras	garuar+V+PQP+2+SG
 garuaram	garuar+V+PQP+3+PL
 garuara	garuar+V+PQP+3+SG
 garuamos	garuar+V+PRF+1+PL
+garuámos	garuar+V+PRF+1+PL
 garuei	garuar+V+PRF+1+SG
 garuastes	garuar+V+PRF+2+PL
 garuaste	garuar+V+PRF+2+SG
@@ -11208,6 +11247,7 @@ gasguitaras	gasguitar+V+PQP+2+SG
 gasguitaram	gasguitar+V+PQP+3+PL
 gasguitara	gasguitar+V+PQP+3+SG
 gasguitamos	gasguitar+V+PRF+1+PL
+gasguitámos	gasguitar+V+PRF+1+PL
 gasguitei	gasguitar+V+PRF+1+SG
 gasguitastes	gasguitar+V+PRF+2+PL
 gasguitaste	gasguitar+V+PRF+2+SG
@@ -11280,6 +11320,7 @@ gasguitearas	gasguitear+V+PQP+2+SG
 gasguitearam	gasguitear+V+PQP+3+PL
 gasguiteara	gasguitear+V+PQP+3+SG
 gasguiteamos	gasguitear+V+PRF+1+PL
+gasguiteámos	gasguitear+V+PRF+1+PL
 gasguiteei	gasguitear+V+PRF+1+SG
 gasguiteastes	gasguitear+V+PRF+2+PL
 gasguiteaste	gasguitear+V+PRF+2+SG
@@ -13795,6 +13836,7 @@ gatafunharas	gatafunhar+V+PQP+2+SG
 gatafunharam	gatafunhar+V+PQP+3+PL
 gatafunhara	gatafunhar+V+PQP+3+SG
 gatafunhamos	gatafunhar+V+PRF+1+PL
+gatafunhámos	gatafunhar+V+PRF+1+PL
 gatafunhei	gatafunhar+V+PRF+1+SG
 gatafunhastes	gatafunhar+V+PRF+2+PL
 gatafunhaste	gatafunhar+V+PRF+2+SG
@@ -14086,6 +14128,7 @@ gatificaras	gatificar+V+PQP+2+SG
 gatificaram	gatificar+V+PQP+3+PL
 gatificara	gatificar+V+PQP+3+SG
 gatificamos	gatificar+V+PRF+1+PL
+gatificámos	gatificar+V+PRF+1+PL
 gatifiquei	gatificar+V+PRF+1+SG
 gatificastes	gatificar+V+PRF+2+PL
 gatificaste	gatificar+V+PRF+2+SG
@@ -14304,6 +14347,7 @@ gatunharas	gatunhar+V+PQP+2+SG
 gatunharam	gatunhar+V+PQP+3+PL
 gatunhara	gatunhar+V+PQP+3+SG
 gatunhamos	gatunhar+V+PRF+1+PL
+gatunhámos	gatunhar+V+PRF+1+PL
 gatunhei	gatunhar+V+PRF+1+SG
 gatunhastes	gatunhar+V+PRF+2+PL
 gatunhaste	gatunhar+V+PRF+2+SG
@@ -14376,6 +14420,7 @@ gaturaras	gaturar+V+PQP+2+SG
 gaturaram	gaturar+V+PQP+3+PL
 gaturara	gaturar+V+PQP+3+SG
 gaturamos	gaturar+V+PRF+1+PL
+gaturámos	gaturar+V+PRF+1+PL
 gaturei	gaturar+V+PRF+1+SG
 gaturastes	gaturar+V+PRF+2+PL
 gaturaste	gaturar+V+PRF+2+SG
@@ -14448,6 +14493,7 @@ gaturraras	gaturrar+V+PQP+2+SG
 gaturraram	gaturrar+V+PQP+3+PL
 gaturrara	gaturrar+V+PQP+3+SG
 gaturramos	gaturrar+V+PRF+1+PL
+gaturrámos	gaturrar+V+PRF+1+PL
 gaturrei	gaturrar+V+PRF+1+SG
 gaturrastes	gaturrar+V+PRF+2+PL
 gaturraste	gaturrar+V+PRF+2+SG
@@ -14519,6 +14565,7 @@ gaucharas	gauchar+V+PQP+2+SG
 gaucharam	gauchar+V+PQP+3+PL
 gauchara	gauchar+V+PQP+3+SG
 gauchamos	gauchar+V+PRF+1+PL
+gauchámos	gauchar+V+PRF+1+PL
 gauchei	gauchar+V+PRF+1+SG
 gauchastes	gauchar+V+PRF+2+PL
 gauchaste	gauchar+V+PRF+2+SG
@@ -14591,6 +14638,7 @@ gaucherearas	gaucherear+V+PQP+2+SG
 gaucherearam	gaucherear+V+PQP+3+PL
 gauchereara	gaucherear+V+PQP+3+SG
 gauchereamos	gaucherear+V+PRF+1+PL
+gauchereámos	gaucherear+V+PRF+1+PL
 gauchereei	gaucherear+V+PRF+1+SG
 gauchereastes	gaucherear+V+PRF+2+PL
 gauchereaste	gaucherear+V+PRF+2+SG
@@ -14808,6 +14856,7 @@ gaudináreis	gaudinar+V+PQP+2+PL
 gaudinaras	gaudinar+V+PQP+2+SG
 gaudinaram	gaudinar+V+PQP+3+PL
 gaudinara	gaudinar+V+PQP+3+SG
+gaudinamos	gaudinar+V+PRF+1+PL
 gaudinámos	gaudinar+V+PRF+1+PL
 gaudinei	gaudinar+V+PRF+1+SG
 gaudinastes	gaudinar+V+PRF+2+PL
@@ -14946,6 +14995,7 @@ gavaras	gavar+V+PQP+2+SG
 gavaram	gavar+V+PQP+3+PL
 gavara	gavar+V+PQP+3+SG
 gavamos	gavar+V+PRF+1+PL
+gavámos	gavar+V+PRF+1+PL
 gavei	gavar+V+PRF+1+SG
 gavastes	gavar+V+PRF+2+PL
 gavaste	gavar+V+PRF+2+SG
@@ -15091,6 +15141,7 @@ gavionaras	gavionar+V+PQP+2+SG
 gavionaram	gavionar+V+PQP+3+PL
 gavionara	gavionar+V+PQP+3+SG
 gavionamos	gavionar+V+PRF+1+PL
+gavionámos	gavionar+V+PRF+1+PL
 gavionei	gavionar+V+PRF+1+SG
 gavionastes	gavionar+V+PRF+2+PL
 gavionaste	gavionar+V+PRF+2+SG
@@ -15301,6 +15352,7 @@ gazetearas	gazetear+V+PQP+2+SG
 gazetearam	gazetear+V+PQP+3+PL
 gazeteara	gazetear+V+PQP+3+SG
 gazeteamos	gazetear+V+PRF+1+PL
+gazeteámos	gazetear+V+PRF+1+PL
 gazeteei	gazetear+V+PRF+1+SG
 gazeteastes	gazetear+V+PRF+2+PL
 gazeteaste	gazetear+V+PRF+2+SG
@@ -15373,6 +15425,7 @@ gazofilaras	gazofilar+V+PQP+2+SG
 gazofilaram	gazofilar+V+PQP+3+PL
 gazofilara	gazofilar+V+PQP+3+SG
 gazofilamos	gazofilar+V+PRF+1+PL
+gazofilámos	gazofilar+V+PRF+1+PL
 gazofilei	gazofilar+V+PRF+1+SG
 gazofilastes	gazofilar+V+PRF+2+PL
 gazofilaste	gazofilar+V+PRF+2+SG
@@ -16211,6 +16264,7 @@ gelificáreis	gelificar+V+PQP+2+PL
 gelificaras	gelificar+V+PQP+2+SG
 gelificaram	gelificar+V+PQP+3+PL
 gelificara	gelificar+V+PQP+3+SG
+gelificamos	gelificar+V+PRF+1+PL
 gelificámos	gelificar+V+PRF+1+PL
 gelifiquei	gelificar+V+PRF+1+SG
 gelificastes	gelificar+V+PRF+2+PL
@@ -16487,6 +16541,7 @@ gemelhicaras	gemelhicar+V+PQP+2+SG
 gemelhicaram	gemelhicar+V+PQP+3+PL
 gemelhicara	gemelhicar+V+PQP+3+SG
 gemelhicamos	gemelhicar+V+PRF+1+PL
+gemelhicámos	gemelhicar+V+PRF+1+PL
 gemelhiquei	gemelhicar+V+PRF+1+SG
 gemelhicastes	gemelhicar+V+PRF+2+PL
 gemelhicaste	gemelhicar+V+PRF+2+SG
@@ -20530,6 +20585,7 @@ geografaras	geografar+V+PQP+2+SG
 geografaram	geografar+V+PQP+3+PL
 geografara	geografar+V+PQP+3+SG
 geografamos	geografar+V+PRF+1+PL
+geografámos	geografar+V+PRF+1+PL
 geografei	geografar+V+PRF+1+SG
 geografastes	geografar+V+PRF+2+PL
 geografaste	geografar+V+PRF+2+SG
@@ -21057,6 +21113,7 @@ geometrizaras	geometrizar+V+PQP+2+SG
 geometrizaram	geometrizar+V+PQP+3+PL
 geometrizara	geometrizar+V+PQP+3+SG
 geometrizamos	geometrizar+V+PRF+1+PL
+geometrizámos	geometrizar+V+PRF+1+PL
 geometrizei	geometrizar+V+PRF+1+SG
 geometrizastes	geometrizar+V+PRF+2+PL
 geometrizaste	geometrizar+V+PRF+2+SG
@@ -23289,6 +23346,7 @@ gerenciaras	gerenciar+V+PQP+2+SG
 gerenciaram	gerenciar+V+PQP+3+PL
 gerenciara	gerenciar+V+PQP+3+SG
 gerenciamos	gerenciar+V+PRF+1+PL
+gerenciámos	gerenciar+V+PRF+1+PL
 gerenciei	gerenciar+V+PRF+1+SG
 gerenciastes	gerenciar+V+PRF+2+PL
 gerenciaste	gerenciar+V+PRF+2+SG
@@ -23693,6 +23751,7 @@ germanaras	germanar+V+PQP+2+SG
 germanaram	germanar+V+PQP+3+PL
 germanara	germanar+V+PQP+3+SG
 germanamos	germanar+V+PRF+1+PL
+germanámos	germanar+V+PRF+1+PL
 germanei	germanar+V+PRF+1+SG
 germanastes	germanar+V+PRF+2+PL
 germanaste	germanar+V+PRF+2+SG
@@ -25082,6 +25141,7 @@ gestaras	gestar+V+PQP+2+SG
 gestaram	gestar+V+PQP+3+PL
 gestara	gestar+V+PQP+3+SG
 gestamos	gestar+V+PRF+1+PL
+gestámos	gestar+V+PRF+1+PL
 gestei	gestar+V+PRF+1+SG
 gestastes	gestar+V+PRF+2+PL
 gestaste	gestar+V+PRF+2+SG
@@ -25955,6 +26015,7 @@ gimbraras	gimbrar+V+PQP+2+SG
 gimbraram	gimbrar+V+PQP+3+PL
 gimbrara	gimbrar+V+PQP+3+SG
 gimbramos	gimbrar+V+PRF+1+PL
+gimbrámos	gimbrar+V+PRF+1+PL
 gimbrei	gimbrar+V+PRF+1+SG
 gimbrastes	gimbrar+V+PRF+2+PL
 gimbraste	gimbrar+V+PRF+2+SG
@@ -27197,6 +27258,7 @@ ginetearas	ginetear+V+PQP+2+SG
 ginetearam	ginetear+V+PQP+3+PL
 gineteara	ginetear+V+PQP+3+SG
 gineteamos	ginetear+V+PRF+1+PL
+gineteámos	ginetear+V+PRF+1+PL
 gineteei	ginetear+V+PRF+1+SG
 gineteastes	ginetear+V+PRF+2+PL
 gineteaste	ginetear+V+PRF+2+SG
@@ -27683,6 +27745,7 @@ girogiraras	girogirar+V+PQP+2+SG
 girogiraram	girogirar+V+PQP+3+PL
 girogirara	girogirar+V+PQP+3+SG
 girogiramos	girogirar+V+PRF+1+PL
+girogirámos	girogirar+V+PRF+1+PL
 girogirei	girogirar+V+PRF+1+SG
 girogirastes	girogirar+V+PRF+2+PL
 girogiraste	girogirar+V+PRF+2+SG
@@ -28080,6 +28143,7 @@ girovagaras	girovagar+V+PQP+2+SG
 girovagaram	girovagar+V+PQP+3+PL
 girovagara	girovagar+V+PQP+3+SG
 girovagamos	girovagar+V+PRF+1+PL
+girovagámos	girovagar+V+PRF+1+PL
 girovaguei	girovagar+V+PRF+1+SG
 girovagastes	girovagar+V+PRF+2+PL
 girovagaste	girovagar+V+PRF+2+SG
@@ -30637,6 +30701,7 @@ globalizáreis	globalizar+V+PQP+2+PL
 globalizaras	globalizar+V+PQP+2+SG
 globalizaram	globalizar+V+PQP+3+PL
 globalizara	globalizar+V+PQP+3+SG
+globalizamos	globalizar+V+PRF+1+PL
 globalizámos	globalizar+V+PRF+1+PL
 globalizei	globalizar+V+PRF+1+SG
 globalizastes	globalizar+V+PRF+2+PL
@@ -32042,6 +32107,7 @@ gloteraras	gloterar+V+PQP+2+SG
 gloteraram	gloterar+V+PQP+3+PL
 gloterara	gloterar+V+PQP+3+SG
 gloteramos	gloterar+V+PRF+1+PL
+gloterámos	gloterar+V+PRF+1+PL
 gloterei	gloterar+V+PRF+1+SG
 gloterastes	gloterar+V+PRF+2+PL
 gloteraste	gloterar+V+PRF+2+SG
@@ -33300,6 +33366,7 @@ goderaras	goderar+V+PQP+2+SG
 goderaram	goderar+V+PQP+3+PL
 goderara	goderar+V+PQP+3+SG
 goderamos	goderar+V+PRF+1+PL
+goderámos	goderar+V+PRF+1+PL
 goderei	goderar+V+PRF+1+SG
 goderastes	goderar+V+PRF+2+PL
 goderaste	goderar+V+PRF+2+SG
@@ -33510,6 +33577,7 @@ gofaras	gofar+V+PQP+2+SG
 gofaram	gofar+V+PQP+3+PL
 gofara	gofar+V+PQP+3+SG
 gofamos	gofar+V+PRF+1+PL
+gofámos	gofar+V+PRF+1+PL
 gofei	gofar+V+PRF+1+SG
 gofastes	gofar+V+PRF+2+PL
 gofaste	gofar+V+PRF+2+SG
@@ -33655,6 +33723,7 @@ goianizaras	goianizar+V+PQP+2+SG
 goianizaram	goianizar+V+PQP+3+PL
 goianizara	goianizar+V+PQP+3+SG
 goianizamos	goianizar+V+PRF+1+PL
+goianizámos	goianizar+V+PRF+1+PL
 goianizei	goianizar+V+PRF+1+SG
 goianizastes	goianizar+V+PRF+2+PL
 goianizaste	goianizar+V+PRF+2+SG
@@ -34230,6 +34299,7 @@ goliparas	golipar+V+PQP+2+SG
 goliparam	golipar+V+PQP+3+PL
 golipara	golipar+V+PQP+3+SG
 golipamos	golipar+V+PRF+1+PL
+golipámos	golipar+V+PRF+1+PL
 golipei	golipar+V+PRF+1+SG
 golipastes	golipar+V+PRF+2+PL
 golipaste	golipar+V+PRF+2+SG
@@ -34643,6 +34713,7 @@ gomificaras	gomificar+V+PQP+2+SG
 gomificaram	gomificar+V+PQP+3+PL
 gomificara	gomificar+V+PQP+3+SG
 gomificamos	gomificar+V+PRF+1+PL
+gomificámos	gomificar+V+PRF+1+PL
 gomifiquei	gomificar+V+PRF+1+SG
 gomificastes	gomificar+V+PRF+2+PL
 gomificaste	gomificar+V+PRF+2+SG
@@ -34918,6 +34989,7 @@ gongaras	gongar+V+PQP+2+SG
 gongaram	gongar+V+PQP+3+PL
 gongara	gongar+V+PQP+3+SG
 gongamos	gongar+V+PRF+1+PL
+gongámos	gongar+V+PRF+1+PL
 gonguei	gongar+V+PRF+1+SG
 gongastes	gongar+V+PRF+2+PL
 gongaste	gongar+V+PRF+2+SG
@@ -36070,6 +36142,7 @@ gorgulharas	gorgulhar+V+PQP+2+SG
 gorgulharam	gorgulhar+V+PQP+3+PL
 gorgulhara	gorgulhar+V+PQP+3+SG
 gorgulhamos	gorgulhar+V+PRF+1+PL
+gorgulhámos	gorgulhar+V+PRF+1+PL
 gorgulhei	gorgulhar+V+PRF+1+SG
 gorgulhastes	gorgulhar+V+PRF+2+PL
 gorgulhaste	gorgulhar+V+PRF+2+SG
@@ -36903,6 +36976,7 @@ gouvarinháreis	gouvarinhar+V+PQP+2+PL
 gouvarinharas	gouvarinhar+V+PQP+2+SG
 gouvarinharam	gouvarinhar+V+PQP+3+PL
 gouvarinhara	gouvarinhar+V+PQP+3+SG
+gouvarinhamos	gouvarinhar+V+PRF+1+PL
 gouvarinhámos	gouvarinhar+V+PRF+1+PL
 gouvarinhei	gouvarinhar+V+PRF+1+SG
 gouvarinhastes	gouvarinhar+V+PRF+2+PL
@@ -39353,6 +39427,7 @@ graiáreis	graiar+V+PQP+2+PL
 graiaras	graiar+V+PQP+2+SG
 graiaram	graiar+V+PQP+3+PL
 graiara	graiar+V+PQP+3+SG
+graiamos	graiar+V+PRF+1+PL
 graiámos	graiar+V+PRF+1+PL
 graiei	graiar+V+PRF+1+SG
 graiastes	graiar+V+PRF+2+PL
@@ -39499,6 +39574,7 @@ gralhearas	gralhear+V+PQP+2+SG
 gralhearam	gralhear+V+PQP+3+PL
 gralheara	gralhear+V+PQP+3+SG
 gralheamos	gralhear+V+PRF+1+PL
+gralheámos	gralhear+V+PRF+1+PL
 gralheei	gralhear+V+PRF+1+SG
 gralheastes	gralhear+V+PRF+2+PL
 gralheaste	gralhear+V+PRF+2+SG
@@ -39838,6 +39914,7 @@ gramaticalizáreis	gramaticalizar+V+PQP+2+PL
 gramaticalizaras	gramaticalizar+V+PQP+2+SG
 gramaticalizaram	gramaticalizar+V+PQP+3+PL
 gramaticalizara	gramaticalizar+V+PQP+3+SG
+gramaticalizamos	gramaticalizar+V+PRF+1+PL
 gramaticalizámos	gramaticalizar+V+PRF+1+PL
 gramaticalizei	gramaticalizar+V+PRF+1+SG
 gramaticalizastes	gramaticalizar+V+PRF+2+PL
@@ -41841,6 +41918,7 @@ grassitaras	grassitar+V+PQP+2+SG
 grassitaram	grassitar+V+PQP+3+PL
 grassitara	grassitar+V+PQP+3+SG
 grassitamos	grassitar+V+PRF+1+PL
+grassitámos	grassitar+V+PRF+1+PL
 grassitei	grassitar+V+PRF+1+SG
 grassitastes	grassitar+V+PRF+2+PL
 grassitaste	grassitar+V+PRF+2+SG
@@ -41913,6 +41991,7 @@ gratearas	gratear+V+PQP+2+SG
 gratearam	gratear+V+PQP+3+PL
 grateara	gratear+V+PQP+3+SG
 grateamos	gratear+V+PRF+1+PL
+grateámos	gratear+V+PRF+1+PL
 grateei	gratear+V+PRF+1+SG
 grateastes	gratear+V+PRF+2+PL
 grateaste	gratear+V+PRF+2+SG
@@ -42122,6 +42201,7 @@ gratináreis	gratinar+V+PQP+2+PL
 gratinaras	gratinar+V+PQP+2+SG
 gratinaram	gratinar+V+PQP+3+PL
 gratinara	gratinar+V+PQP+3+SG
+gratinamos	gratinar+V+PRF+1+PL
 gratinámos	gratinar+V+PRF+1+PL
 gratinei	gratinar+V+PRF+1+SG
 gratinastes	gratinar+V+PRF+2+PL
@@ -42406,6 +42486,7 @@ gravatearas	gravatear+V+PQP+2+SG
 gravatearam	gravatear+V+PQP+3+PL
 gravateara	gravatear+V+PQP+3+SG
 gravateamos	gravatear+V+PRF+1+PL
+gravateámos	gravatear+V+PRF+1+PL
 gravateei	gravatear+V+PRF+1+SG
 gravateastes	gravatear+V+PRF+2+PL
 gravateaste	gravatear+V+PRF+2+SG
@@ -42543,6 +42624,7 @@ gravetaras	gravetar+V+PQP+2+SG
 gravetaram	gravetar+V+PQP+3+PL
 gravetara	gravetar+V+PQP+3+SG
 gravetamos	gravetar+V+PRF+1+PL
+gravetámos	gravetar+V+PRF+1+PL
 gravetei	gravetar+V+PRF+1+SG
 gravetastes	gravetar+V+PRF+2+PL
 gravetaste	gravetar+V+PRF+2+SG
@@ -43021,6 +43103,7 @@ gravotearas	gravotear+V+PQP+2+SG
 gravotearam	gravotear+V+PQP+3+PL
 gravoteara	gravotear+V+PQP+3+SG
 gravoteamos	gravotear+V+PRF+1+PL
+gravoteámos	gravotear+V+PRF+1+PL
 gravoteei	gravotear+V+PRF+1+SG
 gravoteastes	gravotear+V+PRF+2+PL
 gravoteaste	gravotear+V+PRF+2+SG
@@ -43093,6 +43176,7 @@ gravunharas	gravunhar+V+PQP+2+SG
 gravunharam	gravunhar+V+PQP+3+PL
 gravunhara	gravunhar+V+PQP+3+SG
 gravunhamos	gravunhar+V+PRF+1+PL
+gravunhámos	gravunhar+V+PRF+1+PL
 gravunhei	gravunhar+V+PRF+1+SG
 gravunhastes	gravunhar+V+PRF+2+PL
 gravunhaste	gravunhar+V+PRF+2+SG
@@ -43311,6 +43395,7 @@ graçolaras	graçolar+V+PQP+2+SG
 graçolaram	graçolar+V+PQP+3+PL
 graçolara	graçolar+V+PQP+3+SG
 graçolamos	graçolar+V+PRF+1+PL
+graçolámos	graçolar+V+PRF+1+PL
 graçolei	graçolar+V+PRF+1+SG
 graçolastes	graçolar+V+PRF+2+PL
 graçolaste	graçolar+V+PRF+2+SG
@@ -44276,6 +44361,7 @@ grilaras	grilar+V+PQP+2+SG
 grilaram	grilar+V+PQP+3+PL
 grilara	grilar+V+PQP+3+SG
 grilamos	grilar+V+PRF+1+PL
+grilámos	grilar+V+PRF+1+PL
 grilei	grilar+V+PRF+1+SG
 grilastes	grilar+V+PRF+2+PL
 grilaste	grilar+V+PRF+2+SG
@@ -44421,6 +44507,7 @@ grinaldaras	grinaldar+V+PQP+2+SG
 grinaldaram	grinaldar+V+PQP+3+PL
 grinaldara	grinaldar+V+PQP+3+SG
 grinaldamos	grinaldar+V+PRF+1+PL
+grinaldámos	grinaldar+V+PRF+1+PL
 grinaldei	grinaldar+V+PRF+1+SG
 grinaldastes	grinaldar+V+PRF+2+PL
 grinaldaste	grinaldar+V+PRF+2+SG
@@ -45613,6 +45700,7 @@ grugrulharas	grugrulhar+V+PQP+2+SG
 grugrulharam	grugrulhar+V+PQP+3+PL
 grugrulhara	grugrulhar+V+PQP+3+SG
 grugrulhamos	grugrulhar+V+PRF+1+PL
+grugrulhámos	grugrulhar+V+PRF+1+PL
 grugrulhei	grugrulhar+V+PRF+1+SG
 grugrulhastes	grugrulhar+V+PRF+2+PL
 grugrulhaste	grugrulhar+V+PRF+2+SG
@@ -45758,6 +45846,7 @@ grugunzaras	grugunzar+V+PQP+2+SG
 grugunzaram	grugunzar+V+PQP+3+PL
 grugunzara	grugunzar+V+PQP+3+SG
 grugunzamos	grugunzar+V+PRF+1+PL
+grugunzámos	grugunzar+V+PRF+1+PL
 grugunzei	grugunzar+V+PRF+1+SG
 grugunzastes	grugunzar+V+PRF+2+PL
 grugunzaste	grugunzar+V+PRF+2+SG
@@ -46397,6 +46486,7 @@ guaguacharas	guaguachar+V+PQP+2+SG
 guaguacharam	guaguachar+V+PQP+3+PL
 guaguachara	guaguachar+V+PQP+3+SG
 guaguachamos	guaguachar+V+PRF+1+PL
+guaguachámos	guaguachar+V+PRF+1+PL
 guaguachei	guaguachar+V+PRF+1+SG
 guaguachastes	guaguachar+V+PRF+2+PL
 guaguachaste	guaguachar+V+PRF+2+SG
@@ -46752,6 +46842,7 @@ guampearas	guampear+V+PQP+2+SG
 guampearam	guampear+V+PQP+3+PL
 guampeara	guampear+V+PQP+3+SG
 guampeamos	guampear+V+PRF+1+PL
+guampeámos	guampear+V+PRF+1+PL
 guampeei	guampear+V+PRF+1+SG
 guampeastes	guampear+V+PRF+2+PL
 guampeaste	guampear+V+PRF+2+SG
@@ -46889,6 +46980,7 @@ guapearas	guapear+V+PQP+2+SG
 guapearam	guapear+V+PQP+3+PL
 guapeara	guapear+V+PQP+3+SG
 guapeamos	guapear+V+PRF+1+PL
+guapeámos	guapear+V+PRF+1+PL
 guapeei	guapear+V+PRF+1+SG
 guapeastes	guapear+V+PRF+2+PL
 guapeaste	guapear+V+PRF+2+SG
@@ -46961,6 +47053,7 @@ guapetonearas	guapetonear+V+PQP+2+SG
 guapetonearam	guapetonear+V+PQP+3+PL
 guapetoneara	guapetonear+V+PQP+3+SG
 guapetoneamos	guapetonear+V+PRF+1+PL
+guapetoneámos	guapetonear+V+PRF+1+PL
 guapetoneei	guapetonear+V+PRF+1+SG
 guapetoneastes	guapetonear+V+PRF+2+PL
 guapetoneaste	guapetonear+V+PRF+2+SG
@@ -47597,6 +47690,7 @@ guasquearas	guasquear+V+PQP+2+SG
 guasquearam	guasquear+V+PQP+3+PL
 guasqueara	guasquear+V+PQP+3+SG
 guasqueamos	guasquear+V+PRF+1+PL
+guasqueámos	guasquear+V+PRF+1+PL
 guasqueei	guasquear+V+PRF+1+SG
 guasqueastes	guasquear+V+PRF+2+PL
 guasqueaste	guasquear+V+PRF+2+SG
@@ -48739,6 +48833,7 @@ gulazáreis	gulazar+V+PQP+2+PL
 gulazaras	gulazar+V+PQP+2+SG
 gulazaram	gulazar+V+PQP+3+PL
 gulazara	gulazar+V+PQP+3+SG
+gulazamos	gulazar+V+PRF+1+PL
 gulazámos	gulazar+V+PRF+1+PL
 gulazei	gulazar+V+PRF+1+SG
 gulazastes	gulazar+V+PRF+2+PL
@@ -48811,6 +48906,7 @@ guleimáreis	guleimar+V+PQP+2+PL
 guleimaras	guleimar+V+PQP+2+SG
 guleimaram	guleimar+V+PQP+3+PL
 guleimara	guleimar+V+PQP+3+SG
+guleimamos	guleimar+V+PRF+1+PL
 guleimámos	guleimar+V+PRF+1+PL
 guleimei	guleimar+V+PRF+1+SG
 guleimastes	guleimar+V+PRF+2+PL
@@ -48957,6 +49053,7 @@ gulosearas	gulosear+V+PQP+2+SG
 gulosearam	gulosear+V+PQP+3+PL
 guloseara	gulosear+V+PQP+3+SG
 guloseamos	gulosear+V+PRF+1+PL
+guloseámos	gulosear+V+PRF+1+PL
 guloseei	gulosear+V+PRF+1+SG
 guloseastes	gulosear+V+PRF+2+PL
 guloseaste	gulosear+V+PRF+2+SG
@@ -49102,6 +49199,7 @@ gungunaras	gungunar+V+PQP+2+SG
 gungunaram	gungunar+V+PQP+3+PL
 gungunara	gungunar+V+PQP+3+SG
 gungunamos	gungunar+V+PRF+1+PL
+gungunámos	gungunar+V+PRF+1+PL
 gungunei	gungunar+V+PRF+1+SG
 gungunastes	gungunar+V+PRF+2+PL
 gungunaste	gungunar+V+PRF+2+SG
