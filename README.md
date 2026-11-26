@@ -83,9 +83,57 @@ entries of a lemma stay together. After editing a dictionary, run
   ([#71](https://github.com/LR-POR/MorphoBr/issues/71)). Foreign words and
   neologisms not registered in the reference vocabularies are discussed in
   [#148](https://github.com/LR-POR/MorphoBr/issues/148).
-- **References.** Entries are checked against the
-  [Portal da Língua Portuguesa](https://www.portaldalinguaportuguesa.org/)
-  and other reference dictionaries (Priberam, Aulete, Houaiss).
+- **References.** Entries and rules are checked against the linguistic
+  references below.
+
+## Linguistic references
+
+Every correction of the data and every inflection rule should cite its source:
+a dictionary entry, a Base of the Orthographic Agreement or a grammar (with the
+page). Discussions in the issues use the following references.
+
+### Dictionaries and vocabularies
+
+In order of preference:
+
+1. [Portal da Língua Portuguesa](https://www.portaldalinguaportuguesa.org/)
+   (ILTEC, Universidade de Lisboa): the most reliable reference for inflection
+   and conjugation ([#51](https://github.com/LR-POR/MorphoBr/issues/51),
+   [#101](https://github.com/LR-POR/MorphoBr/issues/101)).
+2. [Vocabulário Ortográfico da Língua Portuguesa](https://www.academia.org.br/nossa-lingua/busca-no-vocabulario)
+   (VOLP, Academia Brasileira de Letras).
+3. [Wikcionário](https://pt.wiktionary.org/).
+4. [Michaelis](https://michaelis.uol.com.br/).
+5. [Priberam](https://dicionario.priberam.org/).
+6. [Houaiss](https://houaiss.uol.com.br/) (the online version is paid, so it
+   has low priority; printed editions are used in the issues).
+7. [Aulete](https://www.aulete.com.br/), one of the most traditional references
+   for Brazilian Portuguese.
+8. [Dicionário Aberto](https://dicionario-aberto.net/).
+9. [Infopédia](https://www.infopedia.pt/dicionarios/lingua-portuguesa/)
+   (Porto Editora), the main reference for European Portuguese
+   ([#101](https://github.com/LR-POR/MorphoBr/issues/101)).
+10. [Dicio](https://www.dicio.com.br/): to be used with caution and confirmed
+    in the sources above ([#60](https://github.com/LR-POR/MorphoBr/issues/60)).
+
+### Orthography
+
+- [Acordo Ortográfico da Língua Portuguesa (1990)](http://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990),
+  text on the Portal da Língua Portuguesa, which also lists the
+  [changes of spelling](http://www.portaldalinguaportuguesa.org/?action=novoacordo).
+  Forms of the previous spelling are kept
+  ([#93](https://github.com/LR-POR/MorphoBr/issues/93)).
+
+### Grammars
+
+- CUNHA, Celso; CINTRA, Lindley. *Nova gramática do português contemporâneo*.
+  2. ed. Rio de Janeiro: Nova Fronteira, 1985.
+- MATEUS, Maria Helena Mira et al. *Gramática da língua portuguesa*. 2. ed.
+  Lisboa: Caminho, 1989.
+
+### Language consultancy
+
+- [Ciberdúvidas da Língua Portuguesa](https://ciberduvidas.iscte-iul.pt/).
 
 ## Inflection rules and full-form lists
 
@@ -233,8 +281,21 @@ Please cite:
 > v. 11, n. 3, p. 1-25, set.-dez. 2018. DOI:
 > [10.17851/1983-3652.11.3.1-25](https://doi.org/10.17851/1983-3652.11.3.1-25).
 
-Other publications are listed in the
-[wiki](https://github.com/LR-POR/MorphoBr/wiki#publicações).
+Other publications about MorphoBr and the methods used:
+
+- SILVA, Hélio Leonam Barroso. *Expansão do MorphoBr através da modelagem
+  computacional de processos de formação de palavras em português*.
+  Dissertação (Mestrado em Linguística), Universidade Federal do Ceará, 2019.
+  <http://www.repositorio.ufc.br/handle/riufc/47136>
+- ALENCAR, Leonel F. de et al. JMorpher: a finite-state morphological parser
+  in Java for Android. In: *Computational Processing of the Portuguese
+  Language* (PROPOR 2014). Lecture Notes in Computer Science. Springer, 2014.
+  p. 59-69. DOI: [10.1007/978-3-319-09761-9_6](https://doi.org/10.1007/978-3-319-09761-9_6)
+- HULDEN, Mans. Foma: a finite-state compiler and library. In: *Proceedings of
+  the Demonstrations Session at EACL 2009*. Athens: ACL, 2009. p. 29-32.
+  <https://aclanthology.org/E09-2008/>
+- Finite-state morphology with foma, a tutorial:
+  <http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf>
 
 ## License
 
