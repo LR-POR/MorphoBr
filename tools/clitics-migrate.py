@@ -87,7 +87,9 @@ def main():
     gen = generate(new_lex)
     for lemma in passed:
         assert gen[lemma] <= dic[lemma], lemma
-    remove = set().union(*(gen[l] for l in passed)) if passed else set()
+    # pares de qualquer lema migrado que ainda estejam nos .dict (p.ex. depois
+    # de uma correção de dados) também saem: já são gerados pelas regras
+    remove = set().union(*(gen[l] & dic[l] for l in new_lex)) if new_lex else set()
     total = sum(len(s) for s in dic.values())
     print(f"pares a remover de clitics/*.dict: {len(remove)} de {total}")
     if dry:
