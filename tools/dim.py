@@ -88,7 +88,10 @@ def generate(allowed):
         with open(os.path.join(tmp, "pairs.txt"), encoding="utf-8") as fh:
             for line in fh:
                 ana, form = line.rstrip("\n").split("\t")
-                pairs.add((form, ana))
+                # arquivos de base vazios (listas pequenas) fazem a gramática
+                # gerar sufixos soltos, sem lema (zinho +DIM+M+SG): descartados
+                if not ana.startswith("+"):
+                    pairs.add((form, ana))
     return collapse(pairs)
 
 

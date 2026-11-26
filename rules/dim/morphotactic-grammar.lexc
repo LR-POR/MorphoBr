@@ -45,7 +45,7 @@ LEXICON AdjNouns
 < @stxt"wdlm_in_s_m_sg.stxt"  "@U.GEND.M@" "@U.NUM.SG@" "@U.ENDING.S@" > StemS ;
 < @stxt"wdlm_in_s_m_pl.stxt"  "@U.GEND.M@" "@U.NUM.PL@"  "@U.ENDING.S@" > StemS ;
 < @stxt"wdlm_in_s_f_sg.stxt"  "@U.GEND.F@" "@U.NUM.SG@"  "@U.ENDING.S@" > StemS ;
-< @stxt"wdlm_in_s_m_pl.stxt"  "@U.GEND.F@" "@U.NUM.PL@"  "@U.ENDING.S@" > StemS ;
+< @stxt"wdlm_in_s_f_pl.stxt"  "@U.GEND.F@" "@U.NUM.PL@"  "@U.ENDING.S@" > StemS ;
 
 ! category (iii)
 < @stxt"masc_in_a_sg.stxt" "@U.GEND.M@" "@U.NUM.SG@" "@U.TH.A@" >	Suff ;
