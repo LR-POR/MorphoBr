@@ -22,6 +22,13 @@ processed in less powerful computers. The repository structure is
 meant for development: if you would like a copy of the data, you
 should go to our [[https://github.com/LFG-PTBR/MorphoBr/releases][releases page]].
 
+Each file holds the lemmas whose first letter (without accents) is the
+one in the file name. Lines are kept in a canonical order: sorted by
+analysis and then by form, comparing bytes (=LC_ALL=C=), without
+repeated lines, so all entries of a lemma stay together. After editing
+a dictionary, run =tools/canonicalize.sh= (or =tools/canonicalize.sh
+--check= to only check the order).
+
 Code (and its documentation) employed in the resource's development
 can be found in the =tools/= directory.
 
