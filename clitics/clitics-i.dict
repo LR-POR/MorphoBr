@@ -17,6 +17,7 @@ ideávei-las	idear+V.ele.ACC.3.F.PL+IMPF+2+PL
 ideava-las	idear+V.ele.ACC.3.F.PL+IMPF+2+SG
 ideavam-nas	idear+V.ele.ACC.3.F.PL+IMPF+3+PL
 ideava-as	idear+V.ele.ACC.3.F.PL+IMPF+3+SG
+ideá-las	idear+V.ele.ACC.3.F.PL+INF
 idearmo-las	idear+V.ele.ACC.3.F.PL+INF+1+PL
 ideá-las	idear+V.ele.ACC.3.F.PL+INF+1+SG
 idearde-las	idear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -66,6 +67,7 @@ ideávei-la	idear+V.ele.ACC.3.F.SG+IMPF+2+PL
 ideava-la	idear+V.ele.ACC.3.F.SG+IMPF+2+SG
 ideavam-na	idear+V.ele.ACC.3.F.SG+IMPF+3+PL
 ideava-a	idear+V.ele.ACC.3.F.SG+IMPF+3+SG
+ideá-la	idear+V.ele.ACC.3.F.SG+INF
 idearmo-la	idear+V.ele.ACC.3.F.SG+INF+1+PL
 ideá-la	idear+V.ele.ACC.3.F.SG+INF+1+SG
 idearde-la	idear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -115,6 +117,7 @@ ideávei-los	idear+V.ele.ACC.3.M.PL+IMPF+2+PL
 ideava-los	idear+V.ele.ACC.3.M.PL+IMPF+2+SG
 ideavam-nos	idear+V.ele.ACC.3.M.PL+IMPF+3+PL
 ideava-os	idear+V.ele.ACC.3.M.PL+IMPF+3+SG
+ideá-los	idear+V.ele.ACC.3.M.PL+INF
 idearmo-los	idear+V.ele.ACC.3.M.PL+INF+1+PL
 ideá-los	idear+V.ele.ACC.3.M.PL+INF+1+SG
 idearde-los	idear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -164,6 +167,7 @@ ideávei-lo	idear+V.ele.ACC.3.M.SG+IMPF+2+PL
 ideava-lo	idear+V.ele.ACC.3.M.SG+IMPF+2+SG
 ideavam-no	idear+V.ele.ACC.3.M.SG+IMPF+3+PL
 ideava-o	idear+V.ele.ACC.3.M.SG+IMPF+3+SG
+ideá-lo	idear+V.ele.ACC.3.M.SG+INF
 idearmo-lo	idear+V.ele.ACC.3.M.SG+INF+1+PL
 ideá-lo	idear+V.ele.ACC.3.M.SG+INF+1+SG
 idearde-lo	idear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -534,6 +538,7 @@ identificávei-las	identificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 identificava-las	identificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 identificavam-nas	identificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 identificava-as	identificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+identificá-las	identificar+V.ele.ACC.3.F.PL+INF
 identificarmo-las	identificar+V.ele.ACC.3.F.PL+INF+1+PL
 identificá-las	identificar+V.ele.ACC.3.F.PL+INF+1+SG
 identificarde-las	identificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -585,6 +590,7 @@ identificávei-la	identificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 identificava-la	identificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 identificavam-na	identificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 identificava-a	identificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+identificá-la	identificar+V.ele.ACC.3.F.SG+INF
 identificarmo-la	identificar+V.ele.ACC.3.F.SG+INF+1+PL
 identificá-la	identificar+V.ele.ACC.3.F.SG+INF+1+SG
 identificarde-la	identificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -636,6 +642,7 @@ identificávei-los	identificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 identificava-los	identificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 identificavam-nos	identificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 identificava-os	identificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+identificá-los	identificar+V.ele.ACC.3.M.PL+INF
 identificarmo-los	identificar+V.ele.ACC.3.M.PL+INF+1+PL
 identificá-los	identificar+V.ele.ACC.3.M.PL+INF+1+SG
 identificarde-los	identificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -687,6 +694,7 @@ identificávei-lo	identificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 identificava-lo	identificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 identificavam-no	identificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 identificava-o	identificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+identificá-lo	identificar+V.ele.ACC.3.M.SG+INF
 identificarmo-lo	identificar+V.ele.ACC.3.M.SG+INF+1+PL
 identificá-lo	identificar+V.ele.ACC.3.M.SG+INF+1+SG
 identificarde-lo	identificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1070,6 +1078,7 @@ ignificávei-las	ignificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 ignificava-las	ignificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 ignificavam-nas	ignificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 ignificava-as	ignificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+ignificá-las	ignificar+V.ele.ACC.3.F.PL+INF
 ignificarmo-las	ignificar+V.ele.ACC.3.F.PL+INF+1+PL
 ignificá-las	ignificar+V.ele.ACC.3.F.PL+INF+1+SG
 ignificarde-las	ignificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1121,6 +1130,7 @@ ignificávei-la	ignificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 ignificava-la	ignificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 ignificavam-na	ignificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 ignificava-a	ignificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+ignificá-la	ignificar+V.ele.ACC.3.F.SG+INF
 ignificarmo-la	ignificar+V.ele.ACC.3.F.SG+INF+1+PL
 ignificá-la	ignificar+V.ele.ACC.3.F.SG+INF+1+SG
 ignificarde-la	ignificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1172,6 +1182,7 @@ ignificávei-los	ignificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 ignificava-los	ignificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 ignificavam-nos	ignificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 ignificava-os	ignificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+ignificá-los	ignificar+V.ele.ACC.3.M.PL+INF
 ignificarmo-los	ignificar+V.ele.ACC.3.M.PL+INF+1+PL
 ignificá-los	ignificar+V.ele.ACC.3.M.PL+INF+1+SG
 ignificarde-los	ignificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1223,6 +1234,7 @@ ignificávei-lo	ignificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 ignificava-lo	ignificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 ignificavam-no	ignificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 ignificava-o	ignificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+ignificá-lo	ignificar+V.ele.ACC.3.M.SG+INF
 ignificarmo-lo	ignificar+V.ele.ACC.3.M.SG+INF+1+PL
 ignificá-lo	ignificar+V.ele.ACC.3.M.SG+INF+1+SG
 ignificarde-lo	ignificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1603,6 +1615,7 @@ ilaqueávei-las	ilaquear+V.ele.ACC.3.F.PL+IMPF+2+PL
 ilaqueava-las	ilaquear+V.ele.ACC.3.F.PL+IMPF+2+SG
 ilaqueavam-nas	ilaquear+V.ele.ACC.3.F.PL+IMPF+3+PL
 ilaqueava-as	ilaquear+V.ele.ACC.3.F.PL+IMPF+3+SG
+ilaqueá-las	ilaquear+V.ele.ACC.3.F.PL+INF
 ilaquearmo-las	ilaquear+V.ele.ACC.3.F.PL+INF+1+PL
 ilaqueá-las	ilaquear+V.ele.ACC.3.F.PL+INF+1+SG
 ilaquearde-las	ilaquear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1652,6 +1665,7 @@ ilaqueávei-la	ilaquear+V.ele.ACC.3.F.SG+IMPF+2+PL
 ilaqueava-la	ilaquear+V.ele.ACC.3.F.SG+IMPF+2+SG
 ilaqueavam-na	ilaquear+V.ele.ACC.3.F.SG+IMPF+3+PL
 ilaqueava-a	ilaquear+V.ele.ACC.3.F.SG+IMPF+3+SG
+ilaqueá-la	ilaquear+V.ele.ACC.3.F.SG+INF
 ilaquearmo-la	ilaquear+V.ele.ACC.3.F.SG+INF+1+PL
 ilaqueá-la	ilaquear+V.ele.ACC.3.F.SG+INF+1+SG
 ilaquearde-la	ilaquear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1701,6 +1715,7 @@ ilaqueávei-los	ilaquear+V.ele.ACC.3.M.PL+IMPF+2+PL
 ilaqueava-los	ilaquear+V.ele.ACC.3.M.PL+IMPF+2+SG
 ilaqueavam-nos	ilaquear+V.ele.ACC.3.M.PL+IMPF+3+PL
 ilaqueava-os	ilaquear+V.ele.ACC.3.M.PL+IMPF+3+SG
+ilaqueá-los	ilaquear+V.ele.ACC.3.M.PL+INF
 ilaquearmo-los	ilaquear+V.ele.ACC.3.M.PL+INF+1+PL
 ilaqueá-los	ilaquear+V.ele.ACC.3.M.PL+INF+1+SG
 ilaquearde-los	ilaquear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1750,6 +1765,7 @@ ilaqueávei-lo	ilaquear+V.ele.ACC.3.M.SG+IMPF+2+PL
 ilaqueava-lo	ilaquear+V.ele.ACC.3.M.SG+IMPF+2+SG
 ilaqueavam-no	ilaquear+V.ele.ACC.3.M.SG+IMPF+3+PL
 ilaqueava-o	ilaquear+V.ele.ACC.3.M.SG+IMPF+3+SG
+ilaqueá-lo	ilaquear+V.ele.ACC.3.M.SG+INF
 ilaquearmo-lo	ilaquear+V.ele.ACC.3.M.SG+INF+1+PL
 ilaqueá-lo	ilaquear+V.ele.ACC.3.M.SG+INF+1+SG
 ilaquearde-lo	ilaquear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2120,6 +2136,7 @@ ilidíei-las	ilidir+V.ele.ACC.3.F.PL+IMPF+2+PL
 ilidia-las	ilidir+V.ele.ACC.3.F.PL+IMPF+2+SG
 ilidiam-nas	ilidir+V.ele.ACC.3.F.PL+IMPF+3+PL
 ilidia-as	ilidir+V.ele.ACC.3.F.PL+IMPF+3+SG
+ilidi-las	ilidir+V.ele.ACC.3.F.PL+INF
 ilidirmo-las	ilidir+V.ele.ACC.3.F.PL+INF+1+PL
 ilidi-las	ilidir+V.ele.ACC.3.F.PL+INF+1+SG
 ilidirde-las	ilidir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2160,6 +2177,7 @@ ilidíei-la	ilidir+V.ele.ACC.3.F.SG+IMPF+2+PL
 ilidia-la	ilidir+V.ele.ACC.3.F.SG+IMPF+2+SG
 ilidiam-na	ilidir+V.ele.ACC.3.F.SG+IMPF+3+PL
 ilidia-a	ilidir+V.ele.ACC.3.F.SG+IMPF+3+SG
+ilidi-la	ilidir+V.ele.ACC.3.F.SG+INF
 ilidirmo-la	ilidir+V.ele.ACC.3.F.SG+INF+1+PL
 ilidi-la	ilidir+V.ele.ACC.3.F.SG+INF+1+SG
 ilidirde-la	ilidir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2200,6 +2218,7 @@ ilidíei-los	ilidir+V.ele.ACC.3.M.PL+IMPF+2+PL
 ilidia-los	ilidir+V.ele.ACC.3.M.PL+IMPF+2+SG
 ilidiam-nos	ilidir+V.ele.ACC.3.M.PL+IMPF+3+PL
 ilidia-os	ilidir+V.ele.ACC.3.M.PL+IMPF+3+SG
+ilidi-los	ilidir+V.ele.ACC.3.M.PL+INF
 ilidirmo-los	ilidir+V.ele.ACC.3.M.PL+INF+1+PL
 ilidi-los	ilidir+V.ele.ACC.3.M.PL+INF+1+SG
 ilidirde-los	ilidir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2240,6 +2259,7 @@ ilidíei-lo	ilidir+V.ele.ACC.3.M.SG+IMPF+2+PL
 ilidia-lo	ilidir+V.ele.ACC.3.M.SG+IMPF+2+SG
 ilidiam-no	ilidir+V.ele.ACC.3.M.SG+IMPF+3+PL
 ilidia-o	ilidir+V.ele.ACC.3.M.SG+IMPF+3+SG
+ilidi-lo	ilidir+V.ele.ACC.3.M.SG+INF
 ilidirmo-lo	ilidir+V.ele.ACC.3.M.SG+INF+1+PL
 ilidi-lo	ilidir+V.ele.ACC.3.M.SG+INF+1+SG
 ilidirde-lo	ilidir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2542,6 +2562,7 @@ iliçávei-las	iliçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 iliçava-las	iliçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 iliçavam-nas	iliçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 iliçava-as	iliçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+iliçá-las	iliçar+V.ele.ACC.3.F.PL+INF
 iliçarmo-las	iliçar+V.ele.ACC.3.F.PL+INF+1+PL
 iliçá-las	iliçar+V.ele.ACC.3.F.PL+INF+1+SG
 iliçarde-las	iliçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2593,6 +2614,7 @@ iliçávei-la	iliçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 iliçava-la	iliçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 iliçavam-na	iliçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 iliçava-a	iliçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+iliçá-la	iliçar+V.ele.ACC.3.F.SG+INF
 iliçarmo-la	iliçar+V.ele.ACC.3.F.SG+INF+1+PL
 iliçá-la	iliçar+V.ele.ACC.3.F.SG+INF+1+SG
 iliçarde-la	iliçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2643,6 +2665,7 @@ iliçava-os	iliçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 iliçávei-los	iliçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 iliçava-los	iliçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 iliçava-os	iliçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+iliçá-los	iliçar+V.ele.ACC.3.M.PL+INF
 iliçarmo-los	iliçar+V.ele.ACC.3.M.PL+INF+1+PL
 iliçá-los	iliçar+V.ele.ACC.3.M.PL+INF+1+SG
 iliçarde-los	iliçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2689,6 +2712,7 @@ iliçávei-lo	iliçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 iliçava-lo	iliçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 iliçavam-no	iliçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 iliçava-o	iliçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+iliçá-lo	iliçar+V.ele.ACC.3.M.SG+INF
 iliçarmo-lo	iliçar+V.ele.ACC.3.M.SG+INF+1+PL
 iliçá-lo	iliçar+V.ele.ACC.3.M.SG+INF+1+SG
 iliçarde-lo	iliçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3071,6 +3095,7 @@ iludíei-las	iludir+V.ele.ACC.3.F.PL+IMPF+2+PL
 iludia-las	iludir+V.ele.ACC.3.F.PL+IMPF+2+SG
 iludiam-nas	iludir+V.ele.ACC.3.F.PL+IMPF+3+PL
 iludia-as	iludir+V.ele.ACC.3.F.PL+IMPF+3+SG
+iludi-las	iludir+V.ele.ACC.3.F.PL+INF
 iludirmo-las	iludir+V.ele.ACC.3.F.PL+INF+1+PL
 iludi-las	iludir+V.ele.ACC.3.F.PL+INF+1+SG
 iludirde-las	iludir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3111,6 +3136,7 @@ iludíei-la	iludir+V.ele.ACC.3.F.SG+IMPF+2+PL
 iludia-la	iludir+V.ele.ACC.3.F.SG+IMPF+2+SG
 iludiam-na	iludir+V.ele.ACC.3.F.SG+IMPF+3+PL
 iludia-a	iludir+V.ele.ACC.3.F.SG+IMPF+3+SG
+iludi-la	iludir+V.ele.ACC.3.F.SG+INF
 iludirmo-la	iludir+V.ele.ACC.3.F.SG+INF+1+PL
 iludi-la	iludir+V.ele.ACC.3.F.SG+INF+1+SG
 iludirde-la	iludir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3151,6 +3177,7 @@ iludíei-los	iludir+V.ele.ACC.3.M.PL+IMPF+2+PL
 iludia-los	iludir+V.ele.ACC.3.M.PL+IMPF+2+SG
 iludiam-nos	iludir+V.ele.ACC.3.M.PL+IMPF+3+PL
 iludia-os	iludir+V.ele.ACC.3.M.PL+IMPF+3+SG
+iludi-los	iludir+V.ele.ACC.3.M.PL+INF
 iludirmo-los	iludir+V.ele.ACC.3.M.PL+INF+1+PL
 iludi-los	iludir+V.ele.ACC.3.M.PL+INF+1+SG
 iludirde-los	iludir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3191,6 +3218,7 @@ iludíei-lo	iludir+V.ele.ACC.3.M.SG+IMPF+2+PL
 iludia-lo	iludir+V.ele.ACC.3.M.SG+IMPF+2+SG
 iludiam-no	iludir+V.ele.ACC.3.M.SG+IMPF+3+PL
 iludia-o	iludir+V.ele.ACC.3.M.SG+IMPF+3+SG
+iludi-lo	iludir+V.ele.ACC.3.M.SG+INF
 iludirmo-lo	iludir+V.ele.ACC.3.M.SG+INF+1+PL
 iludi-lo	iludir+V.ele.ACC.3.M.SG+INF+1+SG
 iludirde-lo	iludir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3493,6 +3521,7 @@ imbicávei-las	imbicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 imbicava-las	imbicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 imbicavam-nas	imbicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 imbicava-as	imbicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+imbicá-las	imbicar+V.ele.ACC.3.F.PL+INF
 imbicarmo-las	imbicar+V.ele.ACC.3.F.PL+INF+1+PL
 imbicá-las	imbicar+V.ele.ACC.3.F.PL+INF+1+SG
 imbicarde-las	imbicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3544,6 +3573,7 @@ imbicávei-la	imbicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 imbicava-la	imbicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 imbicavam-na	imbicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 imbicava-a	imbicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+imbicá-la	imbicar+V.ele.ACC.3.F.SG+INF
 imbicarmo-la	imbicar+V.ele.ACC.3.F.SG+INF+1+PL
 imbicá-la	imbicar+V.ele.ACC.3.F.SG+INF+1+SG
 imbicarde-la	imbicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3595,6 +3625,7 @@ imbicávei-los	imbicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 imbicava-los	imbicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 imbicavam-nos	imbicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 imbicava-os	imbicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+imbicá-los	imbicar+V.ele.ACC.3.M.PL+INF
 imbicarmo-los	imbicar+V.ele.ACC.3.M.PL+INF+1+PL
 imbicá-los	imbicar+V.ele.ACC.3.M.PL+INF+1+SG
 imbicarde-los	imbicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3646,6 +3677,7 @@ imbicávei-lo	imbicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 imbicava-lo	imbicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 imbicavam-no	imbicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 imbicava-o	imbicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+imbicá-lo	imbicar+V.ele.ACC.3.M.SG+INF
 imbicarmo-lo	imbicar+V.ele.ACC.3.M.SG+INF+1+PL
 imbicá-lo	imbicar+V.ele.ACC.3.M.SG+INF+1+SG
 imbicarde-lo	imbicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4029,6 +4061,7 @@ imbricávei-las	imbricar+V.ele.ACC.3.F.PL+IMPF+2+PL
 imbricava-las	imbricar+V.ele.ACC.3.F.PL+IMPF+2+SG
 imbricavam-nas	imbricar+V.ele.ACC.3.F.PL+IMPF+3+PL
 imbricava-as	imbricar+V.ele.ACC.3.F.PL+IMPF+3+SG
+imbricá-las	imbricar+V.ele.ACC.3.F.PL+INF
 imbricarmo-las	imbricar+V.ele.ACC.3.F.PL+INF+1+PL
 imbricá-las	imbricar+V.ele.ACC.3.F.PL+INF+1+SG
 imbricarde-las	imbricar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4080,6 +4113,7 @@ imbricávei-la	imbricar+V.ele.ACC.3.F.SG+IMPF+2+PL
 imbricava-la	imbricar+V.ele.ACC.3.F.SG+IMPF+2+SG
 imbricavam-na	imbricar+V.ele.ACC.3.F.SG+IMPF+3+PL
 imbricava-a	imbricar+V.ele.ACC.3.F.SG+IMPF+3+SG
+imbricá-la	imbricar+V.ele.ACC.3.F.SG+INF
 imbricarmo-la	imbricar+V.ele.ACC.3.F.SG+INF+1+PL
 imbricá-la	imbricar+V.ele.ACC.3.F.SG+INF+1+SG
 imbricarde-la	imbricar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4131,6 +4165,7 @@ imbricávei-los	imbricar+V.ele.ACC.3.M.PL+IMPF+2+PL
 imbricava-los	imbricar+V.ele.ACC.3.M.PL+IMPF+2+SG
 imbricavam-nos	imbricar+V.ele.ACC.3.M.PL+IMPF+3+PL
 imbricava-os	imbricar+V.ele.ACC.3.M.PL+IMPF+3+SG
+imbricá-los	imbricar+V.ele.ACC.3.M.PL+INF
 imbricarmo-los	imbricar+V.ele.ACC.3.M.PL+INF+1+PL
 imbricá-los	imbricar+V.ele.ACC.3.M.PL+INF+1+SG
 imbricarde-los	imbricar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4182,6 +4217,7 @@ imbricávei-lo	imbricar+V.ele.ACC.3.M.SG+IMPF+2+PL
 imbricava-lo	imbricar+V.ele.ACC.3.M.SG+IMPF+2+SG
 imbricavam-no	imbricar+V.ele.ACC.3.M.SG+IMPF+3+PL
 imbricava-o	imbricar+V.ele.ACC.3.M.SG+IMPF+3+SG
+imbricá-lo	imbricar+V.ele.ACC.3.M.SG+INF
 imbricarmo-lo	imbricar+V.ele.ACC.3.M.SG+INF+1+PL
 imbricá-lo	imbricar+V.ele.ACC.3.M.SG+INF+1+SG
 imbricarde-lo	imbricar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4565,6 +4601,7 @@ imbuíei-las	imbuir+V.ele.ACC.3.F.PL+IMPF+2+PL
 imbuía-las	imbuir+V.ele.ACC.3.F.PL+IMPF+2+SG
 imbuíam-nas	imbuir+V.ele.ACC.3.F.PL+IMPF+3+PL
 imbuía-as	imbuir+V.ele.ACC.3.F.PL+IMPF+3+SG
+imbuí-las	imbuir+V.ele.ACC.3.F.PL+INF
 imbuirmo-las	imbuir+V.ele.ACC.3.F.PL+INF+1+PL
 imbuí-las	imbuir+V.ele.ACC.3.F.PL+INF+1+SG
 imbuirde-las	imbuir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4617,6 +4654,7 @@ imbuíei-la	imbuir+V.ele.ACC.3.F.SG+IMPF+2+PL
 imbuía-la	imbuir+V.ele.ACC.3.F.SG+IMPF+2+SG
 imbuíam-na	imbuir+V.ele.ACC.3.F.SG+IMPF+3+PL
 imbuía-a	imbuir+V.ele.ACC.3.F.SG+IMPF+3+SG
+imbuí-la	imbuir+V.ele.ACC.3.F.SG+INF
 imbuirmo-la	imbuir+V.ele.ACC.3.F.SG+INF+1+PL
 imbuí-la	imbuir+V.ele.ACC.3.F.SG+INF+1+SG
 imbuirde-la	imbuir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4670,6 +4708,7 @@ imbuía-los	imbuir+V.ele.ACC.3.M.PL+IMPF+2+SG
 imbuía-os	imbuir+V.ele.ACC.3.M.PL+IMPF+3+SG
 imbuir-nos	imbuir+V.ele.ACC.3.M.PL+INF
 imbuir-vos	imbuir+V.ele.ACC.3.M.PL+INF
+imbuí-los	imbuir+V.ele.ACC.3.M.PL+INF
 imbuirmo-los	imbuir+V.ele.ACC.3.M.PL+INF+1+PL
 imbuí-los	imbuir+V.ele.ACC.3.M.PL+INF+1+SG
 imbuirde-los	imbuir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4718,6 +4757,7 @@ imbuíei-lo	imbuir+V.ele.ACC.3.M.SG+IMPF+2+PL
 imbuía-lo	imbuir+V.ele.ACC.3.M.SG+IMPF+2+SG
 imbuíam-no	imbuir+V.ele.ACC.3.M.SG+IMPF+3+PL
 imbuía-o	imbuir+V.ele.ACC.3.M.SG+IMPF+3+SG
+imbuí-lo	imbuir+V.ele.ACC.3.M.SG+INF
 imbuirmo-lo	imbuir+V.ele.ACC.3.M.SG+INF+1+PL
 imbuí-lo	imbuir+V.ele.ACC.3.M.SG+INF+1+SG
 imbuirde-lo	imbuir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5098,6 +5138,7 @@ imergíei-las	imergir+V.ele.ACC.3.F.PL+IMPF+2+PL
 imergia-las	imergir+V.ele.ACC.3.F.PL+IMPF+2+SG
 imergiam-nas	imergir+V.ele.ACC.3.F.PL+IMPF+3+PL
 imergia-as	imergir+V.ele.ACC.3.F.PL+IMPF+3+SG
+imergi-las	imergir+V.ele.ACC.3.F.PL+INF
 imergirmo-las	imergir+V.ele.ACC.3.F.PL+INF+1+PL
 imergi-las	imergir+V.ele.ACC.3.F.PL+INF+1+SG
 imergirde-las	imergir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5144,6 +5185,7 @@ imergíei-la	imergir+V.ele.ACC.3.F.SG+IMPF+2+PL
 imergia-la	imergir+V.ele.ACC.3.F.SG+IMPF+2+SG
 imergiam-na	imergir+V.ele.ACC.3.F.SG+IMPF+3+PL
 imergia-a	imergir+V.ele.ACC.3.F.SG+IMPF+3+SG
+imergi-la	imergir+V.ele.ACC.3.F.SG+INF
 imergirmo-la	imergir+V.ele.ACC.3.F.SG+INF+1+PL
 imergi-la	imergir+V.ele.ACC.3.F.SG+INF+1+SG
 imergirde-la	imergir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5190,6 +5232,7 @@ imergíei-los	imergir+V.ele.ACC.3.M.PL+IMPF+2+PL
 imergia-los	imergir+V.ele.ACC.3.M.PL+IMPF+2+SG
 imergiam-nos	imergir+V.ele.ACC.3.M.PL+IMPF+3+PL
 imergia-os	imergir+V.ele.ACC.3.M.PL+IMPF+3+SG
+imergi-los	imergir+V.ele.ACC.3.M.PL+INF
 imergirmo-los	imergir+V.ele.ACC.3.M.PL+INF+1+PL
 imergi-los	imergir+V.ele.ACC.3.M.PL+INF+1+SG
 imergirde-los	imergir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5236,6 +5279,7 @@ imergíei-lo	imergir+V.ele.ACC.3.M.SG+IMPF+2+PL
 imergia-lo	imergir+V.ele.ACC.3.M.SG+IMPF+2+SG
 imergiam-no	imergir+V.ele.ACC.3.M.SG+IMPF+3+PL
 imergia-o	imergir+V.ele.ACC.3.M.SG+IMPF+3+SG
+imergi-lo	imergir+V.ele.ACC.3.M.SG+INF
 imergirmo-lo	imergir+V.ele.ACC.3.M.SG+INF+1+PL
 imergi-lo	imergir+V.ele.ACC.3.M.SG+INF+1+SG
 imergirde-lo	imergir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5582,6 +5626,7 @@ imiscuíei-las	imiscuir+V.ele.ACC.3.F.PL+IMPF+2+PL
 imiscuía-las	imiscuir+V.ele.ACC.3.F.PL+IMPF+2+SG
 imiscuíam-nas	imiscuir+V.ele.ACC.3.F.PL+IMPF+3+PL
 imiscuía-as	imiscuir+V.ele.ACC.3.F.PL+IMPF+3+SG
+imiscuí-las	imiscuir+V.ele.ACC.3.F.PL+INF
 imiscuirmo-las	imiscuir+V.ele.ACC.3.F.PL+INF+1+PL
 imiscuí-las	imiscuir+V.ele.ACC.3.F.PL+INF+1+SG
 imiscuirde-las	imiscuir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5634,6 +5679,7 @@ imiscuíei-la	imiscuir+V.ele.ACC.3.F.SG+IMPF+2+PL
 imiscuía-la	imiscuir+V.ele.ACC.3.F.SG+IMPF+2+SG
 imiscuíam-na	imiscuir+V.ele.ACC.3.F.SG+IMPF+3+PL
 imiscuía-a	imiscuir+V.ele.ACC.3.F.SG+IMPF+3+SG
+imiscuí-la	imiscuir+V.ele.ACC.3.F.SG+INF
 imiscuirmo-la	imiscuir+V.ele.ACC.3.F.SG+INF+1+PL
 imiscuí-la	imiscuir+V.ele.ACC.3.F.SG+INF+1+SG
 imiscuirde-la	imiscuir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5687,6 +5733,7 @@ imiscuía-los	imiscuir+V.ele.ACC.3.M.PL+IMPF+2+SG
 imiscuía-os	imiscuir+V.ele.ACC.3.M.PL+IMPF+3+SG
 imiscuir-nos	imiscuir+V.ele.ACC.3.M.PL+INF
 imiscuir-vos	imiscuir+V.ele.ACC.3.M.PL+INF
+imiscuí-los	imiscuir+V.ele.ACC.3.M.PL+INF
 imiscuirmo-los	imiscuir+V.ele.ACC.3.M.PL+INF+1+PL
 imiscuí-los	imiscuir+V.ele.ACC.3.M.PL+INF+1+SG
 imiscuirde-los	imiscuir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5735,6 +5782,7 @@ imiscuíei-lo	imiscuir+V.ele.ACC.3.M.SG+IMPF+2+PL
 imiscuía-lo	imiscuir+V.ele.ACC.3.M.SG+IMPF+2+SG
 imiscuíam-no	imiscuir+V.ele.ACC.3.M.SG+IMPF+3+PL
 imiscuía-o	imiscuir+V.ele.ACC.3.M.SG+IMPF+3+SG
+imiscuí-lo	imiscuir+V.ele.ACC.3.M.SG+INF
 imiscuirmo-lo	imiscuir+V.ele.ACC.3.M.SG+INF+1+PL
 imiscuí-lo	imiscuir+V.ele.ACC.3.M.SG+INF+1+SG
 imiscuirde-lo	imiscuir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6115,6 +6163,7 @@ imitíei-las	imitir+V.ele.ACC.3.F.PL+IMPF+2+PL
 imitia-las	imitir+V.ele.ACC.3.F.PL+IMPF+2+SG
 imitiam-nas	imitir+V.ele.ACC.3.F.PL+IMPF+3+PL
 imitia-as	imitir+V.ele.ACC.3.F.PL+IMPF+3+SG
+imiti-las	imitir+V.ele.ACC.3.F.PL+INF
 imitirmo-las	imitir+V.ele.ACC.3.F.PL+INF+1+PL
 imiti-las	imitir+V.ele.ACC.3.F.PL+INF+1+SG
 imitirde-las	imitir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6155,6 +6204,7 @@ imitíei-la	imitir+V.ele.ACC.3.F.SG+IMPF+2+PL
 imitia-la	imitir+V.ele.ACC.3.F.SG+IMPF+2+SG
 imitiam-na	imitir+V.ele.ACC.3.F.SG+IMPF+3+PL
 imitia-a	imitir+V.ele.ACC.3.F.SG+IMPF+3+SG
+imiti-la	imitir+V.ele.ACC.3.F.SG+INF
 imitirmo-la	imitir+V.ele.ACC.3.F.SG+INF+1+PL
 imiti-la	imitir+V.ele.ACC.3.F.SG+INF+1+SG
 imitirde-la	imitir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6195,6 +6245,7 @@ imitíei-los	imitir+V.ele.ACC.3.M.PL+IMPF+2+PL
 imitia-los	imitir+V.ele.ACC.3.M.PL+IMPF+2+SG
 imitiam-nos	imitir+V.ele.ACC.3.M.PL+IMPF+3+PL
 imitia-os	imitir+V.ele.ACC.3.M.PL+IMPF+3+SG
+imiti-los	imitir+V.ele.ACC.3.M.PL+INF
 imitirmo-los	imitir+V.ele.ACC.3.M.PL+INF+1+PL
 imiti-los	imitir+V.ele.ACC.3.M.PL+INF+1+SG
 imitirde-los	imitir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6235,6 +6286,7 @@ imitíei-lo	imitir+V.ele.ACC.3.M.SG+IMPF+2+PL
 imitia-lo	imitir+V.ele.ACC.3.M.SG+IMPF+2+SG
 imitiam-no	imitir+V.ele.ACC.3.M.SG+IMPF+3+PL
 imitia-o	imitir+V.ele.ACC.3.M.SG+IMPF+3+SG
+imiti-lo	imitir+V.ele.ACC.3.M.SG+INF
 imitirmo-lo	imitir+V.ele.ACC.3.M.SG+INF+1+PL
 imiti-lo	imitir+V.ele.ACC.3.M.SG+INF+1+SG
 imitirde-lo	imitir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6537,6 +6589,7 @@ impedíei-las	impedir+V.ele.ACC.3.F.PL+IMPF+2+PL
 impedia-las	impedir+V.ele.ACC.3.F.PL+IMPF+2+SG
 impediam-nas	impedir+V.ele.ACC.3.F.PL+IMPF+3+PL
 impedia-as	impedir+V.ele.ACC.3.F.PL+IMPF+3+SG
+impedi-las	impedir+V.ele.ACC.3.F.PL+INF
 impedirmo-las	impedir+V.ele.ACC.3.F.PL+INF+1+PL
 impedi-las	impedir+V.ele.ACC.3.F.PL+INF+1+SG
 impedirde-las	impedir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6583,6 +6636,7 @@ impedíei-la	impedir+V.ele.ACC.3.F.SG+IMPF+2+PL
 impedia-la	impedir+V.ele.ACC.3.F.SG+IMPF+2+SG
 impediam-na	impedir+V.ele.ACC.3.F.SG+IMPF+3+PL
 impedia-a	impedir+V.ele.ACC.3.F.SG+IMPF+3+SG
+impedi-la	impedir+V.ele.ACC.3.F.SG+INF
 impedirmo-la	impedir+V.ele.ACC.3.F.SG+INF+1+PL
 impedi-la	impedir+V.ele.ACC.3.F.SG+INF+1+SG
 impedirde-la	impedir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6628,6 +6682,7 @@ impedíei-los	impedir+V.ele.ACC.3.M.PL+IMPF+2+PL
 impedia-los	impedir+V.ele.ACC.3.M.PL+IMPF+2+SG
 impediam-nos	impedir+V.ele.ACC.3.M.PL+IMPF+3+PL
 impedia-os	impedir+V.ele.ACC.3.M.PL+IMPF+3+SG
+impedi-los	impedir+V.ele.ACC.3.M.PL+INF
 impedirmo-los	impedir+V.ele.ACC.3.M.PL+INF+1+PL
 impedi-los	impedir+V.ele.ACC.3.M.PL+INF+1+SG
 impedirde-los	impedir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6674,6 +6729,7 @@ impedíei-lo	impedir+V.ele.ACC.3.M.SG+IMPF+2+PL
 impedia-lo	impedir+V.ele.ACC.3.M.SG+IMPF+2+SG
 impediam-no	impedir+V.ele.ACC.3.M.SG+IMPF+3+PL
 impedia-o	impedir+V.ele.ACC.3.M.SG+IMPF+3+SG
+impedi-lo	impedir+V.ele.ACC.3.M.SG+INF
 impedirmo-lo	impedir+V.ele.ACC.3.M.SG+INF+1+PL
 impedi-lo	impedir+V.ele.ACC.3.M.SG+INF+1+SG
 impedirde-lo	impedir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -7020,6 +7076,7 @@ impelíei-las	impelir+V.ele.ACC.3.F.PL+IMPF+2+PL
 impelia-las	impelir+V.ele.ACC.3.F.PL+IMPF+2+SG
 impeliam-nas	impelir+V.ele.ACC.3.F.PL+IMPF+3+PL
 impelia-as	impelir+V.ele.ACC.3.F.PL+IMPF+3+SG
+impeli-las	impelir+V.ele.ACC.3.F.PL+INF
 impelirmo-las	impelir+V.ele.ACC.3.F.PL+INF+1+PL
 impeli-las	impelir+V.ele.ACC.3.F.PL+INF+1+SG
 impelirde-las	impelir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -7066,6 +7123,7 @@ impelíei-la	impelir+V.ele.ACC.3.F.SG+IMPF+2+PL
 impelia-la	impelir+V.ele.ACC.3.F.SG+IMPF+2+SG
 impeliam-na	impelir+V.ele.ACC.3.F.SG+IMPF+3+PL
 impelia-a	impelir+V.ele.ACC.3.F.SG+IMPF+3+SG
+impeli-la	impelir+V.ele.ACC.3.F.SG+INF
 impelirmo-la	impelir+V.ele.ACC.3.F.SG+INF+1+PL
 impeli-la	impelir+V.ele.ACC.3.F.SG+INF+1+SG
 impelirde-la	impelir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7112,6 +7170,7 @@ impelíei-los	impelir+V.ele.ACC.3.M.PL+IMPF+2+PL
 impelia-los	impelir+V.ele.ACC.3.M.PL+IMPF+2+SG
 impeliam-nos	impelir+V.ele.ACC.3.M.PL+IMPF+3+PL
 impelia-os	impelir+V.ele.ACC.3.M.PL+IMPF+3+SG
+impeli-los	impelir+V.ele.ACC.3.M.PL+INF
 impelirmo-los	impelir+V.ele.ACC.3.M.PL+INF+1+PL
 impeli-los	impelir+V.ele.ACC.3.M.PL+INF+1+SG
 impelirde-los	impelir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -7158,6 +7217,7 @@ impelíei-lo	impelir+V.ele.ACC.3.M.SG+IMPF+2+PL
 impelia-lo	impelir+V.ele.ACC.3.M.SG+IMPF+2+SG
 impeliam-no	impelir+V.ele.ACC.3.M.SG+IMPF+3+PL
 impelia-o	impelir+V.ele.ACC.3.M.SG+IMPF+3+SG
+impeli-lo	impelir+V.ele.ACC.3.M.SG+INF
 impelirmo-lo	impelir+V.ele.ACC.3.M.SG+INF+1+PL
 impeli-lo	impelir+V.ele.ACC.3.M.SG+INF+1+SG
 impelirde-lo	impelir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -7482,10 +7542,6 @@ impelirdes-vos	impelir+V.vós.AD.2.PL+SBJF+2+PL
 impelires-vos	impelir+V.vós.AD.2.PL+SBJF+2+SG
 impelirem-vos	impelir+V.vós.AD.2.PL+SBJF+3+PL
 impelir-vos	impelir+V.vós.AD.2.PL+SBJF+3+SG
-impendê-las	impender+V.ele.ACC.3.F.PL+INF
-impendê-la	impender+V.ele.ACC.3.F.SG+INF
-impendê-los	impender+V.ele.ACC.3.M.PL+INF
-impendê-lo	impender+V.ele.ACC.3.M.SG+INF
 imperfeiçoá-las-íamos	imperfeiçoar+V.ele.ACC.3.F.PL+COND+1+PL
 imperfeiçoá-las-ia	imperfeiçoar+V.ele.ACC.3.F.PL+COND+1+SG
 imperfeiçoá-las-íeis	imperfeiçoar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -7508,6 +7564,7 @@ imperfeiçoávei-las	imperfeiçoar+V.ele.ACC.3.F.PL+IMPF+2+PL
 imperfeiçoava-las	imperfeiçoar+V.ele.ACC.3.F.PL+IMPF+2+SG
 imperfeiçoavam-nas	imperfeiçoar+V.ele.ACC.3.F.PL+IMPF+3+PL
 imperfeiçoava-as	imperfeiçoar+V.ele.ACC.3.F.PL+IMPF+3+SG
+imperfeiçoá-las	imperfeiçoar+V.ele.ACC.3.F.PL+INF
 imperfeiçoarmo-las	imperfeiçoar+V.ele.ACC.3.F.PL+INF+1+PL
 imperfeiçoá-las	imperfeiçoar+V.ele.ACC.3.F.PL+INF+1+SG
 imperfeiçoarde-las	imperfeiçoar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -7560,6 +7617,7 @@ imperfeiçoávei-la	imperfeiçoar+V.ele.ACC.3.F.SG+IMPF+2+PL
 imperfeiçoava-la	imperfeiçoar+V.ele.ACC.3.F.SG+IMPF+2+SG
 imperfeiçoavam-na	imperfeiçoar+V.ele.ACC.3.F.SG+IMPF+3+PL
 imperfeiçoava-a	imperfeiçoar+V.ele.ACC.3.F.SG+IMPF+3+SG
+imperfeiçoá-la	imperfeiçoar+V.ele.ACC.3.F.SG+INF
 imperfeiçoarmo-la	imperfeiçoar+V.ele.ACC.3.F.SG+INF+1+PL
 imperfeiçoá-la	imperfeiçoar+V.ele.ACC.3.F.SG+INF+1+SG
 imperfeiçoarde-la	imperfeiçoar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7610,6 +7668,7 @@ imperfeiçoava-os	imperfeiçoar+V.ele.ACC.3.M.PL+IMPF+1+SG
 imperfeiçoávei-los	imperfeiçoar+V.ele.ACC.3.M.PL+IMPF+2+PL
 imperfeiçoava-los	imperfeiçoar+V.ele.ACC.3.M.PL+IMPF+2+SG
 imperfeiçoava-os	imperfeiçoar+V.ele.ACC.3.M.PL+IMPF+3+SG
+imperfeiçoá-los	imperfeiçoar+V.ele.ACC.3.M.PL+INF
 imperfeiçoarmo-los	imperfeiçoar+V.ele.ACC.3.M.PL+INF+1+PL
 imperfeiçoá-los	imperfeiçoar+V.ele.ACC.3.M.PL+INF+1+SG
 imperfeiçoarde-los	imperfeiçoar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -7657,6 +7716,7 @@ imperfeiçoávei-lo	imperfeiçoar+V.ele.ACC.3.M.SG+IMPF+2+PL
 imperfeiçoava-lo	imperfeiçoar+V.ele.ACC.3.M.SG+IMPF+2+SG
 imperfeiçoavam-no	imperfeiçoar+V.ele.ACC.3.M.SG+IMPF+3+PL
 imperfeiçoava-o	imperfeiçoar+V.ele.ACC.3.M.SG+IMPF+3+SG
+imperfeiçoá-lo	imperfeiçoar+V.ele.ACC.3.M.SG+INF
 imperfeiçoarmo-lo	imperfeiçoar+V.ele.ACC.3.M.SG+INF+1+PL
 imperfeiçoá-lo	imperfeiçoar+V.ele.ACC.3.M.SG+INF+1+SG
 imperfeiçoarde-lo	imperfeiçoar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8044,6 +8104,7 @@ impermeávei-las	impermear+V.ele.ACC.3.F.PL+IMPF+2+PL
 impermeava-las	impermear+V.ele.ACC.3.F.PL+IMPF+2+SG
 impermeavam-nas	impermear+V.ele.ACC.3.F.PL+IMPF+3+PL
 impermeava-as	impermear+V.ele.ACC.3.F.PL+IMPF+3+SG
+impermeá-las	impermear+V.ele.ACC.3.F.PL+INF
 impermearmo-las	impermear+V.ele.ACC.3.F.PL+INF+1+PL
 impermeá-las	impermear+V.ele.ACC.3.F.PL+INF+1+SG
 impermearde-las	impermear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8093,6 +8154,7 @@ impermeávei-la	impermear+V.ele.ACC.3.F.SG+IMPF+2+PL
 impermeava-la	impermear+V.ele.ACC.3.F.SG+IMPF+2+SG
 impermeavam-na	impermear+V.ele.ACC.3.F.SG+IMPF+3+PL
 impermeava-a	impermear+V.ele.ACC.3.F.SG+IMPF+3+SG
+impermeá-la	impermear+V.ele.ACC.3.F.SG+INF
 impermearmo-la	impermear+V.ele.ACC.3.F.SG+INF+1+PL
 impermeá-la	impermear+V.ele.ACC.3.F.SG+INF+1+SG
 impermearde-la	impermear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -8142,6 +8204,7 @@ impermeávei-los	impermear+V.ele.ACC.3.M.PL+IMPF+2+PL
 impermeava-los	impermear+V.ele.ACC.3.M.PL+IMPF+2+SG
 impermeavam-nos	impermear+V.ele.ACC.3.M.PL+IMPF+3+PL
 impermeava-os	impermear+V.ele.ACC.3.M.PL+IMPF+3+SG
+impermeá-los	impermear+V.ele.ACC.3.M.PL+INF
 impermearmo-los	impermear+V.ele.ACC.3.M.PL+INF+1+PL
 impermeá-los	impermear+V.ele.ACC.3.M.PL+INF+1+SG
 impermearde-los	impermear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8191,6 +8254,7 @@ impermeávei-lo	impermear+V.ele.ACC.3.M.SG+IMPF+2+PL
 impermeava-lo	impermear+V.ele.ACC.3.M.SG+IMPF+2+SG
 impermeavam-no	impermear+V.ele.ACC.3.M.SG+IMPF+3+PL
 impermeava-o	impermear+V.ele.ACC.3.M.SG+IMPF+3+SG
+impermeá-lo	impermear+V.ele.ACC.3.M.SG+INF
 impermearmo-lo	impermear+V.ele.ACC.3.M.SG+INF+1+PL
 impermeá-lo	impermear+V.ele.ACC.3.M.SG+INF+1+SG
 impermearde-lo	impermear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8561,6 +8625,7 @@ impersonificávei-las	impersonificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 impersonificava-las	impersonificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 impersonificavam-nas	impersonificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 impersonificava-as	impersonificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+impersonificá-las	impersonificar+V.ele.ACC.3.F.PL+INF
 impersonificarmo-las	impersonificar+V.ele.ACC.3.F.PL+INF+1+PL
 impersonificá-las	impersonificar+V.ele.ACC.3.F.PL+INF+1+SG
 impersonificarde-las	impersonificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8612,6 +8677,7 @@ impersonificávei-la	impersonificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 impersonificava-la	impersonificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 impersonificavam-na	impersonificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 impersonificava-a	impersonificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+impersonificá-la	impersonificar+V.ele.ACC.3.F.SG+INF
 impersonificarmo-la	impersonificar+V.ele.ACC.3.F.SG+INF+1+PL
 impersonificá-la	impersonificar+V.ele.ACC.3.F.SG+INF+1+SG
 impersonificarde-la	impersonificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -8663,6 +8729,7 @@ impersonificávei-los	impersonificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 impersonificava-los	impersonificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 impersonificavam-nos	impersonificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 impersonificava-os	impersonificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+impersonificá-los	impersonificar+V.ele.ACC.3.M.PL+INF
 impersonificarmo-los	impersonificar+V.ele.ACC.3.M.PL+INF+1+PL
 impersonificá-los	impersonificar+V.ele.ACC.3.M.PL+INF+1+SG
 impersonificarde-los	impersonificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8714,6 +8781,7 @@ impersonificávei-lo	impersonificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 impersonificava-lo	impersonificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 impersonificavam-no	impersonificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 impersonificava-o	impersonificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+impersonificá-lo	impersonificar+V.ele.ACC.3.M.SG+INF
 impersonificarmo-lo	impersonificar+V.ele.ACC.3.M.SG+INF+1+PL
 impersonificá-lo	impersonificar+V.ele.ACC.3.M.SG+INF+1+SG
 impersonificarde-lo	impersonificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -9097,6 +9165,7 @@ impeticávei-las	impeticar+V.ele.ACC.3.F.PL+IMPF+2+PL
 impeticava-las	impeticar+V.ele.ACC.3.F.PL+IMPF+2+SG
 impeticavam-nas	impeticar+V.ele.ACC.3.F.PL+IMPF+3+PL
 impeticava-as	impeticar+V.ele.ACC.3.F.PL+IMPF+3+SG
+impeticá-las	impeticar+V.ele.ACC.3.F.PL+INF
 impeticarmo-las	impeticar+V.ele.ACC.3.F.PL+INF+1+PL
 impeticá-las	impeticar+V.ele.ACC.3.F.PL+INF+1+SG
 impeticarde-las	impeticar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -9148,6 +9217,7 @@ impeticávei-la	impeticar+V.ele.ACC.3.F.SG+IMPF+2+PL
 impeticava-la	impeticar+V.ele.ACC.3.F.SG+IMPF+2+SG
 impeticavam-na	impeticar+V.ele.ACC.3.F.SG+IMPF+3+PL
 impeticava-a	impeticar+V.ele.ACC.3.F.SG+IMPF+3+SG
+impeticá-la	impeticar+V.ele.ACC.3.F.SG+INF
 impeticarmo-la	impeticar+V.ele.ACC.3.F.SG+INF+1+PL
 impeticá-la	impeticar+V.ele.ACC.3.F.SG+INF+1+SG
 impeticarde-la	impeticar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -9199,6 +9269,7 @@ impeticávei-los	impeticar+V.ele.ACC.3.M.PL+IMPF+2+PL
 impeticava-los	impeticar+V.ele.ACC.3.M.PL+IMPF+2+SG
 impeticavam-nos	impeticar+V.ele.ACC.3.M.PL+IMPF+3+PL
 impeticava-os	impeticar+V.ele.ACC.3.M.PL+IMPF+3+SG
+impeticá-los	impeticar+V.ele.ACC.3.M.PL+INF
 impeticarmo-los	impeticar+V.ele.ACC.3.M.PL+INF+1+PL
 impeticá-los	impeticar+V.ele.ACC.3.M.PL+INF+1+SG
 impeticarde-los	impeticar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -9250,6 +9321,7 @@ impeticávei-lo	impeticar+V.ele.ACC.3.M.SG+IMPF+2+PL
 impeticava-lo	impeticar+V.ele.ACC.3.M.SG+IMPF+2+SG
 impeticavam-no	impeticar+V.ele.ACC.3.M.SG+IMPF+3+PL
 impeticava-o	impeticar+V.ele.ACC.3.M.SG+IMPF+3+SG
+impeticá-lo	impeticar+V.ele.ACC.3.M.SG+INF
 impeticarmo-lo	impeticar+V.ele.ACC.3.M.SG+INF+1+PL
 impeticá-lo	impeticar+V.ele.ACC.3.M.SG+INF+1+SG
 impeticarde-lo	impeticar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -9633,6 +9705,7 @@ impingíei-las	impingir+V.ele.ACC.3.F.PL+IMPF+2+PL
 impingia-las	impingir+V.ele.ACC.3.F.PL+IMPF+2+SG
 impingiam-nas	impingir+V.ele.ACC.3.F.PL+IMPF+3+PL
 impingia-as	impingir+V.ele.ACC.3.F.PL+IMPF+3+SG
+impingi-las	impingir+V.ele.ACC.3.F.PL+INF
 impingirmo-las	impingir+V.ele.ACC.3.F.PL+INF+1+PL
 impingi-las	impingir+V.ele.ACC.3.F.PL+INF+1+SG
 impingirde-las	impingir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -9679,6 +9752,7 @@ impingíei-la	impingir+V.ele.ACC.3.F.SG+IMPF+2+PL
 impingia-la	impingir+V.ele.ACC.3.F.SG+IMPF+2+SG
 impingiam-na	impingir+V.ele.ACC.3.F.SG+IMPF+3+PL
 impingia-a	impingir+V.ele.ACC.3.F.SG+IMPF+3+SG
+impingi-la	impingir+V.ele.ACC.3.F.SG+INF
 impingirmo-la	impingir+V.ele.ACC.3.F.SG+INF+1+PL
 impingi-la	impingir+V.ele.ACC.3.F.SG+INF+1+SG
 impingirde-la	impingir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -9725,6 +9799,7 @@ impingíei-los	impingir+V.ele.ACC.3.M.PL+IMPF+2+PL
 impingia-los	impingir+V.ele.ACC.3.M.PL+IMPF+2+SG
 impingiam-nos	impingir+V.ele.ACC.3.M.PL+IMPF+3+PL
 impingia-os	impingir+V.ele.ACC.3.M.PL+IMPF+3+SG
+impingi-los	impingir+V.ele.ACC.3.M.PL+INF
 impingirmo-los	impingir+V.ele.ACC.3.M.PL+INF+1+PL
 impingi-los	impingir+V.ele.ACC.3.M.PL+INF+1+SG
 impingirde-los	impingir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -9771,6 +9846,7 @@ impingíei-lo	impingir+V.ele.ACC.3.M.SG+IMPF+2+PL
 impingia-lo	impingir+V.ele.ACC.3.M.SG+IMPF+2+SG
 impingiam-no	impingir+V.ele.ACC.3.M.SG+IMPF+3+PL
 impingia-o	impingir+V.ele.ACC.3.M.SG+IMPF+3+SG
+impingi-lo	impingir+V.ele.ACC.3.M.SG+INF
 impingirmo-lo	impingir+V.ele.ACC.3.M.SG+INF+1+PL
 impingi-lo	impingir+V.ele.ACC.3.M.SG+INF+1+SG
 impingirde-lo	impingir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -10117,6 +10193,7 @@ implicávei-las	implicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 implicava-las	implicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 implicavam-nas	implicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 implicava-as	implicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+implicá-las	implicar+V.ele.ACC.3.F.PL+INF
 implicarmo-las	implicar+V.ele.ACC.3.F.PL+INF+1+PL
 implicá-las	implicar+V.ele.ACC.3.F.PL+INF+1+SG
 implicarde-las	implicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10168,6 +10245,7 @@ implicávei-la	implicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 implicava-la	implicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 implicavam-na	implicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 implicava-a	implicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+implicá-la	implicar+V.ele.ACC.3.F.SG+INF
 implicarmo-la	implicar+V.ele.ACC.3.F.SG+INF+1+PL
 implicá-la	implicar+V.ele.ACC.3.F.SG+INF+1+SG
 implicarde-la	implicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -10219,6 +10297,7 @@ implicávei-los	implicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 implicava-los	implicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 implicavam-nos	implicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 implicava-os	implicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+implicá-los	implicar+V.ele.ACC.3.M.PL+INF
 implicarmo-los	implicar+V.ele.ACC.3.M.PL+INF+1+PL
 implicá-los	implicar+V.ele.ACC.3.M.PL+INF+1+SG
 implicarde-los	implicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -10270,6 +10349,7 @@ implicávei-lo	implicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 implicava-lo	implicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 implicavam-no	implicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 implicava-o	implicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+implicá-lo	implicar+V.ele.ACC.3.M.SG+INF
 implicarmo-lo	implicar+V.ele.ACC.3.M.SG+INF+1+PL
 implicá-lo	implicar+V.ele.ACC.3.M.SG+INF+1+SG
 implicarde-lo	implicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -10654,6 +10734,7 @@ impúnhei-las	impor+V.ele.ACC.3.F.PL+IMPF+2+PL
 impunha-las	impor+V.ele.ACC.3.F.PL+IMPF+2+SG
 impunham-nas	impor+V.ele.ACC.3.F.PL+IMPF+3+PL
 impunha-as	impor+V.ele.ACC.3.F.PL+IMPF+3+SG
+impô-las	impor+V.ele.ACC.3.F.PL+INF
 impô-las	impor+V.ele.ACC.3.F.PL+INF+1+SG
 impô-las	impor+V.ele.ACC.3.F.PL+INF+3+SG
 impuséramo-las	impor+V.ele.ACC.3.F.PL+PQP+1+PL
@@ -10702,6 +10783,7 @@ impúnhei-la	impor+V.ele.ACC.3.F.SG+IMPF+2+PL
 impunha-la	impor+V.ele.ACC.3.F.SG+IMPF+2+SG
 impunham-na	impor+V.ele.ACC.3.F.SG+IMPF+3+PL
 impunha-a	impor+V.ele.ACC.3.F.SG+IMPF+3+SG
+impô-la	impor+V.ele.ACC.3.F.SG+INF
 impô-la	impor+V.ele.ACC.3.F.SG+INF+1+SG
 impô-la	impor+V.ele.ACC.3.F.SG+INF+3+SG
 impuséramo-la	impor+V.ele.ACC.3.F.SG+PQP+1+PL
@@ -10750,6 +10832,7 @@ impúnhei-los	impor+V.ele.ACC.3.M.PL+IMPF+2+PL
 impunha-los	impor+V.ele.ACC.3.M.PL+IMPF+2+SG
 impunham-nos	impor+V.ele.ACC.3.M.PL+IMPF+3+PL
 impunha-os	impor+V.ele.ACC.3.M.PL+IMPF+3+SG
+impô-los	impor+V.ele.ACC.3.M.PL+INF
 impô-los	impor+V.ele.ACC.3.M.PL+INF+1+SG
 imporem-nos	impor+V.ele.ACC.3.M.PL+INF+3+PL
 impô-los	impor+V.ele.ACC.3.M.PL+INF+3+SG
@@ -10798,6 +10881,7 @@ impúnhei-lo	impor+V.ele.ACC.3.M.SG+IMPF+2+PL
 impunha-lo	impor+V.ele.ACC.3.M.SG+IMPF+2+SG
 impunham-no	impor+V.ele.ACC.3.M.SG+IMPF+3+PL
 impunha-o	impor+V.ele.ACC.3.M.SG+IMPF+3+SG
+impô-lo	impor+V.ele.ACC.3.M.SG+INF
 impô-lo	impor+V.ele.ACC.3.M.SG+INF+1+SG
 impô-lo	impor+V.ele.ACC.3.M.SG+INF+3+SG
 impuséramo-lo	impor+V.ele.ACC.3.M.SG+PQP+1+PL
@@ -11184,6 +11268,7 @@ imprecávei-las	imprecar+V.ele.ACC.3.F.PL+IMPF+2+PL
 imprecava-las	imprecar+V.ele.ACC.3.F.PL+IMPF+2+SG
 imprecavam-nas	imprecar+V.ele.ACC.3.F.PL+IMPF+3+PL
 imprecava-as	imprecar+V.ele.ACC.3.F.PL+IMPF+3+SG
+imprecá-las	imprecar+V.ele.ACC.3.F.PL+INF
 imprecarmo-las	imprecar+V.ele.ACC.3.F.PL+INF+1+PL
 imprecá-las	imprecar+V.ele.ACC.3.F.PL+INF+1+SG
 imprecarde-las	imprecar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -11235,6 +11320,7 @@ imprecávei-la	imprecar+V.ele.ACC.3.F.SG+IMPF+2+PL
 imprecava-la	imprecar+V.ele.ACC.3.F.SG+IMPF+2+SG
 imprecavam-na	imprecar+V.ele.ACC.3.F.SG+IMPF+3+PL
 imprecava-a	imprecar+V.ele.ACC.3.F.SG+IMPF+3+SG
+imprecá-la	imprecar+V.ele.ACC.3.F.SG+INF
 imprecarmo-la	imprecar+V.ele.ACC.3.F.SG+INF+1+PL
 imprecá-la	imprecar+V.ele.ACC.3.F.SG+INF+1+SG
 imprecarde-la	imprecar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -11286,6 +11372,7 @@ imprecávei-los	imprecar+V.ele.ACC.3.M.PL+IMPF+2+PL
 imprecava-los	imprecar+V.ele.ACC.3.M.PL+IMPF+2+SG
 imprecavam-nos	imprecar+V.ele.ACC.3.M.PL+IMPF+3+PL
 imprecava-os	imprecar+V.ele.ACC.3.M.PL+IMPF+3+SG
+imprecá-los	imprecar+V.ele.ACC.3.M.PL+INF
 imprecarmo-los	imprecar+V.ele.ACC.3.M.PL+INF+1+PL
 imprecá-los	imprecar+V.ele.ACC.3.M.PL+INF+1+SG
 imprecarde-los	imprecar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -11337,6 +11424,7 @@ imprecávei-lo	imprecar+V.ele.ACC.3.M.SG+IMPF+2+PL
 imprecava-lo	imprecar+V.ele.ACC.3.M.SG+IMPF+2+SG
 imprecavam-no	imprecar+V.ele.ACC.3.M.SG+IMPF+3+PL
 imprecava-o	imprecar+V.ele.ACC.3.M.SG+IMPF+3+SG
+imprecá-lo	imprecar+V.ele.ACC.3.M.SG+INF
 imprecarmo-lo	imprecar+V.ele.ACC.3.M.SG+INF+1+PL
 imprecá-lo	imprecar+V.ele.ACC.3.M.SG+INF+1+SG
 imprecarde-lo	imprecar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -11720,6 +11808,7 @@ imprimíei-las	imprimir+V.ele.ACC.3.F.PL+IMPF+2+PL
 imprimia-las	imprimir+V.ele.ACC.3.F.PL+IMPF+2+SG
 imprimiam-nas	imprimir+V.ele.ACC.3.F.PL+IMPF+3+PL
 imprimia-as	imprimir+V.ele.ACC.3.F.PL+IMPF+3+SG
+imprimi-las	imprimir+V.ele.ACC.3.F.PL+INF
 imprimirmo-las	imprimir+V.ele.ACC.3.F.PL+INF+1+PL
 imprimi-las	imprimir+V.ele.ACC.3.F.PL+INF+1+SG
 imprimirde-las	imprimir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -11760,6 +11849,7 @@ imprimíei-la	imprimir+V.ele.ACC.3.F.SG+IMPF+2+PL
 imprimia-la	imprimir+V.ele.ACC.3.F.SG+IMPF+2+SG
 imprimiam-na	imprimir+V.ele.ACC.3.F.SG+IMPF+3+PL
 imprimia-a	imprimir+V.ele.ACC.3.F.SG+IMPF+3+SG
+imprimi-la	imprimir+V.ele.ACC.3.F.SG+INF
 imprimirmo-la	imprimir+V.ele.ACC.3.F.SG+INF+1+PL
 imprimi-la	imprimir+V.ele.ACC.3.F.SG+INF+1+SG
 imprimirde-la	imprimir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -11800,6 +11890,7 @@ imprimíei-los	imprimir+V.ele.ACC.3.M.PL+IMPF+2+PL
 imprimia-los	imprimir+V.ele.ACC.3.M.PL+IMPF+2+SG
 imprimiam-nos	imprimir+V.ele.ACC.3.M.PL+IMPF+3+PL
 imprimia-os	imprimir+V.ele.ACC.3.M.PL+IMPF+3+SG
+imprimi-los	imprimir+V.ele.ACC.3.M.PL+INF
 imprimirmo-los	imprimir+V.ele.ACC.3.M.PL+INF+1+PL
 imprimi-los	imprimir+V.ele.ACC.3.M.PL+INF+1+SG
 imprimirde-los	imprimir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -11840,6 +11931,7 @@ imprimíei-lo	imprimir+V.ele.ACC.3.M.SG+IMPF+2+PL
 imprimia-lo	imprimir+V.ele.ACC.3.M.SG+IMPF+2+SG
 imprimiam-no	imprimir+V.ele.ACC.3.M.SG+IMPF+3+PL
 imprimia-o	imprimir+V.ele.ACC.3.M.SG+IMPF+3+SG
+imprimi-lo	imprimir+V.ele.ACC.3.M.SG+INF
 imprimirmo-lo	imprimir+V.ele.ACC.3.M.SG+INF+1+PL
 imprimi-lo	imprimir+V.ele.ACC.3.M.SG+INF+1+SG
 imprimirde-lo	imprimir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -12120,10 +12212,6 @@ imprimirdes-vos	imprimir+V.vós.AD.2.PL+SBJF+2+PL
 imprimires-vos	imprimir+V.vós.AD.2.PL+SBJF+2+SG
 imprimirem-vos	imprimir+V.vós.AD.2.PL+SBJF+3+PL
 imprimir-vos	imprimir+V.vós.AD.2.PL+SBJF+3+SG
-improcedê-las	improceder+V.ele.ACC.3.F.PL+INF
-improcedê-la	improceder+V.ele.ACC.3.F.SG+INF
-improcedê-los	improceder+V.ele.ACC.3.M.PL+INF
-improcedê-lo	improceder+V.ele.ACC.3.M.SG+INF
 impuni-las-íamos	impunir+V.ele.ACC.3.F.PL+COND+1+PL
 impuni-las-ia	impunir+V.ele.ACC.3.F.PL+COND+1+SG
 impuni-las-íeis	impunir+V.ele.ACC.3.F.PL+COND+2+PL
@@ -12146,6 +12234,7 @@ impuníei-las	impunir+V.ele.ACC.3.F.PL+IMPF+2+PL
 impunia-las	impunir+V.ele.ACC.3.F.PL+IMPF+2+SG
 impuniam-nas	impunir+V.ele.ACC.3.F.PL+IMPF+3+PL
 impunia-as	impunir+V.ele.ACC.3.F.PL+IMPF+3+SG
+impuni-las	impunir+V.ele.ACC.3.F.PL+INF
 impunirmo-las	impunir+V.ele.ACC.3.F.PL+INF+1+PL
 impuni-las	impunir+V.ele.ACC.3.F.PL+INF+1+SG
 impunirde-las	impunir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12186,6 +12275,7 @@ impuníei-la	impunir+V.ele.ACC.3.F.SG+IMPF+2+PL
 impunia-la	impunir+V.ele.ACC.3.F.SG+IMPF+2+SG
 impuniam-na	impunir+V.ele.ACC.3.F.SG+IMPF+3+PL
 impunia-a	impunir+V.ele.ACC.3.F.SG+IMPF+3+SG
+impuni-la	impunir+V.ele.ACC.3.F.SG+INF
 impunirmo-la	impunir+V.ele.ACC.3.F.SG+INF+1+PL
 impuni-la	impunir+V.ele.ACC.3.F.SG+INF+1+SG
 impunirde-la	impunir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12226,6 +12316,7 @@ impuníei-los	impunir+V.ele.ACC.3.M.PL+IMPF+2+PL
 impunia-los	impunir+V.ele.ACC.3.M.PL+IMPF+2+SG
 impuniam-nos	impunir+V.ele.ACC.3.M.PL+IMPF+3+PL
 impunia-os	impunir+V.ele.ACC.3.M.PL+IMPF+3+SG
+impuni-los	impunir+V.ele.ACC.3.M.PL+INF
 impunirmo-los	impunir+V.ele.ACC.3.M.PL+INF+1+PL
 impuni-los	impunir+V.ele.ACC.3.M.PL+INF+1+SG
 impunirde-los	impunir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12266,6 +12357,7 @@ impuníei-lo	impunir+V.ele.ACC.3.M.SG+IMPF+2+PL
 impunia-lo	impunir+V.ele.ACC.3.M.SG+IMPF+2+SG
 impuniam-no	impunir+V.ele.ACC.3.M.SG+IMPF+3+PL
 impunia-o	impunir+V.ele.ACC.3.M.SG+IMPF+3+SG
+impuni-lo	impunir+V.ele.ACC.3.M.SG+INF
 impunirmo-lo	impunir+V.ele.ACC.3.M.SG+INF+1+PL
 impuni-lo	impunir+V.ele.ACC.3.M.SG+INF+1+SG
 impunirde-lo	impunir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -12568,6 +12660,7 @@ impurificávei-las	impurificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 impurificava-las	impurificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 impurificavam-nas	impurificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 impurificava-as	impurificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+impurificá-las	impurificar+V.ele.ACC.3.F.PL+INF
 impurificarmo-las	impurificar+V.ele.ACC.3.F.PL+INF+1+PL
 impurificá-las	impurificar+V.ele.ACC.3.F.PL+INF+1+SG
 impurificarde-las	impurificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12619,6 +12712,7 @@ impurificávei-la	impurificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 impurificava-la	impurificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 impurificavam-na	impurificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 impurificava-a	impurificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+impurificá-la	impurificar+V.ele.ACC.3.F.SG+INF
 impurificarmo-la	impurificar+V.ele.ACC.3.F.SG+INF+1+PL
 impurificá-la	impurificar+V.ele.ACC.3.F.SG+INF+1+SG
 impurificarde-la	impurificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12670,6 +12764,7 @@ impurificávei-los	impurificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 impurificava-los	impurificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 impurificavam-nos	impurificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 impurificava-os	impurificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+impurificá-los	impurificar+V.ele.ACC.3.M.PL+INF
 impurificarmo-los	impurificar+V.ele.ACC.3.M.PL+INF+1+PL
 impurificá-los	impurificar+V.ele.ACC.3.M.PL+INF+1+SG
 impurificarde-los	impurificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12721,6 +12816,7 @@ impurificávei-lo	impurificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 impurificava-lo	impurificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 impurificavam-no	impurificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 impurificava-o	impurificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+impurificá-lo	impurificar+V.ele.ACC.3.M.SG+INF
 impurificarmo-lo	impurificar+V.ele.ACC.3.M.SG+INF+1+PL
 impurificá-lo	impurificar+V.ele.ACC.3.M.SG+INF+1+SG
 impurificarde-lo	impurificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13104,6 +13200,7 @@ inadimplíei-las	inadimplir+V.ele.ACC.3.F.PL+IMPF+2+PL
 inadimplia-las	inadimplir+V.ele.ACC.3.F.PL+IMPF+2+SG
 inadimpliam-nas	inadimplir+V.ele.ACC.3.F.PL+IMPF+3+PL
 inadimplia-as	inadimplir+V.ele.ACC.3.F.PL+IMPF+3+SG
+inadimpli-las	inadimplir+V.ele.ACC.3.F.PL+INF
 inadimplirmo-las	inadimplir+V.ele.ACC.3.F.PL+INF+1+PL
 inadimpli-las	inadimplir+V.ele.ACC.3.F.PL+INF+1+SG
 inadimplirde-las	inadimplir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -13144,6 +13241,7 @@ inadimplíei-la	inadimplir+V.ele.ACC.3.F.SG+IMPF+2+PL
 inadimplia-la	inadimplir+V.ele.ACC.3.F.SG+IMPF+2+SG
 inadimpliam-na	inadimplir+V.ele.ACC.3.F.SG+IMPF+3+PL
 inadimplia-a	inadimplir+V.ele.ACC.3.F.SG+IMPF+3+SG
+inadimpli-la	inadimplir+V.ele.ACC.3.F.SG+INF
 inadimplirmo-la	inadimplir+V.ele.ACC.3.F.SG+INF+1+PL
 inadimpli-la	inadimplir+V.ele.ACC.3.F.SG+INF+1+SG
 inadimplirde-la	inadimplir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -13184,6 +13282,7 @@ inadimplíei-los	inadimplir+V.ele.ACC.3.M.PL+IMPF+2+PL
 inadimplia-los	inadimplir+V.ele.ACC.3.M.PL+IMPF+2+SG
 inadimpliam-nos	inadimplir+V.ele.ACC.3.M.PL+IMPF+3+PL
 inadimplia-os	inadimplir+V.ele.ACC.3.M.PL+IMPF+3+SG
+inadimpli-los	inadimplir+V.ele.ACC.3.M.PL+INF
 inadimplirmo-los	inadimplir+V.ele.ACC.3.M.PL+INF+1+PL
 inadimpli-los	inadimplir+V.ele.ACC.3.M.PL+INF+1+SG
 inadimplirde-los	inadimplir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -13224,6 +13323,7 @@ inadimplíei-lo	inadimplir+V.ele.ACC.3.M.SG+IMPF+2+PL
 inadimplia-lo	inadimplir+V.ele.ACC.3.M.SG+IMPF+2+SG
 inadimpliam-no	inadimplir+V.ele.ACC.3.M.SG+IMPF+3+PL
 inadimplia-o	inadimplir+V.ele.ACC.3.M.SG+IMPF+3+SG
+inadimpli-lo	inadimplir+V.ele.ACC.3.M.SG+INF
 inadimplirmo-lo	inadimplir+V.ele.ACC.3.M.SG+INF+1+PL
 inadimpli-lo	inadimplir+V.ele.ACC.3.M.SG+INF+1+SG
 inadimplirde-lo	inadimplir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13526,6 +13626,7 @@ inaníei-las	inanir+V.ele.ACC.3.F.PL+IMPF+2+PL
 inania-las	inanir+V.ele.ACC.3.F.PL+IMPF+2+SG
 inaniam-nas	inanir+V.ele.ACC.3.F.PL+IMPF+3+PL
 inania-as	inanir+V.ele.ACC.3.F.PL+IMPF+3+SG
+inani-las	inanir+V.ele.ACC.3.F.PL+INF
 inanirmo-las	inanir+V.ele.ACC.3.F.PL+INF+1+PL
 inani-las	inanir+V.ele.ACC.3.F.PL+INF+1+SG
 inanirde-las	inanir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -13566,6 +13667,7 @@ inaníei-la	inanir+V.ele.ACC.3.F.SG+IMPF+2+PL
 inania-la	inanir+V.ele.ACC.3.F.SG+IMPF+2+SG
 inaniam-na	inanir+V.ele.ACC.3.F.SG+IMPF+3+PL
 inania-a	inanir+V.ele.ACC.3.F.SG+IMPF+3+SG
+inani-la	inanir+V.ele.ACC.3.F.SG+INF
 inanirmo-la	inanir+V.ele.ACC.3.F.SG+INF+1+PL
 inani-la	inanir+V.ele.ACC.3.F.SG+INF+1+SG
 inanirde-la	inanir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -13606,6 +13708,7 @@ inaníei-los	inanir+V.ele.ACC.3.M.PL+IMPF+2+PL
 inania-los	inanir+V.ele.ACC.3.M.PL+IMPF+2+SG
 inaniam-nos	inanir+V.ele.ACC.3.M.PL+IMPF+3+PL
 inania-os	inanir+V.ele.ACC.3.M.PL+IMPF+3+SG
+inani-los	inanir+V.ele.ACC.3.M.PL+INF
 inanirmo-los	inanir+V.ele.ACC.3.M.PL+INF+1+PL
 inani-los	inanir+V.ele.ACC.3.M.PL+INF+1+SG
 inanirde-los	inanir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -13646,6 +13749,7 @@ inaníei-lo	inanir+V.ele.ACC.3.M.SG+IMPF+2+PL
 inania-lo	inanir+V.ele.ACC.3.M.SG+IMPF+2+SG
 inaniam-no	inanir+V.ele.ACC.3.M.SG+IMPF+3+PL
 inania-o	inanir+V.ele.ACC.3.M.SG+IMPF+3+SG
+inani-lo	inanir+V.ele.ACC.3.M.SG+INF
 inanirmo-lo	inanir+V.ele.ACC.3.M.SG+INF+1+PL
 inani-lo	inanir+V.ele.ACC.3.M.SG+INF+1+SG
 inanirde-lo	inanir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -14465,10 +14569,6 @@ incandescerdes-vos	incandescer+V.vós.AD.2.PL+SBJF+2+PL
 incandesceres-vos	incandescer+V.vós.AD.2.PL+SBJF+2+SG
 incandescerem-vos	incandescer+V.vós.AD.2.PL+SBJF+3+PL
 incandescer-vos	incandescer+V.vós.AD.2.PL+SBJF+3+SG
-incendê-las	incender+V.ele.ACC.3.F.PL+INF
-incendê-la	incender+V.ele.ACC.3.F.SG+INF
-incendê-los	incender+V.ele.ACC.3.M.PL+INF
-incendê-lo	incender+V.ele.ACC.3.M.SG+INF
 incendiá-las-íamos	incendiar+V.ele.ACC.3.F.PL+COND+1+PL
 incendiá-las-ia	incendiar+V.ele.ACC.3.F.PL+COND+1+SG
 incendiá-las-íeis	incendiar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -14491,6 +14591,7 @@ incendiávei-las	incendiar+V.ele.ACC.3.F.PL+IMPF+2+PL
 incendiava-las	incendiar+V.ele.ACC.3.F.PL+IMPF+2+SG
 incendiavam-nas	incendiar+V.ele.ACC.3.F.PL+IMPF+3+PL
 incendiava-as	incendiar+V.ele.ACC.3.F.PL+IMPF+3+SG
+incendiá-las	incendiar+V.ele.ACC.3.F.PL+INF
 incendiarmo-las	incendiar+V.ele.ACC.3.F.PL+INF+1+PL
 incendiá-las	incendiar+V.ele.ACC.3.F.PL+INF+1+SG
 incendiarde-las	incendiar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -14543,6 +14644,7 @@ incendiávei-la	incendiar+V.ele.ACC.3.F.SG+IMPF+2+PL
 incendiava-la	incendiar+V.ele.ACC.3.F.SG+IMPF+2+SG
 incendiavam-na	incendiar+V.ele.ACC.3.F.SG+IMPF+3+PL
 incendiava-a	incendiar+V.ele.ACC.3.F.SG+IMPF+3+SG
+incendiá-la	incendiar+V.ele.ACC.3.F.SG+INF
 incendiarmo-la	incendiar+V.ele.ACC.3.F.SG+INF+1+PL
 incendiá-la	incendiar+V.ele.ACC.3.F.SG+INF+1+SG
 incendiarde-la	incendiar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -14595,6 +14697,7 @@ incendiávei-los	incendiar+V.ele.ACC.3.M.PL+IMPF+2+PL
 incendiava-los	incendiar+V.ele.ACC.3.M.PL+IMPF+2+SG
 incendiavam-nos	incendiar+V.ele.ACC.3.M.PL+IMPF+3+PL
 incendiava-os	incendiar+V.ele.ACC.3.M.PL+IMPF+3+SG
+incendiá-los	incendiar+V.ele.ACC.3.M.PL+INF
 incendiarmo-los	incendiar+V.ele.ACC.3.M.PL+INF+1+PL
 incendiá-los	incendiar+V.ele.ACC.3.M.PL+INF+1+SG
 incendiarde-los	incendiar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -14647,6 +14750,7 @@ incendiávei-lo	incendiar+V.ele.ACC.3.M.SG+IMPF+2+PL
 incendiava-lo	incendiar+V.ele.ACC.3.M.SG+IMPF+2+SG
 incendiavam-no	incendiar+V.ele.ACC.3.M.SG+IMPF+3+PL
 incendiava-o	incendiar+V.ele.ACC.3.M.SG+IMPF+3+SG
+incendiá-lo	incendiar+V.ele.ACC.3.M.SG+INF
 incendiarmo-lo	incendiar+V.ele.ACC.3.M.SG+INF+1+PL
 incendiá-lo	incendiar+V.ele.ACC.3.M.SG+INF+1+SG
 incendiarde-lo	incendiar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -15037,6 +15141,7 @@ incidíei-las	incidir+V.ele.ACC.3.F.PL+IMPF+2+PL
 incidia-las	incidir+V.ele.ACC.3.F.PL+IMPF+2+SG
 incidiam-nas	incidir+V.ele.ACC.3.F.PL+IMPF+3+PL
 incidia-as	incidir+V.ele.ACC.3.F.PL+IMPF+3+SG
+incidi-las	incidir+V.ele.ACC.3.F.PL+INF
 incidirmo-las	incidir+V.ele.ACC.3.F.PL+INF+1+PL
 incidi-las	incidir+V.ele.ACC.3.F.PL+INF+1+SG
 incidirde-las	incidir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -15077,6 +15182,7 @@ incidíei-la	incidir+V.ele.ACC.3.F.SG+IMPF+2+PL
 incidia-la	incidir+V.ele.ACC.3.F.SG+IMPF+2+SG
 incidiam-na	incidir+V.ele.ACC.3.F.SG+IMPF+3+PL
 incidia-a	incidir+V.ele.ACC.3.F.SG+IMPF+3+SG
+incidi-la	incidir+V.ele.ACC.3.F.SG+INF
 incidirmo-la	incidir+V.ele.ACC.3.F.SG+INF+1+PL
 incidi-la	incidir+V.ele.ACC.3.F.SG+INF+1+SG
 incidirde-la	incidir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -15117,6 +15223,7 @@ incidíei-los	incidir+V.ele.ACC.3.M.PL+IMPF+2+PL
 incidia-los	incidir+V.ele.ACC.3.M.PL+IMPF+2+SG
 incidiam-nos	incidir+V.ele.ACC.3.M.PL+IMPF+3+PL
 incidia-os	incidir+V.ele.ACC.3.M.PL+IMPF+3+SG
+incidi-los	incidir+V.ele.ACC.3.M.PL+INF
 incidirmo-los	incidir+V.ele.ACC.3.M.PL+INF+1+PL
 incidi-los	incidir+V.ele.ACC.3.M.PL+INF+1+SG
 incidirde-los	incidir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -15157,6 +15264,7 @@ incidíei-lo	incidir+V.ele.ACC.3.M.SG+IMPF+2+PL
 incidia-lo	incidir+V.ele.ACC.3.M.SG+IMPF+2+SG
 incidiam-no	incidir+V.ele.ACC.3.M.SG+IMPF+3+PL
 incidia-o	incidir+V.ele.ACC.3.M.SG+IMPF+3+SG
+incidi-lo	incidir+V.ele.ACC.3.M.SG+INF
 incidirmo-lo	incidir+V.ele.ACC.3.M.SG+INF+1+PL
 incidi-lo	incidir+V.ele.ACC.3.M.SG+INF+1+SG
 incidirde-lo	incidir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -15459,6 +15567,7 @@ incluíei-las	incluir+V.ele.ACC.3.F.PL+IMPF+2+PL
 incluía-las	incluir+V.ele.ACC.3.F.PL+IMPF+2+SG
 incluíam-nas	incluir+V.ele.ACC.3.F.PL+IMPF+3+PL
 incluía-as	incluir+V.ele.ACC.3.F.PL+IMPF+3+SG
+incluí-las	incluir+V.ele.ACC.3.F.PL+INF
 incluirmo-las	incluir+V.ele.ACC.3.F.PL+INF+1+PL
 incluí-las	incluir+V.ele.ACC.3.F.PL+INF+1+SG
 incluirde-las	incluir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -15511,6 +15620,7 @@ incluíei-la	incluir+V.ele.ACC.3.F.SG+IMPF+2+PL
 incluía-la	incluir+V.ele.ACC.3.F.SG+IMPF+2+SG
 incluíam-na	incluir+V.ele.ACC.3.F.SG+IMPF+3+PL
 incluía-a	incluir+V.ele.ACC.3.F.SG+IMPF+3+SG
+incluí-la	incluir+V.ele.ACC.3.F.SG+INF
 incluirmo-la	incluir+V.ele.ACC.3.F.SG+INF+1+PL
 incluí-la	incluir+V.ele.ACC.3.F.SG+INF+1+SG
 incluirde-la	incluir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -15564,6 +15674,7 @@ incluía-los	incluir+V.ele.ACC.3.M.PL+IMPF+2+SG
 incluía-os	incluir+V.ele.ACC.3.M.PL+IMPF+3+SG
 incluir-nos	incluir+V.ele.ACC.3.M.PL+INF
 incluir-vos	incluir+V.ele.ACC.3.M.PL+INF
+incluí-los	incluir+V.ele.ACC.3.M.PL+INF
 incluirmo-los	incluir+V.ele.ACC.3.M.PL+INF+1+PL
 incluí-los	incluir+V.ele.ACC.3.M.PL+INF+1+SG
 incluirde-los	incluir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -15612,6 +15723,7 @@ incluíei-lo	incluir+V.ele.ACC.3.M.SG+IMPF+2+PL
 incluía-lo	incluir+V.ele.ACC.3.M.SG+IMPF+2+SG
 incluíam-no	incluir+V.ele.ACC.3.M.SG+IMPF+3+PL
 incluía-o	incluir+V.ele.ACC.3.M.SG+IMPF+3+SG
+incluí-lo	incluir+V.ele.ACC.3.M.SG+INF
 incluirmo-lo	incluir+V.ele.ACC.3.M.SG+INF+1+PL
 incluí-lo	incluir+V.ele.ACC.3.M.SG+INF+1+SG
 incluirde-lo	incluir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -15992,6 +16104,7 @@ incoávei-las	incoar+V.ele.ACC.3.F.PL+IMPF+2+PL
 incoava-las	incoar+V.ele.ACC.3.F.PL+IMPF+2+SG
 incoavam-nas	incoar+V.ele.ACC.3.F.PL+IMPF+3+PL
 incoava-as	incoar+V.ele.ACC.3.F.PL+IMPF+3+SG
+incoá-las	incoar+V.ele.ACC.3.F.PL+INF
 incoarmo-las	incoar+V.ele.ACC.3.F.PL+INF+1+PL
 incoá-las	incoar+V.ele.ACC.3.F.PL+INF+1+SG
 incoarde-las	incoar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -16044,6 +16157,7 @@ incoávei-la	incoar+V.ele.ACC.3.F.SG+IMPF+2+PL
 incoava-la	incoar+V.ele.ACC.3.F.SG+IMPF+2+SG
 incoavam-na	incoar+V.ele.ACC.3.F.SG+IMPF+3+PL
 incoava-a	incoar+V.ele.ACC.3.F.SG+IMPF+3+SG
+incoá-la	incoar+V.ele.ACC.3.F.SG+INF
 incoarmo-la	incoar+V.ele.ACC.3.F.SG+INF+1+PL
 incoá-la	incoar+V.ele.ACC.3.F.SG+INF+1+SG
 incoarde-la	incoar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -16096,6 +16210,7 @@ incoávei-los	incoar+V.ele.ACC.3.M.PL+IMPF+2+PL
 incoava-los	incoar+V.ele.ACC.3.M.PL+IMPF+2+SG
 incoavam-nos	incoar+V.ele.ACC.3.M.PL+IMPF+3+PL
 incoava-os	incoar+V.ele.ACC.3.M.PL+IMPF+3+SG
+incoá-los	incoar+V.ele.ACC.3.M.PL+INF
 incoarmo-los	incoar+V.ele.ACC.3.M.PL+INF+1+PL
 incoá-los	incoar+V.ele.ACC.3.M.PL+INF+1+SG
 incoarde-los	incoar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -16148,6 +16263,7 @@ incoávei-lo	incoar+V.ele.ACC.3.M.SG+IMPF+2+PL
 incoava-lo	incoar+V.ele.ACC.3.M.SG+IMPF+2+SG
 incoavam-no	incoar+V.ele.ACC.3.M.SG+IMPF+3+PL
 incoava-o	incoar+V.ele.ACC.3.M.SG+IMPF+3+SG
+incoá-lo	incoar+V.ele.ACC.3.M.SG+INF
 incoarmo-lo	incoar+V.ele.ACC.3.M.SG+INF+1+PL
 incoá-lo	incoar+V.ele.ACC.3.M.SG+INF+1+SG
 incoarde-lo	incoar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -16538,6 +16654,7 @@ incomunicávei-las	incomunicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 incomunicava-las	incomunicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 incomunicavam-nas	incomunicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 incomunicava-as	incomunicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+incomunicá-las	incomunicar+V.ele.ACC.3.F.PL+INF
 incomunicarmo-las	incomunicar+V.ele.ACC.3.F.PL+INF+1+PL
 incomunicá-las	incomunicar+V.ele.ACC.3.F.PL+INF+1+SG
 incomunicarde-las	incomunicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -16589,6 +16706,7 @@ incomunicávei-la	incomunicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 incomunicava-la	incomunicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 incomunicavam-na	incomunicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 incomunicava-a	incomunicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+incomunicá-la	incomunicar+V.ele.ACC.3.F.SG+INF
 incomunicarmo-la	incomunicar+V.ele.ACC.3.F.SG+INF+1+PL
 incomunicá-la	incomunicar+V.ele.ACC.3.F.SG+INF+1+SG
 incomunicarde-la	incomunicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -16640,6 +16758,7 @@ incomunicávei-los	incomunicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 incomunicava-los	incomunicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 incomunicavam-nos	incomunicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 incomunicava-os	incomunicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+incomunicá-los	incomunicar+V.ele.ACC.3.M.PL+INF
 incomunicarmo-los	incomunicar+V.ele.ACC.3.M.PL+INF+1+PL
 incomunicá-los	incomunicar+V.ele.ACC.3.M.PL+INF+1+SG
 incomunicarde-los	incomunicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -16691,6 +16810,7 @@ incomunicávei-lo	incomunicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 incomunicava-lo	incomunicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 incomunicavam-no	incomunicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 incomunicava-o	incomunicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+incomunicá-lo	incomunicar+V.ele.ACC.3.M.SG+INF
 incomunicarmo-lo	incomunicar+V.ele.ACC.3.M.SG+INF+1+PL
 incomunicá-lo	incomunicar+V.ele.ACC.3.M.SG+INF+1+SG
 incomunicarde-lo	incomunicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -17052,10 +17172,6 @@ incomunicardes-vos	incomunicar+V.vós.AD.2.PL+SBJF+2+PL
 incomunicares-vos	incomunicar+V.vós.AD.2.PL+SBJF+2+SG
 incomunicarem-vos	incomunicar+V.vós.AD.2.PL+SBJF+3+PL
 incomunicar-vos	incomunicar+V.vós.AD.2.PL+SBJF+3+SG
-incorrê-las	incorrer+V.ele.ACC.3.F.PL+INF
-incorrê-la	incorrer+V.ele.ACC.3.F.SG+INF
-incorrê-los	incorrer+V.ele.ACC.3.M.PL+INF
-incorrê-lo	incorrer+V.ele.ACC.3.M.SG+INF
 incrê-las-íamos	increr+V.ele.ACC.3.F.PL+COND+1+PL
 incrê-las-ia	increr+V.ele.ACC.3.F.PL+COND+1+SG
 incrê-las-íeis	increr+V.ele.ACC.3.F.PL+COND+2+PL
@@ -17628,6 +17744,7 @@ inculcávei-las	inculcar+V.ele.ACC.3.F.PL+IMPF+2+PL
 inculcava-las	inculcar+V.ele.ACC.3.F.PL+IMPF+2+SG
 inculcavam-nas	inculcar+V.ele.ACC.3.F.PL+IMPF+3+PL
 inculcava-as	inculcar+V.ele.ACC.3.F.PL+IMPF+3+SG
+inculcá-las	inculcar+V.ele.ACC.3.F.PL+INF
 inculcarmo-las	inculcar+V.ele.ACC.3.F.PL+INF+1+PL
 inculcá-las	inculcar+V.ele.ACC.3.F.PL+INF+1+SG
 inculcarde-las	inculcar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -17679,6 +17796,7 @@ inculcávei-la	inculcar+V.ele.ACC.3.F.SG+IMPF+2+PL
 inculcava-la	inculcar+V.ele.ACC.3.F.SG+IMPF+2+SG
 inculcavam-na	inculcar+V.ele.ACC.3.F.SG+IMPF+3+PL
 inculcava-a	inculcar+V.ele.ACC.3.F.SG+IMPF+3+SG
+inculcá-la	inculcar+V.ele.ACC.3.F.SG+INF
 inculcarmo-la	inculcar+V.ele.ACC.3.F.SG+INF+1+PL
 inculcá-la	inculcar+V.ele.ACC.3.F.SG+INF+1+SG
 inculcarde-la	inculcar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -17730,6 +17848,7 @@ inculcávei-los	inculcar+V.ele.ACC.3.M.PL+IMPF+2+PL
 inculcava-los	inculcar+V.ele.ACC.3.M.PL+IMPF+2+SG
 inculcavam-nos	inculcar+V.ele.ACC.3.M.PL+IMPF+3+PL
 inculcava-os	inculcar+V.ele.ACC.3.M.PL+IMPF+3+SG
+inculcá-los	inculcar+V.ele.ACC.3.M.PL+INF
 inculcarmo-los	inculcar+V.ele.ACC.3.M.PL+INF+1+PL
 inculcá-los	inculcar+V.ele.ACC.3.M.PL+INF+1+SG
 inculcarde-los	inculcar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -17781,6 +17900,7 @@ inculcávei-lo	inculcar+V.ele.ACC.3.M.SG+IMPF+2+PL
 inculcava-lo	inculcar+V.ele.ACC.3.M.SG+IMPF+2+SG
 inculcavam-no	inculcar+V.ele.ACC.3.M.SG+IMPF+3+PL
 inculcava-o	inculcar+V.ele.ACC.3.M.SG+IMPF+3+SG
+inculcá-lo	inculcar+V.ele.ACC.3.M.SG+INF
 inculcarmo-lo	inculcar+V.ele.ACC.3.M.SG+INF+1+PL
 inculcá-lo	inculcar+V.ele.ACC.3.M.SG+INF+1+SG
 inculcarde-lo	inculcar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -18164,6 +18284,7 @@ incumbíei-las	incumbir+V.ele.ACC.3.F.PL+IMPF+2+PL
 incumbia-las	incumbir+V.ele.ACC.3.F.PL+IMPF+2+SG
 incumbiam-nas	incumbir+V.ele.ACC.3.F.PL+IMPF+3+PL
 incumbia-as	incumbir+V.ele.ACC.3.F.PL+IMPF+3+SG
+incumbi-las	incumbir+V.ele.ACC.3.F.PL+INF
 incumbirmo-las	incumbir+V.ele.ACC.3.F.PL+INF+1+PL
 incumbi-las	incumbir+V.ele.ACC.3.F.PL+INF+1+SG
 incumbirde-las	incumbir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -18204,6 +18325,7 @@ incumbíei-la	incumbir+V.ele.ACC.3.F.SG+IMPF+2+PL
 incumbia-la	incumbir+V.ele.ACC.3.F.SG+IMPF+2+SG
 incumbiam-na	incumbir+V.ele.ACC.3.F.SG+IMPF+3+PL
 incumbia-a	incumbir+V.ele.ACC.3.F.SG+IMPF+3+SG
+incumbi-la	incumbir+V.ele.ACC.3.F.SG+INF
 incumbirmo-la	incumbir+V.ele.ACC.3.F.SG+INF+1+PL
 incumbi-la	incumbir+V.ele.ACC.3.F.SG+INF+1+SG
 incumbirde-la	incumbir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -18244,6 +18366,7 @@ incumbíei-los	incumbir+V.ele.ACC.3.M.PL+IMPF+2+PL
 incumbia-los	incumbir+V.ele.ACC.3.M.PL+IMPF+2+SG
 incumbiam-nos	incumbir+V.ele.ACC.3.M.PL+IMPF+3+PL
 incumbia-os	incumbir+V.ele.ACC.3.M.PL+IMPF+3+SG
+incumbi-los	incumbir+V.ele.ACC.3.M.PL+INF
 incumbirmo-los	incumbir+V.ele.ACC.3.M.PL+INF+1+PL
 incumbi-los	incumbir+V.ele.ACC.3.M.PL+INF+1+SG
 incumbirde-los	incumbir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -18284,6 +18407,7 @@ incumbíei-lo	incumbir+V.ele.ACC.3.M.SG+IMPF+2+PL
 incumbia-lo	incumbir+V.ele.ACC.3.M.SG+IMPF+2+SG
 incumbiam-no	incumbir+V.ele.ACC.3.M.SG+IMPF+3+PL
 incumbia-o	incumbir+V.ele.ACC.3.M.SG+IMPF+3+SG
+incumbi-lo	incumbir+V.ele.ACC.3.M.SG+INF
 incumbirmo-lo	incumbir+V.ele.ACC.3.M.SG+INF+1+PL
 incumbi-lo	incumbir+V.ele.ACC.3.M.SG+INF+1+SG
 incumbirde-lo	incumbir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -18586,6 +18710,7 @@ incutíei-las	incutir+V.ele.ACC.3.F.PL+IMPF+2+PL
 incutia-las	incutir+V.ele.ACC.3.F.PL+IMPF+2+SG
 incutiam-nas	incutir+V.ele.ACC.3.F.PL+IMPF+3+PL
 incutia-as	incutir+V.ele.ACC.3.F.PL+IMPF+3+SG
+incuti-las	incutir+V.ele.ACC.3.F.PL+INF
 incutirmo-las	incutir+V.ele.ACC.3.F.PL+INF+1+PL
 incuti-las	incutir+V.ele.ACC.3.F.PL+INF+1+SG
 incutirde-las	incutir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -18626,6 +18751,7 @@ incutíei-la	incutir+V.ele.ACC.3.F.SG+IMPF+2+PL
 incutia-la	incutir+V.ele.ACC.3.F.SG+IMPF+2+SG
 incutiam-na	incutir+V.ele.ACC.3.F.SG+IMPF+3+PL
 incutia-a	incutir+V.ele.ACC.3.F.SG+IMPF+3+SG
+incuti-la	incutir+V.ele.ACC.3.F.SG+INF
 incutirmo-la	incutir+V.ele.ACC.3.F.SG+INF+1+PL
 incuti-la	incutir+V.ele.ACC.3.F.SG+INF+1+SG
 incutirde-la	incutir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -18666,6 +18792,7 @@ incutíei-los	incutir+V.ele.ACC.3.M.PL+IMPF+2+PL
 incutia-los	incutir+V.ele.ACC.3.M.PL+IMPF+2+SG
 incutiam-nos	incutir+V.ele.ACC.3.M.PL+IMPF+3+PL
 incutia-os	incutir+V.ele.ACC.3.M.PL+IMPF+3+SG
+incuti-los	incutir+V.ele.ACC.3.M.PL+INF
 incutirmo-los	incutir+V.ele.ACC.3.M.PL+INF+1+PL
 incuti-los	incutir+V.ele.ACC.3.M.PL+INF+1+SG
 incutirde-los	incutir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -18706,6 +18833,7 @@ incutíei-lo	incutir+V.ele.ACC.3.M.SG+IMPF+2+PL
 incutia-lo	incutir+V.ele.ACC.3.M.SG+IMPF+2+SG
 incutiam-no	incutir+V.ele.ACC.3.M.SG+IMPF+3+PL
 incutia-o	incutir+V.ele.ACC.3.M.SG+IMPF+3+SG
+incuti-lo	incutir+V.ele.ACC.3.M.SG+INF
 incutirmo-lo	incutir+V.ele.ACC.3.M.SG+INF+1+PL
 incuti-lo	incutir+V.ele.ACC.3.M.SG+INF+1+SG
 incutirde-lo	incutir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -19008,6 +19136,7 @@ indeferíei-las	indeferir+V.ele.ACC.3.F.PL+IMPF+2+PL
 indeferia-las	indeferir+V.ele.ACC.3.F.PL+IMPF+2+SG
 indeferiam-nas	indeferir+V.ele.ACC.3.F.PL+IMPF+3+PL
 indeferia-as	indeferir+V.ele.ACC.3.F.PL+IMPF+3+SG
+indeferi-las	indeferir+V.ele.ACC.3.F.PL+INF
 indeferirmo-las	indeferir+V.ele.ACC.3.F.PL+INF+1+PL
 indeferi-las	indeferir+V.ele.ACC.3.F.PL+INF+1+SG
 indeferirde-las	indeferir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -19054,6 +19183,7 @@ indeferíei-la	indeferir+V.ele.ACC.3.F.SG+IMPF+2+PL
 indeferia-la	indeferir+V.ele.ACC.3.F.SG+IMPF+2+SG
 indeferiam-na	indeferir+V.ele.ACC.3.F.SG+IMPF+3+PL
 indeferia-a	indeferir+V.ele.ACC.3.F.SG+IMPF+3+SG
+indeferi-la	indeferir+V.ele.ACC.3.F.SG+INF
 indeferirmo-la	indeferir+V.ele.ACC.3.F.SG+INF+1+PL
 indeferi-la	indeferir+V.ele.ACC.3.F.SG+INF+1+SG
 indeferirde-la	indeferir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -19100,6 +19230,7 @@ indeferíei-los	indeferir+V.ele.ACC.3.M.PL+IMPF+2+PL
 indeferia-los	indeferir+V.ele.ACC.3.M.PL+IMPF+2+SG
 indeferiam-nos	indeferir+V.ele.ACC.3.M.PL+IMPF+3+PL
 indeferia-os	indeferir+V.ele.ACC.3.M.PL+IMPF+3+SG
+indeferi-los	indeferir+V.ele.ACC.3.M.PL+INF
 indeferirmo-los	indeferir+V.ele.ACC.3.M.PL+INF+1+PL
 indeferi-los	indeferir+V.ele.ACC.3.M.PL+INF+1+SG
 indeferirde-los	indeferir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -19146,6 +19277,7 @@ indeferíei-lo	indeferir+V.ele.ACC.3.M.SG+IMPF+2+PL
 indeferia-lo	indeferir+V.ele.ACC.3.M.SG+IMPF+2+SG
 indeferiam-no	indeferir+V.ele.ACC.3.M.SG+IMPF+3+PL
 indeferia-o	indeferir+V.ele.ACC.3.M.SG+IMPF+3+SG
+indeferi-lo	indeferir+V.ele.ACC.3.M.SG+INF
 indeferirmo-lo	indeferir+V.ele.ACC.3.M.SG+INF+1+PL
 indeferi-lo	indeferir+V.ele.ACC.3.M.SG+INF+1+SG
 indeferirde-lo	indeferir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -19470,10 +19602,6 @@ indeferirdes-vos	indeferir+V.vós.AD.2.PL+SBJF+2+PL
 indeferires-vos	indeferir+V.vós.AD.2.PL+SBJF+2+SG
 indeferirem-vos	indeferir+V.vós.AD.2.PL+SBJF+3+PL
 indeferir-vos	indeferir+V.vós.AD.2.PL+SBJF+3+SG
-independê-las	independer+V.ele.ACC.3.F.PL+INF
-independê-la	independer+V.ele.ACC.3.F.SG+INF
-independê-los	independer+V.ele.ACC.3.M.PL+INF
-independê-lo	independer+V.ele.ACC.3.M.SG+INF
 indicá-las-íamos	indicar+V.ele.ACC.3.F.PL+COND+1+PL
 indicá-las-ia	indicar+V.ele.ACC.3.F.PL+COND+1+SG
 indicá-las-íeis	indicar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -19496,6 +19624,7 @@ indicávei-las	indicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 indicava-las	indicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 indicavam-nas	indicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 indicava-as	indicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+indicá-las	indicar+V.ele.ACC.3.F.PL+INF
 indicarmo-las	indicar+V.ele.ACC.3.F.PL+INF+1+PL
 indicá-las	indicar+V.ele.ACC.3.F.PL+INF+1+SG
 indicarde-las	indicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -19547,6 +19676,7 @@ indicávei-la	indicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 indicava-la	indicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 indicavam-na	indicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 indicava-a	indicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+indicá-la	indicar+V.ele.ACC.3.F.SG+INF
 indicarmo-la	indicar+V.ele.ACC.3.F.SG+INF+1+PL
 indicá-la	indicar+V.ele.ACC.3.F.SG+INF+1+SG
 indicarde-la	indicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -19598,6 +19728,7 @@ indicávei-los	indicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 indicava-los	indicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 indicavam-nos	indicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 indicava-os	indicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+indicá-los	indicar+V.ele.ACC.3.M.PL+INF
 indicarmo-los	indicar+V.ele.ACC.3.M.PL+INF+1+PL
 indicá-los	indicar+V.ele.ACC.3.M.PL+INF+1+SG
 indicarde-los	indicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -19649,6 +19780,7 @@ indicávei-lo	indicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 indicava-lo	indicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 indicavam-no	indicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 indicava-o	indicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+indicá-lo	indicar+V.ele.ACC.3.M.SG+INF
 indicarmo-lo	indicar+V.ele.ACC.3.M.SG+INF+1+PL
 indicá-lo	indicar+V.ele.ACC.3.M.SG+INF+1+SG
 indicarde-lo	indicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -20033,6 +20165,7 @@ indispúnhei-las	indispor+V.ele.ACC.3.F.PL+IMPF+2+PL
 indispunha-las	indispor+V.ele.ACC.3.F.PL+IMPF+2+SG
 indispunham-nas	indispor+V.ele.ACC.3.F.PL+IMPF+3+PL
 indispunha-as	indispor+V.ele.ACC.3.F.PL+IMPF+3+SG
+indispô-las	indispor+V.ele.ACC.3.F.PL+INF
 indispô-las	indispor+V.ele.ACC.3.F.PL+INF+1+SG
 indispô-las	indispor+V.ele.ACC.3.F.PL+INF+3+SG
 indispuséramo-las	indispor+V.ele.ACC.3.F.PL+PQP+1+PL
@@ -20081,6 +20214,7 @@ indispúnhei-la	indispor+V.ele.ACC.3.F.SG+IMPF+2+PL
 indispunha-la	indispor+V.ele.ACC.3.F.SG+IMPF+2+SG
 indispunham-na	indispor+V.ele.ACC.3.F.SG+IMPF+3+PL
 indispunha-a	indispor+V.ele.ACC.3.F.SG+IMPF+3+SG
+indispô-la	indispor+V.ele.ACC.3.F.SG+INF
 indispô-la	indispor+V.ele.ACC.3.F.SG+INF+1+SG
 indispô-la	indispor+V.ele.ACC.3.F.SG+INF+3+SG
 indispuséramo-la	indispor+V.ele.ACC.3.F.SG+PQP+1+PL
@@ -20129,6 +20263,7 @@ indispúnhei-los	indispor+V.ele.ACC.3.M.PL+IMPF+2+PL
 indispunha-los	indispor+V.ele.ACC.3.M.PL+IMPF+2+SG
 indispunham-nos	indispor+V.ele.ACC.3.M.PL+IMPF+3+PL
 indispunha-os	indispor+V.ele.ACC.3.M.PL+IMPF+3+SG
+indispô-los	indispor+V.ele.ACC.3.M.PL+INF
 indispô-los	indispor+V.ele.ACC.3.M.PL+INF+1+SG
 indisporem-nos	indispor+V.ele.ACC.3.M.PL+INF+3+PL
 indispô-los	indispor+V.ele.ACC.3.M.PL+INF+3+SG
@@ -20177,6 +20312,7 @@ indispúnhei-lo	indispor+V.ele.ACC.3.M.SG+IMPF+2+PL
 indispunha-lo	indispor+V.ele.ACC.3.M.SG+IMPF+2+SG
 indispunham-no	indispor+V.ele.ACC.3.M.SG+IMPF+3+PL
 indispunha-o	indispor+V.ele.ACC.3.M.SG+IMPF+3+SG
+indispô-lo	indispor+V.ele.ACC.3.M.SG+INF
 indispô-lo	indispor+V.ele.ACC.3.M.SG+INF+1+SG
 indispô-lo	indispor+V.ele.ACC.3.M.SG+INF+3+SG
 indispuséramo-lo	indispor+V.ele.ACC.3.M.SG+PQP+1+PL
@@ -20563,6 +20699,7 @@ induzíei-las	induzir+V.ele.ACC.3.F.PL+IMPF+2+PL
 induzia-las	induzir+V.ele.ACC.3.F.PL+IMPF+2+SG
 induziam-nas	induzir+V.ele.ACC.3.F.PL+IMPF+3+PL
 induzia-as	induzir+V.ele.ACC.3.F.PL+IMPF+3+SG
+induzi-las	induzir+V.ele.ACC.3.F.PL+INF
 induzirmo-las	induzir+V.ele.ACC.3.F.PL+INF+1+PL
 induzi-las	induzir+V.ele.ACC.3.F.PL+INF+1+SG
 induzirde-las	induzir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -20609,6 +20746,7 @@ induzíei-la	induzir+V.ele.ACC.3.F.SG+IMPF+2+PL
 induzia-la	induzir+V.ele.ACC.3.F.SG+IMPF+2+SG
 induziam-na	induzir+V.ele.ACC.3.F.SG+IMPF+3+PL
 induzia-a	induzir+V.ele.ACC.3.F.SG+IMPF+3+SG
+induzi-la	induzir+V.ele.ACC.3.F.SG+INF
 induzirmo-la	induzir+V.ele.ACC.3.F.SG+INF+1+PL
 induzi-la	induzir+V.ele.ACC.3.F.SG+INF+1+SG
 induzirde-la	induzir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -20655,6 +20793,7 @@ induzíei-los	induzir+V.ele.ACC.3.M.PL+IMPF+2+PL
 induzia-los	induzir+V.ele.ACC.3.M.PL+IMPF+2+SG
 induziam-nos	induzir+V.ele.ACC.3.M.PL+IMPF+3+PL
 induzia-os	induzir+V.ele.ACC.3.M.PL+IMPF+3+SG
+induzi-los	induzir+V.ele.ACC.3.M.PL+INF
 induzirmo-los	induzir+V.ele.ACC.3.M.PL+INF+1+PL
 induzi-los	induzir+V.ele.ACC.3.M.PL+INF+1+SG
 induzirde-los	induzir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -20701,6 +20840,7 @@ induzíei-lo	induzir+V.ele.ACC.3.M.SG+IMPF+2+PL
 induzia-lo	induzir+V.ele.ACC.3.M.SG+IMPF+2+SG
 induziam-no	induzir+V.ele.ACC.3.M.SG+IMPF+3+PL
 induzia-o	induzir+V.ele.ACC.3.M.SG+IMPF+3+SG
+induzi-lo	induzir+V.ele.ACC.3.M.SG+INF
 induzirmo-lo	induzir+V.ele.ACC.3.M.SG+INF+1+PL
 induzi-lo	induzir+V.ele.ACC.3.M.SG+INF+1+SG
 induzirde-lo	induzir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -21047,6 +21187,7 @@ ineríei-las	inerir+V.ele.ACC.3.F.PL+IMPF+2+PL
 ineria-las	inerir+V.ele.ACC.3.F.PL+IMPF+2+SG
 ineriam-nas	inerir+V.ele.ACC.3.F.PL+IMPF+3+PL
 ineria-as	inerir+V.ele.ACC.3.F.PL+IMPF+3+SG
+ineri-las	inerir+V.ele.ACC.3.F.PL+INF
 inerirmo-las	inerir+V.ele.ACC.3.F.PL+INF+1+PL
 ineri-las	inerir+V.ele.ACC.3.F.PL+INF+1+SG
 inerirde-las	inerir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -21093,6 +21234,7 @@ ineríei-la	inerir+V.ele.ACC.3.F.SG+IMPF+2+PL
 ineria-la	inerir+V.ele.ACC.3.F.SG+IMPF+2+SG
 ineriam-na	inerir+V.ele.ACC.3.F.SG+IMPF+3+PL
 ineria-a	inerir+V.ele.ACC.3.F.SG+IMPF+3+SG
+ineri-la	inerir+V.ele.ACC.3.F.SG+INF
 inerirmo-la	inerir+V.ele.ACC.3.F.SG+INF+1+PL
 ineri-la	inerir+V.ele.ACC.3.F.SG+INF+1+SG
 inerirde-la	inerir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -21139,6 +21281,7 @@ ineríei-los	inerir+V.ele.ACC.3.M.PL+IMPF+2+PL
 ineria-los	inerir+V.ele.ACC.3.M.PL+IMPF+2+SG
 ineriam-nos	inerir+V.ele.ACC.3.M.PL+IMPF+3+PL
 ineria-os	inerir+V.ele.ACC.3.M.PL+IMPF+3+SG
+ineri-los	inerir+V.ele.ACC.3.M.PL+INF
 inerirmo-los	inerir+V.ele.ACC.3.M.PL+INF+1+PL
 ineri-los	inerir+V.ele.ACC.3.M.PL+INF+1+SG
 inerirde-los	inerir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -21185,6 +21328,7 @@ ineríei-lo	inerir+V.ele.ACC.3.M.SG+IMPF+2+PL
 ineria-lo	inerir+V.ele.ACC.3.M.SG+IMPF+2+SG
 ineriam-no	inerir+V.ele.ACC.3.M.SG+IMPF+3+PL
 ineria-o	inerir+V.ele.ACC.3.M.SG+IMPF+3+SG
+ineri-lo	inerir+V.ele.ACC.3.M.SG+INF
 inerirmo-lo	inerir+V.ele.ACC.3.M.SG+INF+1+PL
 ineri-lo	inerir+V.ele.ACC.3.M.SG+INF+1+SG
 inerirde-lo	inerir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -21531,6 +21675,7 @@ inexistíei-las	inexistir+V.ele.ACC.3.F.PL+IMPF+2+PL
 inexistia-las	inexistir+V.ele.ACC.3.F.PL+IMPF+2+SG
 inexistiam-nas	inexistir+V.ele.ACC.3.F.PL+IMPF+3+PL
 inexistia-as	inexistir+V.ele.ACC.3.F.PL+IMPF+3+SG
+inexisti-las	inexistir+V.ele.ACC.3.F.PL+INF
 inexistirmo-las	inexistir+V.ele.ACC.3.F.PL+INF+1+PL
 inexisti-las	inexistir+V.ele.ACC.3.F.PL+INF+1+SG
 inexistirde-las	inexistir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -21571,6 +21716,7 @@ inexistíei-la	inexistir+V.ele.ACC.3.F.SG+IMPF+2+PL
 inexistia-la	inexistir+V.ele.ACC.3.F.SG+IMPF+2+SG
 inexistiam-na	inexistir+V.ele.ACC.3.F.SG+IMPF+3+PL
 inexistia-a	inexistir+V.ele.ACC.3.F.SG+IMPF+3+SG
+inexisti-la	inexistir+V.ele.ACC.3.F.SG+INF
 inexistirmo-la	inexistir+V.ele.ACC.3.F.SG+INF+1+PL
 inexisti-la	inexistir+V.ele.ACC.3.F.SG+INF+1+SG
 inexistirde-la	inexistir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -21611,6 +21757,7 @@ inexistíei-los	inexistir+V.ele.ACC.3.M.PL+IMPF+2+PL
 inexistia-los	inexistir+V.ele.ACC.3.M.PL+IMPF+2+SG
 inexistiam-nos	inexistir+V.ele.ACC.3.M.PL+IMPF+3+PL
 inexistia-os	inexistir+V.ele.ACC.3.M.PL+IMPF+3+SG
+inexisti-los	inexistir+V.ele.ACC.3.M.PL+INF
 inexistirmo-los	inexistir+V.ele.ACC.3.M.PL+INF+1+PL
 inexisti-los	inexistir+V.ele.ACC.3.M.PL+INF+1+SG
 inexistirde-los	inexistir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -21651,6 +21798,7 @@ inexistíei-lo	inexistir+V.ele.ACC.3.M.SG+IMPF+2+PL
 inexistia-lo	inexistir+V.ele.ACC.3.M.SG+IMPF+2+SG
 inexistiam-no	inexistir+V.ele.ACC.3.M.SG+IMPF+3+PL
 inexistia-o	inexistir+V.ele.ACC.3.M.SG+IMPF+3+SG
+inexisti-lo	inexistir+V.ele.ACC.3.M.SG+INF
 inexistirmo-lo	inexistir+V.ele.ACC.3.M.SG+INF+1+PL
 inexisti-lo	inexistir+V.ele.ACC.3.M.SG+INF+1+SG
 inexistirde-lo	inexistir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -21953,6 +22101,7 @@ inferíei-las	inferir+V.ele.ACC.3.F.PL+IMPF+2+PL
 inferia-las	inferir+V.ele.ACC.3.F.PL+IMPF+2+SG
 inferiam-nas	inferir+V.ele.ACC.3.F.PL+IMPF+3+PL
 inferia-as	inferir+V.ele.ACC.3.F.PL+IMPF+3+SG
+inferi-las	inferir+V.ele.ACC.3.F.PL+INF
 inferirmo-las	inferir+V.ele.ACC.3.F.PL+INF+1+PL
 inferi-las	inferir+V.ele.ACC.3.F.PL+INF+1+SG
 inferirde-las	inferir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -21999,6 +22148,7 @@ inferíei-la	inferir+V.ele.ACC.3.F.SG+IMPF+2+PL
 inferia-la	inferir+V.ele.ACC.3.F.SG+IMPF+2+SG
 inferiam-na	inferir+V.ele.ACC.3.F.SG+IMPF+3+PL
 inferia-a	inferir+V.ele.ACC.3.F.SG+IMPF+3+SG
+inferi-la	inferir+V.ele.ACC.3.F.SG+INF
 inferirmo-la	inferir+V.ele.ACC.3.F.SG+INF+1+PL
 inferi-la	inferir+V.ele.ACC.3.F.SG+INF+1+SG
 inferirde-la	inferir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -22045,6 +22195,7 @@ inferíei-los	inferir+V.ele.ACC.3.M.PL+IMPF+2+PL
 inferia-los	inferir+V.ele.ACC.3.M.PL+IMPF+2+SG
 inferiam-nos	inferir+V.ele.ACC.3.M.PL+IMPF+3+PL
 inferia-os	inferir+V.ele.ACC.3.M.PL+IMPF+3+SG
+inferi-los	inferir+V.ele.ACC.3.M.PL+INF
 inferirmo-los	inferir+V.ele.ACC.3.M.PL+INF+1+PL
 inferi-los	inferir+V.ele.ACC.3.M.PL+INF+1+SG
 inferirde-los	inferir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -22091,6 +22242,7 @@ inferíei-lo	inferir+V.ele.ACC.3.M.SG+IMPF+2+PL
 inferia-lo	inferir+V.ele.ACC.3.M.SG+IMPF+2+SG
 inferiam-no	inferir+V.ele.ACC.3.M.SG+IMPF+3+PL
 inferia-o	inferir+V.ele.ACC.3.M.SG+IMPF+3+SG
+inferi-lo	inferir+V.ele.ACC.3.M.SG+INF
 inferirmo-lo	inferir+V.ele.ACC.3.M.SG+INF+1+PL
 inferi-lo	inferir+V.ele.ACC.3.M.SG+INF+1+SG
 inferirde-lo	inferir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -22437,6 +22589,7 @@ infingíei-las	infingir+V.ele.ACC.3.F.PL+IMPF+2+PL
 infingia-las	infingir+V.ele.ACC.3.F.PL+IMPF+2+SG
 infingiam-nas	infingir+V.ele.ACC.3.F.PL+IMPF+3+PL
 infingia-as	infingir+V.ele.ACC.3.F.PL+IMPF+3+SG
+infingi-las	infingir+V.ele.ACC.3.F.PL+INF
 infingirmo-las	infingir+V.ele.ACC.3.F.PL+INF+1+PL
 infingi-las	infingir+V.ele.ACC.3.F.PL+INF+1+SG
 infingirde-las	infingir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -22483,6 +22636,7 @@ infingíei-la	infingir+V.ele.ACC.3.F.SG+IMPF+2+PL
 infingia-la	infingir+V.ele.ACC.3.F.SG+IMPF+2+SG
 infingiam-na	infingir+V.ele.ACC.3.F.SG+IMPF+3+PL
 infingia-a	infingir+V.ele.ACC.3.F.SG+IMPF+3+SG
+infingi-la	infingir+V.ele.ACC.3.F.SG+INF
 infingirmo-la	infingir+V.ele.ACC.3.F.SG+INF+1+PL
 infingi-la	infingir+V.ele.ACC.3.F.SG+INF+1+SG
 infingirde-la	infingir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -22529,6 +22683,7 @@ infingíei-los	infingir+V.ele.ACC.3.M.PL+IMPF+2+PL
 infingia-los	infingir+V.ele.ACC.3.M.PL+IMPF+2+SG
 infingiam-nos	infingir+V.ele.ACC.3.M.PL+IMPF+3+PL
 infingia-os	infingir+V.ele.ACC.3.M.PL+IMPF+3+SG
+infingi-los	infingir+V.ele.ACC.3.M.PL+INF
 infingirmo-los	infingir+V.ele.ACC.3.M.PL+INF+1+PL
 infingi-los	infingir+V.ele.ACC.3.M.PL+INF+1+SG
 infingirde-los	infingir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -22575,6 +22730,7 @@ infingíei-lo	infingir+V.ele.ACC.3.M.SG+IMPF+2+PL
 infingia-lo	infingir+V.ele.ACC.3.M.SG+IMPF+2+SG
 infingiam-no	infingir+V.ele.ACC.3.M.SG+IMPF+3+PL
 infingia-o	infingir+V.ele.ACC.3.M.SG+IMPF+3+SG
+infingi-lo	infingir+V.ele.ACC.3.M.SG+INF
 infingirmo-lo	infingir+V.ele.ACC.3.M.SG+INF+1+PL
 infingi-lo	infingir+V.ele.ACC.3.M.SG+INF+1+SG
 infingirde-lo	infingir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -22921,6 +23077,7 @@ inflectíei-las	inflectir+V.ele.ACC.3.F.PL+IMPF+2+PL
 inflectia-las	inflectir+V.ele.ACC.3.F.PL+IMPF+2+SG
 inflectiam-nas	inflectir+V.ele.ACC.3.F.PL+IMPF+3+PL
 inflectia-as	inflectir+V.ele.ACC.3.F.PL+IMPF+3+SG
+inflecti-las	inflectir+V.ele.ACC.3.F.PL+INF
 inflectirmo-las	inflectir+V.ele.ACC.3.F.PL+INF+1+PL
 inflecti-las	inflectir+V.ele.ACC.3.F.PL+INF+1+SG
 inflectirde-las	inflectir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -22967,6 +23124,7 @@ inflectíei-la	inflectir+V.ele.ACC.3.F.SG+IMPF+2+PL
 inflectia-la	inflectir+V.ele.ACC.3.F.SG+IMPF+2+SG
 inflectiam-na	inflectir+V.ele.ACC.3.F.SG+IMPF+3+PL
 inflectia-a	inflectir+V.ele.ACC.3.F.SG+IMPF+3+SG
+inflecti-la	inflectir+V.ele.ACC.3.F.SG+INF
 inflectirmo-la	inflectir+V.ele.ACC.3.F.SG+INF+1+PL
 inflecti-la	inflectir+V.ele.ACC.3.F.SG+INF+1+SG
 inflectirde-la	inflectir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -23013,6 +23171,7 @@ inflectíei-los	inflectir+V.ele.ACC.3.M.PL+IMPF+2+PL
 inflectia-los	inflectir+V.ele.ACC.3.M.PL+IMPF+2+SG
 inflectiam-nos	inflectir+V.ele.ACC.3.M.PL+IMPF+3+PL
 inflectia-os	inflectir+V.ele.ACC.3.M.PL+IMPF+3+SG
+inflecti-los	inflectir+V.ele.ACC.3.M.PL+INF
 inflectirmo-los	inflectir+V.ele.ACC.3.M.PL+INF+1+PL
 inflecti-los	inflectir+V.ele.ACC.3.M.PL+INF+1+SG
 inflectirde-los	inflectir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -23059,6 +23218,7 @@ inflectíei-lo	inflectir+V.ele.ACC.3.M.SG+IMPF+2+PL
 inflectia-lo	inflectir+V.ele.ACC.3.M.SG+IMPF+2+SG
 inflectiam-no	inflectir+V.ele.ACC.3.M.SG+IMPF+3+PL
 inflectia-o	inflectir+V.ele.ACC.3.M.SG+IMPF+3+SG
+inflecti-lo	inflectir+V.ele.ACC.3.M.SG+INF
 inflectirmo-lo	inflectir+V.ele.ACC.3.M.SG+INF+1+PL
 inflecti-lo	inflectir+V.ele.ACC.3.M.SG+INF+1+SG
 inflectirde-lo	inflectir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -23405,6 +23565,7 @@ infletíei-las	infletir+V.ele.ACC.3.F.PL+IMPF+2+PL
 infletia-las	infletir+V.ele.ACC.3.F.PL+IMPF+2+SG
 infletiam-nas	infletir+V.ele.ACC.3.F.PL+IMPF+3+PL
 infletia-as	infletir+V.ele.ACC.3.F.PL+IMPF+3+SG
+infleti-las	infletir+V.ele.ACC.3.F.PL+INF
 infletirmo-las	infletir+V.ele.ACC.3.F.PL+INF+1+PL
 infleti-las	infletir+V.ele.ACC.3.F.PL+INF+1+SG
 infletirde-las	infletir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -23451,6 +23612,7 @@ infletíei-la	infletir+V.ele.ACC.3.F.SG+IMPF+2+PL
 infletia-la	infletir+V.ele.ACC.3.F.SG+IMPF+2+SG
 infletiam-na	infletir+V.ele.ACC.3.F.SG+IMPF+3+PL
 infletia-a	infletir+V.ele.ACC.3.F.SG+IMPF+3+SG
+infleti-la	infletir+V.ele.ACC.3.F.SG+INF
 infletirmo-la	infletir+V.ele.ACC.3.F.SG+INF+1+PL
 infleti-la	infletir+V.ele.ACC.3.F.SG+INF+1+SG
 infletirde-la	infletir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -23497,6 +23659,7 @@ infletíei-los	infletir+V.ele.ACC.3.M.PL+IMPF+2+PL
 infletia-los	infletir+V.ele.ACC.3.M.PL+IMPF+2+SG
 infletiam-nos	infletir+V.ele.ACC.3.M.PL+IMPF+3+PL
 infletia-os	infletir+V.ele.ACC.3.M.PL+IMPF+3+SG
+infleti-los	infletir+V.ele.ACC.3.M.PL+INF
 infletirmo-los	infletir+V.ele.ACC.3.M.PL+INF+1+PL
 infleti-los	infletir+V.ele.ACC.3.M.PL+INF+1+SG
 infletirde-los	infletir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -23543,6 +23706,7 @@ infletíei-lo	infletir+V.ele.ACC.3.M.SG+IMPF+2+PL
 infletia-lo	infletir+V.ele.ACC.3.M.SG+IMPF+2+SG
 infletiam-no	infletir+V.ele.ACC.3.M.SG+IMPF+3+PL
 infletia-o	infletir+V.ele.ACC.3.M.SG+IMPF+3+SG
+infleti-lo	infletir+V.ele.ACC.3.M.SG+INF
 infletirmo-lo	infletir+V.ele.ACC.3.M.SG+INF+1+PL
 infleti-lo	infletir+V.ele.ACC.3.M.SG+INF+1+SG
 infletirde-lo	infletir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -23889,6 +24053,7 @@ infligíei-las	infligir+V.ele.ACC.3.F.PL+IMPF+2+PL
 infligia-las	infligir+V.ele.ACC.3.F.PL+IMPF+2+SG
 infligiam-nas	infligir+V.ele.ACC.3.F.PL+IMPF+3+PL
 infligia-as	infligir+V.ele.ACC.3.F.PL+IMPF+3+SG
+infligi-las	infligir+V.ele.ACC.3.F.PL+INF
 infligirmo-las	infligir+V.ele.ACC.3.F.PL+INF+1+PL
 infligi-las	infligir+V.ele.ACC.3.F.PL+INF+1+SG
 infligirde-las	infligir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -23935,6 +24100,7 @@ infligíei-la	infligir+V.ele.ACC.3.F.SG+IMPF+2+PL
 infligia-la	infligir+V.ele.ACC.3.F.SG+IMPF+2+SG
 infligiam-na	infligir+V.ele.ACC.3.F.SG+IMPF+3+PL
 infligia-a	infligir+V.ele.ACC.3.F.SG+IMPF+3+SG
+infligi-la	infligir+V.ele.ACC.3.F.SG+INF
 infligirmo-la	infligir+V.ele.ACC.3.F.SG+INF+1+PL
 infligi-la	infligir+V.ele.ACC.3.F.SG+INF+1+SG
 infligirde-la	infligir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -23981,6 +24147,7 @@ infligíei-los	infligir+V.ele.ACC.3.M.PL+IMPF+2+PL
 infligia-los	infligir+V.ele.ACC.3.M.PL+IMPF+2+SG
 infligiam-nos	infligir+V.ele.ACC.3.M.PL+IMPF+3+PL
 infligia-os	infligir+V.ele.ACC.3.M.PL+IMPF+3+SG
+infligi-los	infligir+V.ele.ACC.3.M.PL+INF
 infligirmo-los	infligir+V.ele.ACC.3.M.PL+INF+1+PL
 infligi-los	infligir+V.ele.ACC.3.M.PL+INF+1+SG
 infligirde-los	infligir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -24027,6 +24194,7 @@ infligíei-lo	infligir+V.ele.ACC.3.M.SG+IMPF+2+PL
 infligia-lo	infligir+V.ele.ACC.3.M.SG+IMPF+2+SG
 infligiam-no	infligir+V.ele.ACC.3.M.SG+IMPF+3+PL
 infligia-o	infligir+V.ele.ACC.3.M.SG+IMPF+3+SG
+infligi-lo	infligir+V.ele.ACC.3.M.SG+INF
 infligirmo-lo	infligir+V.ele.ACC.3.M.SG+INF+1+PL
 infligi-lo	infligir+V.ele.ACC.3.M.SG+INF+1+SG
 infligirde-lo	infligir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -24373,6 +24541,7 @@ influíei-las	influir+V.ele.ACC.3.F.PL+IMPF+2+PL
 influía-las	influir+V.ele.ACC.3.F.PL+IMPF+2+SG
 influíam-nas	influir+V.ele.ACC.3.F.PL+IMPF+3+PL
 influía-as	influir+V.ele.ACC.3.F.PL+IMPF+3+SG
+influí-las	influir+V.ele.ACC.3.F.PL+INF
 influirmo-las	influir+V.ele.ACC.3.F.PL+INF+1+PL
 influí-las	influir+V.ele.ACC.3.F.PL+INF+1+SG
 influirde-las	influir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -24425,6 +24594,7 @@ influíei-la	influir+V.ele.ACC.3.F.SG+IMPF+2+PL
 influía-la	influir+V.ele.ACC.3.F.SG+IMPF+2+SG
 influíam-na	influir+V.ele.ACC.3.F.SG+IMPF+3+PL
 influía-a	influir+V.ele.ACC.3.F.SG+IMPF+3+SG
+influí-la	influir+V.ele.ACC.3.F.SG+INF
 influirmo-la	influir+V.ele.ACC.3.F.SG+INF+1+PL
 influí-la	influir+V.ele.ACC.3.F.SG+INF+1+SG
 influirde-la	influir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -24478,6 +24648,7 @@ influía-los	influir+V.ele.ACC.3.M.PL+IMPF+2+SG
 influía-os	influir+V.ele.ACC.3.M.PL+IMPF+3+SG
 influir-nos	influir+V.ele.ACC.3.M.PL+INF
 influir-vos	influir+V.ele.ACC.3.M.PL+INF
+influí-los	influir+V.ele.ACC.3.M.PL+INF
 influirmo-los	influir+V.ele.ACC.3.M.PL+INF+1+PL
 influí-los	influir+V.ele.ACC.3.M.PL+INF+1+SG
 influirde-los	influir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -24526,6 +24697,7 @@ influíei-lo	influir+V.ele.ACC.3.M.SG+IMPF+2+PL
 influía-lo	influir+V.ele.ACC.3.M.SG+IMPF+2+SG
 influíam-no	influir+V.ele.ACC.3.M.SG+IMPF+3+PL
 influía-o	influir+V.ele.ACC.3.M.SG+IMPF+3+SG
+influí-lo	influir+V.ele.ACC.3.M.SG+INF
 influirmo-lo	influir+V.ele.ACC.3.M.SG+INF+1+PL
 influí-lo	influir+V.ele.ACC.3.M.SG+INF+1+SG
 influirde-lo	influir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -24906,6 +25078,7 @@ infringíei-las	infringir+V.ele.ACC.3.F.PL+IMPF+2+PL
 infringia-las	infringir+V.ele.ACC.3.F.PL+IMPF+2+SG
 infringiam-nas	infringir+V.ele.ACC.3.F.PL+IMPF+3+PL
 infringia-as	infringir+V.ele.ACC.3.F.PL+IMPF+3+SG
+infringi-las	infringir+V.ele.ACC.3.F.PL+INF
 infringirmo-las	infringir+V.ele.ACC.3.F.PL+INF+1+PL
 infringi-las	infringir+V.ele.ACC.3.F.PL+INF+1+SG
 infringirde-las	infringir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -24952,6 +25125,7 @@ infringíei-la	infringir+V.ele.ACC.3.F.SG+IMPF+2+PL
 infringia-la	infringir+V.ele.ACC.3.F.SG+IMPF+2+SG
 infringiam-na	infringir+V.ele.ACC.3.F.SG+IMPF+3+PL
 infringia-a	infringir+V.ele.ACC.3.F.SG+IMPF+3+SG
+infringi-la	infringir+V.ele.ACC.3.F.SG+INF
 infringirmo-la	infringir+V.ele.ACC.3.F.SG+INF+1+PL
 infringi-la	infringir+V.ele.ACC.3.F.SG+INF+1+SG
 infringirde-la	infringir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -24998,6 +25172,7 @@ infringíei-los	infringir+V.ele.ACC.3.M.PL+IMPF+2+PL
 infringia-los	infringir+V.ele.ACC.3.M.PL+IMPF+2+SG
 infringiam-nos	infringir+V.ele.ACC.3.M.PL+IMPF+3+PL
 infringia-os	infringir+V.ele.ACC.3.M.PL+IMPF+3+SG
+infringi-los	infringir+V.ele.ACC.3.M.PL+INF
 infringirmo-los	infringir+V.ele.ACC.3.M.PL+INF+1+PL
 infringi-los	infringir+V.ele.ACC.3.M.PL+INF+1+SG
 infringirde-los	infringir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -25044,6 +25219,7 @@ infringíei-lo	infringir+V.ele.ACC.3.M.SG+IMPF+2+PL
 infringia-lo	infringir+V.ele.ACC.3.M.SG+IMPF+2+SG
 infringiam-no	infringir+V.ele.ACC.3.M.SG+IMPF+3+PL
 infringia-o	infringir+V.ele.ACC.3.M.SG+IMPF+3+SG
+infringi-lo	infringir+V.ele.ACC.3.M.SG+INF
 infringirmo-lo	infringir+V.ele.ACC.3.M.SG+INF+1+PL
 infringi-lo	infringir+V.ele.ACC.3.M.SG+INF+1+SG
 infringirde-lo	infringir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -25390,6 +25566,7 @@ infundíei-las	infundir+V.ele.ACC.3.F.PL+IMPF+2+PL
 infundia-las	infundir+V.ele.ACC.3.F.PL+IMPF+2+SG
 infundiam-nas	infundir+V.ele.ACC.3.F.PL+IMPF+3+PL
 infundia-as	infundir+V.ele.ACC.3.F.PL+IMPF+3+SG
+infundi-las	infundir+V.ele.ACC.3.F.PL+INF
 infundirmo-las	infundir+V.ele.ACC.3.F.PL+INF+1+PL
 infundi-las	infundir+V.ele.ACC.3.F.PL+INF+1+SG
 infundirde-las	infundir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -25430,6 +25607,7 @@ infundíei-la	infundir+V.ele.ACC.3.F.SG+IMPF+2+PL
 infundia-la	infundir+V.ele.ACC.3.F.SG+IMPF+2+SG
 infundiam-na	infundir+V.ele.ACC.3.F.SG+IMPF+3+PL
 infundia-a	infundir+V.ele.ACC.3.F.SG+IMPF+3+SG
+infundi-la	infundir+V.ele.ACC.3.F.SG+INF
 infundirmo-la	infundir+V.ele.ACC.3.F.SG+INF+1+PL
 infundi-la	infundir+V.ele.ACC.3.F.SG+INF+1+SG
 infundirde-la	infundir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -25470,6 +25648,7 @@ infundíei-los	infundir+V.ele.ACC.3.M.PL+IMPF+2+PL
 infundia-los	infundir+V.ele.ACC.3.M.PL+IMPF+2+SG
 infundiam-nos	infundir+V.ele.ACC.3.M.PL+IMPF+3+PL
 infundia-os	infundir+V.ele.ACC.3.M.PL+IMPF+3+SG
+infundi-los	infundir+V.ele.ACC.3.M.PL+INF
 infundirmo-los	infundir+V.ele.ACC.3.M.PL+INF+1+PL
 infundi-los	infundir+V.ele.ACC.3.M.PL+INF+1+SG
 infundirde-los	infundir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -25510,6 +25689,7 @@ infundíei-lo	infundir+V.ele.ACC.3.M.SG+IMPF+2+PL
 infundia-lo	infundir+V.ele.ACC.3.M.SG+IMPF+2+SG
 infundiam-no	infundir+V.ele.ACC.3.M.SG+IMPF+3+PL
 infundia-o	infundir+V.ele.ACC.3.M.SG+IMPF+3+SG
+infundi-lo	infundir+V.ele.ACC.3.M.SG+INF
 infundirmo-lo	infundir+V.ele.ACC.3.M.SG+INF+1+PL
 infundi-lo	infundir+V.ele.ACC.3.M.SG+INF+1+SG
 infundirde-lo	infundir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -25812,6 +25992,7 @@ infurnicávei-las	infurnicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 infurnicava-las	infurnicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 infurnicavam-nas	infurnicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 infurnicava-as	infurnicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+infurnicá-las	infurnicar+V.ele.ACC.3.F.PL+INF
 infurnicarmo-las	infurnicar+V.ele.ACC.3.F.PL+INF+1+PL
 infurnicá-las	infurnicar+V.ele.ACC.3.F.PL+INF+1+SG
 infurnicarde-las	infurnicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -25863,6 +26044,7 @@ infurnicávei-la	infurnicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 infurnicava-la	infurnicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 infurnicavam-na	infurnicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 infurnicava-a	infurnicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+infurnicá-la	infurnicar+V.ele.ACC.3.F.SG+INF
 infurnicarmo-la	infurnicar+V.ele.ACC.3.F.SG+INF+1+PL
 infurnicá-la	infurnicar+V.ele.ACC.3.F.SG+INF+1+SG
 infurnicarde-la	infurnicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -25914,6 +26096,7 @@ infurnicávei-los	infurnicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 infurnicava-los	infurnicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 infurnicavam-nos	infurnicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 infurnicava-os	infurnicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+infurnicá-los	infurnicar+V.ele.ACC.3.M.PL+INF
 infurnicarmo-los	infurnicar+V.ele.ACC.3.M.PL+INF+1+PL
 infurnicá-los	infurnicar+V.ele.ACC.3.M.PL+INF+1+SG
 infurnicarde-los	infurnicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -25965,6 +26148,7 @@ infurnicávei-lo	infurnicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 infurnicava-lo	infurnicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 infurnicavam-no	infurnicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 infurnicava-o	infurnicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+infurnicá-lo	infurnicar+V.ele.ACC.3.M.SG+INF
 infurnicarmo-lo	infurnicar+V.ele.ACC.3.M.SG+INF+1+PL
 infurnicá-lo	infurnicar+V.ele.ACC.3.M.SG+INF+1+SG
 infurnicarde-lo	infurnicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -26348,6 +26532,7 @@ ingeríei-las	ingerir+V.ele.ACC.3.F.PL+IMPF+2+PL
 ingeria-las	ingerir+V.ele.ACC.3.F.PL+IMPF+2+SG
 ingeriam-nas	ingerir+V.ele.ACC.3.F.PL+IMPF+3+PL
 ingeria-as	ingerir+V.ele.ACC.3.F.PL+IMPF+3+SG
+ingeri-las	ingerir+V.ele.ACC.3.F.PL+INF
 ingerirmo-las	ingerir+V.ele.ACC.3.F.PL+INF+1+PL
 ingeri-las	ingerir+V.ele.ACC.3.F.PL+INF+1+SG
 ingerirde-las	ingerir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -26394,6 +26579,7 @@ ingeríei-la	ingerir+V.ele.ACC.3.F.SG+IMPF+2+PL
 ingeria-la	ingerir+V.ele.ACC.3.F.SG+IMPF+2+SG
 ingeriam-na	ingerir+V.ele.ACC.3.F.SG+IMPF+3+PL
 ingeria-a	ingerir+V.ele.ACC.3.F.SG+IMPF+3+SG
+ingeri-la	ingerir+V.ele.ACC.3.F.SG+INF
 ingerirmo-la	ingerir+V.ele.ACC.3.F.SG+INF+1+PL
 ingeri-la	ingerir+V.ele.ACC.3.F.SG+INF+1+SG
 ingerirde-la	ingerir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -26440,6 +26626,7 @@ ingeríei-los	ingerir+V.ele.ACC.3.M.PL+IMPF+2+PL
 ingeria-los	ingerir+V.ele.ACC.3.M.PL+IMPF+2+SG
 ingeriam-nos	ingerir+V.ele.ACC.3.M.PL+IMPF+3+PL
 ingeria-os	ingerir+V.ele.ACC.3.M.PL+IMPF+3+SG
+ingeri-los	ingerir+V.ele.ACC.3.M.PL+INF
 ingerirmo-los	ingerir+V.ele.ACC.3.M.PL+INF+1+PL
 ingeri-los	ingerir+V.ele.ACC.3.M.PL+INF+1+SG
 ingerirde-los	ingerir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -26486,6 +26673,7 @@ ingeríei-lo	ingerir+V.ele.ACC.3.M.SG+IMPF+2+PL
 ingeria-lo	ingerir+V.ele.ACC.3.M.SG+IMPF+2+SG
 ingeriam-no	ingerir+V.ele.ACC.3.M.SG+IMPF+3+PL
 ingeria-o	ingerir+V.ele.ACC.3.M.SG+IMPF+3+SG
+ingeri-lo	ingerir+V.ele.ACC.3.M.SG+INF
 ingerirmo-lo	ingerir+V.ele.ACC.3.M.SG+INF+1+PL
 ingeri-lo	ingerir+V.ele.ACC.3.M.SG+INF+1+SG
 ingerirde-lo	ingerir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -26832,6 +27020,7 @@ ingredíei-las	ingredir+V.ele.ACC.3.F.PL+IMPF+2+PL
 ingredia-las	ingredir+V.ele.ACC.3.F.PL+IMPF+2+SG
 ingrediam-nas	ingredir+V.ele.ACC.3.F.PL+IMPF+3+PL
 ingredia-as	ingredir+V.ele.ACC.3.F.PL+IMPF+3+SG
+ingredi-las	ingredir+V.ele.ACC.3.F.PL+INF
 ingredirmo-las	ingredir+V.ele.ACC.3.F.PL+INF+1+PL
 ingredi-las	ingredir+V.ele.ACC.3.F.PL+INF+1+SG
 ingredirde-las	ingredir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -26878,6 +27067,7 @@ ingredíei-la	ingredir+V.ele.ACC.3.F.SG+IMPF+2+PL
 ingredia-la	ingredir+V.ele.ACC.3.F.SG+IMPF+2+SG
 ingrediam-na	ingredir+V.ele.ACC.3.F.SG+IMPF+3+PL
 ingredia-a	ingredir+V.ele.ACC.3.F.SG+IMPF+3+SG
+ingredi-la	ingredir+V.ele.ACC.3.F.SG+INF
 ingredirmo-la	ingredir+V.ele.ACC.3.F.SG+INF+1+PL
 ingredi-la	ingredir+V.ele.ACC.3.F.SG+INF+1+SG
 ingredirde-la	ingredir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -26924,6 +27114,7 @@ ingredíei-los	ingredir+V.ele.ACC.3.M.PL+IMPF+2+PL
 ingredia-los	ingredir+V.ele.ACC.3.M.PL+IMPF+2+SG
 ingrediam-nos	ingredir+V.ele.ACC.3.M.PL+IMPF+3+PL
 ingredia-os	ingredir+V.ele.ACC.3.M.PL+IMPF+3+SG
+ingredi-los	ingredir+V.ele.ACC.3.M.PL+INF
 ingredirmo-los	ingredir+V.ele.ACC.3.M.PL+INF+1+PL
 ingredi-los	ingredir+V.ele.ACC.3.M.PL+INF+1+SG
 ingredirde-los	ingredir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -26970,6 +27161,7 @@ ingredíei-lo	ingredir+V.ele.ACC.3.M.SG+IMPF+2+PL
 ingredia-lo	ingredir+V.ele.ACC.3.M.SG+IMPF+2+SG
 ingrediam-no	ingredir+V.ele.ACC.3.M.SG+IMPF+3+PL
 ingredia-o	ingredir+V.ele.ACC.3.M.SG+IMPF+3+SG
+ingredi-lo	ingredir+V.ele.ACC.3.M.SG+INF
 ingredirmo-lo	ingredir+V.ele.ACC.3.M.SG+INF+1+PL
 ingredi-lo	ingredir+V.ele.ACC.3.M.SG+INF+1+SG
 ingredirde-lo	ingredir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -27316,6 +27508,7 @@ inibíei-las	inibir+V.ele.ACC.3.F.PL+IMPF+2+PL
 inibia-las	inibir+V.ele.ACC.3.F.PL+IMPF+2+SG
 inibiam-nas	inibir+V.ele.ACC.3.F.PL+IMPF+3+PL
 inibia-as	inibir+V.ele.ACC.3.F.PL+IMPF+3+SG
+inibi-las	inibir+V.ele.ACC.3.F.PL+INF
 inibirmo-las	inibir+V.ele.ACC.3.F.PL+INF+1+PL
 inibi-las	inibir+V.ele.ACC.3.F.PL+INF+1+SG
 inibirde-las	inibir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -27356,6 +27549,7 @@ inibíei-la	inibir+V.ele.ACC.3.F.SG+IMPF+2+PL
 inibia-la	inibir+V.ele.ACC.3.F.SG+IMPF+2+SG
 inibiam-na	inibir+V.ele.ACC.3.F.SG+IMPF+3+PL
 inibia-a	inibir+V.ele.ACC.3.F.SG+IMPF+3+SG
+inibi-la	inibir+V.ele.ACC.3.F.SG+INF
 inibirmo-la	inibir+V.ele.ACC.3.F.SG+INF+1+PL
 inibi-la	inibir+V.ele.ACC.3.F.SG+INF+1+SG
 inibirde-la	inibir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -27396,6 +27590,7 @@ inibíei-los	inibir+V.ele.ACC.3.M.PL+IMPF+2+PL
 inibia-los	inibir+V.ele.ACC.3.M.PL+IMPF+2+SG
 inibiam-nos	inibir+V.ele.ACC.3.M.PL+IMPF+3+PL
 inibia-os	inibir+V.ele.ACC.3.M.PL+IMPF+3+SG
+inibi-los	inibir+V.ele.ACC.3.M.PL+INF
 inibirmo-los	inibir+V.ele.ACC.3.M.PL+INF+1+PL
 inibi-los	inibir+V.ele.ACC.3.M.PL+INF+1+SG
 inibirde-los	inibir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -27436,6 +27631,7 @@ inibíei-lo	inibir+V.ele.ACC.3.M.SG+IMPF+2+PL
 inibia-lo	inibir+V.ele.ACC.3.M.SG+IMPF+2+SG
 inibiam-no	inibir+V.ele.ACC.3.M.SG+IMPF+3+PL
 inibia-o	inibir+V.ele.ACC.3.M.SG+IMPF+3+SG
+inibi-lo	inibir+V.ele.ACC.3.M.SG+INF
 inibirmo-lo	inibir+V.ele.ACC.3.M.SG+INF+1+PL
 inibi-lo	inibir+V.ele.ACC.3.M.SG+INF+1+SG
 inibirde-lo	inibir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -27738,6 +27934,7 @@ injungíei-las	injungir+V.ele.ACC.3.F.PL+IMPF+2+PL
 injungia-las	injungir+V.ele.ACC.3.F.PL+IMPF+2+SG
 injungiam-nas	injungir+V.ele.ACC.3.F.PL+IMPF+3+PL
 injungia-as	injungir+V.ele.ACC.3.F.PL+IMPF+3+SG
+injungi-las	injungir+V.ele.ACC.3.F.PL+INF
 injungirmo-las	injungir+V.ele.ACC.3.F.PL+INF+1+PL
 injungi-las	injungir+V.ele.ACC.3.F.PL+INF+1+SG
 injungirde-las	injungir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -27784,6 +27981,7 @@ injungíei-la	injungir+V.ele.ACC.3.F.SG+IMPF+2+PL
 injungia-la	injungir+V.ele.ACC.3.F.SG+IMPF+2+SG
 injungiam-na	injungir+V.ele.ACC.3.F.SG+IMPF+3+PL
 injungia-a	injungir+V.ele.ACC.3.F.SG+IMPF+3+SG
+injungi-la	injungir+V.ele.ACC.3.F.SG+INF
 injungirmo-la	injungir+V.ele.ACC.3.F.SG+INF+1+PL
 injungi-la	injungir+V.ele.ACC.3.F.SG+INF+1+SG
 injungirde-la	injungir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -27830,6 +28028,7 @@ injungíei-los	injungir+V.ele.ACC.3.M.PL+IMPF+2+PL
 injungia-los	injungir+V.ele.ACC.3.M.PL+IMPF+2+SG
 injungiam-nos	injungir+V.ele.ACC.3.M.PL+IMPF+3+PL
 injungia-os	injungir+V.ele.ACC.3.M.PL+IMPF+3+SG
+injungi-los	injungir+V.ele.ACC.3.M.PL+INF
 injungirmo-los	injungir+V.ele.ACC.3.M.PL+INF+1+PL
 injungi-los	injungir+V.ele.ACC.3.M.PL+INF+1+SG
 injungirde-los	injungir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -27876,6 +28075,7 @@ injungíei-lo	injungir+V.ele.ACC.3.M.SG+IMPF+2+PL
 injungia-lo	injungir+V.ele.ACC.3.M.SG+IMPF+2+SG
 injungiam-no	injungir+V.ele.ACC.3.M.SG+IMPF+3+PL
 injungia-o	injungir+V.ele.ACC.3.M.SG+IMPF+3+SG
+injungi-lo	injungir+V.ele.ACC.3.M.SG+INF
 injungirmo-lo	injungir+V.ele.ACC.3.M.SG+INF+1+PL
 injungi-lo	injungir+V.ele.ACC.3.M.SG+INF+1+SG
 injungirde-lo	injungir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -28222,6 +28422,7 @@ inqueríei-las	inquerir+V.ele.ACC.3.F.PL+IMPF+2+PL
 inqueria-las	inquerir+V.ele.ACC.3.F.PL+IMPF+2+SG
 inqueriam-nas	inquerir+V.ele.ACC.3.F.PL+IMPF+3+PL
 inqueria-as	inquerir+V.ele.ACC.3.F.PL+IMPF+3+SG
+inqueri-las	inquerir+V.ele.ACC.3.F.PL+INF
 inquerirmo-las	inquerir+V.ele.ACC.3.F.PL+INF+1+PL
 inqueri-las	inquerir+V.ele.ACC.3.F.PL+INF+1+SG
 inquerirde-las	inquerir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -28268,6 +28469,7 @@ inqueríei-la	inquerir+V.ele.ACC.3.F.SG+IMPF+2+PL
 inqueria-la	inquerir+V.ele.ACC.3.F.SG+IMPF+2+SG
 inqueriam-na	inquerir+V.ele.ACC.3.F.SG+IMPF+3+PL
 inqueria-a	inquerir+V.ele.ACC.3.F.SG+IMPF+3+SG
+inqueri-la	inquerir+V.ele.ACC.3.F.SG+INF
 inquerirmo-la	inquerir+V.ele.ACC.3.F.SG+INF+1+PL
 inqueri-la	inquerir+V.ele.ACC.3.F.SG+INF+1+SG
 inquerirde-la	inquerir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -28314,6 +28516,7 @@ inqueríei-los	inquerir+V.ele.ACC.3.M.PL+IMPF+2+PL
 inqueria-los	inquerir+V.ele.ACC.3.M.PL+IMPF+2+SG
 inqueriam-nos	inquerir+V.ele.ACC.3.M.PL+IMPF+3+PL
 inqueria-os	inquerir+V.ele.ACC.3.M.PL+IMPF+3+SG
+inqueri-los	inquerir+V.ele.ACC.3.M.PL+INF
 inquerirmo-los	inquerir+V.ele.ACC.3.M.PL+INF+1+PL
 inqueri-los	inquerir+V.ele.ACC.3.M.PL+INF+1+SG
 inquerirde-los	inquerir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -28360,6 +28563,7 @@ inqueríei-lo	inquerir+V.ele.ACC.3.M.SG+IMPF+2+PL
 inqueria-lo	inquerir+V.ele.ACC.3.M.SG+IMPF+2+SG
 inqueriam-no	inquerir+V.ele.ACC.3.M.SG+IMPF+3+PL
 inqueria-o	inquerir+V.ele.ACC.3.M.SG+IMPF+3+SG
+inqueri-lo	inquerir+V.ele.ACC.3.M.SG+INF
 inquerirmo-lo	inquerir+V.ele.ACC.3.M.SG+INF+1+PL
 inqueri-lo	inquerir+V.ele.ACC.3.M.SG+INF+1+SG
 inquerirde-lo	inquerir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -28706,6 +28910,7 @@ inquiríei-las	inquirir+V.ele.ACC.3.F.PL+IMPF+2+PL
 inquiria-las	inquirir+V.ele.ACC.3.F.PL+IMPF+2+SG
 inquiriam-nas	inquirir+V.ele.ACC.3.F.PL+IMPF+3+PL
 inquiria-as	inquirir+V.ele.ACC.3.F.PL+IMPF+3+SG
+inquiri-las	inquirir+V.ele.ACC.3.F.PL+INF
 inquirirmo-las	inquirir+V.ele.ACC.3.F.PL+INF+1+PL
 inquiri-las	inquirir+V.ele.ACC.3.F.PL+INF+1+SG
 inquirirde-las	inquirir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -28746,6 +28951,7 @@ inquiríei-la	inquirir+V.ele.ACC.3.F.SG+IMPF+2+PL
 inquiria-la	inquirir+V.ele.ACC.3.F.SG+IMPF+2+SG
 inquiriam-na	inquirir+V.ele.ACC.3.F.SG+IMPF+3+PL
 inquiria-a	inquirir+V.ele.ACC.3.F.SG+IMPF+3+SG
+inquiri-la	inquirir+V.ele.ACC.3.F.SG+INF
 inquirirmo-la	inquirir+V.ele.ACC.3.F.SG+INF+1+PL
 inquiri-la	inquirir+V.ele.ACC.3.F.SG+INF+1+SG
 inquirirde-la	inquirir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -28786,6 +28992,7 @@ inquiríei-los	inquirir+V.ele.ACC.3.M.PL+IMPF+2+PL
 inquiria-los	inquirir+V.ele.ACC.3.M.PL+IMPF+2+SG
 inquiriam-nos	inquirir+V.ele.ACC.3.M.PL+IMPF+3+PL
 inquiria-os	inquirir+V.ele.ACC.3.M.PL+IMPF+3+SG
+inquiri-los	inquirir+V.ele.ACC.3.M.PL+INF
 inquirirmo-los	inquirir+V.ele.ACC.3.M.PL+INF+1+PL
 inquiri-los	inquirir+V.ele.ACC.3.M.PL+INF+1+SG
 inquirirde-los	inquirir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -28826,6 +29033,7 @@ inquiríei-lo	inquirir+V.ele.ACC.3.M.SG+IMPF+2+PL
 inquiria-lo	inquirir+V.ele.ACC.3.M.SG+IMPF+2+SG
 inquiriam-no	inquirir+V.ele.ACC.3.M.SG+IMPF+3+PL
 inquiria-o	inquirir+V.ele.ACC.3.M.SG+IMPF+3+SG
+inquiri-lo	inquirir+V.ele.ACC.3.M.SG+INF
 inquirirmo-lo	inquirir+V.ele.ACC.3.M.SG+INF+1+PL
 inquiri-lo	inquirir+V.ele.ACC.3.M.SG+INF+1+SG
 inquirirde-lo	inquirir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -29106,10 +29314,6 @@ inquirirdes-vos	inquirir+V.vós.AD.2.PL+SBJF+2+PL
 inquirires-vos	inquirir+V.vós.AD.2.PL+SBJF+2+SG
 inquirirem-vos	inquirir+V.vós.AD.2.PL+SBJF+3+PL
 inquirir-vos	inquirir+V.vós.AD.2.PL+SBJF+3+SG
-inscrevê-las	inscrever+V.ele.ACC.3.F.PL+INF
-inscrevê-la	inscrever+V.ele.ACC.3.F.SG+INF
-inscrevê-los	inscrever+V.ele.ACC.3.M.PL+INF
-inscrevê-lo	inscrever+V.ele.ACC.3.M.SG+INF
 insculpi-las-íamos	insculpir+V.ele.ACC.3.F.PL+COND+1+PL
 insculpi-las-ia	insculpir+V.ele.ACC.3.F.PL+COND+1+SG
 insculpi-las-íeis	insculpir+V.ele.ACC.3.F.PL+COND+2+PL
@@ -29132,6 +29336,7 @@ insculpíei-las	insculpir+V.ele.ACC.3.F.PL+IMPF+2+PL
 insculpia-las	insculpir+V.ele.ACC.3.F.PL+IMPF+2+SG
 insculpiam-nas	insculpir+V.ele.ACC.3.F.PL+IMPF+3+PL
 insculpia-as	insculpir+V.ele.ACC.3.F.PL+IMPF+3+SG
+insculpi-las	insculpir+V.ele.ACC.3.F.PL+INF
 insculpirmo-las	insculpir+V.ele.ACC.3.F.PL+INF+1+PL
 insculpi-las	insculpir+V.ele.ACC.3.F.PL+INF+1+SG
 insculpirde-las	insculpir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -29172,6 +29377,7 @@ insculpíei-la	insculpir+V.ele.ACC.3.F.SG+IMPF+2+PL
 insculpia-la	insculpir+V.ele.ACC.3.F.SG+IMPF+2+SG
 insculpiam-na	insculpir+V.ele.ACC.3.F.SG+IMPF+3+PL
 insculpia-a	insculpir+V.ele.ACC.3.F.SG+IMPF+3+SG
+insculpi-la	insculpir+V.ele.ACC.3.F.SG+INF
 insculpirmo-la	insculpir+V.ele.ACC.3.F.SG+INF+1+PL
 insculpi-la	insculpir+V.ele.ACC.3.F.SG+INF+1+SG
 insculpirde-la	insculpir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -29212,6 +29418,7 @@ insculpíei-los	insculpir+V.ele.ACC.3.M.PL+IMPF+2+PL
 insculpia-los	insculpir+V.ele.ACC.3.M.PL+IMPF+2+SG
 insculpiam-nos	insculpir+V.ele.ACC.3.M.PL+IMPF+3+PL
 insculpia-os	insculpir+V.ele.ACC.3.M.PL+IMPF+3+SG
+insculpi-los	insculpir+V.ele.ACC.3.M.PL+INF
 insculpirmo-los	insculpir+V.ele.ACC.3.M.PL+INF+1+PL
 insculpi-los	insculpir+V.ele.ACC.3.M.PL+INF+1+SG
 insculpirde-los	insculpir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -29252,6 +29459,7 @@ insculpíei-lo	insculpir+V.ele.ACC.3.M.SG+IMPF+2+PL
 insculpia-lo	insculpir+V.ele.ACC.3.M.SG+IMPF+2+SG
 insculpiam-no	insculpir+V.ele.ACC.3.M.SG+IMPF+3+PL
 insculpia-o	insculpir+V.ele.ACC.3.M.SG+IMPF+3+SG
+insculpi-lo	insculpir+V.ele.ACC.3.M.SG+INF
 insculpirmo-lo	insculpir+V.ele.ACC.3.M.SG+INF+1+PL
 insculpi-lo	insculpir+V.ele.ACC.3.M.SG+INF+1+SG
 insculpirde-lo	insculpir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -29554,6 +29762,7 @@ inseríei-las	inserir+V.ele.ACC.3.F.PL+IMPF+2+PL
 inseria-las	inserir+V.ele.ACC.3.F.PL+IMPF+2+SG
 inseriam-nas	inserir+V.ele.ACC.3.F.PL+IMPF+3+PL
 inseria-as	inserir+V.ele.ACC.3.F.PL+IMPF+3+SG
+inseri-las	inserir+V.ele.ACC.3.F.PL+INF
 inserirmo-las	inserir+V.ele.ACC.3.F.PL+INF+1+PL
 inseri-las	inserir+V.ele.ACC.3.F.PL+INF+1+SG
 inserirde-las	inserir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -29600,6 +29809,7 @@ inseríei-la	inserir+V.ele.ACC.3.F.SG+IMPF+2+PL
 inseria-la	inserir+V.ele.ACC.3.F.SG+IMPF+2+SG
 inseriam-na	inserir+V.ele.ACC.3.F.SG+IMPF+3+PL
 inseria-a	inserir+V.ele.ACC.3.F.SG+IMPF+3+SG
+inseri-la	inserir+V.ele.ACC.3.F.SG+INF
 inserirmo-la	inserir+V.ele.ACC.3.F.SG+INF+1+PL
 inseri-la	inserir+V.ele.ACC.3.F.SG+INF+1+SG
 inserirde-la	inserir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -29646,6 +29856,7 @@ inseríei-los	inserir+V.ele.ACC.3.M.PL+IMPF+2+PL
 inseria-los	inserir+V.ele.ACC.3.M.PL+IMPF+2+SG
 inseriam-nos	inserir+V.ele.ACC.3.M.PL+IMPF+3+PL
 inseria-os	inserir+V.ele.ACC.3.M.PL+IMPF+3+SG
+inseri-los	inserir+V.ele.ACC.3.M.PL+INF
 inserirmo-los	inserir+V.ele.ACC.3.M.PL+INF+1+PL
 inseri-los	inserir+V.ele.ACC.3.M.PL+INF+1+SG
 inserirde-los	inserir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -29692,6 +29903,7 @@ inseríei-lo	inserir+V.ele.ACC.3.M.SG+IMPF+2+PL
 inseria-lo	inserir+V.ele.ACC.3.M.SG+IMPF+2+SG
 inseriam-no	inserir+V.ele.ACC.3.M.SG+IMPF+3+PL
 inseria-o	inserir+V.ele.ACC.3.M.SG+IMPF+3+SG
+inseri-lo	inserir+V.ele.ACC.3.M.SG+INF
 inserirmo-lo	inserir+V.ele.ACC.3.M.SG+INF+1+PL
 inseri-lo	inserir+V.ele.ACC.3.M.SG+INF+1+SG
 inserirde-lo	inserir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -30038,6 +30250,7 @@ insistíei-las	insistir+V.ele.ACC.3.F.PL+IMPF+2+PL
 insistia-las	insistir+V.ele.ACC.3.F.PL+IMPF+2+SG
 insistiam-nas	insistir+V.ele.ACC.3.F.PL+IMPF+3+PL
 insistia-as	insistir+V.ele.ACC.3.F.PL+IMPF+3+SG
+insisti-las	insistir+V.ele.ACC.3.F.PL+INF
 insistirmo-las	insistir+V.ele.ACC.3.F.PL+INF+1+PL
 insisti-las	insistir+V.ele.ACC.3.F.PL+INF+1+SG
 insistirde-las	insistir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -30078,6 +30291,7 @@ insistíei-la	insistir+V.ele.ACC.3.F.SG+IMPF+2+PL
 insistia-la	insistir+V.ele.ACC.3.F.SG+IMPF+2+SG
 insistiam-na	insistir+V.ele.ACC.3.F.SG+IMPF+3+PL
 insistia-a	insistir+V.ele.ACC.3.F.SG+IMPF+3+SG
+insisti-la	insistir+V.ele.ACC.3.F.SG+INF
 insistirmo-la	insistir+V.ele.ACC.3.F.SG+INF+1+PL
 insisti-la	insistir+V.ele.ACC.3.F.SG+INF+1+SG
 insistirde-la	insistir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -30118,6 +30332,7 @@ insistíei-los	insistir+V.ele.ACC.3.M.PL+IMPF+2+PL
 insistia-los	insistir+V.ele.ACC.3.M.PL+IMPF+2+SG
 insistiam-nos	insistir+V.ele.ACC.3.M.PL+IMPF+3+PL
 insistia-os	insistir+V.ele.ACC.3.M.PL+IMPF+3+SG
+insisti-los	insistir+V.ele.ACC.3.M.PL+INF
 insistirmo-los	insistir+V.ele.ACC.3.M.PL+INF+1+PL
 insisti-los	insistir+V.ele.ACC.3.M.PL+INF+1+SG
 insistirde-los	insistir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -30158,6 +30373,7 @@ insistíei-lo	insistir+V.ele.ACC.3.M.SG+IMPF+2+PL
 insistia-lo	insistir+V.ele.ACC.3.M.SG+IMPF+2+SG
 insistiam-no	insistir+V.ele.ACC.3.M.SG+IMPF+3+PL
 insistia-o	insistir+V.ele.ACC.3.M.SG+IMPF+3+SG
+insisti-lo	insistir+V.ele.ACC.3.M.SG+INF
 insistirmo-lo	insistir+V.ele.ACC.3.M.SG+INF+1+PL
 insisti-lo	insistir+V.ele.ACC.3.M.SG+INF+1+SG
 insistirde-lo	insistir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -30460,6 +30676,7 @@ instituíei-las	instituir+V.ele.ACC.3.F.PL+IMPF+2+PL
 instituía-las	instituir+V.ele.ACC.3.F.PL+IMPF+2+SG
 instituíam-nas	instituir+V.ele.ACC.3.F.PL+IMPF+3+PL
 instituía-as	instituir+V.ele.ACC.3.F.PL+IMPF+3+SG
+instituí-las	instituir+V.ele.ACC.3.F.PL+INF
 instituirmo-las	instituir+V.ele.ACC.3.F.PL+INF+1+PL
 instituí-las	instituir+V.ele.ACC.3.F.PL+INF+1+SG
 instituirde-las	instituir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -30512,6 +30729,7 @@ instituíei-la	instituir+V.ele.ACC.3.F.SG+IMPF+2+PL
 instituía-la	instituir+V.ele.ACC.3.F.SG+IMPF+2+SG
 instituíam-na	instituir+V.ele.ACC.3.F.SG+IMPF+3+PL
 instituía-a	instituir+V.ele.ACC.3.F.SG+IMPF+3+SG
+instituí-la	instituir+V.ele.ACC.3.F.SG+INF
 instituirmo-la	instituir+V.ele.ACC.3.F.SG+INF+1+PL
 instituí-la	instituir+V.ele.ACC.3.F.SG+INF+1+SG
 instituirde-la	instituir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -30565,6 +30783,7 @@ instituía-los	instituir+V.ele.ACC.3.M.PL+IMPF+2+SG
 instituía-os	instituir+V.ele.ACC.3.M.PL+IMPF+3+SG
 instituir-nos	instituir+V.ele.ACC.3.M.PL+INF
 instituir-vos	instituir+V.ele.ACC.3.M.PL+INF
+instituí-los	instituir+V.ele.ACC.3.M.PL+INF
 instituirmo-los	instituir+V.ele.ACC.3.M.PL+INF+1+PL
 instituí-los	instituir+V.ele.ACC.3.M.PL+INF+1+SG
 instituirde-los	instituir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -30613,6 +30832,7 @@ instituíei-lo	instituir+V.ele.ACC.3.M.SG+IMPF+2+PL
 instituía-lo	instituir+V.ele.ACC.3.M.SG+IMPF+2+SG
 instituíam-no	instituir+V.ele.ACC.3.M.SG+IMPF+3+PL
 instituía-o	instituir+V.ele.ACC.3.M.SG+IMPF+3+SG
+instituí-lo	instituir+V.ele.ACC.3.M.SG+INF
 instituirmo-lo	instituir+V.ele.ACC.3.M.SG+INF+1+PL
 instituí-lo	instituir+V.ele.ACC.3.M.SG+INF+1+SG
 instituirde-lo	instituir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -30993,6 +31213,7 @@ instruíei-las	instruir+V.ele.ACC.3.F.PL+IMPF+2+PL
 instruía-las	instruir+V.ele.ACC.3.F.PL+IMPF+2+SG
 instruíam-nas	instruir+V.ele.ACC.3.F.PL+IMPF+3+PL
 instruía-as	instruir+V.ele.ACC.3.F.PL+IMPF+3+SG
+instruí-las	instruir+V.ele.ACC.3.F.PL+INF
 instruirmo-las	instruir+V.ele.ACC.3.F.PL+INF+1+PL
 instruí-las	instruir+V.ele.ACC.3.F.PL+INF+1+SG
 instruirde-las	instruir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -31045,6 +31266,7 @@ instruíei-la	instruir+V.ele.ACC.3.F.SG+IMPF+2+PL
 instruía-la	instruir+V.ele.ACC.3.F.SG+IMPF+2+SG
 instruíam-na	instruir+V.ele.ACC.3.F.SG+IMPF+3+PL
 instruía-a	instruir+V.ele.ACC.3.F.SG+IMPF+3+SG
+instruí-la	instruir+V.ele.ACC.3.F.SG+INF
 instruirmo-la	instruir+V.ele.ACC.3.F.SG+INF+1+PL
 instruí-la	instruir+V.ele.ACC.3.F.SG+INF+1+SG
 instruirde-la	instruir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -31098,6 +31320,7 @@ instruía-los	instruir+V.ele.ACC.3.M.PL+IMPF+2+SG
 instruía-os	instruir+V.ele.ACC.3.M.PL+IMPF+3+SG
 instruir-nos	instruir+V.ele.ACC.3.M.PL+INF
 instruir-vos	instruir+V.ele.ACC.3.M.PL+INF
+instruí-los	instruir+V.ele.ACC.3.M.PL+INF
 instruirmo-los	instruir+V.ele.ACC.3.M.PL+INF+1+PL
 instruí-los	instruir+V.ele.ACC.3.M.PL+INF+1+SG
 instruirde-los	instruir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -31146,6 +31369,7 @@ instruíei-lo	instruir+V.ele.ACC.3.M.SG+IMPF+2+PL
 instruía-lo	instruir+V.ele.ACC.3.M.SG+IMPF+2+SG
 instruíam-no	instruir+V.ele.ACC.3.M.SG+IMPF+3+PL
 instruía-o	instruir+V.ele.ACC.3.M.SG+IMPF+3+SG
+instruí-lo	instruir+V.ele.ACC.3.M.SG+INF
 instruirmo-lo	instruir+V.ele.ACC.3.M.SG+INF+1+PL
 instruí-lo	instruir+V.ele.ACC.3.M.SG+INF+1+SG
 instruirde-lo	instruir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -31526,6 +31750,7 @@ insubsistíei-las	insubsistir+V.ele.ACC.3.F.PL+IMPF+2+PL
 insubsistia-las	insubsistir+V.ele.ACC.3.F.PL+IMPF+2+SG
 insubsistiam-nas	insubsistir+V.ele.ACC.3.F.PL+IMPF+3+PL
 insubsistia-as	insubsistir+V.ele.ACC.3.F.PL+IMPF+3+SG
+insubsisti-las	insubsistir+V.ele.ACC.3.F.PL+INF
 insubsistirmo-las	insubsistir+V.ele.ACC.3.F.PL+INF+1+PL
 insubsisti-las	insubsistir+V.ele.ACC.3.F.PL+INF+1+SG
 insubsistirde-las	insubsistir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -31566,6 +31791,7 @@ insubsistíei-la	insubsistir+V.ele.ACC.3.F.SG+IMPF+2+PL
 insubsistia-la	insubsistir+V.ele.ACC.3.F.SG+IMPF+2+SG
 insubsistiam-na	insubsistir+V.ele.ACC.3.F.SG+IMPF+3+PL
 insubsistia-a	insubsistir+V.ele.ACC.3.F.SG+IMPF+3+SG
+insubsisti-la	insubsistir+V.ele.ACC.3.F.SG+INF
 insubsistirmo-la	insubsistir+V.ele.ACC.3.F.SG+INF+1+PL
 insubsisti-la	insubsistir+V.ele.ACC.3.F.SG+INF+1+SG
 insubsistirde-la	insubsistir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -31606,6 +31832,7 @@ insubsistíei-los	insubsistir+V.ele.ACC.3.M.PL+IMPF+2+PL
 insubsistia-los	insubsistir+V.ele.ACC.3.M.PL+IMPF+2+SG
 insubsistiam-nos	insubsistir+V.ele.ACC.3.M.PL+IMPF+3+PL
 insubsistia-os	insubsistir+V.ele.ACC.3.M.PL+IMPF+3+SG
+insubsisti-los	insubsistir+V.ele.ACC.3.M.PL+INF
 insubsistirmo-los	insubsistir+V.ele.ACC.3.M.PL+INF+1+PL
 insubsisti-los	insubsistir+V.ele.ACC.3.M.PL+INF+1+SG
 insubsistirde-los	insubsistir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -31646,6 +31873,7 @@ insubsistíei-lo	insubsistir+V.ele.ACC.3.M.SG+IMPF+2+PL
 insubsistia-lo	insubsistir+V.ele.ACC.3.M.SG+IMPF+2+SG
 insubsistiam-no	insubsistir+V.ele.ACC.3.M.SG+IMPF+3+PL
 insubsistia-o	insubsistir+V.ele.ACC.3.M.SG+IMPF+3+SG
+insubsisti-lo	insubsistir+V.ele.ACC.3.M.SG+INF
 insubsistirmo-lo	insubsistir+V.ele.ACC.3.M.SG+INF+1+PL
 insubsisti-lo	insubsistir+V.ele.ACC.3.M.SG+INF+1+SG
 insubsistirde-lo	insubsistir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -31948,6 +32176,7 @@ insurgíei-las	insurgir+V.ele.ACC.3.F.PL+IMPF+2+PL
 insurgia-las	insurgir+V.ele.ACC.3.F.PL+IMPF+2+SG
 insurgiam-nas	insurgir+V.ele.ACC.3.F.PL+IMPF+3+PL
 insurgia-as	insurgir+V.ele.ACC.3.F.PL+IMPF+3+SG
+insurgi-las	insurgir+V.ele.ACC.3.F.PL+INF
 insurgirmo-las	insurgir+V.ele.ACC.3.F.PL+INF+1+PL
 insurgi-las	insurgir+V.ele.ACC.3.F.PL+INF+1+SG
 insurgirde-las	insurgir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -31994,6 +32223,7 @@ insurgíei-la	insurgir+V.ele.ACC.3.F.SG+IMPF+2+PL
 insurgia-la	insurgir+V.ele.ACC.3.F.SG+IMPF+2+SG
 insurgiam-na	insurgir+V.ele.ACC.3.F.SG+IMPF+3+PL
 insurgia-a	insurgir+V.ele.ACC.3.F.SG+IMPF+3+SG
+insurgi-la	insurgir+V.ele.ACC.3.F.SG+INF
 insurgirmo-la	insurgir+V.ele.ACC.3.F.SG+INF+1+PL
 insurgi-la	insurgir+V.ele.ACC.3.F.SG+INF+1+SG
 insurgirde-la	insurgir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -32040,6 +32270,7 @@ insurgíei-los	insurgir+V.ele.ACC.3.M.PL+IMPF+2+PL
 insurgia-los	insurgir+V.ele.ACC.3.M.PL+IMPF+2+SG
 insurgiam-nos	insurgir+V.ele.ACC.3.M.PL+IMPF+3+PL
 insurgia-os	insurgir+V.ele.ACC.3.M.PL+IMPF+3+SG
+insurgi-los	insurgir+V.ele.ACC.3.M.PL+INF
 insurgirmo-los	insurgir+V.ele.ACC.3.M.PL+INF+1+PL
 insurgi-los	insurgir+V.ele.ACC.3.M.PL+INF+1+SG
 insurgirde-los	insurgir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -32086,6 +32317,7 @@ insurgíei-lo	insurgir+V.ele.ACC.3.M.SG+IMPF+2+PL
 insurgia-lo	insurgir+V.ele.ACC.3.M.SG+IMPF+2+SG
 insurgiam-no	insurgir+V.ele.ACC.3.M.SG+IMPF+3+PL
 insurgia-o	insurgir+V.ele.ACC.3.M.SG+IMPF+3+SG
+insurgi-lo	insurgir+V.ele.ACC.3.M.SG+INF
 insurgirmo-lo	insurgir+V.ele.ACC.3.M.SG+INF+1+PL
 insurgi-lo	insurgir+V.ele.ACC.3.M.SG+INF+1+SG
 insurgirde-lo	insurgir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -32432,6 +32664,7 @@ inteiriçávei-las	inteiriçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 inteiriçava-las	inteiriçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 inteiriçavam-nas	inteiriçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 inteiriçava-as	inteiriçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+inteiriçá-las	inteiriçar+V.ele.ACC.3.F.PL+INF
 inteiriçarmo-las	inteiriçar+V.ele.ACC.3.F.PL+INF+1+PL
 inteiriçá-las	inteiriçar+V.ele.ACC.3.F.PL+INF+1+SG
 inteiriçarde-las	inteiriçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -32483,6 +32716,7 @@ inteiriçávei-la	inteiriçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 inteiriçava-la	inteiriçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 inteiriçavam-na	inteiriçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 inteiriçava-a	inteiriçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+inteiriçá-la	inteiriçar+V.ele.ACC.3.F.SG+INF
 inteiriçarmo-la	inteiriçar+V.ele.ACC.3.F.SG+INF+1+PL
 inteiriçá-la	inteiriçar+V.ele.ACC.3.F.SG+INF+1+SG
 inteiriçarde-la	inteiriçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -32533,6 +32767,7 @@ inteiriçava-os	inteiriçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 inteiriçávei-los	inteiriçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 inteiriçava-los	inteiriçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 inteiriçava-os	inteiriçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+inteiriçá-los	inteiriçar+V.ele.ACC.3.M.PL+INF
 inteiriçarmo-los	inteiriçar+V.ele.ACC.3.M.PL+INF+1+PL
 inteiriçá-los	inteiriçar+V.ele.ACC.3.M.PL+INF+1+SG
 inteiriçarde-los	inteiriçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -32579,6 +32814,7 @@ inteiriçávei-lo	inteiriçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 inteiriçava-lo	inteiriçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 inteiriçavam-no	inteiriçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 inteiriçava-o	inteiriçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+inteiriçá-lo	inteiriçar+V.ele.ACC.3.M.SG+INF
 inteiriçarmo-lo	inteiriçar+V.ele.ACC.3.M.SG+INF+1+PL
 inteiriçá-lo	inteiriçar+V.ele.ACC.3.M.SG+INF+1+SG
 inteiriçarde-lo	inteiriçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -32939,10 +33175,6 @@ inteiriçardes-vos	inteiriçar+V.vós.AD.2.PL+SBJF+2+PL
 inteiriçares-vos	inteiriçar+V.vós.AD.2.PL+SBJF+2+SG
 inteiriçarem-vos	inteiriçar+V.vós.AD.2.PL+SBJF+3+PL
 inteiriçar-vos	inteiriçar+V.vós.AD.2.PL+SBJF+3+SG
-intendê-las	intender+V.ele.ACC.3.F.PL+INF
-intendê-la	intender+V.ele.ACC.3.F.SG+INF
-intendê-los	intender+V.ele.ACC.3.M.PL+INF
-intendê-lo	intender+V.ele.ACC.3.M.SG+INF
 intensificá-las-íamos	intensificar+V.ele.ACC.3.F.PL+COND+1+PL
 intensificá-las-ia	intensificar+V.ele.ACC.3.F.PL+COND+1+SG
 intensificá-las-íeis	intensificar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -32965,6 +33197,7 @@ intensificávei-las	intensificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 intensificava-las	intensificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 intensificavam-nas	intensificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 intensificava-as	intensificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+intensificá-las	intensificar+V.ele.ACC.3.F.PL+INF
 intensificarmo-las	intensificar+V.ele.ACC.3.F.PL+INF+1+PL
 intensificá-las	intensificar+V.ele.ACC.3.F.PL+INF+1+SG
 intensificarde-las	intensificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -33016,6 +33249,7 @@ intensificávei-la	intensificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 intensificava-la	intensificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 intensificavam-na	intensificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 intensificava-a	intensificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+intensificá-la	intensificar+V.ele.ACC.3.F.SG+INF
 intensificarmo-la	intensificar+V.ele.ACC.3.F.SG+INF+1+PL
 intensificá-la	intensificar+V.ele.ACC.3.F.SG+INF+1+SG
 intensificarde-la	intensificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -33067,6 +33301,7 @@ intensificávei-los	intensificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 intensificava-los	intensificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 intensificavam-nos	intensificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 intensificava-os	intensificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+intensificá-los	intensificar+V.ele.ACC.3.M.PL+INF
 intensificarmo-los	intensificar+V.ele.ACC.3.M.PL+INF+1+PL
 intensificá-los	intensificar+V.ele.ACC.3.M.PL+INF+1+SG
 intensificarde-los	intensificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -33118,6 +33353,7 @@ intensificávei-lo	intensificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 intensificava-lo	intensificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 intensificavam-no	intensificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 intensificava-o	intensificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+intensificá-lo	intensificar+V.ele.ACC.3.M.SG+INF
 intensificarmo-lo	intensificar+V.ele.ACC.3.M.SG+INF+1+PL
 intensificá-lo	intensificar+V.ele.ACC.3.M.SG+INF+1+SG
 intensificarde-lo	intensificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -33501,6 +33737,7 @@ interagíei-las	interagir+V.ele.ACC.3.F.PL+IMPF+2+PL
 interagia-las	interagir+V.ele.ACC.3.F.PL+IMPF+2+SG
 interagiam-nas	interagir+V.ele.ACC.3.F.PL+IMPF+3+PL
 interagia-as	interagir+V.ele.ACC.3.F.PL+IMPF+3+SG
+interagi-las	interagir+V.ele.ACC.3.F.PL+INF
 interagirmo-las	interagir+V.ele.ACC.3.F.PL+INF+1+PL
 interagi-las	interagir+V.ele.ACC.3.F.PL+INF+1+SG
 interagirde-las	interagir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -33547,6 +33784,7 @@ interagíei-la	interagir+V.ele.ACC.3.F.SG+IMPF+2+PL
 interagia-la	interagir+V.ele.ACC.3.F.SG+IMPF+2+SG
 interagiam-na	interagir+V.ele.ACC.3.F.SG+IMPF+3+PL
 interagia-a	interagir+V.ele.ACC.3.F.SG+IMPF+3+SG
+interagi-la	interagir+V.ele.ACC.3.F.SG+INF
 interagirmo-la	interagir+V.ele.ACC.3.F.SG+INF+1+PL
 interagi-la	interagir+V.ele.ACC.3.F.SG+INF+1+SG
 interagirde-la	interagir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -33593,6 +33831,7 @@ interagíei-los	interagir+V.ele.ACC.3.M.PL+IMPF+2+PL
 interagia-los	interagir+V.ele.ACC.3.M.PL+IMPF+2+SG
 interagiam-nos	interagir+V.ele.ACC.3.M.PL+IMPF+3+PL
 interagia-os	interagir+V.ele.ACC.3.M.PL+IMPF+3+SG
+interagi-los	interagir+V.ele.ACC.3.M.PL+INF
 interagirmo-los	interagir+V.ele.ACC.3.M.PL+INF+1+PL
 interagi-los	interagir+V.ele.ACC.3.M.PL+INF+1+SG
 interagirde-los	interagir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -33639,6 +33878,7 @@ interagíei-lo	interagir+V.ele.ACC.3.M.SG+IMPF+2+PL
 interagia-lo	interagir+V.ele.ACC.3.M.SG+IMPF+2+SG
 interagiam-no	interagir+V.ele.ACC.3.M.SG+IMPF+3+PL
 interagia-o	interagir+V.ele.ACC.3.M.SG+IMPF+3+SG
+interagi-lo	interagir+V.ele.ACC.3.M.SG+INF
 interagirmo-lo	interagir+V.ele.ACC.3.M.SG+INF+1+PL
 interagi-lo	interagir+V.ele.ACC.3.M.SG+INF+1+SG
 interagirde-lo	interagir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -33963,10 +34203,6 @@ interagirdes-vos	interagir+V.vós.AD.2.PL+SBJF+2+PL
 interagires-vos	interagir+V.vós.AD.2.PL+SBJF+2+SG
 interagirem-vos	interagir+V.vós.AD.2.PL+SBJF+3+PL
 interagir-vos	interagir+V.vós.AD.2.PL+SBJF+3+SG
-intercedê-las	interceder+V.ele.ACC.3.F.PL+INF
-intercedê-la	interceder+V.ele.ACC.3.F.SG+INF
-intercedê-los	interceder+V.ele.ACC.3.M.PL+INF
-intercedê-lo	interceder+V.ele.ACC.3.M.SG+INF
 intercomunicá-las-íamos	intercomunicar+V.ele.ACC.3.F.PL+COND+1+PL
 intercomunicá-las-ia	intercomunicar+V.ele.ACC.3.F.PL+COND+1+SG
 intercomunicá-las-íeis	intercomunicar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -33989,6 +34225,7 @@ intercomunicávei-las	intercomunicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 intercomunicava-las	intercomunicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 intercomunicavam-nas	intercomunicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 intercomunicava-as	intercomunicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+intercomunicá-las	intercomunicar+V.ele.ACC.3.F.PL+INF
 intercomunicarmo-las	intercomunicar+V.ele.ACC.3.F.PL+INF+1+PL
 intercomunicá-las	intercomunicar+V.ele.ACC.3.F.PL+INF+1+SG
 intercomunicarde-las	intercomunicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -34040,6 +34277,7 @@ intercomunicávei-la	intercomunicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 intercomunicava-la	intercomunicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 intercomunicavam-na	intercomunicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 intercomunicava-a	intercomunicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+intercomunicá-la	intercomunicar+V.ele.ACC.3.F.SG+INF
 intercomunicarmo-la	intercomunicar+V.ele.ACC.3.F.SG+INF+1+PL
 intercomunicá-la	intercomunicar+V.ele.ACC.3.F.SG+INF+1+SG
 intercomunicarde-la	intercomunicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -34091,6 +34329,7 @@ intercomunicávei-los	intercomunicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 intercomunicava-los	intercomunicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 intercomunicavam-nos	intercomunicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 intercomunicava-os	intercomunicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+intercomunicá-los	intercomunicar+V.ele.ACC.3.M.PL+INF
 intercomunicarmo-los	intercomunicar+V.ele.ACC.3.M.PL+INF+1+PL
 intercomunicá-los	intercomunicar+V.ele.ACC.3.M.PL+INF+1+SG
 intercomunicarde-los	intercomunicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -34142,6 +34381,7 @@ intercomunicávei-lo	intercomunicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 intercomunicava-lo	intercomunicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 intercomunicavam-no	intercomunicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 intercomunicava-o	intercomunicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+intercomunicá-lo	intercomunicar+V.ele.ACC.3.M.SG+INF
 intercomunicarmo-lo	intercomunicar+V.ele.ACC.3.M.SG+INF+1+PL
 intercomunicá-lo	intercomunicar+V.ele.ACC.3.M.SG+INF+1+SG
 intercomunicarde-lo	intercomunicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -34503,14 +34743,6 @@ intercomunicardes-vos	intercomunicar+V.vós.AD.2.PL+SBJF+2+PL
 intercomunicares-vos	intercomunicar+V.vós.AD.2.PL+SBJF+2+SG
 intercomunicarem-vos	intercomunicar+V.vós.AD.2.PL+SBJF+3+PL
 intercomunicar-vos	intercomunicar+V.vós.AD.2.PL+SBJF+3+SG
-intercorrê-las	intercorrer+V.ele.ACC.3.F.PL+INF
-intercorrê-la	intercorrer+V.ele.ACC.3.F.SG+INF
-intercorrê-los	intercorrer+V.ele.ACC.3.M.PL+INF
-intercorrê-lo	intercorrer+V.ele.ACC.3.M.SG+INF
-interdependê-las	interdepender+V.ele.ACC.3.F.PL+INF
-interdependê-la	interdepender+V.ele.ACC.3.F.SG+INF
-interdependê-los	interdepender+V.ele.ACC.3.M.PL+INF
-interdependê-lo	interdepender+V.ele.ACC.3.M.SG+INF
 interdi-las-íamos	interdizer+V.ele.ACC.3.F.PL+COND+1+PL
 interdi-las-ia	interdizer+V.ele.ACC.3.F.PL+COND+1+SG
 interdi-las-íeis	interdizer+V.ele.ACC.3.F.PL+COND+2+PL
@@ -35070,6 +35302,7 @@ interferíei-las	interferir+V.ele.ACC.3.F.PL+IMPF+2+PL
 interferia-las	interferir+V.ele.ACC.3.F.PL+IMPF+2+SG
 interferiam-nas	interferir+V.ele.ACC.3.F.PL+IMPF+3+PL
 interferia-as	interferir+V.ele.ACC.3.F.PL+IMPF+3+SG
+interferi-las	interferir+V.ele.ACC.3.F.PL+INF
 interferirmo-las	interferir+V.ele.ACC.3.F.PL+INF+1+PL
 interferi-las	interferir+V.ele.ACC.3.F.PL+INF+1+SG
 interferirde-las	interferir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -35116,6 +35349,7 @@ interferíei-la	interferir+V.ele.ACC.3.F.SG+IMPF+2+PL
 interferia-la	interferir+V.ele.ACC.3.F.SG+IMPF+2+SG
 interferiam-na	interferir+V.ele.ACC.3.F.SG+IMPF+3+PL
 interferia-a	interferir+V.ele.ACC.3.F.SG+IMPF+3+SG
+interferi-la	interferir+V.ele.ACC.3.F.SG+INF
 interferirmo-la	interferir+V.ele.ACC.3.F.SG+INF+1+PL
 interferi-la	interferir+V.ele.ACC.3.F.SG+INF+1+SG
 interferirde-la	interferir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -35162,6 +35396,7 @@ interferíei-los	interferir+V.ele.ACC.3.M.PL+IMPF+2+PL
 interferia-los	interferir+V.ele.ACC.3.M.PL+IMPF+2+SG
 interferiam-nos	interferir+V.ele.ACC.3.M.PL+IMPF+3+PL
 interferia-os	interferir+V.ele.ACC.3.M.PL+IMPF+3+SG
+interferi-los	interferir+V.ele.ACC.3.M.PL+INF
 interferirmo-los	interferir+V.ele.ACC.3.M.PL+INF+1+PL
 interferi-los	interferir+V.ele.ACC.3.M.PL+INF+1+SG
 interferirde-los	interferir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -35208,6 +35443,7 @@ interferíei-lo	interferir+V.ele.ACC.3.M.SG+IMPF+2+PL
 interferia-lo	interferir+V.ele.ACC.3.M.SG+IMPF+2+SG
 interferiam-no	interferir+V.ele.ACC.3.M.SG+IMPF+3+PL
 interferia-o	interferir+V.ele.ACC.3.M.SG+IMPF+3+SG
+interferi-lo	interferir+V.ele.ACC.3.M.SG+INF
 interferirmo-lo	interferir+V.ele.ACC.3.M.SG+INF+1+PL
 interferi-lo	interferir+V.ele.ACC.3.M.SG+INF+1+SG
 interferirde-lo	interferir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -35554,6 +35790,7 @@ interlaçávei-las	interlaçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 interlaçava-las	interlaçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 interlaçavam-nas	interlaçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 interlaçava-as	interlaçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+interlaçá-las	interlaçar+V.ele.ACC.3.F.PL+INF
 interlaçarmo-las	interlaçar+V.ele.ACC.3.F.PL+INF+1+PL
 interlaçá-las	interlaçar+V.ele.ACC.3.F.PL+INF+1+SG
 interlaçarde-las	interlaçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -35605,6 +35842,7 @@ interlaçávei-la	interlaçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 interlaçava-la	interlaçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 interlaçavam-na	interlaçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 interlaçava-a	interlaçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+interlaçá-la	interlaçar+V.ele.ACC.3.F.SG+INF
 interlaçarmo-la	interlaçar+V.ele.ACC.3.F.SG+INF+1+PL
 interlaçá-la	interlaçar+V.ele.ACC.3.F.SG+INF+1+SG
 interlaçarde-la	interlaçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -35655,6 +35893,7 @@ interlaçava-os	interlaçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 interlaçávei-los	interlaçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 interlaçava-los	interlaçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 interlaçava-os	interlaçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+interlaçá-los	interlaçar+V.ele.ACC.3.M.PL+INF
 interlaçarmo-los	interlaçar+V.ele.ACC.3.M.PL+INF+1+PL
 interlaçá-los	interlaçar+V.ele.ACC.3.M.PL+INF+1+SG
 interlaçarde-los	interlaçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -35701,6 +35940,7 @@ interlaçávei-lo	interlaçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 interlaçava-lo	interlaçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 interlaçavam-no	interlaçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 interlaçava-o	interlaçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+interlaçá-lo	interlaçar+V.ele.ACC.3.M.SG+INF
 interlaçarmo-lo	interlaçar+V.ele.ACC.3.M.SG+INF+1+PL
 interlaçá-lo	interlaçar+V.ele.ACC.3.M.SG+INF+1+SG
 interlaçarde-lo	interlaçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -36080,6 +36320,7 @@ intermeávei-las	intermear+V.ele.ACC.3.F.PL+IMPF+2+PL
 intermeava-las	intermear+V.ele.ACC.3.F.PL+IMPF+2+SG
 intermeavam-nas	intermear+V.ele.ACC.3.F.PL+IMPF+3+PL
 intermeava-as	intermear+V.ele.ACC.3.F.PL+IMPF+3+SG
+intermeá-las	intermear+V.ele.ACC.3.F.PL+INF
 intermearmo-las	intermear+V.ele.ACC.3.F.PL+INF+1+PL
 intermeá-las	intermear+V.ele.ACC.3.F.PL+INF+1+SG
 intermearde-las	intermear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -36129,6 +36370,7 @@ intermeávei-la	intermear+V.ele.ACC.3.F.SG+IMPF+2+PL
 intermeava-la	intermear+V.ele.ACC.3.F.SG+IMPF+2+SG
 intermeavam-na	intermear+V.ele.ACC.3.F.SG+IMPF+3+PL
 intermeava-a	intermear+V.ele.ACC.3.F.SG+IMPF+3+SG
+intermeá-la	intermear+V.ele.ACC.3.F.SG+INF
 intermearmo-la	intermear+V.ele.ACC.3.F.SG+INF+1+PL
 intermeá-la	intermear+V.ele.ACC.3.F.SG+INF+1+SG
 intermearde-la	intermear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -36178,6 +36420,7 @@ intermeávei-los	intermear+V.ele.ACC.3.M.PL+IMPF+2+PL
 intermeava-los	intermear+V.ele.ACC.3.M.PL+IMPF+2+SG
 intermeavam-nos	intermear+V.ele.ACC.3.M.PL+IMPF+3+PL
 intermeava-os	intermear+V.ele.ACC.3.M.PL+IMPF+3+SG
+intermeá-los	intermear+V.ele.ACC.3.M.PL+INF
 intermearmo-los	intermear+V.ele.ACC.3.M.PL+INF+1+PL
 intermeá-los	intermear+V.ele.ACC.3.M.PL+INF+1+SG
 intermearde-los	intermear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -36227,6 +36470,7 @@ intermeávei-lo	intermear+V.ele.ACC.3.M.SG+IMPF+2+PL
 intermeava-lo	intermear+V.ele.ACC.3.M.SG+IMPF+2+SG
 intermeavam-no	intermear+V.ele.ACC.3.M.SG+IMPF+3+PL
 intermeava-o	intermear+V.ele.ACC.3.M.SG+IMPF+3+SG
+intermeá-lo	intermear+V.ele.ACC.3.M.SG+INF
 intermearmo-lo	intermear+V.ele.ACC.3.M.SG+INF+1+PL
 intermeá-lo	intermear+V.ele.ACC.3.M.SG+INF+1+SG
 intermearde-lo	intermear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -36595,6 +36839,7 @@ intermediávei-las	intermediar+V.ele.ACC.3.F.PL+IMPF+2+PL
 intermediava-las	intermediar+V.ele.ACC.3.F.PL+IMPF+2+SG
 intermediavam-nas	intermediar+V.ele.ACC.3.F.PL+IMPF+3+PL
 intermediava-as	intermediar+V.ele.ACC.3.F.PL+IMPF+3+SG
+intermediá-las	intermediar+V.ele.ACC.3.F.PL+INF
 intermediarmo-las	intermediar+V.ele.ACC.3.F.PL+INF+1+PL
 intermediá-las	intermediar+V.ele.ACC.3.F.PL+INF+1+SG
 intermediarde-las	intermediar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -36645,6 +36890,7 @@ intermediávei-la	intermediar+V.ele.ACC.3.F.SG+IMPF+2+PL
 intermediava-la	intermediar+V.ele.ACC.3.F.SG+IMPF+2+SG
 intermediavam-na	intermediar+V.ele.ACC.3.F.SG+IMPF+3+PL
 intermediava-a	intermediar+V.ele.ACC.3.F.SG+IMPF+3+SG
+intermediá-la	intermediar+V.ele.ACC.3.F.SG+INF
 intermediarmo-la	intermediar+V.ele.ACC.3.F.SG+INF+1+PL
 intermediá-la	intermediar+V.ele.ACC.3.F.SG+INF+1+SG
 intermediarde-la	intermediar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -36695,6 +36941,7 @@ intermediávei-los	intermediar+V.ele.ACC.3.M.PL+IMPF+2+PL
 intermediava-los	intermediar+V.ele.ACC.3.M.PL+IMPF+2+SG
 intermediavam-nos	intermediar+V.ele.ACC.3.M.PL+IMPF+3+PL
 intermediava-os	intermediar+V.ele.ACC.3.M.PL+IMPF+3+SG
+intermediá-los	intermediar+V.ele.ACC.3.M.PL+INF
 intermediarmo-los	intermediar+V.ele.ACC.3.M.PL+INF+1+PL
 intermediá-los	intermediar+V.ele.ACC.3.M.PL+INF+1+SG
 intermediarde-los	intermediar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -36745,6 +36992,7 @@ intermediávei-lo	intermediar+V.ele.ACC.3.M.SG+IMPF+2+PL
 intermediava-lo	intermediar+V.ele.ACC.3.M.SG+IMPF+2+SG
 intermediavam-no	intermediar+V.ele.ACC.3.M.SG+IMPF+3+PL
 intermediava-o	intermediar+V.ele.ACC.3.M.SG+IMPF+3+SG
+intermediá-lo	intermediar+V.ele.ACC.3.M.SG+INF
 intermediarmo-lo	intermediar+V.ele.ACC.3.M.SG+INF+1+PL
 intermediá-lo	intermediar+V.ele.ACC.3.M.SG+INF+1+SG
 intermediarde-lo	intermediar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -37100,10 +37348,6 @@ intermediardes-vos	intermediar+V.vós.AD.2.PL+SBJF+2+PL
 intermediares-vos	intermediar+V.vós.AD.2.PL+SBJF+2+SG
 intermediarem-vos	intermediar+V.vós.AD.2.PL+SBJF+3+PL
 intermediar-vos	intermediar+V.vós.AD.2.PL+SBJF+3+SG
-intermetê-las	intermeter+V.ele.ACC.3.F.PL+INF
-intermetê-la	intermeter+V.ele.ACC.3.F.SG+INF
-intermetê-los	intermeter+V.ele.ACC.3.M.PL+INF
-intermetê-lo	intermeter+V.ele.ACC.3.M.SG+INF
 intermiti-las-íamos	intermitir+V.ele.ACC.3.F.PL+COND+1+PL
 intermiti-las-ia	intermitir+V.ele.ACC.3.F.PL+COND+1+SG
 intermiti-las-íeis	intermitir+V.ele.ACC.3.F.PL+COND+2+PL
@@ -37126,6 +37370,7 @@ intermitíei-las	intermitir+V.ele.ACC.3.F.PL+IMPF+2+PL
 intermitia-las	intermitir+V.ele.ACC.3.F.PL+IMPF+2+SG
 intermitiam-nas	intermitir+V.ele.ACC.3.F.PL+IMPF+3+PL
 intermitia-as	intermitir+V.ele.ACC.3.F.PL+IMPF+3+SG
+intermiti-las	intermitir+V.ele.ACC.3.F.PL+INF
 intermitirmo-las	intermitir+V.ele.ACC.3.F.PL+INF+1+PL
 intermiti-las	intermitir+V.ele.ACC.3.F.PL+INF+1+SG
 intermitirde-las	intermitir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -37166,6 +37411,7 @@ intermitíei-la	intermitir+V.ele.ACC.3.F.SG+IMPF+2+PL
 intermitia-la	intermitir+V.ele.ACC.3.F.SG+IMPF+2+SG
 intermitiam-na	intermitir+V.ele.ACC.3.F.SG+IMPF+3+PL
 intermitia-a	intermitir+V.ele.ACC.3.F.SG+IMPF+3+SG
+intermiti-la	intermitir+V.ele.ACC.3.F.SG+INF
 intermitirmo-la	intermitir+V.ele.ACC.3.F.SG+INF+1+PL
 intermiti-la	intermitir+V.ele.ACC.3.F.SG+INF+1+SG
 intermitirde-la	intermitir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -37206,6 +37452,7 @@ intermitíei-los	intermitir+V.ele.ACC.3.M.PL+IMPF+2+PL
 intermitia-los	intermitir+V.ele.ACC.3.M.PL+IMPF+2+SG
 intermitiam-nos	intermitir+V.ele.ACC.3.M.PL+IMPF+3+PL
 intermitia-os	intermitir+V.ele.ACC.3.M.PL+IMPF+3+SG
+intermiti-los	intermitir+V.ele.ACC.3.M.PL+INF
 intermitirmo-los	intermitir+V.ele.ACC.3.M.PL+INF+1+PL
 intermiti-los	intermitir+V.ele.ACC.3.M.PL+INF+1+SG
 intermitirde-los	intermitir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -37246,6 +37493,7 @@ intermitíei-lo	intermitir+V.ele.ACC.3.M.SG+IMPF+2+PL
 intermitia-lo	intermitir+V.ele.ACC.3.M.SG+IMPF+2+SG
 intermitiam-no	intermitir+V.ele.ACC.3.M.SG+IMPF+3+PL
 intermitia-o	intermitir+V.ele.ACC.3.M.SG+IMPF+3+SG
+intermiti-lo	intermitir+V.ele.ACC.3.M.SG+INF
 intermitirmo-lo	intermitir+V.ele.ACC.3.M.SG+INF+1+PL
 intermiti-lo	intermitir+V.ele.ACC.3.M.SG+INF+1+SG
 intermitirde-lo	intermitir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -37526,10 +37774,6 @@ intermitirdes-vos	intermitir+V.vós.AD.2.PL+SBJF+2+PL
 intermitires-vos	intermitir+V.vós.AD.2.PL+SBJF+2+SG
 intermitirem-vos	intermitir+V.vós.AD.2.PL+SBJF+3+PL
 intermitir-vos	intermitir+V.vós.AD.2.PL+SBJF+3+SG
-interpendê-las	interpender+V.ele.ACC.3.F.PL+INF
-interpendê-la	interpender+V.ele.ACC.3.F.SG+INF
-interpendê-los	interpender+V.ele.ACC.3.M.PL+INF
-interpendê-lo	interpender+V.ele.ACC.3.M.SG+INF
 interpicá-las-íamos	interpicar+V.ele.ACC.3.F.PL+COND+1+PL
 interpicá-las-ia	interpicar+V.ele.ACC.3.F.PL+COND+1+SG
 interpicá-las-íeis	interpicar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -37552,6 +37796,7 @@ interpicávei-las	interpicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 interpicava-las	interpicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 interpicavam-nas	interpicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 interpicava-as	interpicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+interpicá-las	interpicar+V.ele.ACC.3.F.PL+INF
 interpicarmo-las	interpicar+V.ele.ACC.3.F.PL+INF+1+PL
 interpicá-las	interpicar+V.ele.ACC.3.F.PL+INF+1+SG
 interpicarde-las	interpicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -37603,6 +37848,7 @@ interpicávei-la	interpicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 interpicava-la	interpicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 interpicavam-na	interpicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 interpicava-a	interpicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+interpicá-la	interpicar+V.ele.ACC.3.F.SG+INF
 interpicarmo-la	interpicar+V.ele.ACC.3.F.SG+INF+1+PL
 interpicá-la	interpicar+V.ele.ACC.3.F.SG+INF+1+SG
 interpicarde-la	interpicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -37654,6 +37900,7 @@ interpicávei-los	interpicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 interpicava-los	interpicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 interpicavam-nos	interpicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 interpicava-os	interpicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+interpicá-los	interpicar+V.ele.ACC.3.M.PL+INF
 interpicarmo-los	interpicar+V.ele.ACC.3.M.PL+INF+1+PL
 interpicá-los	interpicar+V.ele.ACC.3.M.PL+INF+1+SG
 interpicarde-los	interpicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -37705,6 +37952,7 @@ interpicávei-lo	interpicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 interpicava-lo	interpicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 interpicavam-no	interpicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 interpicava-o	interpicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+interpicá-lo	interpicar+V.ele.ACC.3.M.SG+INF
 interpicarmo-lo	interpicar+V.ele.ACC.3.M.SG+INF+1+PL
 interpicá-lo	interpicar+V.ele.ACC.3.M.SG+INF+1+SG
 interpicarde-lo	interpicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -38089,6 +38337,7 @@ interpúnhei-las	interpor+V.ele.ACC.3.F.PL+IMPF+2+PL
 interpunha-las	interpor+V.ele.ACC.3.F.PL+IMPF+2+SG
 interpunham-nas	interpor+V.ele.ACC.3.F.PL+IMPF+3+PL
 interpunha-as	interpor+V.ele.ACC.3.F.PL+IMPF+3+SG
+interpô-las	interpor+V.ele.ACC.3.F.PL+INF
 interpô-las	interpor+V.ele.ACC.3.F.PL+INF+1+SG
 interpô-las	interpor+V.ele.ACC.3.F.PL+INF+3+SG
 interpuséramo-las	interpor+V.ele.ACC.3.F.PL+PQP+1+PL
@@ -38137,6 +38386,7 @@ interpúnhei-la	interpor+V.ele.ACC.3.F.SG+IMPF+2+PL
 interpunha-la	interpor+V.ele.ACC.3.F.SG+IMPF+2+SG
 interpunham-na	interpor+V.ele.ACC.3.F.SG+IMPF+3+PL
 interpunha-a	interpor+V.ele.ACC.3.F.SG+IMPF+3+SG
+interpô-la	interpor+V.ele.ACC.3.F.SG+INF
 interpô-la	interpor+V.ele.ACC.3.F.SG+INF+1+SG
 interpô-la	interpor+V.ele.ACC.3.F.SG+INF+3+SG
 interpuséramo-la	interpor+V.ele.ACC.3.F.SG+PQP+1+PL
@@ -38185,6 +38435,7 @@ interpúnhei-los	interpor+V.ele.ACC.3.M.PL+IMPF+2+PL
 interpunha-los	interpor+V.ele.ACC.3.M.PL+IMPF+2+SG
 interpunham-nos	interpor+V.ele.ACC.3.M.PL+IMPF+3+PL
 interpunha-os	interpor+V.ele.ACC.3.M.PL+IMPF+3+SG
+interpô-los	interpor+V.ele.ACC.3.M.PL+INF
 interpô-los	interpor+V.ele.ACC.3.M.PL+INF+1+SG
 interporem-nos	interpor+V.ele.ACC.3.M.PL+INF+3+PL
 interpô-los	interpor+V.ele.ACC.3.M.PL+INF+3+SG
@@ -38233,6 +38484,7 @@ interpúnhei-lo	interpor+V.ele.ACC.3.M.SG+IMPF+2+PL
 interpunha-lo	interpor+V.ele.ACC.3.M.SG+IMPF+2+SG
 interpunham-no	interpor+V.ele.ACC.3.M.SG+IMPF+3+PL
 interpunha-o	interpor+V.ele.ACC.3.M.SG+IMPF+3+SG
+interpô-lo	interpor+V.ele.ACC.3.M.SG+INF
 interpô-lo	interpor+V.ele.ACC.3.M.SG+INF+1+SG
 interpô-lo	interpor+V.ele.ACC.3.M.SG+INF+3+SG
 interpuséramo-lo	interpor+V.ele.ACC.3.M.SG+PQP+1+PL
@@ -38597,14 +38849,6 @@ interpuserdes-vos	interpor+V.vós.AD.2.PL+SBJF+2+PL
 interpuseres-vos	interpor+V.vós.AD.2.PL+SBJF+2+SG
 interpuserem-vos	interpor+V.vós.AD.2.PL+SBJF+3+PL
 interpuser-vos	interpor+V.vós.AD.2.PL+SBJF+3+SG
-interprendê-las	interprender+V.ele.ACC.3.F.PL+INF
-interprendê-la	interprender+V.ele.ACC.3.F.SG+INF
-interprendê-los	interprender+V.ele.ACC.3.M.PL+INF
-interprendê-lo	interprender+V.ele.ACC.3.M.SG+INF
-interrompê-las	interromper+V.ele.ACC.3.F.PL+INF
-interrompê-la	interromper+V.ele.ACC.3.F.SG+INF
-interrompê-los	interromper+V.ele.ACC.3.M.PL+INF
-interrompê-lo	interromper+V.ele.ACC.3.M.SG+INF
 interseri-las-íamos	interserir+V.ele.ACC.3.F.PL+COND+1+PL
 interseri-las-ia	interserir+V.ele.ACC.3.F.PL+COND+1+SG
 interseri-las-íeis	interserir+V.ele.ACC.3.F.PL+COND+2+PL
@@ -38627,6 +38871,7 @@ interseríei-las	interserir+V.ele.ACC.3.F.PL+IMPF+2+PL
 interseria-las	interserir+V.ele.ACC.3.F.PL+IMPF+2+SG
 interseriam-nas	interserir+V.ele.ACC.3.F.PL+IMPF+3+PL
 interseria-as	interserir+V.ele.ACC.3.F.PL+IMPF+3+SG
+interseri-las	interserir+V.ele.ACC.3.F.PL+INF
 interserirmo-las	interserir+V.ele.ACC.3.F.PL+INF+1+PL
 interseri-las	interserir+V.ele.ACC.3.F.PL+INF+1+SG
 interserirde-las	interserir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -38673,6 +38918,7 @@ interseríei-la	interserir+V.ele.ACC.3.F.SG+IMPF+2+PL
 interseria-la	interserir+V.ele.ACC.3.F.SG+IMPF+2+SG
 interseriam-na	interserir+V.ele.ACC.3.F.SG+IMPF+3+PL
 interseria-a	interserir+V.ele.ACC.3.F.SG+IMPF+3+SG
+interseri-la	interserir+V.ele.ACC.3.F.SG+INF
 interserirmo-la	interserir+V.ele.ACC.3.F.SG+INF+1+PL
 interseri-la	interserir+V.ele.ACC.3.F.SG+INF+1+SG
 interserirde-la	interserir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -38719,6 +38965,7 @@ interseríei-los	interserir+V.ele.ACC.3.M.PL+IMPF+2+PL
 interseria-los	interserir+V.ele.ACC.3.M.PL+IMPF+2+SG
 interseriam-nos	interserir+V.ele.ACC.3.M.PL+IMPF+3+PL
 interseria-os	interserir+V.ele.ACC.3.M.PL+IMPF+3+SG
+interseri-los	interserir+V.ele.ACC.3.M.PL+INF
 interserirmo-los	interserir+V.ele.ACC.3.M.PL+INF+1+PL
 interseri-los	interserir+V.ele.ACC.3.M.PL+INF+1+SG
 interserirde-los	interserir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -38765,6 +39012,7 @@ interseríei-lo	interserir+V.ele.ACC.3.M.SG+IMPF+2+PL
 interseria-lo	interserir+V.ele.ACC.3.M.SG+IMPF+2+SG
 interseriam-no	interserir+V.ele.ACC.3.M.SG+IMPF+3+PL
 interseria-o	interserir+V.ele.ACC.3.M.SG+IMPF+3+SG
+interseri-lo	interserir+V.ele.ACC.3.M.SG+INF
 interserirmo-lo	interserir+V.ele.ACC.3.M.SG+INF+1+PL
 interseri-lo	interserir+V.ele.ACC.3.M.SG+INF+1+SG
 interserirde-lo	interserir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -40115,10 +40363,6 @@ intervirdes-vos	interver+V.vós.AD.2.PL+SBJF+2+PL
 intervires-vos	interver+V.vós.AD.2.PL+SBJF+2+SG
 intervirem-vos	interver+V.vós.AD.2.PL+SBJF+3+PL
 intervir-vos	interver+V.vós.AD.2.PL+SBJF+3+SG
-intervertê-las	interverter+V.ele.ACC.3.F.PL+INF
-intervertê-la	interverter+V.ele.ACC.3.F.SG+INF
-intervertê-los	interverter+V.ele.ACC.3.M.PL+INF
-intervertê-lo	interverter+V.ele.ACC.3.M.SG+INF
 intervi-las-íamos	intervir+V.ele.ACC.3.F.PL+COND+1+PL
 intervi-las-ia	intervir+V.ele.ACC.3.F.PL+COND+1+SG
 intervi-las-íeis	intervir+V.ele.ACC.3.F.PL+COND+2+PL
@@ -40141,6 +40385,7 @@ intervínhei-las	intervir+V.ele.ACC.3.F.PL+IMPF+2+PL
 intervinha-las	intervir+V.ele.ACC.3.F.PL+IMPF+2+SG
 intervinham-nas	intervir+V.ele.ACC.3.F.PL+IMPF+3+PL
 intervinha-as	intervir+V.ele.ACC.3.F.PL+IMPF+3+SG
+intervi-las	intervir+V.ele.ACC.3.F.PL+INF
 intervirmo-las	intervir+V.ele.ACC.3.F.PL+INF+1+PL
 intervi-las	intervir+V.ele.ACC.3.F.PL+INF+1+SG
 intervirde-las	intervir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -40187,6 +40432,7 @@ intervínhei-la	intervir+V.ele.ACC.3.F.SG+IMPF+2+PL
 intervinha-la	intervir+V.ele.ACC.3.F.SG+IMPF+2+SG
 intervinham-na	intervir+V.ele.ACC.3.F.SG+IMPF+3+PL
 intervinha-a	intervir+V.ele.ACC.3.F.SG+IMPF+3+SG
+intervi-la	intervir+V.ele.ACC.3.F.SG+INF
 intervirmo-la	intervir+V.ele.ACC.3.F.SG+INF+1+PL
 intervi-la	intervir+V.ele.ACC.3.F.SG+INF+1+SG
 intervirde-la	intervir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -40233,6 +40479,7 @@ intervínhei-los	intervir+V.ele.ACC.3.M.PL+IMPF+2+PL
 intervinha-los	intervir+V.ele.ACC.3.M.PL+IMPF+2+SG
 intervinham-nos	intervir+V.ele.ACC.3.M.PL+IMPF+3+PL
 intervinha-os	intervir+V.ele.ACC.3.M.PL+IMPF+3+SG
+intervi-los	intervir+V.ele.ACC.3.M.PL+INF
 intervirmo-los	intervir+V.ele.ACC.3.M.PL+INF+1+PL
 intervi-los	intervir+V.ele.ACC.3.M.PL+INF+1+SG
 intervirde-los	intervir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -40279,6 +40526,7 @@ intervínhei-lo	intervir+V.ele.ACC.3.M.SG+IMPF+2+PL
 intervinha-lo	intervir+V.ele.ACC.3.M.SG+IMPF+2+SG
 intervinham-no	intervir+V.ele.ACC.3.M.SG+IMPF+3+PL
 intervinha-o	intervir+V.ele.ACC.3.M.SG+IMPF+3+SG
+intervi-lo	intervir+V.ele.ACC.3.M.SG+INF
 intervirmo-lo	intervir+V.ele.ACC.3.M.SG+INF+1+PL
 intervi-lo	intervir+V.ele.ACC.3.M.SG+INF+1+SG
 intervirde-lo	intervir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -40612,6 +40860,7 @@ inticávei-las	inticar+V.ele.ACC.3.F.PL+IMPF+2+PL
 inticava-las	inticar+V.ele.ACC.3.F.PL+IMPF+2+SG
 inticavam-nas	inticar+V.ele.ACC.3.F.PL+IMPF+3+PL
 inticava-as	inticar+V.ele.ACC.3.F.PL+IMPF+3+SG
+inticá-las	inticar+V.ele.ACC.3.F.PL+INF
 inticarmo-las	inticar+V.ele.ACC.3.F.PL+INF+1+PL
 inticá-las	inticar+V.ele.ACC.3.F.PL+INF+1+SG
 inticarde-las	inticar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -40663,6 +40912,7 @@ inticávei-la	inticar+V.ele.ACC.3.F.SG+IMPF+2+PL
 inticava-la	inticar+V.ele.ACC.3.F.SG+IMPF+2+SG
 inticavam-na	inticar+V.ele.ACC.3.F.SG+IMPF+3+PL
 inticava-a	inticar+V.ele.ACC.3.F.SG+IMPF+3+SG
+inticá-la	inticar+V.ele.ACC.3.F.SG+INF
 inticarmo-la	inticar+V.ele.ACC.3.F.SG+INF+1+PL
 inticá-la	inticar+V.ele.ACC.3.F.SG+INF+1+SG
 inticarde-la	inticar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -40714,6 +40964,7 @@ inticávei-los	inticar+V.ele.ACC.3.M.PL+IMPF+2+PL
 inticava-los	inticar+V.ele.ACC.3.M.PL+IMPF+2+SG
 inticavam-nos	inticar+V.ele.ACC.3.M.PL+IMPF+3+PL
 inticava-os	inticar+V.ele.ACC.3.M.PL+IMPF+3+SG
+inticá-los	inticar+V.ele.ACC.3.M.PL+INF
 inticarmo-los	inticar+V.ele.ACC.3.M.PL+INF+1+PL
 inticá-los	inticar+V.ele.ACC.3.M.PL+INF+1+SG
 inticarde-los	inticar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -40765,6 +41016,7 @@ inticávei-lo	inticar+V.ele.ACC.3.M.SG+IMPF+2+PL
 inticava-lo	inticar+V.ele.ACC.3.M.SG+IMPF+2+SG
 inticavam-no	inticar+V.ele.ACC.3.M.SG+IMPF+3+PL
 inticava-o	inticar+V.ele.ACC.3.M.SG+IMPF+3+SG
+inticá-lo	inticar+V.ele.ACC.3.M.SG+INF
 inticarmo-lo	inticar+V.ele.ACC.3.M.SG+INF+1+PL
 inticá-lo	inticar+V.ele.ACC.3.M.SG+INF+1+SG
 inticarde-lo	inticar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -41148,6 +41400,7 @@ intoxicávei-las	intoxicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 intoxicava-las	intoxicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 intoxicavam-nas	intoxicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 intoxicava-as	intoxicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+intoxicá-las	intoxicar+V.ele.ACC.3.F.PL+INF
 intoxicarmo-las	intoxicar+V.ele.ACC.3.F.PL+INF+1+PL
 intoxicá-las	intoxicar+V.ele.ACC.3.F.PL+INF+1+SG
 intoxicarde-las	intoxicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -41199,6 +41452,7 @@ intoxicávei-la	intoxicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 intoxicava-la	intoxicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 intoxicavam-na	intoxicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 intoxicava-a	intoxicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+intoxicá-la	intoxicar+V.ele.ACC.3.F.SG+INF
 intoxicarmo-la	intoxicar+V.ele.ACC.3.F.SG+INF+1+PL
 intoxicá-la	intoxicar+V.ele.ACC.3.F.SG+INF+1+SG
 intoxicarde-la	intoxicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -41250,6 +41504,7 @@ intoxicávei-los	intoxicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 intoxicava-los	intoxicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 intoxicavam-nos	intoxicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 intoxicava-os	intoxicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+intoxicá-los	intoxicar+V.ele.ACC.3.M.PL+INF
 intoxicarmo-los	intoxicar+V.ele.ACC.3.M.PL+INF+1+PL
 intoxicá-los	intoxicar+V.ele.ACC.3.M.PL+INF+1+SG
 intoxicarde-los	intoxicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -41301,6 +41556,7 @@ intoxicávei-lo	intoxicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 intoxicava-lo	intoxicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 intoxicavam-no	intoxicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 intoxicava-o	intoxicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+intoxicá-lo	intoxicar+V.ele.ACC.3.M.SG+INF
 intoxicarmo-lo	intoxicar+V.ele.ACC.3.M.SG+INF+1+PL
 intoxicá-lo	intoxicar+V.ele.ACC.3.M.SG+INF+1+SG
 intoxicarde-lo	intoxicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -41684,6 +41940,7 @@ intricávei-las	intricar+V.ele.ACC.3.F.PL+IMPF+2+PL
 intricava-las	intricar+V.ele.ACC.3.F.PL+IMPF+2+SG
 intricavam-nas	intricar+V.ele.ACC.3.F.PL+IMPF+3+PL
 intricava-as	intricar+V.ele.ACC.3.F.PL+IMPF+3+SG
+intricá-las	intricar+V.ele.ACC.3.F.PL+INF
 intricarmo-las	intricar+V.ele.ACC.3.F.PL+INF+1+PL
 intricá-las	intricar+V.ele.ACC.3.F.PL+INF+1+SG
 intricarde-las	intricar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -41735,6 +41992,7 @@ intricávei-la	intricar+V.ele.ACC.3.F.SG+IMPF+2+PL
 intricava-la	intricar+V.ele.ACC.3.F.SG+IMPF+2+SG
 intricavam-na	intricar+V.ele.ACC.3.F.SG+IMPF+3+PL
 intricava-a	intricar+V.ele.ACC.3.F.SG+IMPF+3+SG
+intricá-la	intricar+V.ele.ACC.3.F.SG+INF
 intricarmo-la	intricar+V.ele.ACC.3.F.SG+INF+1+PL
 intricá-la	intricar+V.ele.ACC.3.F.SG+INF+1+SG
 intricarde-la	intricar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -41786,6 +42044,7 @@ intricávei-los	intricar+V.ele.ACC.3.M.PL+IMPF+2+PL
 intricava-los	intricar+V.ele.ACC.3.M.PL+IMPF+2+SG
 intricavam-nos	intricar+V.ele.ACC.3.M.PL+IMPF+3+PL
 intricava-os	intricar+V.ele.ACC.3.M.PL+IMPF+3+SG
+intricá-los	intricar+V.ele.ACC.3.M.PL+INF
 intricarmo-los	intricar+V.ele.ACC.3.M.PL+INF+1+PL
 intricá-los	intricar+V.ele.ACC.3.M.PL+INF+1+SG
 intricarde-los	intricar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -41837,6 +42096,7 @@ intricávei-lo	intricar+V.ele.ACC.3.M.SG+IMPF+2+PL
 intricava-lo	intricar+V.ele.ACC.3.M.SG+IMPF+2+SG
 intricavam-no	intricar+V.ele.ACC.3.M.SG+IMPF+3+PL
 intricava-o	intricar+V.ele.ACC.3.M.SG+IMPF+3+SG
+intricá-lo	intricar+V.ele.ACC.3.M.SG+INF
 intricarmo-lo	intricar+V.ele.ACC.3.M.SG+INF+1+PL
 intricá-lo	intricar+V.ele.ACC.3.M.SG+INF+1+SG
 intricarde-lo	intricar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -42220,6 +42480,7 @@ intrincávei-las	intrincar+V.ele.ACC.3.F.PL+IMPF+2+PL
 intrincava-las	intrincar+V.ele.ACC.3.F.PL+IMPF+2+SG
 intrincavam-nas	intrincar+V.ele.ACC.3.F.PL+IMPF+3+PL
 intrincava-as	intrincar+V.ele.ACC.3.F.PL+IMPF+3+SG
+intrincá-las	intrincar+V.ele.ACC.3.F.PL+INF
 intrincarmo-las	intrincar+V.ele.ACC.3.F.PL+INF+1+PL
 intrincá-las	intrincar+V.ele.ACC.3.F.PL+INF+1+SG
 intrincarde-las	intrincar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -42271,6 +42532,7 @@ intrincávei-la	intrincar+V.ele.ACC.3.F.SG+IMPF+2+PL
 intrincava-la	intrincar+V.ele.ACC.3.F.SG+IMPF+2+SG
 intrincavam-na	intrincar+V.ele.ACC.3.F.SG+IMPF+3+PL
 intrincava-a	intrincar+V.ele.ACC.3.F.SG+IMPF+3+SG
+intrincá-la	intrincar+V.ele.ACC.3.F.SG+INF
 intrincarmo-la	intrincar+V.ele.ACC.3.F.SG+INF+1+PL
 intrincá-la	intrincar+V.ele.ACC.3.F.SG+INF+1+SG
 intrincarde-la	intrincar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -42322,6 +42584,7 @@ intrincávei-los	intrincar+V.ele.ACC.3.M.PL+IMPF+2+PL
 intrincava-los	intrincar+V.ele.ACC.3.M.PL+IMPF+2+SG
 intrincavam-nos	intrincar+V.ele.ACC.3.M.PL+IMPF+3+PL
 intrincava-os	intrincar+V.ele.ACC.3.M.PL+IMPF+3+SG
+intrincá-los	intrincar+V.ele.ACC.3.M.PL+INF
 intrincarmo-los	intrincar+V.ele.ACC.3.M.PL+INF+1+PL
 intrincá-los	intrincar+V.ele.ACC.3.M.PL+INF+1+SG
 intrincarde-los	intrincar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -42373,6 +42636,7 @@ intrincávei-lo	intrincar+V.ele.ACC.3.M.SG+IMPF+2+PL
 intrincava-lo	intrincar+V.ele.ACC.3.M.SG+IMPF+2+SG
 intrincavam-no	intrincar+V.ele.ACC.3.M.SG+IMPF+3+PL
 intrincava-o	intrincar+V.ele.ACC.3.M.SG+IMPF+3+SG
+intrincá-lo	intrincar+V.ele.ACC.3.M.SG+INF
 intrincarmo-lo	intrincar+V.ele.ACC.3.M.SG+INF+1+PL
 intrincá-lo	intrincar+V.ele.ACC.3.M.SG+INF+1+SG
 intrincarde-lo	intrincar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -42756,6 +43020,7 @@ introduzíei-las	introduzir+V.ele.ACC.3.F.PL+IMPF+2+PL
 introduzia-las	introduzir+V.ele.ACC.3.F.PL+IMPF+2+SG
 introduziam-nas	introduzir+V.ele.ACC.3.F.PL+IMPF+3+PL
 introduzia-as	introduzir+V.ele.ACC.3.F.PL+IMPF+3+SG
+introduzi-las	introduzir+V.ele.ACC.3.F.PL+INF
 introduzirmo-las	introduzir+V.ele.ACC.3.F.PL+INF+1+PL
 introduzi-las	introduzir+V.ele.ACC.3.F.PL+INF+1+SG
 introduzirde-las	introduzir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -42802,6 +43067,7 @@ introduzíei-la	introduzir+V.ele.ACC.3.F.SG+IMPF+2+PL
 introduzia-la	introduzir+V.ele.ACC.3.F.SG+IMPF+2+SG
 introduziam-na	introduzir+V.ele.ACC.3.F.SG+IMPF+3+PL
 introduzia-a	introduzir+V.ele.ACC.3.F.SG+IMPF+3+SG
+introduzi-la	introduzir+V.ele.ACC.3.F.SG+INF
 introduzirmo-la	introduzir+V.ele.ACC.3.F.SG+INF+1+PL
 introduzi-la	introduzir+V.ele.ACC.3.F.SG+INF+1+SG
 introduzirde-la	introduzir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -42848,6 +43114,7 @@ introduzíei-los	introduzir+V.ele.ACC.3.M.PL+IMPF+2+PL
 introduzia-los	introduzir+V.ele.ACC.3.M.PL+IMPF+2+SG
 introduziam-nos	introduzir+V.ele.ACC.3.M.PL+IMPF+3+PL
 introduzia-os	introduzir+V.ele.ACC.3.M.PL+IMPF+3+SG
+introduzi-los	introduzir+V.ele.ACC.3.M.PL+INF
 introduzirmo-los	introduzir+V.ele.ACC.3.M.PL+INF+1+PL
 introduzi-los	introduzir+V.ele.ACC.3.M.PL+INF+1+SG
 introduzirde-los	introduzir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -42894,6 +43161,7 @@ introduzíei-lo	introduzir+V.ele.ACC.3.M.SG+IMPF+2+PL
 introduzia-lo	introduzir+V.ele.ACC.3.M.SG+IMPF+2+SG
 introduziam-no	introduzir+V.ele.ACC.3.M.SG+IMPF+3+PL
 introduzia-o	introduzir+V.ele.ACC.3.M.SG+IMPF+3+SG
+introduzi-lo	introduzir+V.ele.ACC.3.M.SG+INF
 introduzirmo-lo	introduzir+V.ele.ACC.3.M.SG+INF+1+PL
 introduzi-lo	introduzir+V.ele.ACC.3.M.SG+INF+1+SG
 introduzirde-lo	introduzir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -43218,14 +43486,6 @@ introduzirdes-vos	introduzir+V.vós.AD.2.PL+SBJF+2+PL
 introduzires-vos	introduzir+V.vós.AD.2.PL+SBJF+2+SG
 introduzirem-vos	introduzir+V.vós.AD.2.PL+SBJF+3+PL
 introduzir-vos	introduzir+V.vós.AD.2.PL+SBJF+3+SG
-intrometê-las	intrometer+V.ele.ACC.3.F.PL+INF
-intrometê-la	intrometer+V.ele.ACC.3.F.SG+INF
-intrometê-los	intrometer+V.ele.ACC.3.M.PL+INF
-intrometê-lo	intrometer+V.ele.ACC.3.M.SG+INF
-introvertê-las	introverter+V.ele.ACC.3.F.PL+INF
-introvertê-la	introverter+V.ele.ACC.3.F.SG+INF
-introvertê-los	introverter+V.ele.ACC.3.M.PL+INF
-introvertê-lo	introverter+V.ele.ACC.3.M.SG+INF
 intruji-las-íamos	intrujir+V.ele.ACC.3.F.PL+COND+1+PL
 intruji-las-ia	intrujir+V.ele.ACC.3.F.PL+COND+1+SG
 intruji-las-íeis	intrujir+V.ele.ACC.3.F.PL+COND+2+PL
@@ -43248,6 +43508,7 @@ intrujíei-las	intrujir+V.ele.ACC.3.F.PL+IMPF+2+PL
 intrujia-las	intrujir+V.ele.ACC.3.F.PL+IMPF+2+SG
 intrujiam-nas	intrujir+V.ele.ACC.3.F.PL+IMPF+3+PL
 intrujia-as	intrujir+V.ele.ACC.3.F.PL+IMPF+3+SG
+intruji-las	intrujir+V.ele.ACC.3.F.PL+INF
 intrujirmo-las	intrujir+V.ele.ACC.3.F.PL+INF+1+PL
 intruji-las	intrujir+V.ele.ACC.3.F.PL+INF+1+SG
 intrujirde-las	intrujir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -43288,6 +43549,7 @@ intrujíei-la	intrujir+V.ele.ACC.3.F.SG+IMPF+2+PL
 intrujia-la	intrujir+V.ele.ACC.3.F.SG+IMPF+2+SG
 intrujiam-na	intrujir+V.ele.ACC.3.F.SG+IMPF+3+PL
 intrujia-a	intrujir+V.ele.ACC.3.F.SG+IMPF+3+SG
+intruji-la	intrujir+V.ele.ACC.3.F.SG+INF
 intrujirmo-la	intrujir+V.ele.ACC.3.F.SG+INF+1+PL
 intruji-la	intrujir+V.ele.ACC.3.F.SG+INF+1+SG
 intrujirde-la	intrujir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -43328,6 +43590,7 @@ intrujíei-los	intrujir+V.ele.ACC.3.M.PL+IMPF+2+PL
 intrujia-los	intrujir+V.ele.ACC.3.M.PL+IMPF+2+SG
 intrujiam-nos	intrujir+V.ele.ACC.3.M.PL+IMPF+3+PL
 intrujia-os	intrujir+V.ele.ACC.3.M.PL+IMPF+3+SG
+intruji-los	intrujir+V.ele.ACC.3.M.PL+INF
 intrujirmo-los	intrujir+V.ele.ACC.3.M.PL+INF+1+PL
 intruji-los	intrujir+V.ele.ACC.3.M.PL+INF+1+SG
 intrujirde-los	intrujir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -43368,6 +43631,7 @@ intrujíei-lo	intrujir+V.ele.ACC.3.M.SG+IMPF+2+PL
 intrujia-lo	intrujir+V.ele.ACC.3.M.SG+IMPF+2+SG
 intrujiam-no	intrujir+V.ele.ACC.3.M.SG+IMPF+3+PL
 intrujia-o	intrujir+V.ele.ACC.3.M.SG+IMPF+3+SG
+intruji-lo	intrujir+V.ele.ACC.3.M.SG+INF
 intrujirmo-lo	intrujir+V.ele.ACC.3.M.SG+INF+1+PL
 intruji-lo	intrujir+V.ele.ACC.3.M.SG+INF+1+SG
 intrujirde-lo	intrujir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -43670,6 +43934,7 @@ intuíei-las	intuir+V.ele.ACC.3.F.PL+IMPF+2+PL
 intuía-las	intuir+V.ele.ACC.3.F.PL+IMPF+2+SG
 intuíam-nas	intuir+V.ele.ACC.3.F.PL+IMPF+3+PL
 intuía-as	intuir+V.ele.ACC.3.F.PL+IMPF+3+SG
+intuí-las	intuir+V.ele.ACC.3.F.PL+INF
 intuirmo-las	intuir+V.ele.ACC.3.F.PL+INF+1+PL
 intuí-las	intuir+V.ele.ACC.3.F.PL+INF+1+SG
 intuirde-las	intuir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -43722,6 +43987,7 @@ intuíei-la	intuir+V.ele.ACC.3.F.SG+IMPF+2+PL
 intuía-la	intuir+V.ele.ACC.3.F.SG+IMPF+2+SG
 intuíam-na	intuir+V.ele.ACC.3.F.SG+IMPF+3+PL
 intuía-a	intuir+V.ele.ACC.3.F.SG+IMPF+3+SG
+intuí-la	intuir+V.ele.ACC.3.F.SG+INF
 intuirmo-la	intuir+V.ele.ACC.3.F.SG+INF+1+PL
 intuí-la	intuir+V.ele.ACC.3.F.SG+INF+1+SG
 intuirde-la	intuir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -43775,6 +44041,7 @@ intuía-los	intuir+V.ele.ACC.3.M.PL+IMPF+2+SG
 intuía-os	intuir+V.ele.ACC.3.M.PL+IMPF+3+SG
 intuir-nos	intuir+V.ele.ACC.3.M.PL+INF
 intuir-vos	intuir+V.ele.ACC.3.M.PL+INF
+intuí-los	intuir+V.ele.ACC.3.M.PL+INF
 intuirmo-los	intuir+V.ele.ACC.3.M.PL+INF+1+PL
 intuí-los	intuir+V.ele.ACC.3.M.PL+INF+1+SG
 intuirde-los	intuir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -43823,6 +44090,7 @@ intuíei-lo	intuir+V.ele.ACC.3.M.SG+IMPF+2+PL
 intuía-lo	intuir+V.ele.ACC.3.M.SG+IMPF+2+SG
 intuíam-no	intuir+V.ele.ACC.3.M.SG+IMPF+3+PL
 intuía-o	intuir+V.ele.ACC.3.M.SG+IMPF+3+SG
+intuí-lo	intuir+V.ele.ACC.3.M.SG+INF
 intuirmo-lo	intuir+V.ele.ACC.3.M.SG+INF+1+PL
 intuí-lo	intuir+V.ele.ACC.3.M.SG+INF+1+SG
 intuirde-lo	intuir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -45281,6 +45549,7 @@ invadíei-las	invadir+V.ele.ACC.3.F.PL+IMPF+2+PL
 invadia-las	invadir+V.ele.ACC.3.F.PL+IMPF+2+SG
 invadiam-nas	invadir+V.ele.ACC.3.F.PL+IMPF+3+PL
 invadia-as	invadir+V.ele.ACC.3.F.PL+IMPF+3+SG
+invadi-las	invadir+V.ele.ACC.3.F.PL+INF
 invadirmo-las	invadir+V.ele.ACC.3.F.PL+INF+1+PL
 invadi-las	invadir+V.ele.ACC.3.F.PL+INF+1+SG
 invadirde-las	invadir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -45321,6 +45590,7 @@ invadíei-la	invadir+V.ele.ACC.3.F.SG+IMPF+2+PL
 invadia-la	invadir+V.ele.ACC.3.F.SG+IMPF+2+SG
 invadiam-na	invadir+V.ele.ACC.3.F.SG+IMPF+3+PL
 invadia-a	invadir+V.ele.ACC.3.F.SG+IMPF+3+SG
+invadi-la	invadir+V.ele.ACC.3.F.SG+INF
 invadirmo-la	invadir+V.ele.ACC.3.F.SG+INF+1+PL
 invadi-la	invadir+V.ele.ACC.3.F.SG+INF+1+SG
 invadirde-la	invadir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -45361,6 +45631,7 @@ invadíei-los	invadir+V.ele.ACC.3.M.PL+IMPF+2+PL
 invadia-los	invadir+V.ele.ACC.3.M.PL+IMPF+2+SG
 invadiam-nos	invadir+V.ele.ACC.3.M.PL+IMPF+3+PL
 invadia-os	invadir+V.ele.ACC.3.M.PL+IMPF+3+SG
+invadi-los	invadir+V.ele.ACC.3.M.PL+INF
 invadirmo-los	invadir+V.ele.ACC.3.M.PL+INF+1+PL
 invadi-los	invadir+V.ele.ACC.3.M.PL+INF+1+SG
 invadirde-los	invadir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -45401,6 +45672,7 @@ invadíei-lo	invadir+V.ele.ACC.3.M.SG+IMPF+2+PL
 invadia-lo	invadir+V.ele.ACC.3.M.SG+IMPF+2+SG
 invadiam-no	invadir+V.ele.ACC.3.M.SG+IMPF+3+PL
 invadia-o	invadir+V.ele.ACC.3.M.SG+IMPF+3+SG
+invadi-lo	invadir+V.ele.ACC.3.M.SG+INF
 invadirmo-lo	invadir+V.ele.ACC.3.M.SG+INF+1+PL
 invadi-lo	invadir+V.ele.ACC.3.M.SG+INF+1+SG
 invadirde-lo	invadir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -46220,10 +46492,6 @@ invalescerdes-vos	invalescer+V.vós.AD.2.PL+SBJF+2+PL
 invalesceres-vos	invalescer+V.vós.AD.2.PL+SBJF+2+SG
 invalescerem-vos	invalescer+V.vós.AD.2.PL+SBJF+3+PL
 invalescer-vos	invalescer+V.vós.AD.2.PL+SBJF+3+SG
-invertê-las	inverter+V.ele.ACC.3.F.PL+INF
-invertê-la	inverter+V.ele.ACC.3.F.SG+INF
-invertê-los	inverter+V.ele.ACC.3.M.PL+INF
-invertê-lo	inverter+V.ele.ACC.3.M.SG+INF
 investi-las-íamos	investir+V.ele.ACC.3.F.PL+COND+1+PL
 investi-las-ia	investir+V.ele.ACC.3.F.PL+COND+1+SG
 investi-las-íeis	investir+V.ele.ACC.3.F.PL+COND+2+PL
@@ -46246,6 +46514,7 @@ investíei-las	investir+V.ele.ACC.3.F.PL+IMPF+2+PL
 investia-las	investir+V.ele.ACC.3.F.PL+IMPF+2+SG
 investiam-nas	investir+V.ele.ACC.3.F.PL+IMPF+3+PL
 investia-as	investir+V.ele.ACC.3.F.PL+IMPF+3+SG
+investi-las	investir+V.ele.ACC.3.F.PL+INF
 investirmo-las	investir+V.ele.ACC.3.F.PL+INF+1+PL
 investi-las	investir+V.ele.ACC.3.F.PL+INF+1+SG
 investirde-las	investir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -46292,6 +46561,7 @@ investíei-la	investir+V.ele.ACC.3.F.SG+IMPF+2+PL
 investia-la	investir+V.ele.ACC.3.F.SG+IMPF+2+SG
 investiam-na	investir+V.ele.ACC.3.F.SG+IMPF+3+PL
 investia-a	investir+V.ele.ACC.3.F.SG+IMPF+3+SG
+investi-la	investir+V.ele.ACC.3.F.SG+INF
 investirmo-la	investir+V.ele.ACC.3.F.SG+INF+1+PL
 investi-la	investir+V.ele.ACC.3.F.SG+INF+1+SG
 investirde-la	investir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -46338,6 +46608,7 @@ investíei-los	investir+V.ele.ACC.3.M.PL+IMPF+2+PL
 investia-los	investir+V.ele.ACC.3.M.PL+IMPF+2+SG
 investiam-nos	investir+V.ele.ACC.3.M.PL+IMPF+3+PL
 investia-os	investir+V.ele.ACC.3.M.PL+IMPF+3+SG
+investi-los	investir+V.ele.ACC.3.M.PL+INF
 investirmo-los	investir+V.ele.ACC.3.M.PL+INF+1+PL
 investi-los	investir+V.ele.ACC.3.M.PL+INF+1+SG
 investirde-los	investir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -46384,6 +46655,7 @@ investíei-lo	investir+V.ele.ACC.3.M.SG+IMPF+2+PL
 investia-lo	investir+V.ele.ACC.3.M.SG+IMPF+2+SG
 investiam-no	investir+V.ele.ACC.3.M.SG+IMPF+3+PL
 investia-o	investir+V.ele.ACC.3.M.SG+IMPF+3+SG
+investi-lo	investir+V.ele.ACC.3.M.SG+INF
 investirmo-lo	investir+V.ele.ACC.3.M.SG+INF+1+PL
 investi-lo	investir+V.ele.ACC.3.M.SG+INF+1+SG
 investirde-lo	investir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -46730,6 +47002,7 @@ invocávei-las	invocar+V.ele.ACC.3.F.PL+IMPF+2+PL
 invocava-las	invocar+V.ele.ACC.3.F.PL+IMPF+2+SG
 invocavam-nas	invocar+V.ele.ACC.3.F.PL+IMPF+3+PL
 invocava-as	invocar+V.ele.ACC.3.F.PL+IMPF+3+SG
+invocá-las	invocar+V.ele.ACC.3.F.PL+INF
 invocarmo-las	invocar+V.ele.ACC.3.F.PL+INF+1+PL
 invocá-las	invocar+V.ele.ACC.3.F.PL+INF+1+SG
 invocarde-las	invocar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -46781,6 +47054,7 @@ invocávei-la	invocar+V.ele.ACC.3.F.SG+IMPF+2+PL
 invocava-la	invocar+V.ele.ACC.3.F.SG+IMPF+2+SG
 invocavam-na	invocar+V.ele.ACC.3.F.SG+IMPF+3+PL
 invocava-a	invocar+V.ele.ACC.3.F.SG+IMPF+3+SG
+invocá-la	invocar+V.ele.ACC.3.F.SG+INF
 invocarmo-la	invocar+V.ele.ACC.3.F.SG+INF+1+PL
 invocá-la	invocar+V.ele.ACC.3.F.SG+INF+1+SG
 invocarde-la	invocar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -46832,6 +47106,7 @@ invocávei-los	invocar+V.ele.ACC.3.M.PL+IMPF+2+PL
 invocava-los	invocar+V.ele.ACC.3.M.PL+IMPF+2+SG
 invocavam-nos	invocar+V.ele.ACC.3.M.PL+IMPF+3+PL
 invocava-os	invocar+V.ele.ACC.3.M.PL+IMPF+3+SG
+invocá-los	invocar+V.ele.ACC.3.M.PL+INF
 invocarmo-los	invocar+V.ele.ACC.3.M.PL+INF+1+PL
 invocá-los	invocar+V.ele.ACC.3.M.PL+INF+1+SG
 invocarde-los	invocar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -46883,6 +47158,7 @@ invocávei-lo	invocar+V.ele.ACC.3.M.SG+IMPF+2+PL
 invocava-lo	invocar+V.ele.ACC.3.M.SG+IMPF+2+SG
 invocavam-no	invocar+V.ele.ACC.3.M.SG+IMPF+3+PL
 invocava-o	invocar+V.ele.ACC.3.M.SG+IMPF+3+SG
+invocá-lo	invocar+V.ele.ACC.3.M.SG+INF
 invocarmo-lo	invocar+V.ele.ACC.3.M.SG+INF+1+PL
 invocá-lo	invocar+V.ele.ACC.3.M.SG+INF+1+SG
 invocarde-lo	invocar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -47266,6 +47542,7 @@ inxeríei-las	inxerir+V.ele.ACC.3.F.PL+IMPF+2+PL
 inxeria-las	inxerir+V.ele.ACC.3.F.PL+IMPF+2+SG
 inxeriam-nas	inxerir+V.ele.ACC.3.F.PL+IMPF+3+PL
 inxeria-as	inxerir+V.ele.ACC.3.F.PL+IMPF+3+SG
+inxeri-las	inxerir+V.ele.ACC.3.F.PL+INF
 inxerirmo-las	inxerir+V.ele.ACC.3.F.PL+INF+1+PL
 inxeri-las	inxerir+V.ele.ACC.3.F.PL+INF+1+SG
 inxerirde-las	inxerir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -47312,6 +47589,7 @@ inxeríei-la	inxerir+V.ele.ACC.3.F.SG+IMPF+2+PL
 inxeria-la	inxerir+V.ele.ACC.3.F.SG+IMPF+2+SG
 inxeriam-na	inxerir+V.ele.ACC.3.F.SG+IMPF+3+PL
 inxeria-a	inxerir+V.ele.ACC.3.F.SG+IMPF+3+SG
+inxeri-la	inxerir+V.ele.ACC.3.F.SG+INF
 inxerirmo-la	inxerir+V.ele.ACC.3.F.SG+INF+1+PL
 inxeri-la	inxerir+V.ele.ACC.3.F.SG+INF+1+SG
 inxerirde-la	inxerir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -47358,6 +47636,7 @@ inxeríei-los	inxerir+V.ele.ACC.3.M.PL+IMPF+2+PL
 inxeria-los	inxerir+V.ele.ACC.3.M.PL+IMPF+2+SG
 inxeriam-nos	inxerir+V.ele.ACC.3.M.PL+IMPF+3+PL
 inxeria-os	inxerir+V.ele.ACC.3.M.PL+IMPF+3+SG
+inxeri-los	inxerir+V.ele.ACC.3.M.PL+INF
 inxerirmo-los	inxerir+V.ele.ACC.3.M.PL+INF+1+PL
 inxeri-los	inxerir+V.ele.ACC.3.M.PL+INF+1+SG
 inxerirde-los	inxerir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -47404,6 +47683,7 @@ inxeríei-lo	inxerir+V.ele.ACC.3.M.SG+IMPF+2+PL
 inxeria-lo	inxerir+V.ele.ACC.3.M.SG+IMPF+2+SG
 inxeriam-no	inxerir+V.ele.ACC.3.M.SG+IMPF+3+PL
 inxeria-o	inxerir+V.ele.ACC.3.M.SG+IMPF+3+SG
+inxeri-lo	inxerir+V.ele.ACC.3.M.SG+INF
 inxerirmo-lo	inxerir+V.ele.ACC.3.M.SG+INF+1+PL
 inxeri-lo	inxerir+V.ele.ACC.3.M.SG+INF+1+SG
 inxerirde-lo	inxerir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -47750,6 +48030,7 @@ inçávei-las	inçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 inçava-las	inçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 inçavam-nas	inçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 inçava-as	inçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+inçá-las	inçar+V.ele.ACC.3.F.PL+INF
 inçarmo-las	inçar+V.ele.ACC.3.F.PL+INF+1+PL
 inçá-las	inçar+V.ele.ACC.3.F.PL+INF+1+SG
 inçarde-las	inçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -47801,6 +48082,7 @@ inçávei-la	inçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 inçava-la	inçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 inçavam-na	inçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 inçava-a	inçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+inçá-la	inçar+V.ele.ACC.3.F.SG+INF
 inçarmo-la	inçar+V.ele.ACC.3.F.SG+INF+1+PL
 inçá-la	inçar+V.ele.ACC.3.F.SG+INF+1+SG
 inçarde-la	inçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -47851,6 +48133,7 @@ inçava-os	inçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 inçávei-los	inçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 inçava-los	inçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 inçava-os	inçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+inçá-los	inçar+V.ele.ACC.3.M.PL+INF
 inçarmo-los	inçar+V.ele.ACC.3.M.PL+INF+1+PL
 inçá-los	inçar+V.ele.ACC.3.M.PL+INF+1+SG
 inçarde-los	inçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -47897,6 +48180,7 @@ inçávei-lo	inçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 inçava-lo	inçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 inçavam-no	inçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 inçava-o	inçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+inçá-lo	inçar+V.ele.ACC.3.M.SG+INF
 inçarmo-lo	inçar+V.ele.ACC.3.M.SG+INF+1+PL
 inçá-lo	inçar+V.ele.ACC.3.M.SG+INF+1+SG
 inçarde-lo	inçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -48276,6 +48560,7 @@ ia-as	ir+V.ele.ACC.3.F.PL+IMPF+1+SG
 ia-las	ir+V.ele.ACC.3.F.PL+IMPF+2+SG
 iam-nas	ir+V.ele.ACC.3.F.PL+IMPF+3+PL
 ia-as	ir+V.ele.ACC.3.F.PL+IMPF+3+SG
+i-las	ir+V.ele.ACC.3.F.PL+INF
 irmo-las	ir+V.ele.ACC.3.F.PL+INF+1+PL
 i-las	ir+V.ele.ACC.3.F.PL+INF+1+SG
 irde-las	ir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -48325,6 +48610,7 @@ ia-a	ir+V.ele.ACC.3.F.SG+IMPF+1+SG
 ia-la	ir+V.ele.ACC.3.F.SG+IMPF+2+SG
 iam-na	ir+V.ele.ACC.3.F.SG+IMPF+3+PL
 ia-a	ir+V.ele.ACC.3.F.SG+IMPF+3+SG
+i-la	ir+V.ele.ACC.3.F.SG+INF
 irmo-la	ir+V.ele.ACC.3.F.SG+INF+1+PL
 i-la	ir+V.ele.ACC.3.F.SG+INF+1+SG
 irde-la	ir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -48374,6 +48660,7 @@ ia-os	ir+V.ele.ACC.3.M.PL+IMPF+1+SG
 ia-los	ir+V.ele.ACC.3.M.PL+IMPF+2+SG
 iam-nos	ir+V.ele.ACC.3.M.PL+IMPF+3+PL
 ia-os	ir+V.ele.ACC.3.M.PL+IMPF+3+SG
+i-los	ir+V.ele.ACC.3.M.PL+INF
 irmo-los	ir+V.ele.ACC.3.M.PL+INF+1+PL
 i-los	ir+V.ele.ACC.3.M.PL+INF+1+SG
 irde-los	ir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -48423,6 +48710,7 @@ ia-o	ir+V.ele.ACC.3.M.SG+IMPF+1+SG
 ia-lo	ir+V.ele.ACC.3.M.SG+IMPF+2+SG
 iam-no	ir+V.ele.ACC.3.M.SG+IMPF+3+PL
 ia-o	ir+V.ele.ACC.3.M.SG+IMPF+3+SG
+i-lo	ir+V.ele.ACC.3.M.SG+INF
 irmo-lo	ir+V.ele.ACC.3.M.SG+INF+1+PL
 i-lo	ir+V.ele.ACC.3.M.SG+INF+1+SG
 irde-lo	ir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -48765,10 +49053,6 @@ formos-vos	ir+V.vós.AD.2.PL+SBJF+1+PL
 fordes-vos	ir+V.vós.AD.2.PL+SBJF+2+PL
 fores-vos	ir+V.vós.AD.2.PL+SBJF+2+SG
 forem-vos	ir+V.vós.AD.2.PL+SBJF+3+PL
-irrompê-las	irromper+V.ele.ACC.3.F.PL+INF
-irrompê-la	irromper+V.ele.ACC.3.F.SG+INF
-irrompê-los	irromper+V.ele.ACC.3.M.PL+INF
-irrompê-lo	irromper+V.ele.ACC.3.M.SG+INF
 iscá-las-íamos	iscar+V.ele.ACC.3.F.PL+COND+1+PL
 iscá-las-ia	iscar+V.ele.ACC.3.F.PL+COND+1+SG
 iscá-las-íeis	iscar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -48791,6 +49075,7 @@ iscávei-las	iscar+V.ele.ACC.3.F.PL+IMPF+2+PL
 iscava-las	iscar+V.ele.ACC.3.F.PL+IMPF+2+SG
 iscavam-nas	iscar+V.ele.ACC.3.F.PL+IMPF+3+PL
 iscava-as	iscar+V.ele.ACC.3.F.PL+IMPF+3+SG
+iscá-las	iscar+V.ele.ACC.3.F.PL+INF
 iscarmo-las	iscar+V.ele.ACC.3.F.PL+INF+1+PL
 iscá-las	iscar+V.ele.ACC.3.F.PL+INF+1+SG
 iscarde-las	iscar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -48842,6 +49127,7 @@ iscávei-la	iscar+V.ele.ACC.3.F.SG+IMPF+2+PL
 iscava-la	iscar+V.ele.ACC.3.F.SG+IMPF+2+SG
 iscavam-na	iscar+V.ele.ACC.3.F.SG+IMPF+3+PL
 iscava-a	iscar+V.ele.ACC.3.F.SG+IMPF+3+SG
+iscá-la	iscar+V.ele.ACC.3.F.SG+INF
 iscarmo-la	iscar+V.ele.ACC.3.F.SG+INF+1+PL
 iscá-la	iscar+V.ele.ACC.3.F.SG+INF+1+SG
 iscarde-la	iscar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -48893,6 +49179,7 @@ iscávei-los	iscar+V.ele.ACC.3.M.PL+IMPF+2+PL
 iscava-los	iscar+V.ele.ACC.3.M.PL+IMPF+2+SG
 iscavam-nos	iscar+V.ele.ACC.3.M.PL+IMPF+3+PL
 iscava-os	iscar+V.ele.ACC.3.M.PL+IMPF+3+SG
+iscá-los	iscar+V.ele.ACC.3.M.PL+INF
 iscarmo-los	iscar+V.ele.ACC.3.M.PL+INF+1+PL
 iscá-los	iscar+V.ele.ACC.3.M.PL+INF+1+SG
 iscarde-los	iscar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -48944,6 +49231,7 @@ iscávei-lo	iscar+V.ele.ACC.3.M.SG+IMPF+2+PL
 iscava-lo	iscar+V.ele.ACC.3.M.SG+IMPF+2+SG
 iscavam-no	iscar+V.ele.ACC.3.M.SG+IMPF+3+PL
 iscava-o	iscar+V.ele.ACC.3.M.SG+IMPF+3+SG
+iscá-lo	iscar+V.ele.ACC.3.M.SG+INF
 iscarmo-lo	iscar+V.ele.ACC.3.M.SG+INF+1+PL
 iscá-lo	iscar+V.ele.ACC.3.M.SG+INF+1+SG
 iscarde-lo	iscar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -49327,6 +49615,7 @@ içávei-las	içar+V.ele.ACC.3.F.PL+IMPF+2+PL
 içava-las	içar+V.ele.ACC.3.F.PL+IMPF+2+SG
 içavam-nas	içar+V.ele.ACC.3.F.PL+IMPF+3+PL
 içava-as	içar+V.ele.ACC.3.F.PL+IMPF+3+SG
+içá-las	içar+V.ele.ACC.3.F.PL+INF
 içarmo-las	içar+V.ele.ACC.3.F.PL+INF+1+PL
 içá-las	içar+V.ele.ACC.3.F.PL+INF+1+SG
 içarde-las	içar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -49378,6 +49667,7 @@ içávei-la	içar+V.ele.ACC.3.F.SG+IMPF+2+PL
 içava-la	içar+V.ele.ACC.3.F.SG+IMPF+2+SG
 içavam-na	içar+V.ele.ACC.3.F.SG+IMPF+3+PL
 içava-a	içar+V.ele.ACC.3.F.SG+IMPF+3+SG
+içá-la	içar+V.ele.ACC.3.F.SG+INF
 içarmo-la	içar+V.ele.ACC.3.F.SG+INF+1+PL
 içá-la	içar+V.ele.ACC.3.F.SG+INF+1+SG
 içarde-la	içar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -49428,6 +49718,7 @@ içava-os	içar+V.ele.ACC.3.M.PL+IMPF+1+SG
 içávei-los	içar+V.ele.ACC.3.M.PL+IMPF+2+PL
 içava-los	içar+V.ele.ACC.3.M.PL+IMPF+2+SG
 içava-os	içar+V.ele.ACC.3.M.PL+IMPF+3+SG
+içá-los	içar+V.ele.ACC.3.M.PL+INF
 içarmo-los	içar+V.ele.ACC.3.M.PL+INF+1+PL
 içá-los	içar+V.ele.ACC.3.M.PL+INF+1+SG
 içarde-los	içar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -49474,6 +49765,7 @@ içávei-lo	içar+V.ele.ACC.3.M.SG+IMPF+2+PL
 içava-lo	içar+V.ele.ACC.3.M.SG+IMPF+2+SG
 içavam-no	içar+V.ele.ACC.3.M.SG+IMPF+3+PL
 içava-o	içar+V.ele.ACC.3.M.SG+IMPF+3+SG
+içá-lo	içar+V.ele.ACC.3.M.SG+INF
 içarmo-lo	içar+V.ele.ACC.3.M.SG+INF+1+PL
 içá-lo	içar+V.ele.ACC.3.M.SG+INF+1+SG
 içarde-lo	içar+V.ele.ACC.3.M.SG+INF+2+PL

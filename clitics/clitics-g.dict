@@ -17,6 +17,7 @@ gaiteávei-las	gaitear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gaiteava-las	gaitear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gaiteavam-nas	gaitear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gaiteava-as	gaitear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gaiteá-las	gaitear+V.ele.ACC.3.F.PL+INF
 gaitearmo-las	gaitear+V.ele.ACC.3.F.PL+INF+1+PL
 gaiteá-las	gaitear+V.ele.ACC.3.F.PL+INF+1+SG
 gaitearde-las	gaitear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -66,6 +67,7 @@ gaiteávei-la	gaitear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gaiteava-la	gaitear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gaiteavam-na	gaitear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gaiteava-a	gaitear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gaiteá-la	gaitear+V.ele.ACC.3.F.SG+INF
 gaitearmo-la	gaitear+V.ele.ACC.3.F.SG+INF+1+PL
 gaiteá-la	gaitear+V.ele.ACC.3.F.SG+INF+1+SG
 gaitearde-la	gaitear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -115,6 +117,7 @@ gaiteávei-los	gaitear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gaiteava-los	gaitear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gaiteavam-nos	gaitear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gaiteava-os	gaitear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gaiteá-los	gaitear+V.ele.ACC.3.M.PL+INF
 gaitearmo-los	gaitear+V.ele.ACC.3.M.PL+INF+1+PL
 gaiteá-los	gaitear+V.ele.ACC.3.M.PL+INF+1+SG
 gaitearde-los	gaitear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -164,6 +167,7 @@ gaiteávei-lo	gaitear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gaiteava-lo	gaitear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gaiteavam-no	gaitear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gaiteava-o	gaitear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gaiteá-lo	gaitear+V.ele.ACC.3.M.SG+INF
 gaitearmo-lo	gaitear+V.ele.ACC.3.M.SG+INF+1+PL
 gaiteá-lo	gaitear+V.ele.ACC.3.M.SG+INF+1+SG
 gaitearde-lo	gaitear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -531,6 +535,7 @@ gaivoteávei-las	gaivotear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gaivoteava-las	gaivotear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gaivoteavam-nas	gaivotear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gaivoteava-as	gaivotear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gaivoteá-las	gaivotear+V.ele.ACC.3.F.PL+INF
 gaivotearmo-las	gaivotear+V.ele.ACC.3.F.PL+INF+1+PL
 gaivoteá-las	gaivotear+V.ele.ACC.3.F.PL+INF+1+SG
 gaivotearde-las	gaivotear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -580,6 +585,7 @@ gaivoteávei-la	gaivotear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gaivoteava-la	gaivotear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gaivoteavam-na	gaivotear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gaivoteava-a	gaivotear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gaivoteá-la	gaivotear+V.ele.ACC.3.F.SG+INF
 gaivotearmo-la	gaivotear+V.ele.ACC.3.F.SG+INF+1+PL
 gaivoteá-la	gaivotear+V.ele.ACC.3.F.SG+INF+1+SG
 gaivotearde-la	gaivotear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -629,6 +635,7 @@ gaivoteávei-los	gaivotear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gaivoteava-los	gaivotear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gaivoteavam-nos	gaivotear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gaivoteava-os	gaivotear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gaivoteá-los	gaivotear+V.ele.ACC.3.M.PL+INF
 gaivotearmo-los	gaivotear+V.ele.ACC.3.M.PL+INF+1+PL
 gaivoteá-los	gaivotear+V.ele.ACC.3.M.PL+INF+1+SG
 gaivotearde-los	gaivotear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -678,6 +685,7 @@ gaivoteávei-lo	gaivotear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gaivoteava-lo	gaivotear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gaivoteavam-no	gaivotear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gaivoteava-o	gaivotear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gaivoteá-lo	gaivotear+V.ele.ACC.3.M.SG+INF
 gaivotearmo-lo	gaivotear+V.ele.ACC.3.M.SG+INF+1+PL
 gaivoteá-lo	gaivotear+V.ele.ACC.3.M.SG+INF+1+SG
 gaivotearde-lo	gaivotear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1045,6 +1053,7 @@ galaneávei-las	galanear+V.ele.ACC.3.F.PL+IMPF+2+PL
 galaneava-las	galanear+V.ele.ACC.3.F.PL+IMPF+2+SG
 galaneavam-nas	galanear+V.ele.ACC.3.F.PL+IMPF+3+PL
 galaneava-as	galanear+V.ele.ACC.3.F.PL+IMPF+3+SG
+galaneá-las	galanear+V.ele.ACC.3.F.PL+INF
 galanearmo-las	galanear+V.ele.ACC.3.F.PL+INF+1+PL
 galaneá-las	galanear+V.ele.ACC.3.F.PL+INF+1+SG
 galanearde-las	galanear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1094,6 +1103,7 @@ galaneávei-la	galanear+V.ele.ACC.3.F.SG+IMPF+2+PL
 galaneava-la	galanear+V.ele.ACC.3.F.SG+IMPF+2+SG
 galaneavam-na	galanear+V.ele.ACC.3.F.SG+IMPF+3+PL
 galaneava-a	galanear+V.ele.ACC.3.F.SG+IMPF+3+SG
+galaneá-la	galanear+V.ele.ACC.3.F.SG+INF
 galanearmo-la	galanear+V.ele.ACC.3.F.SG+INF+1+PL
 galaneá-la	galanear+V.ele.ACC.3.F.SG+INF+1+SG
 galanearde-la	galanear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1143,6 +1153,7 @@ galaneávei-los	galanear+V.ele.ACC.3.M.PL+IMPF+2+PL
 galaneava-los	galanear+V.ele.ACC.3.M.PL+IMPF+2+SG
 galaneavam-nos	galanear+V.ele.ACC.3.M.PL+IMPF+3+PL
 galaneava-os	galanear+V.ele.ACC.3.M.PL+IMPF+3+SG
+galaneá-los	galanear+V.ele.ACC.3.M.PL+INF
 galanearmo-los	galanear+V.ele.ACC.3.M.PL+INF+1+PL
 galaneá-los	galanear+V.ele.ACC.3.M.PL+INF+1+SG
 galanearde-los	galanear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1192,6 +1203,7 @@ galaneávei-lo	galanear+V.ele.ACC.3.M.SG+IMPF+2+PL
 galaneava-lo	galanear+V.ele.ACC.3.M.SG+IMPF+2+SG
 galaneavam-no	galanear+V.ele.ACC.3.M.SG+IMPF+3+PL
 galaneava-o	galanear+V.ele.ACC.3.M.SG+IMPF+3+SG
+galaneá-lo	galanear+V.ele.ACC.3.M.SG+INF
 galanearmo-lo	galanear+V.ele.ACC.3.M.SG+INF+1+PL
 galaneá-lo	galanear+V.ele.ACC.3.M.SG+INF+1+SG
 galanearde-lo	galanear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1559,6 +1571,7 @@ galanteávei-las	galantear+V.ele.ACC.3.F.PL+IMPF+2+PL
 galanteava-las	galantear+V.ele.ACC.3.F.PL+IMPF+2+SG
 galanteavam-nas	galantear+V.ele.ACC.3.F.PL+IMPF+3+PL
 galanteava-as	galantear+V.ele.ACC.3.F.PL+IMPF+3+SG
+galanteá-las	galantear+V.ele.ACC.3.F.PL+INF
 galantearmo-las	galantear+V.ele.ACC.3.F.PL+INF+1+PL
 galanteá-las	galantear+V.ele.ACC.3.F.PL+INF+1+SG
 galantearde-las	galantear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1608,6 +1621,7 @@ galanteávei-la	galantear+V.ele.ACC.3.F.SG+IMPF+2+PL
 galanteava-la	galantear+V.ele.ACC.3.F.SG+IMPF+2+SG
 galanteavam-na	galantear+V.ele.ACC.3.F.SG+IMPF+3+PL
 galanteava-a	galantear+V.ele.ACC.3.F.SG+IMPF+3+SG
+galanteá-la	galantear+V.ele.ACC.3.F.SG+INF
 galantearmo-la	galantear+V.ele.ACC.3.F.SG+INF+1+PL
 galanteá-la	galantear+V.ele.ACC.3.F.SG+INF+1+SG
 galantearde-la	galantear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1657,6 +1671,7 @@ galanteávei-los	galantear+V.ele.ACC.3.M.PL+IMPF+2+PL
 galanteava-los	galantear+V.ele.ACC.3.M.PL+IMPF+2+SG
 galanteavam-nos	galantear+V.ele.ACC.3.M.PL+IMPF+3+PL
 galanteava-os	galantear+V.ele.ACC.3.M.PL+IMPF+3+SG
+galanteá-los	galantear+V.ele.ACC.3.M.PL+INF
 galantearmo-los	galantear+V.ele.ACC.3.M.PL+INF+1+PL
 galanteá-los	galantear+V.ele.ACC.3.M.PL+INF+1+SG
 galantearde-los	galantear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1706,6 +1721,7 @@ galanteávei-lo	galantear+V.ele.ACC.3.M.SG+IMPF+2+PL
 galanteava-lo	galantear+V.ele.ACC.3.M.SG+IMPF+2+SG
 galanteavam-no	galantear+V.ele.ACC.3.M.SG+IMPF+3+PL
 galanteava-o	galantear+V.ele.ACC.3.M.SG+IMPF+3+SG
+galanteá-lo	galantear+V.ele.ACC.3.M.SG+INF
 galantearmo-lo	galantear+V.ele.ACC.3.M.SG+INF+1+PL
 galanteá-lo	galantear+V.ele.ACC.3.M.SG+INF+1+SG
 galantearde-lo	galantear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2076,6 +2092,7 @@ galardoávei-las	galardoar+V.ele.ACC.3.F.PL+IMPF+2+PL
 galardoava-las	galardoar+V.ele.ACC.3.F.PL+IMPF+2+SG
 galardoavam-nas	galardoar+V.ele.ACC.3.F.PL+IMPF+3+PL
 galardoava-as	galardoar+V.ele.ACC.3.F.PL+IMPF+3+SG
+galardoá-las	galardoar+V.ele.ACC.3.F.PL+INF
 galardoarmo-las	galardoar+V.ele.ACC.3.F.PL+INF+1+PL
 galardoá-las	galardoar+V.ele.ACC.3.F.PL+INF+1+SG
 galardoarde-las	galardoar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2128,6 +2145,7 @@ galardoávei-la	galardoar+V.ele.ACC.3.F.SG+IMPF+2+PL
 galardoava-la	galardoar+V.ele.ACC.3.F.SG+IMPF+2+SG
 galardoavam-na	galardoar+V.ele.ACC.3.F.SG+IMPF+3+PL
 galardoava-a	galardoar+V.ele.ACC.3.F.SG+IMPF+3+SG
+galardoá-la	galardoar+V.ele.ACC.3.F.SG+INF
 galardoarmo-la	galardoar+V.ele.ACC.3.F.SG+INF+1+PL
 galardoá-la	galardoar+V.ele.ACC.3.F.SG+INF+1+SG
 galardoarde-la	galardoar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2180,6 +2198,7 @@ galardoávei-los	galardoar+V.ele.ACC.3.M.PL+IMPF+2+PL
 galardoava-los	galardoar+V.ele.ACC.3.M.PL+IMPF+2+SG
 galardoavam-nos	galardoar+V.ele.ACC.3.M.PL+IMPF+3+PL
 galardoava-os	galardoar+V.ele.ACC.3.M.PL+IMPF+3+SG
+galardoá-los	galardoar+V.ele.ACC.3.M.PL+INF
 galardoarmo-los	galardoar+V.ele.ACC.3.M.PL+INF+1+PL
 galardoá-los	galardoar+V.ele.ACC.3.M.PL+INF+1+SG
 galardoarde-los	galardoar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2232,6 +2251,7 @@ galardoávei-lo	galardoar+V.ele.ACC.3.M.SG+IMPF+2+PL
 galardoava-lo	galardoar+V.ele.ACC.3.M.SG+IMPF+2+SG
 galardoavam-no	galardoar+V.ele.ACC.3.M.SG+IMPF+3+PL
 galardoava-o	galardoar+V.ele.ACC.3.M.SG+IMPF+3+SG
+galardoá-lo	galardoar+V.ele.ACC.3.M.SG+INF
 galardoarmo-lo	galardoar+V.ele.ACC.3.M.SG+INF+1+PL
 galardoá-lo	galardoar+V.ele.ACC.3.M.SG+INF+1+SG
 galardoarde-lo	galardoar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2619,6 +2639,7 @@ galeávei-las	galear+V.ele.ACC.3.F.PL+IMPF+2+PL
 galeava-las	galear+V.ele.ACC.3.F.PL+IMPF+2+SG
 galeavam-nas	galear+V.ele.ACC.3.F.PL+IMPF+3+PL
 galeava-as	galear+V.ele.ACC.3.F.PL+IMPF+3+SG
+galeá-las	galear+V.ele.ACC.3.F.PL+INF
 galearmo-las	galear+V.ele.ACC.3.F.PL+INF+1+PL
 galeá-las	galear+V.ele.ACC.3.F.PL+INF+1+SG
 galearde-las	galear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2668,6 +2689,7 @@ galeávei-la	galear+V.ele.ACC.3.F.SG+IMPF+2+PL
 galeava-la	galear+V.ele.ACC.3.F.SG+IMPF+2+SG
 galeavam-na	galear+V.ele.ACC.3.F.SG+IMPF+3+PL
 galeava-a	galear+V.ele.ACC.3.F.SG+IMPF+3+SG
+galeá-la	galear+V.ele.ACC.3.F.SG+INF
 galearmo-la	galear+V.ele.ACC.3.F.SG+INF+1+PL
 galeá-la	galear+V.ele.ACC.3.F.SG+INF+1+SG
 galearde-la	galear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2717,6 +2739,7 @@ galeávei-los	galear+V.ele.ACC.3.M.PL+IMPF+2+PL
 galeava-los	galear+V.ele.ACC.3.M.PL+IMPF+2+SG
 galeavam-nos	galear+V.ele.ACC.3.M.PL+IMPF+3+PL
 galeava-os	galear+V.ele.ACC.3.M.PL+IMPF+3+SG
+galeá-los	galear+V.ele.ACC.3.M.PL+INF
 galearmo-los	galear+V.ele.ACC.3.M.PL+INF+1+PL
 galeá-los	galear+V.ele.ACC.3.M.PL+INF+1+SG
 galearde-los	galear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2766,6 +2789,7 @@ galeávei-lo	galear+V.ele.ACC.3.M.SG+IMPF+2+PL
 galeava-lo	galear+V.ele.ACC.3.M.SG+IMPF+2+SG
 galeavam-no	galear+V.ele.ACC.3.M.SG+IMPF+3+PL
 galeava-o	galear+V.ele.ACC.3.M.SG+IMPF+3+SG
+galeá-lo	galear+V.ele.ACC.3.M.SG+INF
 galearmo-lo	galear+V.ele.ACC.3.M.SG+INF+1+PL
 galeá-lo	galear+V.ele.ACC.3.M.SG+INF+1+SG
 galearde-lo	galear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3133,6 +3157,7 @@ galhardeávei-las	galhardear+V.ele.ACC.3.F.PL+IMPF+2+PL
 galhardeava-las	galhardear+V.ele.ACC.3.F.PL+IMPF+2+SG
 galhardeavam-nas	galhardear+V.ele.ACC.3.F.PL+IMPF+3+PL
 galhardeava-as	galhardear+V.ele.ACC.3.F.PL+IMPF+3+SG
+galhardeá-las	galhardear+V.ele.ACC.3.F.PL+INF
 galhardearmo-las	galhardear+V.ele.ACC.3.F.PL+INF+1+PL
 galhardeá-las	galhardear+V.ele.ACC.3.F.PL+INF+1+SG
 galhardearde-las	galhardear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3182,6 +3207,7 @@ galhardeávei-la	galhardear+V.ele.ACC.3.F.SG+IMPF+2+PL
 galhardeava-la	galhardear+V.ele.ACC.3.F.SG+IMPF+2+SG
 galhardeavam-na	galhardear+V.ele.ACC.3.F.SG+IMPF+3+PL
 galhardeava-a	galhardear+V.ele.ACC.3.F.SG+IMPF+3+SG
+galhardeá-la	galhardear+V.ele.ACC.3.F.SG+INF
 galhardearmo-la	galhardear+V.ele.ACC.3.F.SG+INF+1+PL
 galhardeá-la	galhardear+V.ele.ACC.3.F.SG+INF+1+SG
 galhardearde-la	galhardear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3231,6 +3257,7 @@ galhardeávei-los	galhardear+V.ele.ACC.3.M.PL+IMPF+2+PL
 galhardeava-los	galhardear+V.ele.ACC.3.M.PL+IMPF+2+SG
 galhardeavam-nos	galhardear+V.ele.ACC.3.M.PL+IMPF+3+PL
 galhardeava-os	galhardear+V.ele.ACC.3.M.PL+IMPF+3+SG
+galhardeá-los	galhardear+V.ele.ACC.3.M.PL+INF
 galhardearmo-los	galhardear+V.ele.ACC.3.M.PL+INF+1+PL
 galhardeá-los	galhardear+V.ele.ACC.3.M.PL+INF+1+SG
 galhardearde-los	galhardear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3280,6 +3307,7 @@ galhardeávei-lo	galhardear+V.ele.ACC.3.M.SG+IMPF+2+PL
 galhardeava-lo	galhardear+V.ele.ACC.3.M.SG+IMPF+2+SG
 galhardeavam-no	galhardear+V.ele.ACC.3.M.SG+IMPF+3+PL
 galhardeava-o	galhardear+V.ele.ACC.3.M.SG+IMPF+3+SG
+galhardeá-lo	galhardear+V.ele.ACC.3.M.SG+INF
 galhardearmo-lo	galhardear+V.ele.ACC.3.M.SG+INF+1+PL
 galhardeá-lo	galhardear+V.ele.ACC.3.M.SG+INF+1+SG
 galhardearde-lo	galhardear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3647,6 +3675,7 @@ galhofeávei-las	galhofear+V.ele.ACC.3.F.PL+IMPF+2+PL
 galhofeava-las	galhofear+V.ele.ACC.3.F.PL+IMPF+2+SG
 galhofeavam-nas	galhofear+V.ele.ACC.3.F.PL+IMPF+3+PL
 galhofeava-as	galhofear+V.ele.ACC.3.F.PL+IMPF+3+SG
+galhofeá-las	galhofear+V.ele.ACC.3.F.PL+INF
 galhofearmo-las	galhofear+V.ele.ACC.3.F.PL+INF+1+PL
 galhofeá-las	galhofear+V.ele.ACC.3.F.PL+INF+1+SG
 galhofearde-las	galhofear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3696,6 +3725,7 @@ galhofeávei-la	galhofear+V.ele.ACC.3.F.SG+IMPF+2+PL
 galhofeava-la	galhofear+V.ele.ACC.3.F.SG+IMPF+2+SG
 galhofeavam-na	galhofear+V.ele.ACC.3.F.SG+IMPF+3+PL
 galhofeava-a	galhofear+V.ele.ACC.3.F.SG+IMPF+3+SG
+galhofeá-la	galhofear+V.ele.ACC.3.F.SG+INF
 galhofearmo-la	galhofear+V.ele.ACC.3.F.SG+INF+1+PL
 galhofeá-la	galhofear+V.ele.ACC.3.F.SG+INF+1+SG
 galhofearde-la	galhofear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3745,6 +3775,7 @@ galhofeávei-los	galhofear+V.ele.ACC.3.M.PL+IMPF+2+PL
 galhofeava-los	galhofear+V.ele.ACC.3.M.PL+IMPF+2+SG
 galhofeavam-nos	galhofear+V.ele.ACC.3.M.PL+IMPF+3+PL
 galhofeava-os	galhofear+V.ele.ACC.3.M.PL+IMPF+3+SG
+galhofeá-los	galhofear+V.ele.ACC.3.M.PL+INF
 galhofearmo-los	galhofear+V.ele.ACC.3.M.PL+INF+1+PL
 galhofeá-los	galhofear+V.ele.ACC.3.M.PL+INF+1+SG
 galhofearde-los	galhofear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3794,6 +3825,7 @@ galhofeávei-lo	galhofear+V.ele.ACC.3.M.SG+IMPF+2+PL
 galhofeava-lo	galhofear+V.ele.ACC.3.M.SG+IMPF+2+SG
 galhofeavam-no	galhofear+V.ele.ACC.3.M.SG+IMPF+3+PL
 galhofeava-o	galhofear+V.ele.ACC.3.M.SG+IMPF+3+SG
+galhofeá-lo	galhofear+V.ele.ACC.3.M.SG+INF
 galhofearmo-lo	galhofear+V.ele.ACC.3.M.SG+INF+1+PL
 galhofeá-lo	galhofear+V.ele.ACC.3.M.SG+INF+1+SG
 galhofearde-lo	galhofear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4161,6 +4193,7 @@ galopeávei-las	galopear+V.ele.ACC.3.F.PL+IMPF+2+PL
 galopeava-las	galopear+V.ele.ACC.3.F.PL+IMPF+2+SG
 galopeavam-nas	galopear+V.ele.ACC.3.F.PL+IMPF+3+PL
 galopeava-as	galopear+V.ele.ACC.3.F.PL+IMPF+3+SG
+galopeá-las	galopear+V.ele.ACC.3.F.PL+INF
 galopearmo-las	galopear+V.ele.ACC.3.F.PL+INF+1+PL
 galopeá-las	galopear+V.ele.ACC.3.F.PL+INF+1+SG
 galopearde-las	galopear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4210,6 +4243,7 @@ galopeávei-la	galopear+V.ele.ACC.3.F.SG+IMPF+2+PL
 galopeava-la	galopear+V.ele.ACC.3.F.SG+IMPF+2+SG
 galopeavam-na	galopear+V.ele.ACC.3.F.SG+IMPF+3+PL
 galopeava-a	galopear+V.ele.ACC.3.F.SG+IMPF+3+SG
+galopeá-la	galopear+V.ele.ACC.3.F.SG+INF
 galopearmo-la	galopear+V.ele.ACC.3.F.SG+INF+1+PL
 galopeá-la	galopear+V.ele.ACC.3.F.SG+INF+1+SG
 galopearde-la	galopear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4259,6 +4293,7 @@ galopeávei-los	galopear+V.ele.ACC.3.M.PL+IMPF+2+PL
 galopeava-los	galopear+V.ele.ACC.3.M.PL+IMPF+2+SG
 galopeavam-nos	galopear+V.ele.ACC.3.M.PL+IMPF+3+PL
 galopeava-os	galopear+V.ele.ACC.3.M.PL+IMPF+3+SG
+galopeá-los	galopear+V.ele.ACC.3.M.PL+INF
 galopearmo-los	galopear+V.ele.ACC.3.M.PL+INF+1+PL
 galopeá-los	galopear+V.ele.ACC.3.M.PL+INF+1+SG
 galopearde-los	galopear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4308,6 +4343,7 @@ galopeávei-lo	galopear+V.ele.ACC.3.M.SG+IMPF+2+PL
 galopeava-lo	galopear+V.ele.ACC.3.M.SG+IMPF+2+SG
 galopeavam-no	galopear+V.ele.ACC.3.M.SG+IMPF+3+PL
 galopeava-o	galopear+V.ele.ACC.3.M.SG+IMPF+3+SG
+galopeá-lo	galopear+V.ele.ACC.3.M.SG+INF
 galopearmo-lo	galopear+V.ele.ACC.3.M.SG+INF+1+PL
 galopeá-lo	galopear+V.ele.ACC.3.M.SG+INF+1+SG
 galopearde-lo	galopear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4675,6 +4711,7 @@ galreávei-las	galrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 galreava-las	galrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 galreavam-nas	galrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 galreava-as	galrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+galreá-las	galrear+V.ele.ACC.3.F.PL+INF
 galrearmo-las	galrear+V.ele.ACC.3.F.PL+INF+1+PL
 galreá-las	galrear+V.ele.ACC.3.F.PL+INF+1+SG
 galrearde-las	galrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4724,6 +4761,7 @@ galreávei-la	galrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 galreava-la	galrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 galreavam-na	galrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 galreava-a	galrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+galreá-la	galrear+V.ele.ACC.3.F.SG+INF
 galrearmo-la	galrear+V.ele.ACC.3.F.SG+INF+1+PL
 galreá-la	galrear+V.ele.ACC.3.F.SG+INF+1+SG
 galrearde-la	galrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4773,6 +4811,7 @@ galreávei-los	galrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 galreava-los	galrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 galreavam-nos	galrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 galreava-os	galrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+galreá-los	galrear+V.ele.ACC.3.M.PL+INF
 galrearmo-los	galrear+V.ele.ACC.3.M.PL+INF+1+PL
 galreá-los	galrear+V.ele.ACC.3.M.PL+INF+1+SG
 galrearde-los	galrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4822,6 +4861,7 @@ galreávei-lo	galrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 galreava-lo	galrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 galreavam-no	galrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 galreava-o	galrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+galreá-lo	galrear+V.ele.ACC.3.M.SG+INF
 galrearmo-lo	galrear+V.ele.ACC.3.M.SG+INF+1+PL
 galreá-lo	galrear+V.ele.ACC.3.M.SG+INF+1+SG
 galrearde-lo	galrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5189,6 +5229,7 @@ gambeteávei-las	gambetear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gambeteava-las	gambetear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gambeteavam-nas	gambetear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gambeteava-as	gambetear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gambeteá-las	gambetear+V.ele.ACC.3.F.PL+INF
 gambetearmo-las	gambetear+V.ele.ACC.3.F.PL+INF+1+PL
 gambeteá-las	gambetear+V.ele.ACC.3.F.PL+INF+1+SG
 gambetearde-las	gambetear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5238,6 +5279,7 @@ gambeteávei-la	gambetear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gambeteava-la	gambetear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gambeteavam-na	gambetear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gambeteava-a	gambetear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gambeteá-la	gambetear+V.ele.ACC.3.F.SG+INF
 gambetearmo-la	gambetear+V.ele.ACC.3.F.SG+INF+1+PL
 gambeteá-la	gambetear+V.ele.ACC.3.F.SG+INF+1+SG
 gambetearde-la	gambetear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5287,6 +5329,7 @@ gambeteávei-los	gambetear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gambeteava-los	gambetear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gambeteavam-nos	gambetear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gambeteava-os	gambetear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gambeteá-los	gambetear+V.ele.ACC.3.M.PL+INF
 gambetearmo-los	gambetear+V.ele.ACC.3.M.PL+INF+1+PL
 gambeteá-los	gambetear+V.ele.ACC.3.M.PL+INF+1+SG
 gambetearde-los	gambetear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5336,6 +5379,7 @@ gambeteávei-lo	gambetear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gambeteava-lo	gambetear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gambeteavam-no	gambetear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gambeteava-o	gambetear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gambeteá-lo	gambetear+V.ele.ACC.3.M.SG+INF
 gambetearmo-lo	gambetear+V.ele.ACC.3.M.SG+INF+1+PL
 gambeteá-lo	gambetear+V.ele.ACC.3.M.SG+INF+1+SG
 gambetearde-lo	gambetear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5703,6 +5747,7 @@ gancheávei-las	ganchear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gancheava-las	ganchear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gancheavam-nas	ganchear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gancheava-as	ganchear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gancheá-las	ganchear+V.ele.ACC.3.F.PL+INF
 ganchearmo-las	ganchear+V.ele.ACC.3.F.PL+INF+1+PL
 gancheá-las	ganchear+V.ele.ACC.3.F.PL+INF+1+SG
 ganchearde-las	ganchear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5752,6 +5797,7 @@ gancheávei-la	ganchear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gancheava-la	ganchear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gancheavam-na	ganchear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gancheava-a	ganchear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gancheá-la	ganchear+V.ele.ACC.3.F.SG+INF
 ganchearmo-la	ganchear+V.ele.ACC.3.F.SG+INF+1+PL
 gancheá-la	ganchear+V.ele.ACC.3.F.SG+INF+1+SG
 ganchearde-la	ganchear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5801,6 +5847,7 @@ gancheávei-los	ganchear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gancheava-los	ganchear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gancheavam-nos	ganchear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gancheava-os	ganchear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gancheá-los	ganchear+V.ele.ACC.3.M.PL+INF
 ganchearmo-los	ganchear+V.ele.ACC.3.M.PL+INF+1+PL
 gancheá-los	ganchear+V.ele.ACC.3.M.PL+INF+1+SG
 ganchearde-los	ganchear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5850,6 +5897,7 @@ gancheávei-lo	ganchear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gancheava-lo	ganchear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gancheavam-no	ganchear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gancheava-o	ganchear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gancheá-lo	ganchear+V.ele.ACC.3.M.SG+INF
 ganchearmo-lo	ganchear+V.ele.ACC.3.M.SG+INF+1+PL
 gancheá-lo	ganchear+V.ele.ACC.3.M.SG+INF+1+SG
 ganchearde-lo	ganchear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6217,6 +6265,7 @@ gangorreávei-las	gangorrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gangorreava-las	gangorrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gangorreavam-nas	gangorrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gangorreava-as	gangorrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gangorreá-las	gangorrear+V.ele.ACC.3.F.PL+INF
 gangorrearmo-las	gangorrear+V.ele.ACC.3.F.PL+INF+1+PL
 gangorreá-las	gangorrear+V.ele.ACC.3.F.PL+INF+1+SG
 gangorrearde-las	gangorrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6266,6 +6315,7 @@ gangorreávei-la	gangorrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gangorreava-la	gangorrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gangorreavam-na	gangorrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gangorreava-a	gangorrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gangorreá-la	gangorrear+V.ele.ACC.3.F.SG+INF
 gangorrearmo-la	gangorrear+V.ele.ACC.3.F.SG+INF+1+PL
 gangorreá-la	gangorrear+V.ele.ACC.3.F.SG+INF+1+SG
 gangorrearde-la	gangorrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6315,6 +6365,7 @@ gangorreávei-los	gangorrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gangorreava-los	gangorrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gangorreavam-nos	gangorrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gangorreava-os	gangorrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gangorreá-los	gangorrear+V.ele.ACC.3.M.PL+INF
 gangorrearmo-los	gangorrear+V.ele.ACC.3.M.PL+INF+1+PL
 gangorreá-los	gangorrear+V.ele.ACC.3.M.PL+INF+1+SG
 gangorrearde-los	gangorrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6364,6 +6415,7 @@ gangorreávei-lo	gangorrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gangorreava-lo	gangorrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gangorreavam-no	gangorrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gangorreava-o	gangorrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gangorreá-lo	gangorrear+V.ele.ACC.3.M.SG+INF
 gangorrearmo-lo	gangorrear+V.ele.ACC.3.M.SG+INF+1+PL
 gangorreá-lo	gangorrear+V.ele.ACC.3.M.SG+INF+1+SG
 gangorrearde-lo	gangorrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6734,6 +6786,7 @@ ganíei-las	ganir+V.ele.ACC.3.F.PL+IMPF+2+PL
 gania-las	ganir+V.ele.ACC.3.F.PL+IMPF+2+SG
 ganiam-nas	ganir+V.ele.ACC.3.F.PL+IMPF+3+PL
 gania-as	ganir+V.ele.ACC.3.F.PL+IMPF+3+SG
+gani-las	ganir+V.ele.ACC.3.F.PL+INF
 ganirmo-las	ganir+V.ele.ACC.3.F.PL+INF+1+PL
 gani-las	ganir+V.ele.ACC.3.F.PL+INF+1+SG
 ganirde-las	ganir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6774,6 +6827,7 @@ ganíei-la	ganir+V.ele.ACC.3.F.SG+IMPF+2+PL
 gania-la	ganir+V.ele.ACC.3.F.SG+IMPF+2+SG
 ganiam-na	ganir+V.ele.ACC.3.F.SG+IMPF+3+PL
 gania-a	ganir+V.ele.ACC.3.F.SG+IMPF+3+SG
+gani-la	ganir+V.ele.ACC.3.F.SG+INF
 ganirmo-la	ganir+V.ele.ACC.3.F.SG+INF+1+PL
 gani-la	ganir+V.ele.ACC.3.F.SG+INF+1+SG
 ganirde-la	ganir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6814,6 +6868,7 @@ ganíei-los	ganir+V.ele.ACC.3.M.PL+IMPF+2+PL
 gania-los	ganir+V.ele.ACC.3.M.PL+IMPF+2+SG
 ganiam-nos	ganir+V.ele.ACC.3.M.PL+IMPF+3+PL
 gania-os	ganir+V.ele.ACC.3.M.PL+IMPF+3+SG
+gani-los	ganir+V.ele.ACC.3.M.PL+INF
 ganirmo-los	ganir+V.ele.ACC.3.M.PL+INF+1+PL
 gani-los	ganir+V.ele.ACC.3.M.PL+INF+1+SG
 ganirde-los	ganir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6854,6 +6909,7 @@ ganíei-lo	ganir+V.ele.ACC.3.M.SG+IMPF+2+PL
 gania-lo	ganir+V.ele.ACC.3.M.SG+IMPF+2+SG
 ganiam-no	ganir+V.ele.ACC.3.M.SG+IMPF+3+PL
 gania-o	ganir+V.ele.ACC.3.M.SG+IMPF+3+SG
+gani-lo	ganir+V.ele.ACC.3.M.SG+INF
 ganirmo-lo	ganir+V.ele.ACC.3.M.SG+INF+1+PL
 gani-lo	ganir+V.ele.ACC.3.M.SG+INF+1+SG
 ganirde-lo	ganir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -7156,6 +7212,7 @@ ganiçávei-las	ganiçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 ganiçava-las	ganiçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 ganiçavam-nas	ganiçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 ganiçava-as	ganiçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+ganiçá-las	ganiçar+V.ele.ACC.3.F.PL+INF
 ganiçarmo-las	ganiçar+V.ele.ACC.3.F.PL+INF+1+PL
 ganiçá-las	ganiçar+V.ele.ACC.3.F.PL+INF+1+SG
 ganiçarde-las	ganiçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -7207,6 +7264,7 @@ ganiçávei-la	ganiçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 ganiçava-la	ganiçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 ganiçavam-na	ganiçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 ganiçava-a	ganiçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+ganiçá-la	ganiçar+V.ele.ACC.3.F.SG+INF
 ganiçarmo-la	ganiçar+V.ele.ACC.3.F.SG+INF+1+PL
 ganiçá-la	ganiçar+V.ele.ACC.3.F.SG+INF+1+SG
 ganiçarde-la	ganiçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7257,6 +7315,7 @@ ganiçava-os	ganiçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 ganiçávei-los	ganiçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 ganiçava-los	ganiçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 ganiçava-os	ganiçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+ganiçá-los	ganiçar+V.ele.ACC.3.M.PL+INF
 ganiçarmo-los	ganiçar+V.ele.ACC.3.M.PL+INF+1+PL
 ganiçá-los	ganiçar+V.ele.ACC.3.M.PL+INF+1+SG
 ganiçarde-los	ganiçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -7303,6 +7362,7 @@ ganiçávei-lo	ganiçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 ganiçava-lo	ganiçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 ganiçavam-no	ganiçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 ganiçava-o	ganiçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+ganiçá-lo	ganiçar+V.ele.ACC.3.M.SG+INF
 ganiçarmo-lo	ganiçar+V.ele.ACC.3.M.SG+INF+1+PL
 ganiçá-lo	ganiçar+V.ele.ACC.3.M.SG+INF+1+SG
 ganiçarde-lo	ganiçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -7685,6 +7745,7 @@ garantíei-las	garantir+V.ele.ACC.3.F.PL+IMPF+2+PL
 garantia-las	garantir+V.ele.ACC.3.F.PL+IMPF+2+SG
 garantiam-nas	garantir+V.ele.ACC.3.F.PL+IMPF+3+PL
 garantia-as	garantir+V.ele.ACC.3.F.PL+IMPF+3+SG
+garanti-las	garantir+V.ele.ACC.3.F.PL+INF
 garantirmo-las	garantir+V.ele.ACC.3.F.PL+INF+1+PL
 garanti-las	garantir+V.ele.ACC.3.F.PL+INF+1+SG
 garantirde-las	garantir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -7725,6 +7786,7 @@ garantíei-la	garantir+V.ele.ACC.3.F.SG+IMPF+2+PL
 garantia-la	garantir+V.ele.ACC.3.F.SG+IMPF+2+SG
 garantiam-na	garantir+V.ele.ACC.3.F.SG+IMPF+3+PL
 garantia-a	garantir+V.ele.ACC.3.F.SG+IMPF+3+SG
+garanti-la	garantir+V.ele.ACC.3.F.SG+INF
 garantirmo-la	garantir+V.ele.ACC.3.F.SG+INF+1+PL
 garanti-la	garantir+V.ele.ACC.3.F.SG+INF+1+SG
 garantirde-la	garantir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7765,6 +7827,7 @@ garantíei-los	garantir+V.ele.ACC.3.M.PL+IMPF+2+PL
 garantia-los	garantir+V.ele.ACC.3.M.PL+IMPF+2+SG
 garantiam-nos	garantir+V.ele.ACC.3.M.PL+IMPF+3+PL
 garantia-os	garantir+V.ele.ACC.3.M.PL+IMPF+3+SG
+garanti-los	garantir+V.ele.ACC.3.M.PL+INF
 garantirmo-los	garantir+V.ele.ACC.3.M.PL+INF+1+PL
 garanti-los	garantir+V.ele.ACC.3.M.PL+INF+1+SG
 garantirde-los	garantir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -7805,6 +7868,7 @@ garantíei-lo	garantir+V.ele.ACC.3.M.SG+IMPF+2+PL
 garantia-lo	garantir+V.ele.ACC.3.M.SG+IMPF+2+SG
 garantiam-no	garantir+V.ele.ACC.3.M.SG+IMPF+3+PL
 garantia-o	garantir+V.ele.ACC.3.M.SG+IMPF+3+SG
+garanti-lo	garantir+V.ele.ACC.3.M.SG+INF
 garantirmo-lo	garantir+V.ele.ACC.3.M.SG+INF+1+PL
 garanti-lo	garantir+V.ele.ACC.3.M.SG+INF+1+SG
 garantirde-lo	garantir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8107,6 +8171,7 @@ garançávei-las	garançar+V.ele.ACC.3.F.PL+IMPF+2+PL
 garançava-las	garançar+V.ele.ACC.3.F.PL+IMPF+2+SG
 garançavam-nas	garançar+V.ele.ACC.3.F.PL+IMPF+3+PL
 garançava-as	garançar+V.ele.ACC.3.F.PL+IMPF+3+SG
+garançá-las	garançar+V.ele.ACC.3.F.PL+INF
 garançarmo-las	garançar+V.ele.ACC.3.F.PL+INF+1+PL
 garançá-las	garançar+V.ele.ACC.3.F.PL+INF+1+SG
 garançarde-las	garançar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8158,6 +8223,7 @@ garançávei-la	garançar+V.ele.ACC.3.F.SG+IMPF+2+PL
 garançava-la	garançar+V.ele.ACC.3.F.SG+IMPF+2+SG
 garançavam-na	garançar+V.ele.ACC.3.F.SG+IMPF+3+PL
 garançava-a	garançar+V.ele.ACC.3.F.SG+IMPF+3+SG
+garançá-la	garançar+V.ele.ACC.3.F.SG+INF
 garançarmo-la	garançar+V.ele.ACC.3.F.SG+INF+1+PL
 garançá-la	garançar+V.ele.ACC.3.F.SG+INF+1+SG
 garançarde-la	garançar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -8208,6 +8274,7 @@ garançava-os	garançar+V.ele.ACC.3.M.PL+IMPF+1+SG
 garançávei-los	garançar+V.ele.ACC.3.M.PL+IMPF+2+PL
 garançava-los	garançar+V.ele.ACC.3.M.PL+IMPF+2+SG
 garançava-os	garançar+V.ele.ACC.3.M.PL+IMPF+3+SG
+garançá-los	garançar+V.ele.ACC.3.M.PL+INF
 garançarmo-los	garançar+V.ele.ACC.3.M.PL+INF+1+PL
 garançá-los	garançar+V.ele.ACC.3.M.PL+INF+1+SG
 garançarde-los	garançar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8254,6 +8321,7 @@ garançávei-lo	garançar+V.ele.ACC.3.M.SG+IMPF+2+PL
 garançava-lo	garançar+V.ele.ACC.3.M.SG+IMPF+2+SG
 garançavam-no	garançar+V.ele.ACC.3.M.SG+IMPF+3+PL
 garançava-o	garançar+V.ele.ACC.3.M.SG+IMPF+3+SG
+garançá-lo	garançar+V.ele.ACC.3.M.SG+INF
 garançarmo-lo	garançar+V.ele.ACC.3.M.SG+INF+1+PL
 garançá-lo	garançar+V.ele.ACC.3.M.SG+INF+1+SG
 garançarde-lo	garançar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8636,6 +8704,7 @@ gargalaçávei-las	gargalaçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 gargalaçava-las	gargalaçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 gargalaçavam-nas	gargalaçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 gargalaçava-as	gargalaçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+gargalaçá-las	gargalaçar+V.ele.ACC.3.F.PL+INF
 gargalaçarmo-las	gargalaçar+V.ele.ACC.3.F.PL+INF+1+PL
 gargalaçá-las	gargalaçar+V.ele.ACC.3.F.PL+INF+1+SG
 gargalaçarde-las	gargalaçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8687,6 +8756,7 @@ gargalaçávei-la	gargalaçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 gargalaçava-la	gargalaçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 gargalaçavam-na	gargalaçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 gargalaçava-a	gargalaçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+gargalaçá-la	gargalaçar+V.ele.ACC.3.F.SG+INF
 gargalaçarmo-la	gargalaçar+V.ele.ACC.3.F.SG+INF+1+PL
 gargalaçá-la	gargalaçar+V.ele.ACC.3.F.SG+INF+1+SG
 gargalaçarde-la	gargalaçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -8737,6 +8807,7 @@ gargalaçava-os	gargalaçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 gargalaçávei-los	gargalaçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 gargalaçava-los	gargalaçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 gargalaçava-os	gargalaçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+gargalaçá-los	gargalaçar+V.ele.ACC.3.M.PL+INF
 gargalaçarmo-los	gargalaçar+V.ele.ACC.3.M.PL+INF+1+PL
 gargalaçá-los	gargalaçar+V.ele.ACC.3.M.PL+INF+1+SG
 gargalaçarde-los	gargalaçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8783,6 +8854,7 @@ gargalaçávei-lo	gargalaçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 gargalaçava-lo	gargalaçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 gargalaçavam-no	gargalaçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 gargalaçava-o	gargalaçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+gargalaçá-lo	gargalaçar+V.ele.ACC.3.M.SG+INF
 gargalaçarmo-lo	gargalaçar+V.ele.ACC.3.M.SG+INF+1+PL
 gargalaçá-lo	gargalaçar+V.ele.ACC.3.M.SG+INF+1+SG
 gargalaçarde-lo	gargalaçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -9162,6 +9234,7 @@ gargalhadeávei-las	gargalhadear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gargalhadeava-las	gargalhadear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gargalhadeavam-nas	gargalhadear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gargalhadeava-as	gargalhadear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gargalhadeá-las	gargalhadear+V.ele.ACC.3.F.PL+INF
 gargalhadearmo-las	gargalhadear+V.ele.ACC.3.F.PL+INF+1+PL
 gargalhadeá-las	gargalhadear+V.ele.ACC.3.F.PL+INF+1+SG
 gargalhadearde-las	gargalhadear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -9211,6 +9284,7 @@ gargalhadeávei-la	gargalhadear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gargalhadeava-la	gargalhadear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gargalhadeavam-na	gargalhadear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gargalhadeava-a	gargalhadear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gargalhadeá-la	gargalhadear+V.ele.ACC.3.F.SG+INF
 gargalhadearmo-la	gargalhadear+V.ele.ACC.3.F.SG+INF+1+PL
 gargalhadeá-la	gargalhadear+V.ele.ACC.3.F.SG+INF+1+SG
 gargalhadearde-la	gargalhadear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -9260,6 +9334,7 @@ gargalhadeávei-los	gargalhadear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gargalhadeava-los	gargalhadear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gargalhadeavam-nos	gargalhadear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gargalhadeava-os	gargalhadear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gargalhadeá-los	gargalhadear+V.ele.ACC.3.M.PL+INF
 gargalhadearmo-los	gargalhadear+V.ele.ACC.3.M.PL+INF+1+PL
 gargalhadeá-los	gargalhadear+V.ele.ACC.3.M.PL+INF+1+SG
 gargalhadearde-los	gargalhadear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -9309,6 +9384,7 @@ gargalhadeávei-lo	gargalhadear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gargalhadeava-lo	gargalhadear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gargalhadeavam-no	gargalhadear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gargalhadeava-o	gargalhadear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gargalhadeá-lo	gargalhadear+V.ele.ACC.3.M.SG+INF
 gargalhadearmo-lo	gargalhadear+V.ele.ACC.3.M.SG+INF+1+PL
 gargalhadeá-lo	gargalhadear+V.ele.ACC.3.M.SG+INF+1+SG
 gargalhadearde-lo	gargalhadear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -9676,6 +9752,7 @@ garganteávei-las	gargantear+V.ele.ACC.3.F.PL+IMPF+2+PL
 garganteava-las	gargantear+V.ele.ACC.3.F.PL+IMPF+2+SG
 garganteavam-nas	gargantear+V.ele.ACC.3.F.PL+IMPF+3+PL
 garganteava-as	gargantear+V.ele.ACC.3.F.PL+IMPF+3+SG
+garganteá-las	gargantear+V.ele.ACC.3.F.PL+INF
 gargantearmo-las	gargantear+V.ele.ACC.3.F.PL+INF+1+PL
 garganteá-las	gargantear+V.ele.ACC.3.F.PL+INF+1+SG
 gargantearde-las	gargantear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -9725,6 +9802,7 @@ garganteávei-la	gargantear+V.ele.ACC.3.F.SG+IMPF+2+PL
 garganteava-la	gargantear+V.ele.ACC.3.F.SG+IMPF+2+SG
 garganteavam-na	gargantear+V.ele.ACC.3.F.SG+IMPF+3+PL
 garganteava-a	gargantear+V.ele.ACC.3.F.SG+IMPF+3+SG
+garganteá-la	gargantear+V.ele.ACC.3.F.SG+INF
 gargantearmo-la	gargantear+V.ele.ACC.3.F.SG+INF+1+PL
 garganteá-la	gargantear+V.ele.ACC.3.F.SG+INF+1+SG
 gargantearde-la	gargantear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -9774,6 +9852,7 @@ garganteávei-los	gargantear+V.ele.ACC.3.M.PL+IMPF+2+PL
 garganteava-los	gargantear+V.ele.ACC.3.M.PL+IMPF+2+SG
 garganteavam-nos	gargantear+V.ele.ACC.3.M.PL+IMPF+3+PL
 garganteava-os	gargantear+V.ele.ACC.3.M.PL+IMPF+3+SG
+garganteá-los	gargantear+V.ele.ACC.3.M.PL+INF
 gargantearmo-los	gargantear+V.ele.ACC.3.M.PL+INF+1+PL
 garganteá-los	gargantear+V.ele.ACC.3.M.PL+INF+1+SG
 gargantearde-los	gargantear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -9823,6 +9902,7 @@ garganteávei-lo	gargantear+V.ele.ACC.3.M.SG+IMPF+2+PL
 garganteava-lo	gargantear+V.ele.ACC.3.M.SG+IMPF+2+SG
 garganteavam-no	gargantear+V.ele.ACC.3.M.SG+IMPF+3+PL
 garganteava-o	gargantear+V.ele.ACC.3.M.SG+IMPF+3+SG
+garganteá-lo	gargantear+V.ele.ACC.3.M.SG+INF
 gargantearmo-lo	gargantear+V.ele.ACC.3.M.SG+INF+1+PL
 garganteá-lo	gargantear+V.ele.ACC.3.M.SG+INF+1+SG
 gargantearde-lo	gargantear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -10190,6 +10270,7 @@ garguiteávei-las	garguitear+V.ele.ACC.3.F.PL+IMPF+2+PL
 garguiteava-las	garguitear+V.ele.ACC.3.F.PL+IMPF+2+SG
 garguiteavam-nas	garguitear+V.ele.ACC.3.F.PL+IMPF+3+PL
 garguiteava-as	garguitear+V.ele.ACC.3.F.PL+IMPF+3+SG
+garguiteá-las	garguitear+V.ele.ACC.3.F.PL+INF
 garguitearmo-las	garguitear+V.ele.ACC.3.F.PL+INF+1+PL
 garguiteá-las	garguitear+V.ele.ACC.3.F.PL+INF+1+SG
 garguitearde-las	garguitear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10239,6 +10320,7 @@ garguiteávei-la	garguitear+V.ele.ACC.3.F.SG+IMPF+2+PL
 garguiteava-la	garguitear+V.ele.ACC.3.F.SG+IMPF+2+SG
 garguiteavam-na	garguitear+V.ele.ACC.3.F.SG+IMPF+3+PL
 garguiteava-a	garguitear+V.ele.ACC.3.F.SG+IMPF+3+SG
+garguiteá-la	garguitear+V.ele.ACC.3.F.SG+INF
 garguitearmo-la	garguitear+V.ele.ACC.3.F.SG+INF+1+PL
 garguiteá-la	garguitear+V.ele.ACC.3.F.SG+INF+1+SG
 garguitearde-la	garguitear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -10288,6 +10370,7 @@ garguiteávei-los	garguitear+V.ele.ACC.3.M.PL+IMPF+2+PL
 garguiteava-los	garguitear+V.ele.ACC.3.M.PL+IMPF+2+SG
 garguiteavam-nos	garguitear+V.ele.ACC.3.M.PL+IMPF+3+PL
 garguiteava-os	garguitear+V.ele.ACC.3.M.PL+IMPF+3+SG
+garguiteá-los	garguitear+V.ele.ACC.3.M.PL+INF
 garguitearmo-los	garguitear+V.ele.ACC.3.M.PL+INF+1+PL
 garguiteá-los	garguitear+V.ele.ACC.3.M.PL+INF+1+SG
 garguitearde-los	garguitear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -10337,6 +10420,7 @@ garguiteávei-lo	garguitear+V.ele.ACC.3.M.SG+IMPF+2+PL
 garguiteava-lo	garguitear+V.ele.ACC.3.M.SG+IMPF+2+SG
 garguiteavam-no	garguitear+V.ele.ACC.3.M.SG+IMPF+3+PL
 garguiteava-o	garguitear+V.ele.ACC.3.M.SG+IMPF+3+SG
+garguiteá-lo	garguitear+V.ele.ACC.3.M.SG+INF
 garguitearmo-lo	garguitear+V.ele.ACC.3.M.SG+INF+1+PL
 garguiteá-lo	garguitear+V.ele.ACC.3.M.SG+INF+1+SG
 garguitearde-lo	garguitear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -10704,6 +10788,7 @@ garneávei-las	garnear+V.ele.ACC.3.F.PL+IMPF+2+PL
 garneava-las	garnear+V.ele.ACC.3.F.PL+IMPF+2+SG
 garneavam-nas	garnear+V.ele.ACC.3.F.PL+IMPF+3+PL
 garneava-as	garnear+V.ele.ACC.3.F.PL+IMPF+3+SG
+garneá-las	garnear+V.ele.ACC.3.F.PL+INF
 garnearmo-las	garnear+V.ele.ACC.3.F.PL+INF+1+PL
 garneá-las	garnear+V.ele.ACC.3.F.PL+INF+1+SG
 garnearde-las	garnear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10753,6 +10838,7 @@ garneávei-la	garnear+V.ele.ACC.3.F.SG+IMPF+2+PL
 garneava-la	garnear+V.ele.ACC.3.F.SG+IMPF+2+SG
 garneavam-na	garnear+V.ele.ACC.3.F.SG+IMPF+3+PL
 garneava-a	garnear+V.ele.ACC.3.F.SG+IMPF+3+SG
+garneá-la	garnear+V.ele.ACC.3.F.SG+INF
 garnearmo-la	garnear+V.ele.ACC.3.F.SG+INF+1+PL
 garneá-la	garnear+V.ele.ACC.3.F.SG+INF+1+SG
 garnearde-la	garnear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -10802,6 +10888,7 @@ garneávei-los	garnear+V.ele.ACC.3.M.PL+IMPF+2+PL
 garneava-los	garnear+V.ele.ACC.3.M.PL+IMPF+2+SG
 garneavam-nos	garnear+V.ele.ACC.3.M.PL+IMPF+3+PL
 garneava-os	garnear+V.ele.ACC.3.M.PL+IMPF+3+SG
+garneá-los	garnear+V.ele.ACC.3.M.PL+INF
 garnearmo-los	garnear+V.ele.ACC.3.M.PL+INF+1+PL
 garneá-los	garnear+V.ele.ACC.3.M.PL+INF+1+SG
 garnearde-los	garnear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -10851,6 +10938,7 @@ garneávei-lo	garnear+V.ele.ACC.3.M.SG+IMPF+2+PL
 garneava-lo	garnear+V.ele.ACC.3.M.SG+IMPF+2+SG
 garneavam-no	garnear+V.ele.ACC.3.M.SG+IMPF+3+PL
 garneava-o	garnear+V.ele.ACC.3.M.SG+IMPF+3+SG
+garneá-lo	garnear+V.ele.ACC.3.M.SG+INF
 garnearmo-lo	garnear+V.ele.ACC.3.M.SG+INF+1+PL
 garneá-lo	garnear+V.ele.ACC.3.M.SG+INF+1+SG
 garnearde-lo	garnear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -11221,6 +11309,7 @@ garníei-las	garnir+V.ele.ACC.3.F.PL+IMPF+2+PL
 garnia-las	garnir+V.ele.ACC.3.F.PL+IMPF+2+SG
 garniam-nas	garnir+V.ele.ACC.3.F.PL+IMPF+3+PL
 garnia-as	garnir+V.ele.ACC.3.F.PL+IMPF+3+SG
+garni-las	garnir+V.ele.ACC.3.F.PL+INF
 garnirmo-las	garnir+V.ele.ACC.3.F.PL+INF+1+PL
 garni-las	garnir+V.ele.ACC.3.F.PL+INF+1+SG
 garnirde-las	garnir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -11261,6 +11350,7 @@ garníei-la	garnir+V.ele.ACC.3.F.SG+IMPF+2+PL
 garnia-la	garnir+V.ele.ACC.3.F.SG+IMPF+2+SG
 garniam-na	garnir+V.ele.ACC.3.F.SG+IMPF+3+PL
 garnia-a	garnir+V.ele.ACC.3.F.SG+IMPF+3+SG
+garni-la	garnir+V.ele.ACC.3.F.SG+INF
 garnirmo-la	garnir+V.ele.ACC.3.F.SG+INF+1+PL
 garni-la	garnir+V.ele.ACC.3.F.SG+INF+1+SG
 garnirde-la	garnir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -11301,6 +11391,7 @@ garníei-los	garnir+V.ele.ACC.3.M.PL+IMPF+2+PL
 garnia-los	garnir+V.ele.ACC.3.M.PL+IMPF+2+SG
 garniam-nos	garnir+V.ele.ACC.3.M.PL+IMPF+3+PL
 garnia-os	garnir+V.ele.ACC.3.M.PL+IMPF+3+SG
+garni-los	garnir+V.ele.ACC.3.M.PL+INF
 garnirmo-los	garnir+V.ele.ACC.3.M.PL+INF+1+PL
 garni-los	garnir+V.ele.ACC.3.M.PL+INF+1+SG
 garnirde-los	garnir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -11341,6 +11432,7 @@ garníei-lo	garnir+V.ele.ACC.3.M.SG+IMPF+2+PL
 garnia-lo	garnir+V.ele.ACC.3.M.SG+IMPF+2+SG
 garniam-no	garnir+V.ele.ACC.3.M.SG+IMPF+3+PL
 garnia-o	garnir+V.ele.ACC.3.M.SG+IMPF+3+SG
+garni-lo	garnir+V.ele.ACC.3.M.SG+INF
 garnirmo-lo	garnir+V.ele.ACC.3.M.SG+INF+1+PL
 garni-lo	garnir+V.ele.ACC.3.M.SG+INF+1+SG
 garnirde-lo	garnir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -11643,6 +11735,7 @@ garoávei-las	garoar+V.ele.ACC.3.F.PL+IMPF+2+PL
 garoava-las	garoar+V.ele.ACC.3.F.PL+IMPF+2+SG
 garoavam-nas	garoar+V.ele.ACC.3.F.PL+IMPF+3+PL
 garoava-as	garoar+V.ele.ACC.3.F.PL+IMPF+3+SG
+garoá-las	garoar+V.ele.ACC.3.F.PL+INF
 garoarmo-las	garoar+V.ele.ACC.3.F.PL+INF+1+PL
 garoá-las	garoar+V.ele.ACC.3.F.PL+INF+1+SG
 garoarde-las	garoar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -11695,6 +11788,7 @@ garoávei-la	garoar+V.ele.ACC.3.F.SG+IMPF+2+PL
 garoava-la	garoar+V.ele.ACC.3.F.SG+IMPF+2+SG
 garoavam-na	garoar+V.ele.ACC.3.F.SG+IMPF+3+PL
 garoava-a	garoar+V.ele.ACC.3.F.SG+IMPF+3+SG
+garoá-la	garoar+V.ele.ACC.3.F.SG+INF
 garoarmo-la	garoar+V.ele.ACC.3.F.SG+INF+1+PL
 garoá-la	garoar+V.ele.ACC.3.F.SG+INF+1+SG
 garoarde-la	garoar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -11747,6 +11841,7 @@ garoávei-los	garoar+V.ele.ACC.3.M.PL+IMPF+2+PL
 garoava-los	garoar+V.ele.ACC.3.M.PL+IMPF+2+SG
 garoavam-nos	garoar+V.ele.ACC.3.M.PL+IMPF+3+PL
 garoava-os	garoar+V.ele.ACC.3.M.PL+IMPF+3+SG
+garoá-los	garoar+V.ele.ACC.3.M.PL+INF
 garoarmo-los	garoar+V.ele.ACC.3.M.PL+INF+1+PL
 garoá-los	garoar+V.ele.ACC.3.M.PL+INF+1+SG
 garoarde-los	garoar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -11799,6 +11894,7 @@ garoávei-lo	garoar+V.ele.ACC.3.M.SG+IMPF+2+PL
 garoava-lo	garoar+V.ele.ACC.3.M.SG+IMPF+2+SG
 garoavam-no	garoar+V.ele.ACC.3.M.SG+IMPF+3+PL
 garoava-o	garoar+V.ele.ACC.3.M.SG+IMPF+3+SG
+garoá-lo	garoar+V.ele.ACC.3.M.SG+INF
 garoarmo-lo	garoar+V.ele.ACC.3.M.SG+INF+1+PL
 garoá-lo	garoar+V.ele.ACC.3.M.SG+INF+1+SG
 garoarde-lo	garoar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -12186,6 +12282,7 @@ garoteávei-las	garotear+V.ele.ACC.3.F.PL+IMPF+2+PL
 garoteava-las	garotear+V.ele.ACC.3.F.PL+IMPF+2+SG
 garoteavam-nas	garotear+V.ele.ACC.3.F.PL+IMPF+3+PL
 garoteava-as	garotear+V.ele.ACC.3.F.PL+IMPF+3+SG
+garoteá-las	garotear+V.ele.ACC.3.F.PL+INF
 garotearmo-las	garotear+V.ele.ACC.3.F.PL+INF+1+PL
 garoteá-las	garotear+V.ele.ACC.3.F.PL+INF+1+SG
 garotearde-las	garotear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12235,6 +12332,7 @@ garoteávei-la	garotear+V.ele.ACC.3.F.SG+IMPF+2+PL
 garoteava-la	garotear+V.ele.ACC.3.F.SG+IMPF+2+SG
 garoteavam-na	garotear+V.ele.ACC.3.F.SG+IMPF+3+PL
 garoteava-a	garotear+V.ele.ACC.3.F.SG+IMPF+3+SG
+garoteá-la	garotear+V.ele.ACC.3.F.SG+INF
 garotearmo-la	garotear+V.ele.ACC.3.F.SG+INF+1+PL
 garoteá-la	garotear+V.ele.ACC.3.F.SG+INF+1+SG
 garotearde-la	garotear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12284,6 +12382,7 @@ garoteávei-los	garotear+V.ele.ACC.3.M.PL+IMPF+2+PL
 garoteava-los	garotear+V.ele.ACC.3.M.PL+IMPF+2+SG
 garoteavam-nos	garotear+V.ele.ACC.3.M.PL+IMPF+3+PL
 garoteava-os	garotear+V.ele.ACC.3.M.PL+IMPF+3+SG
+garoteá-los	garotear+V.ele.ACC.3.M.PL+INF
 garotearmo-los	garotear+V.ele.ACC.3.M.PL+INF+1+PL
 garoteá-los	garotear+V.ele.ACC.3.M.PL+INF+1+SG
 garotearde-los	garotear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12333,6 +12432,7 @@ garoteávei-lo	garotear+V.ele.ACC.3.M.SG+IMPF+2+PL
 garoteava-lo	garotear+V.ele.ACC.3.M.SG+IMPF+2+SG
 garoteavam-no	garotear+V.ele.ACC.3.M.SG+IMPF+3+PL
 garoteava-o	garotear+V.ele.ACC.3.M.SG+IMPF+3+SG
+garoteá-lo	garotear+V.ele.ACC.3.M.SG+INF
 garotearmo-lo	garotear+V.ele.ACC.3.M.SG+INF+1+PL
 garoteá-lo	garotear+V.ele.ACC.3.M.SG+INF+1+SG
 garotearde-lo	garotear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -12700,6 +12800,7 @@ garreávei-las	garrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 garreava-las	garrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 garreavam-nas	garrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 garreava-as	garrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+garreá-las	garrear+V.ele.ACC.3.F.PL+INF
 garrearmo-las	garrear+V.ele.ACC.3.F.PL+INF+1+PL
 garreá-las	garrear+V.ele.ACC.3.F.PL+INF+1+SG
 garrearde-las	garrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12749,6 +12850,7 @@ garreávei-la	garrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 garreava-la	garrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 garreavam-na	garrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 garreava-a	garrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+garreá-la	garrear+V.ele.ACC.3.F.SG+INF
 garrearmo-la	garrear+V.ele.ACC.3.F.SG+INF+1+PL
 garreá-la	garrear+V.ele.ACC.3.F.SG+INF+1+SG
 garrearde-la	garrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12798,6 +12900,7 @@ garreávei-los	garrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 garreava-los	garrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 garreavam-nos	garrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 garreava-os	garrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+garreá-los	garrear+V.ele.ACC.3.M.PL+INF
 garrearmo-los	garrear+V.ele.ACC.3.M.PL+INF+1+PL
 garreá-los	garrear+V.ele.ACC.3.M.PL+INF+1+SG
 garrearde-los	garrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12847,6 +12950,7 @@ garreávei-lo	garrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 garreava-lo	garrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 garreavam-no	garrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 garreava-o	garrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+garreá-lo	garrear+V.ele.ACC.3.M.SG+INF
 garrearmo-lo	garrear+V.ele.ACC.3.M.SG+INF+1+PL
 garreá-lo	garrear+V.ele.ACC.3.M.SG+INF+1+SG
 garrearde-lo	garrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13217,6 +13321,7 @@ garríei-las	garrir+V.ele.ACC.3.F.PL+IMPF+2+PL
 garria-las	garrir+V.ele.ACC.3.F.PL+IMPF+2+SG
 garriam-nas	garrir+V.ele.ACC.3.F.PL+IMPF+3+PL
 garria-as	garrir+V.ele.ACC.3.F.PL+IMPF+3+SG
+garri-las	garrir+V.ele.ACC.3.F.PL+INF
 garrirmo-las	garrir+V.ele.ACC.3.F.PL+INF+1+PL
 garri-las	garrir+V.ele.ACC.3.F.PL+INF+1+SG
 garrirde-las	garrir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -13257,6 +13362,7 @@ garríei-la	garrir+V.ele.ACC.3.F.SG+IMPF+2+PL
 garria-la	garrir+V.ele.ACC.3.F.SG+IMPF+2+SG
 garriam-na	garrir+V.ele.ACC.3.F.SG+IMPF+3+PL
 garria-a	garrir+V.ele.ACC.3.F.SG+IMPF+3+SG
+garri-la	garrir+V.ele.ACC.3.F.SG+INF
 garrirmo-la	garrir+V.ele.ACC.3.F.SG+INF+1+PL
 garri-la	garrir+V.ele.ACC.3.F.SG+INF+1+SG
 garrirde-la	garrir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -13297,6 +13403,7 @@ garríei-los	garrir+V.ele.ACC.3.M.PL+IMPF+2+PL
 garria-los	garrir+V.ele.ACC.3.M.PL+IMPF+2+SG
 garriam-nos	garrir+V.ele.ACC.3.M.PL+IMPF+3+PL
 garria-os	garrir+V.ele.ACC.3.M.PL+IMPF+3+SG
+garri-los	garrir+V.ele.ACC.3.M.PL+INF
 garrirmo-los	garrir+V.ele.ACC.3.M.PL+INF+1+PL
 garri-los	garrir+V.ele.ACC.3.M.PL+INF+1+SG
 garrirde-los	garrir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -13337,6 +13444,7 @@ garríei-lo	garrir+V.ele.ACC.3.M.SG+IMPF+2+PL
 garria-lo	garrir+V.ele.ACC.3.M.SG+IMPF+2+SG
 garriam-no	garrir+V.ele.ACC.3.M.SG+IMPF+3+PL
 garria-o	garrir+V.ele.ACC.3.M.SG+IMPF+3+SG
+garri-lo	garrir+V.ele.ACC.3.M.SG+INF
 garrirmo-lo	garrir+V.ele.ACC.3.M.SG+INF+1+PL
 garri-lo	garrir+V.ele.ACC.3.M.SG+INF+1+SG
 garrirde-lo	garrir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13636,6 +13744,7 @@ garroteávei-las	garrotear+V.ele.ACC.3.F.PL+IMPF+2+PL
 garroteava-las	garrotear+V.ele.ACC.3.F.PL+IMPF+2+SG
 garroteavam-nas	garrotear+V.ele.ACC.3.F.PL+IMPF+3+PL
 garroteava-as	garrotear+V.ele.ACC.3.F.PL+IMPF+3+SG
+garroteá-las	garrotear+V.ele.ACC.3.F.PL+INF
 garrotearmo-las	garrotear+V.ele.ACC.3.F.PL+INF+1+PL
 garroteá-las	garrotear+V.ele.ACC.3.F.PL+INF+1+SG
 garrotearde-las	garrotear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -13685,6 +13794,7 @@ garroteávei-la	garrotear+V.ele.ACC.3.F.SG+IMPF+2+PL
 garroteava-la	garrotear+V.ele.ACC.3.F.SG+IMPF+2+SG
 garroteavam-na	garrotear+V.ele.ACC.3.F.SG+IMPF+3+PL
 garroteava-a	garrotear+V.ele.ACC.3.F.SG+IMPF+3+SG
+garroteá-la	garrotear+V.ele.ACC.3.F.SG+INF
 garrotearmo-la	garrotear+V.ele.ACC.3.F.SG+INF+1+PL
 garroteá-la	garrotear+V.ele.ACC.3.F.SG+INF+1+SG
 garrotearde-la	garrotear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -13734,6 +13844,7 @@ garroteávei-los	garrotear+V.ele.ACC.3.M.PL+IMPF+2+PL
 garroteava-los	garrotear+V.ele.ACC.3.M.PL+IMPF+2+SG
 garroteavam-nos	garrotear+V.ele.ACC.3.M.PL+IMPF+3+PL
 garroteava-os	garrotear+V.ele.ACC.3.M.PL+IMPF+3+SG
+garroteá-los	garrotear+V.ele.ACC.3.M.PL+INF
 garrotearmo-los	garrotear+V.ele.ACC.3.M.PL+INF+1+PL
 garroteá-los	garrotear+V.ele.ACC.3.M.PL+INF+1+SG
 garrotearde-los	garrotear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -13783,6 +13894,7 @@ garroteávei-lo	garrotear+V.ele.ACC.3.M.SG+IMPF+2+PL
 garroteava-lo	garrotear+V.ele.ACC.3.M.SG+IMPF+2+SG
 garroteavam-no	garrotear+V.ele.ACC.3.M.SG+IMPF+3+PL
 garroteava-o	garrotear+V.ele.ACC.3.M.SG+IMPF+3+SG
+garroteá-lo	garrotear+V.ele.ACC.3.M.SG+INF
 garrotearmo-lo	garrotear+V.ele.ACC.3.M.SG+INF+1+PL
 garroteá-lo	garrotear+V.ele.ACC.3.M.SG+INF+1+SG
 garrotearde-lo	garrotear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -14150,6 +14262,7 @@ garruleávei-las	garrulear+V.ele.ACC.3.F.PL+IMPF+2+PL
 garruleava-las	garrulear+V.ele.ACC.3.F.PL+IMPF+2+SG
 garruleavam-nas	garrulear+V.ele.ACC.3.F.PL+IMPF+3+PL
 garruleava-as	garrulear+V.ele.ACC.3.F.PL+IMPF+3+SG
+garruleá-las	garrulear+V.ele.ACC.3.F.PL+INF
 garrulearmo-las	garrulear+V.ele.ACC.3.F.PL+INF+1+PL
 garruleá-las	garrulear+V.ele.ACC.3.F.PL+INF+1+SG
 garrulearde-las	garrulear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -14199,6 +14312,7 @@ garruleávei-la	garrulear+V.ele.ACC.3.F.SG+IMPF+2+PL
 garruleava-la	garrulear+V.ele.ACC.3.F.SG+IMPF+2+SG
 garruleavam-na	garrulear+V.ele.ACC.3.F.SG+IMPF+3+PL
 garruleava-a	garrulear+V.ele.ACC.3.F.SG+IMPF+3+SG
+garruleá-la	garrulear+V.ele.ACC.3.F.SG+INF
 garrulearmo-la	garrulear+V.ele.ACC.3.F.SG+INF+1+PL
 garruleá-la	garrulear+V.ele.ACC.3.F.SG+INF+1+SG
 garrulearde-la	garrulear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -14248,6 +14362,7 @@ garruleávei-los	garrulear+V.ele.ACC.3.M.PL+IMPF+2+PL
 garruleava-los	garrulear+V.ele.ACC.3.M.PL+IMPF+2+SG
 garruleavam-nos	garrulear+V.ele.ACC.3.M.PL+IMPF+3+PL
 garruleava-os	garrulear+V.ele.ACC.3.M.PL+IMPF+3+SG
+garruleá-los	garrulear+V.ele.ACC.3.M.PL+INF
 garrulearmo-los	garrulear+V.ele.ACC.3.M.PL+INF+1+PL
 garruleá-los	garrulear+V.ele.ACC.3.M.PL+INF+1+SG
 garrulearde-los	garrulear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -14297,6 +14412,7 @@ garruleávei-lo	garrulear+V.ele.ACC.3.M.SG+IMPF+2+PL
 garruleava-lo	garrulear+V.ele.ACC.3.M.SG+IMPF+2+SG
 garruleavam-no	garrulear+V.ele.ACC.3.M.SG+IMPF+3+PL
 garruleava-o	garrulear+V.ele.ACC.3.M.SG+IMPF+3+SG
+garruleá-lo	garrulear+V.ele.ACC.3.M.SG+INF
 garrulearmo-lo	garrulear+V.ele.ACC.3.M.SG+INF+1+PL
 garruleá-lo	garrulear+V.ele.ACC.3.M.SG+INF+1+SG
 garrulearde-lo	garrulear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -14664,6 +14780,7 @@ gaseávei-las	gasear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gaseava-las	gasear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gaseavam-nas	gasear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gaseava-as	gasear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gaseá-las	gasear+V.ele.ACC.3.F.PL+INF
 gasearmo-las	gasear+V.ele.ACC.3.F.PL+INF+1+PL
 gaseá-las	gasear+V.ele.ACC.3.F.PL+INF+1+SG
 gasearde-las	gasear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -14713,6 +14830,7 @@ gaseávei-la	gasear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gaseava-la	gasear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gaseavam-na	gasear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gaseava-a	gasear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gaseá-la	gasear+V.ele.ACC.3.F.SG+INF
 gasearmo-la	gasear+V.ele.ACC.3.F.SG+INF+1+PL
 gaseá-la	gasear+V.ele.ACC.3.F.SG+INF+1+SG
 gasearde-la	gasear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -14762,6 +14880,7 @@ gaseávei-los	gasear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gaseava-los	gasear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gaseavam-nos	gasear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gaseava-os	gasear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gaseá-los	gasear+V.ele.ACC.3.M.PL+INF
 gasearmo-los	gasear+V.ele.ACC.3.M.PL+INF+1+PL
 gaseá-los	gasear+V.ele.ACC.3.M.PL+INF+1+SG
 gasearde-los	gasear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -14811,6 +14930,7 @@ gaseávei-lo	gasear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gaseava-lo	gasear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gaseavam-no	gasear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gaseava-o	gasear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gaseá-lo	gasear+V.ele.ACC.3.M.SG+INF
 gasearmo-lo	gasear+V.ele.ACC.3.M.SG+INF+1+PL
 gaseá-lo	gasear+V.ele.ACC.3.M.SG+INF+1+SG
 gasearde-lo	gasear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -15181,6 +15301,7 @@ gaseificávei-las	gaseificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 gaseificava-las	gaseificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 gaseificavam-nas	gaseificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 gaseificava-as	gaseificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+gaseificá-las	gaseificar+V.ele.ACC.3.F.PL+INF
 gaseificarmo-las	gaseificar+V.ele.ACC.3.F.PL+INF+1+PL
 gaseificá-las	gaseificar+V.ele.ACC.3.F.PL+INF+1+SG
 gaseificarde-las	gaseificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -15232,6 +15353,7 @@ gaseificávei-la	gaseificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 gaseificava-la	gaseificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 gaseificavam-na	gaseificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 gaseificava-a	gaseificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+gaseificá-la	gaseificar+V.ele.ACC.3.F.SG+INF
 gaseificarmo-la	gaseificar+V.ele.ACC.3.F.SG+INF+1+PL
 gaseificá-la	gaseificar+V.ele.ACC.3.F.SG+INF+1+SG
 gaseificarde-la	gaseificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -15283,6 +15405,7 @@ gaseificávei-los	gaseificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 gaseificava-los	gaseificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 gaseificavam-nos	gaseificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 gaseificava-os	gaseificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+gaseificá-los	gaseificar+V.ele.ACC.3.M.PL+INF
 gaseificarmo-los	gaseificar+V.ele.ACC.3.M.PL+INF+1+PL
 gaseificá-los	gaseificar+V.ele.ACC.3.M.PL+INF+1+SG
 gaseificarde-los	gaseificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -15334,6 +15457,7 @@ gaseificávei-lo	gaseificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 gaseificava-lo	gaseificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 gaseificavam-no	gaseificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 gaseificava-o	gaseificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+gaseificá-lo	gaseificar+V.ele.ACC.3.M.SG+INF
 gaseificarmo-lo	gaseificar+V.ele.ACC.3.M.SG+INF+1+PL
 gaseificá-lo	gaseificar+V.ele.ACC.3.M.SG+INF+1+SG
 gaseificarde-lo	gaseificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -15714,6 +15838,7 @@ gasguiteávei-las	gasguitear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gasguiteava-las	gasguitear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gasguiteavam-nas	gasguitear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gasguiteava-as	gasguitear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gasguiteá-las	gasguitear+V.ele.ACC.3.F.PL+INF
 gasguitearmo-las	gasguitear+V.ele.ACC.3.F.PL+INF+1+PL
 gasguiteá-las	gasguitear+V.ele.ACC.3.F.PL+INF+1+SG
 gasguitearde-las	gasguitear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -15763,6 +15888,7 @@ gasguiteávei-la	gasguitear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gasguiteava-la	gasguitear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gasguiteavam-na	gasguitear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gasguiteava-a	gasguitear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gasguiteá-la	gasguitear+V.ele.ACC.3.F.SG+INF
 gasguitearmo-la	gasguitear+V.ele.ACC.3.F.SG+INF+1+PL
 gasguiteá-la	gasguitear+V.ele.ACC.3.F.SG+INF+1+SG
 gasguitearde-la	gasguitear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -15812,6 +15938,7 @@ gasguiteávei-los	gasguitear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gasguiteava-los	gasguitear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gasguiteavam-nos	gasguitear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gasguiteava-os	gasguitear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gasguiteá-los	gasguitear+V.ele.ACC.3.M.PL+INF
 gasguitearmo-los	gasguitear+V.ele.ACC.3.M.PL+INF+1+PL
 gasguiteá-los	gasguitear+V.ele.ACC.3.M.PL+INF+1+SG
 gasguitearde-los	gasguitear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -15861,6 +15988,7 @@ gasguiteávei-lo	gasguitear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gasguiteava-lo	gasguitear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gasguiteavam-no	gasguitear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gasguiteava-o	gasguitear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gasguiteá-lo	gasguitear+V.ele.ACC.3.M.SG+INF
 gasguitearmo-lo	gasguitear+V.ele.ACC.3.M.SG+INF+1+PL
 gasguiteá-lo	gasguitear+V.ele.ACC.3.M.SG+INF+1+SG
 gasguitearde-lo	gasguitear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -16231,6 +16359,7 @@ gasificávei-las	gasificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 gasificava-las	gasificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 gasificavam-nas	gasificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 gasificava-as	gasificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+gasificá-las	gasificar+V.ele.ACC.3.F.PL+INF
 gasificarmo-las	gasificar+V.ele.ACC.3.F.PL+INF+1+PL
 gasificá-las	gasificar+V.ele.ACC.3.F.PL+INF+1+SG
 gasificarde-las	gasificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -16282,6 +16411,7 @@ gasificávei-la	gasificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 gasificava-la	gasificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 gasificavam-na	gasificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 gasificava-a	gasificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+gasificá-la	gasificar+V.ele.ACC.3.F.SG+INF
 gasificarmo-la	gasificar+V.ele.ACC.3.F.SG+INF+1+PL
 gasificá-la	gasificar+V.ele.ACC.3.F.SG+INF+1+SG
 gasificarde-la	gasificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -16333,6 +16463,7 @@ gasificávei-los	gasificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 gasificava-los	gasificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 gasificavam-nos	gasificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 gasificava-os	gasificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+gasificá-los	gasificar+V.ele.ACC.3.M.PL+INF
 gasificarmo-los	gasificar+V.ele.ACC.3.M.PL+INF+1+PL
 gasificá-los	gasificar+V.ele.ACC.3.M.PL+INF+1+SG
 gasificarde-los	gasificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -16384,6 +16515,7 @@ gasificávei-lo	gasificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 gasificava-lo	gasificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 gasificavam-no	gasificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 gasificava-o	gasificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+gasificá-lo	gasificar+V.ele.ACC.3.M.SG+INF
 gasificarmo-lo	gasificar+V.ele.ACC.3.M.SG+INF+1+PL
 gasificá-lo	gasificar+V.ele.ACC.3.M.SG+INF+1+SG
 gasificarde-lo	gasificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -16764,6 +16896,7 @@ gaspeávei-las	gaspear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gaspeava-las	gaspear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gaspeavam-nas	gaspear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gaspeava-as	gaspear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gaspeá-las	gaspear+V.ele.ACC.3.F.PL+INF
 gaspearmo-las	gaspear+V.ele.ACC.3.F.PL+INF+1+PL
 gaspeá-las	gaspear+V.ele.ACC.3.F.PL+INF+1+SG
 gaspearde-las	gaspear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -16813,6 +16946,7 @@ gaspeávei-la	gaspear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gaspeava-la	gaspear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gaspeavam-na	gaspear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gaspeava-a	gaspear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gaspeá-la	gaspear+V.ele.ACC.3.F.SG+INF
 gaspearmo-la	gaspear+V.ele.ACC.3.F.SG+INF+1+PL
 gaspeá-la	gaspear+V.ele.ACC.3.F.SG+INF+1+SG
 gaspearde-la	gaspear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -16862,6 +16996,7 @@ gaspeávei-los	gaspear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gaspeava-los	gaspear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gaspeavam-nos	gaspear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gaspeava-os	gaspear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gaspeá-los	gaspear+V.ele.ACC.3.M.PL+INF
 gaspearmo-los	gaspear+V.ele.ACC.3.M.PL+INF+1+PL
 gaspeá-los	gaspear+V.ele.ACC.3.M.PL+INF+1+SG
 gaspearde-los	gaspear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -16911,6 +17046,7 @@ gaspeávei-lo	gaspear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gaspeava-lo	gaspear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gaspeavam-no	gaspear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gaspeava-o	gaspear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gaspeá-lo	gaspear+V.ele.ACC.3.M.SG+INF
 gaspearmo-lo	gaspear+V.ele.ACC.3.M.SG+INF+1+PL
 gaspeá-lo	gaspear+V.ele.ACC.3.M.SG+INF+1+SG
 gaspearde-lo	gaspear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -17281,6 +17417,7 @@ gastávei-las	gastar+V.ele.ACC.3.F.PL+IMPF+2+PL
 gastava-las	gastar+V.ele.ACC.3.F.PL+IMPF+2+SG
 gastavam-nas	gastar+V.ele.ACC.3.F.PL+IMPF+3+PL
 gastava-as	gastar+V.ele.ACC.3.F.PL+IMPF+3+SG
+gastá-las	gastar+V.ele.ACC.3.F.PL+INF
 gastarmo-las	gastar+V.ele.ACC.3.F.PL+INF+1+PL
 gastá-las	gastar+V.ele.ACC.3.F.PL+INF+1+SG
 gastarde-las	gastar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -17333,6 +17470,7 @@ gastávei-la	gastar+V.ele.ACC.3.F.SG+IMPF+2+PL
 gastava-la	gastar+V.ele.ACC.3.F.SG+IMPF+2+SG
 gastavam-na	gastar+V.ele.ACC.3.F.SG+IMPF+3+PL
 gastava-a	gastar+V.ele.ACC.3.F.SG+IMPF+3+SG
+gastá-la	gastar+V.ele.ACC.3.F.SG+INF
 gastarmo-la	gastar+V.ele.ACC.3.F.SG+INF+1+PL
 gastá-la	gastar+V.ele.ACC.3.F.SG+INF+1+SG
 gastarde-la	gastar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -17385,6 +17523,7 @@ gastávei-los	gastar+V.ele.ACC.3.M.PL+IMPF+2+PL
 gastava-los	gastar+V.ele.ACC.3.M.PL+IMPF+2+SG
 gastavam-nos	gastar+V.ele.ACC.3.M.PL+IMPF+3+PL
 gastava-os	gastar+V.ele.ACC.3.M.PL+IMPF+3+SG
+gastá-los	gastar+V.ele.ACC.3.M.PL+INF
 gastarmo-los	gastar+V.ele.ACC.3.M.PL+INF+1+PL
 gastá-los	gastar+V.ele.ACC.3.M.PL+INF+1+SG
 gastarde-los	gastar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -17437,6 +17576,7 @@ gastávei-lo	gastar+V.ele.ACC.3.M.SG+IMPF+2+PL
 gastava-lo	gastar+V.ele.ACC.3.M.SG+IMPF+2+SG
 gastavam-no	gastar+V.ele.ACC.3.M.SG+IMPF+3+PL
 gastava-o	gastar+V.ele.ACC.3.M.SG+IMPF+3+SG
+gastá-lo	gastar+V.ele.ACC.3.M.SG+INF
 gastarmo-lo	gastar+V.ele.ACC.3.M.SG+INF+1+PL
 gastá-lo	gastar+V.ele.ACC.3.M.SG+INF+1+SG
 gastarde-lo	gastar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -17824,6 +17964,7 @@ gateávei-las	gatear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gateava-las	gatear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gateavam-nas	gatear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gateava-as	gatear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gateá-las	gatear+V.ele.ACC.3.F.PL+INF
 gatearmo-las	gatear+V.ele.ACC.3.F.PL+INF+1+PL
 gateá-las	gatear+V.ele.ACC.3.F.PL+INF+1+SG
 gatearde-las	gatear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -17873,6 +18014,7 @@ gateávei-la	gatear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gateava-la	gatear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gateavam-na	gatear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gateava-a	gatear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gateá-la	gatear+V.ele.ACC.3.F.SG+INF
 gatearmo-la	gatear+V.ele.ACC.3.F.SG+INF+1+PL
 gateá-la	gatear+V.ele.ACC.3.F.SG+INF+1+SG
 gatearde-la	gatear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -17922,6 +18064,7 @@ gateávei-los	gatear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gateava-los	gatear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gateavam-nos	gatear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gateava-os	gatear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gateá-los	gatear+V.ele.ACC.3.M.PL+INF
 gatearmo-los	gatear+V.ele.ACC.3.M.PL+INF+1+PL
 gateá-los	gatear+V.ele.ACC.3.M.PL+INF+1+SG
 gatearde-los	gatear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -17971,6 +18114,7 @@ gateávei-lo	gatear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gateava-lo	gatear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gateavam-no	gatear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gateava-o	gatear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gateá-lo	gatear+V.ele.ACC.3.M.SG+INF
 gatearmo-lo	gatear+V.ele.ACC.3.M.SG+INF+1+PL
 gateá-lo	gatear+V.ele.ACC.3.M.SG+INF+1+SG
 gatearde-lo	gatear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -18341,6 +18485,7 @@ gatificávei-las	gatificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 gatificava-las	gatificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 gatificavam-nas	gatificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 gatificava-as	gatificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+gatificá-las	gatificar+V.ele.ACC.3.F.PL+INF
 gatificarmo-las	gatificar+V.ele.ACC.3.F.PL+INF+1+PL
 gatificá-las	gatificar+V.ele.ACC.3.F.PL+INF+1+SG
 gatificarde-las	gatificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -18392,6 +18537,7 @@ gatificávei-la	gatificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 gatificava-la	gatificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 gatificavam-na	gatificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 gatificava-a	gatificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+gatificá-la	gatificar+V.ele.ACC.3.F.SG+INF
 gatificarmo-la	gatificar+V.ele.ACC.3.F.SG+INF+1+PL
 gatificá-la	gatificar+V.ele.ACC.3.F.SG+INF+1+SG
 gatificarde-la	gatificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -18443,6 +18589,7 @@ gatificávei-los	gatificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 gatificava-los	gatificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 gatificavam-nos	gatificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 gatificava-os	gatificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+gatificá-los	gatificar+V.ele.ACC.3.M.PL+INF
 gatificarmo-los	gatificar+V.ele.ACC.3.M.PL+INF+1+PL
 gatificá-los	gatificar+V.ele.ACC.3.M.PL+INF+1+SG
 gatificarde-los	gatificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -18494,6 +18641,7 @@ gatificávei-lo	gatificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 gatificava-lo	gatificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 gatificavam-no	gatificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 gatificava-o	gatificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+gatificá-lo	gatificar+V.ele.ACC.3.M.SG+INF
 gatificarmo-lo	gatificar+V.ele.ACC.3.M.SG+INF+1+PL
 gatificá-lo	gatificar+V.ele.ACC.3.M.SG+INF+1+SG
 gatificarde-lo	gatificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -18874,6 +19022,7 @@ gauchereávei-las	gaucherear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gauchereava-las	gaucherear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gauchereavam-nas	gaucherear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gauchereava-as	gaucherear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gauchereá-las	gaucherear+V.ele.ACC.3.F.PL+INF
 gaucherearmo-las	gaucherear+V.ele.ACC.3.F.PL+INF+1+PL
 gauchereá-las	gaucherear+V.ele.ACC.3.F.PL+INF+1+SG
 gaucherearde-las	gaucherear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -18923,6 +19072,7 @@ gauchereávei-la	gaucherear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gauchereava-la	gaucherear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gauchereavam-na	gaucherear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gauchereava-a	gaucherear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gauchereá-la	gaucherear+V.ele.ACC.3.F.SG+INF
 gaucherearmo-la	gaucherear+V.ele.ACC.3.F.SG+INF+1+PL
 gauchereá-la	gaucherear+V.ele.ACC.3.F.SG+INF+1+SG
 gaucherearde-la	gaucherear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -18972,6 +19122,7 @@ gauchereávei-los	gaucherear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gauchereava-los	gaucherear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gauchereavam-nos	gaucherear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gauchereava-os	gaucherear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gauchereá-los	gaucherear+V.ele.ACC.3.M.PL+INF
 gaucherearmo-los	gaucherear+V.ele.ACC.3.M.PL+INF+1+PL
 gauchereá-los	gaucherear+V.ele.ACC.3.M.PL+INF+1+SG
 gaucherearde-los	gaucherear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -19021,6 +19172,7 @@ gauchereávei-lo	gaucherear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gauchereava-lo	gaucherear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gauchereavam-no	gaucherear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gauchereava-o	gaucherear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gauchereá-lo	gaucherear+V.ele.ACC.3.M.SG+INF
 gaucherearmo-lo	gaucherear+V.ele.ACC.3.M.SG+INF+1+PL
 gauchereá-lo	gaucherear+V.ele.ACC.3.M.SG+INF+1+SG
 gaucherearde-lo	gaucherear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -19388,6 +19540,7 @@ gaveávei-las	gavear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gaveava-las	gavear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gaveavam-nas	gavear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gaveava-as	gavear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gaveá-las	gavear+V.ele.ACC.3.F.PL+INF
 gavearmo-las	gavear+V.ele.ACC.3.F.PL+INF+1+PL
 gaveá-las	gavear+V.ele.ACC.3.F.PL+INF+1+SG
 gavearde-las	gavear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -19437,6 +19590,7 @@ gaveávei-la	gavear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gaveava-la	gavear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gaveavam-na	gavear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gaveava-a	gavear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gaveá-la	gavear+V.ele.ACC.3.F.SG+INF
 gavearmo-la	gavear+V.ele.ACC.3.F.SG+INF+1+PL
 gaveá-la	gavear+V.ele.ACC.3.F.SG+INF+1+SG
 gavearde-la	gavear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -19486,6 +19640,7 @@ gaveávei-los	gavear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gaveava-los	gavear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gaveavam-nos	gavear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gaveava-os	gavear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gaveá-los	gavear+V.ele.ACC.3.M.PL+INF
 gavearmo-los	gavear+V.ele.ACC.3.M.PL+INF+1+PL
 gaveá-los	gavear+V.ele.ACC.3.M.PL+INF+1+SG
 gavearde-los	gavear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -19535,6 +19690,7 @@ gaveávei-lo	gavear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gaveava-lo	gavear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gaveavam-no	gavear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gaveava-o	gavear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gaveá-lo	gavear+V.ele.ACC.3.M.SG+INF
 gavearmo-lo	gavear+V.ele.ACC.3.M.SG+INF+1+PL
 gaveá-lo	gavear+V.ele.ACC.3.M.SG+INF+1+SG
 gavearde-lo	gavear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -19902,6 +20058,7 @@ gazeávei-las	gazear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gazeava-las	gazear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gazeavam-nas	gazear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gazeava-as	gazear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gazeá-las	gazear+V.ele.ACC.3.F.PL+INF
 gazearmo-las	gazear+V.ele.ACC.3.F.PL+INF+1+PL
 gazeá-las	gazear+V.ele.ACC.3.F.PL+INF+1+SG
 gazearde-las	gazear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -19951,6 +20108,7 @@ gazeávei-la	gazear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gazeava-la	gazear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gazeavam-na	gazear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gazeava-a	gazear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gazeá-la	gazear+V.ele.ACC.3.F.SG+INF
 gazearmo-la	gazear+V.ele.ACC.3.F.SG+INF+1+PL
 gazeá-la	gazear+V.ele.ACC.3.F.SG+INF+1+SG
 gazearde-la	gazear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -20000,6 +20158,7 @@ gazeávei-los	gazear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gazeava-los	gazear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gazeavam-nos	gazear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gazeava-os	gazear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gazeá-los	gazear+V.ele.ACC.3.M.PL+INF
 gazearmo-los	gazear+V.ele.ACC.3.M.PL+INF+1+PL
 gazeá-los	gazear+V.ele.ACC.3.M.PL+INF+1+SG
 gazearde-los	gazear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -20049,6 +20208,7 @@ gazeávei-lo	gazear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gazeava-lo	gazear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gazeavam-no	gazear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gazeava-o	gazear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gazeá-lo	gazear+V.ele.ACC.3.M.SG+INF
 gazearmo-lo	gazear+V.ele.ACC.3.M.SG+INF+1+PL
 gazeá-lo	gazear+V.ele.ACC.3.M.SG+INF+1+SG
 gazearde-lo	gazear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -20416,6 +20576,7 @@ gazeteávei-las	gazetear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gazeteava-las	gazetear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gazeteavam-nas	gazetear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gazeteava-as	gazetear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gazeteá-las	gazetear+V.ele.ACC.3.F.PL+INF
 gazetearmo-las	gazetear+V.ele.ACC.3.F.PL+INF+1+PL
 gazeteá-las	gazetear+V.ele.ACC.3.F.PL+INF+1+SG
 gazetearde-las	gazetear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -20465,6 +20626,7 @@ gazeteávei-la	gazetear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gazeteava-la	gazetear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gazeteavam-na	gazetear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gazeteava-a	gazetear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gazeteá-la	gazetear+V.ele.ACC.3.F.SG+INF
 gazetearmo-la	gazetear+V.ele.ACC.3.F.SG+INF+1+PL
 gazeteá-la	gazetear+V.ele.ACC.3.F.SG+INF+1+SG
 gazetearde-la	gazetear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -20514,6 +20676,7 @@ gazeteávei-los	gazetear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gazeteava-los	gazetear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gazeteavam-nos	gazetear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gazeteava-os	gazetear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gazeteá-los	gazetear+V.ele.ACC.3.M.PL+INF
 gazetearmo-los	gazetear+V.ele.ACC.3.M.PL+INF+1+PL
 gazeteá-los	gazetear+V.ele.ACC.3.M.PL+INF+1+SG
 gazetearde-los	gazetear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -20563,6 +20726,7 @@ gazeteávei-lo	gazetear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gazeteava-lo	gazetear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gazeteavam-no	gazetear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gazeteava-o	gazetear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gazeteá-lo	gazetear+V.ele.ACC.3.M.SG+INF
 gazetearmo-lo	gazetear+V.ele.ACC.3.M.SG+INF+1+PL
 gazeteá-lo	gazetear+V.ele.ACC.3.M.SG+INF+1+SG
 gazetearde-lo	gazetear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -20930,6 +21094,7 @@ geávei-las	gear+V.ele.ACC.3.F.PL+IMPF+2+PL
 geava-las	gear+V.ele.ACC.3.F.PL+IMPF+2+SG
 geavam-nas	gear+V.ele.ACC.3.F.PL+IMPF+3+PL
 geava-as	gear+V.ele.ACC.3.F.PL+IMPF+3+SG
+geá-las	gear+V.ele.ACC.3.F.PL+INF
 gearmo-las	gear+V.ele.ACC.3.F.PL+INF+1+PL
 geá-las	gear+V.ele.ACC.3.F.PL+INF+1+SG
 gearde-las	gear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -20979,6 +21144,7 @@ geávei-la	gear+V.ele.ACC.3.F.SG+IMPF+2+PL
 geava-la	gear+V.ele.ACC.3.F.SG+IMPF+2+SG
 geavam-na	gear+V.ele.ACC.3.F.SG+IMPF+3+PL
 geava-a	gear+V.ele.ACC.3.F.SG+IMPF+3+SG
+geá-la	gear+V.ele.ACC.3.F.SG+INF
 gearmo-la	gear+V.ele.ACC.3.F.SG+INF+1+PL
 geá-la	gear+V.ele.ACC.3.F.SG+INF+1+SG
 gearde-la	gear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -21028,6 +21194,7 @@ geávei-los	gear+V.ele.ACC.3.M.PL+IMPF+2+PL
 geava-los	gear+V.ele.ACC.3.M.PL+IMPF+2+SG
 geavam-nos	gear+V.ele.ACC.3.M.PL+IMPF+3+PL
 geava-os	gear+V.ele.ACC.3.M.PL+IMPF+3+SG
+geá-los	gear+V.ele.ACC.3.M.PL+INF
 gearmo-los	gear+V.ele.ACC.3.M.PL+INF+1+PL
 geá-los	gear+V.ele.ACC.3.M.PL+INF+1+SG
 gearde-los	gear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -21077,6 +21244,7 @@ geávei-lo	gear+V.ele.ACC.3.M.SG+IMPF+2+PL
 geava-lo	gear+V.ele.ACC.3.M.SG+IMPF+2+SG
 geavam-no	gear+V.ele.ACC.3.M.SG+IMPF+3+PL
 geava-o	gear+V.ele.ACC.3.M.SG+IMPF+3+SG
+geá-lo	gear+V.ele.ACC.3.M.SG+INF
 gearmo-lo	gear+V.ele.ACC.3.M.SG+INF+1+PL
 geá-lo	gear+V.ele.ACC.3.M.SG+INF+1+SG
 gearde-lo	gear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -21983,6 +22151,7 @@ gemelhicávei-las	gemelhicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 gemelhicava-las	gemelhicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 gemelhicavam-nas	gemelhicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 gemelhicava-as	gemelhicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+gemelhicá-las	gemelhicar+V.ele.ACC.3.F.PL+INF
 gemelhicarmo-las	gemelhicar+V.ele.ACC.3.F.PL+INF+1+PL
 gemelhicá-las	gemelhicar+V.ele.ACC.3.F.PL+INF+1+SG
 gemelhicarde-las	gemelhicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -22034,6 +22203,7 @@ gemelhicávei-la	gemelhicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 gemelhicava-la	gemelhicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 gemelhicavam-na	gemelhicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 gemelhicava-a	gemelhicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+gemelhicá-la	gemelhicar+V.ele.ACC.3.F.SG+INF
 gemelhicarmo-la	gemelhicar+V.ele.ACC.3.F.SG+INF+1+PL
 gemelhicá-la	gemelhicar+V.ele.ACC.3.F.SG+INF+1+SG
 gemelhicarde-la	gemelhicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -22085,6 +22255,7 @@ gemelhicávei-los	gemelhicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 gemelhicava-los	gemelhicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 gemelhicavam-nos	gemelhicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 gemelhicava-os	gemelhicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+gemelhicá-los	gemelhicar+V.ele.ACC.3.M.PL+INF
 gemelhicarmo-los	gemelhicar+V.ele.ACC.3.M.PL+INF+1+PL
 gemelhicá-los	gemelhicar+V.ele.ACC.3.M.PL+INF+1+SG
 gemelhicarde-los	gemelhicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -22136,6 +22307,7 @@ gemelhicávei-lo	gemelhicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 gemelhicava-lo	gemelhicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 gemelhicavam-no	gemelhicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 gemelhicava-o	gemelhicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+gemelhicá-lo	gemelhicar+V.ele.ACC.3.M.SG+INF
 gemelhicarmo-lo	gemelhicar+V.ele.ACC.3.M.SG+INF+1+PL
 gemelhicá-lo	gemelhicar+V.ele.ACC.3.M.SG+INF+1+SG
 gemelhicarde-lo	gemelhicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -22497,10 +22669,6 @@ gemelhicardes-vos	gemelhicar+V.vós.AD.2.PL+SBJF+2+PL
 gemelhicares-vos	gemelhicar+V.vós.AD.2.PL+SBJF+2+SG
 gemelhicarem-vos	gemelhicar+V.vós.AD.2.PL+SBJF+3+PL
 gemelhicar-vos	gemelhicar+V.vós.AD.2.PL+SBJF+3+SG
-gemê-las	gemer+V.ele.ACC.3.F.PL+INF
-gemê-la	gemer+V.ele.ACC.3.F.SG+INF
-gemê-los	gemer+V.ele.ACC.3.M.PL+INF
-gemê-lo	gemer+V.ele.ACC.3.M.SG+INF
 gemicá-las-íamos	gemicar+V.ele.ACC.3.F.PL+COND+1+PL
 gemicá-las-ia	gemicar+V.ele.ACC.3.F.PL+COND+1+SG
 gemicá-las-íeis	gemicar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -22523,6 +22691,7 @@ gemicávei-las	gemicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 gemicava-las	gemicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 gemicavam-nas	gemicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 gemicava-as	gemicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+gemicá-las	gemicar+V.ele.ACC.3.F.PL+INF
 gemicarmo-las	gemicar+V.ele.ACC.3.F.PL+INF+1+PL
 gemicá-las	gemicar+V.ele.ACC.3.F.PL+INF+1+SG
 gemicarde-las	gemicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -22574,6 +22743,7 @@ gemicávei-la	gemicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 gemicava-la	gemicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 gemicavam-na	gemicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 gemicava-a	gemicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+gemicá-la	gemicar+V.ele.ACC.3.F.SG+INF
 gemicarmo-la	gemicar+V.ele.ACC.3.F.SG+INF+1+PL
 gemicá-la	gemicar+V.ele.ACC.3.F.SG+INF+1+SG
 gemicarde-la	gemicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -22625,6 +22795,7 @@ gemicávei-los	gemicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 gemicava-los	gemicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 gemicavam-nos	gemicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 gemicava-os	gemicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+gemicá-los	gemicar+V.ele.ACC.3.M.PL+INF
 gemicarmo-los	gemicar+V.ele.ACC.3.M.PL+INF+1+PL
 gemicá-los	gemicar+V.ele.ACC.3.M.PL+INF+1+SG
 gemicarde-los	gemicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -22676,6 +22847,7 @@ gemicávei-lo	gemicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 gemicava-lo	gemicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 gemicavam-no	gemicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 gemicava-o	gemicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+gemicá-lo	gemicar+V.ele.ACC.3.M.SG+INF
 gemicarmo-lo	gemicar+V.ele.ACC.3.M.SG+INF+1+PL
 gemicá-lo	gemicar+V.ele.ACC.3.M.SG+INF+1+SG
 gemicarde-lo	gemicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -23056,6 +23228,7 @@ genreávei-las	genrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 genreava-las	genrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 genreavam-nas	genrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 genreava-as	genrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+genreá-las	genrear+V.ele.ACC.3.F.PL+INF
 genrearmo-las	genrear+V.ele.ACC.3.F.PL+INF+1+PL
 genreá-las	genrear+V.ele.ACC.3.F.PL+INF+1+SG
 genrearde-las	genrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -23105,6 +23278,7 @@ genreávei-la	genrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 genreava-la	genrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 genreavam-na	genrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 genreava-a	genrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+genreá-la	genrear+V.ele.ACC.3.F.SG+INF
 genrearmo-la	genrear+V.ele.ACC.3.F.SG+INF+1+PL
 genreá-la	genrear+V.ele.ACC.3.F.SG+INF+1+SG
 genrearde-la	genrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -23154,6 +23328,7 @@ genreávei-los	genrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 genreava-los	genrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 genreavam-nos	genrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 genreava-os	genrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+genreá-los	genrear+V.ele.ACC.3.M.PL+INF
 genrearmo-los	genrear+V.ele.ACC.3.M.PL+INF+1+PL
 genreá-los	genrear+V.ele.ACC.3.M.PL+INF+1+SG
 genrearde-los	genrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -23203,6 +23378,7 @@ genreávei-lo	genrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 genreava-lo	genrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 genreavam-no	genrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 genreava-o	genrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+genreá-lo	genrear+V.ele.ACC.3.M.SG+INF
 genrearmo-lo	genrear+V.ele.ACC.3.M.SG+INF+1+PL
 genreá-lo	genrear+V.ele.ACC.3.M.SG+INF+1+SG
 genrearde-lo	genrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -23573,6 +23749,7 @@ genuflectíei-las	genuflectir+V.ele.ACC.3.F.PL+IMPF+2+PL
 genuflectia-las	genuflectir+V.ele.ACC.3.F.PL+IMPF+2+SG
 genuflectiam-nas	genuflectir+V.ele.ACC.3.F.PL+IMPF+3+PL
 genuflectia-as	genuflectir+V.ele.ACC.3.F.PL+IMPF+3+SG
+genuflecti-las	genuflectir+V.ele.ACC.3.F.PL+INF
 genuflectirmo-las	genuflectir+V.ele.ACC.3.F.PL+INF+1+PL
 genuflecti-las	genuflectir+V.ele.ACC.3.F.PL+INF+1+SG
 genuflectirde-las	genuflectir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -23619,6 +23796,7 @@ genuflectíei-la	genuflectir+V.ele.ACC.3.F.SG+IMPF+2+PL
 genuflectia-la	genuflectir+V.ele.ACC.3.F.SG+IMPF+2+SG
 genuflectiam-na	genuflectir+V.ele.ACC.3.F.SG+IMPF+3+PL
 genuflectia-a	genuflectir+V.ele.ACC.3.F.SG+IMPF+3+SG
+genuflecti-la	genuflectir+V.ele.ACC.3.F.SG+INF
 genuflectirmo-la	genuflectir+V.ele.ACC.3.F.SG+INF+1+PL
 genuflecti-la	genuflectir+V.ele.ACC.3.F.SG+INF+1+SG
 genuflectirde-la	genuflectir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -23665,6 +23843,7 @@ genuflectíei-los	genuflectir+V.ele.ACC.3.M.PL+IMPF+2+PL
 genuflectia-los	genuflectir+V.ele.ACC.3.M.PL+IMPF+2+SG
 genuflectiam-nos	genuflectir+V.ele.ACC.3.M.PL+IMPF+3+PL
 genuflectia-os	genuflectir+V.ele.ACC.3.M.PL+IMPF+3+SG
+genuflecti-los	genuflectir+V.ele.ACC.3.M.PL+INF
 genuflectirmo-los	genuflectir+V.ele.ACC.3.M.PL+INF+1+PL
 genuflecti-los	genuflectir+V.ele.ACC.3.M.PL+INF+1+SG
 genuflectirde-los	genuflectir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -23711,6 +23890,7 @@ genuflectíei-lo	genuflectir+V.ele.ACC.3.M.SG+IMPF+2+PL
 genuflectia-lo	genuflectir+V.ele.ACC.3.M.SG+IMPF+2+SG
 genuflectiam-no	genuflectir+V.ele.ACC.3.M.SG+IMPF+3+PL
 genuflectia-o	genuflectir+V.ele.ACC.3.M.SG+IMPF+3+SG
+genuflecti-lo	genuflectir+V.ele.ACC.3.M.SG+INF
 genuflectirmo-lo	genuflectir+V.ele.ACC.3.M.SG+INF+1+PL
 genuflecti-lo	genuflectir+V.ele.ACC.3.M.SG+INF+1+SG
 genuflectirde-lo	genuflectir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -24057,6 +24237,7 @@ genufletíei-las	genufletir+V.ele.ACC.3.F.PL+IMPF+2+PL
 genufletia-las	genufletir+V.ele.ACC.3.F.PL+IMPF+2+SG
 genufletiam-nas	genufletir+V.ele.ACC.3.F.PL+IMPF+3+PL
 genufletia-as	genufletir+V.ele.ACC.3.F.PL+IMPF+3+SG
+genufleti-las	genufletir+V.ele.ACC.3.F.PL+INF
 genufletirmo-las	genufletir+V.ele.ACC.3.F.PL+INF+1+PL
 genufleti-las	genufletir+V.ele.ACC.3.F.PL+INF+1+SG
 genufletirde-las	genufletir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -24103,6 +24284,7 @@ genufletíei-la	genufletir+V.ele.ACC.3.F.SG+IMPF+2+PL
 genufletia-la	genufletir+V.ele.ACC.3.F.SG+IMPF+2+SG
 genufletiam-na	genufletir+V.ele.ACC.3.F.SG+IMPF+3+PL
 genufletia-a	genufletir+V.ele.ACC.3.F.SG+IMPF+3+SG
+genufleti-la	genufletir+V.ele.ACC.3.F.SG+INF
 genufletirmo-la	genufletir+V.ele.ACC.3.F.SG+INF+1+PL
 genufleti-la	genufletir+V.ele.ACC.3.F.SG+INF+1+SG
 genufletirde-la	genufletir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -24149,6 +24331,7 @@ genufletíei-los	genufletir+V.ele.ACC.3.M.PL+IMPF+2+PL
 genufletia-los	genufletir+V.ele.ACC.3.M.PL+IMPF+2+SG
 genufletiam-nos	genufletir+V.ele.ACC.3.M.PL+IMPF+3+PL
 genufletia-os	genufletir+V.ele.ACC.3.M.PL+IMPF+3+SG
+genufleti-los	genufletir+V.ele.ACC.3.M.PL+INF
 genufletirmo-los	genufletir+V.ele.ACC.3.M.PL+INF+1+PL
 genufleti-los	genufletir+V.ele.ACC.3.M.PL+INF+1+SG
 genufletirde-los	genufletir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -24195,6 +24378,7 @@ genufletíei-lo	genufletir+V.ele.ACC.3.M.SG+IMPF+2+PL
 genufletia-lo	genufletir+V.ele.ACC.3.M.SG+IMPF+2+SG
 genufletiam-no	genufletir+V.ele.ACC.3.M.SG+IMPF+3+PL
 genufletia-o	genufletir+V.ele.ACC.3.M.SG+IMPF+3+SG
+genufleti-lo	genufletir+V.ele.ACC.3.M.SG+INF
 genufletirmo-lo	genufletir+V.ele.ACC.3.M.SG+INF+1+PL
 genufleti-lo	genufletir+V.ele.ACC.3.M.SG+INF+1+SG
 genufletirde-lo	genufletir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -25080,6 +25264,7 @@ geríei-las	gerir+V.ele.ACC.3.F.PL+IMPF+2+PL
 geria-las	gerir+V.ele.ACC.3.F.PL+IMPF+2+SG
 geriam-nas	gerir+V.ele.ACC.3.F.PL+IMPF+3+PL
 geria-as	gerir+V.ele.ACC.3.F.PL+IMPF+3+SG
+geri-las	gerir+V.ele.ACC.3.F.PL+INF
 gerirmo-las	gerir+V.ele.ACC.3.F.PL+INF+1+PL
 geri-las	gerir+V.ele.ACC.3.F.PL+INF+1+SG
 gerirde-las	gerir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -25126,6 +25311,7 @@ geríei-la	gerir+V.ele.ACC.3.F.SG+IMPF+2+PL
 geria-la	gerir+V.ele.ACC.3.F.SG+IMPF+2+SG
 geriam-na	gerir+V.ele.ACC.3.F.SG+IMPF+3+PL
 geria-a	gerir+V.ele.ACC.3.F.SG+IMPF+3+SG
+geri-la	gerir+V.ele.ACC.3.F.SG+INF
 gerirmo-la	gerir+V.ele.ACC.3.F.SG+INF+1+PL
 geri-la	gerir+V.ele.ACC.3.F.SG+INF+1+SG
 gerirde-la	gerir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -25172,6 +25358,7 @@ geríei-los	gerir+V.ele.ACC.3.M.PL+IMPF+2+PL
 geria-los	gerir+V.ele.ACC.3.M.PL+IMPF+2+SG
 geriam-nos	gerir+V.ele.ACC.3.M.PL+IMPF+3+PL
 geria-os	gerir+V.ele.ACC.3.M.PL+IMPF+3+SG
+geri-los	gerir+V.ele.ACC.3.M.PL+INF
 gerirmo-los	gerir+V.ele.ACC.3.M.PL+INF+1+PL
 geri-los	gerir+V.ele.ACC.3.M.PL+INF+1+SG
 gerirde-los	gerir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -25218,6 +25405,7 @@ geríei-lo	gerir+V.ele.ACC.3.M.SG+IMPF+2+PL
 geria-lo	gerir+V.ele.ACC.3.M.SG+IMPF+2+SG
 geriam-no	gerir+V.ele.ACC.3.M.SG+IMPF+3+PL
 geria-o	gerir+V.ele.ACC.3.M.SG+IMPF+3+SG
+geri-lo	gerir+V.ele.ACC.3.M.SG+INF
 gerirmo-lo	gerir+V.ele.ACC.3.M.SG+INF+1+PL
 geri-lo	gerir+V.ele.ACC.3.M.SG+INF+1+SG
 gerirde-lo	gerir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -25561,6 +25749,7 @@ giganteávei-las	gigantear+V.ele.ACC.3.F.PL+IMPF+2+PL
 giganteava-las	gigantear+V.ele.ACC.3.F.PL+IMPF+2+SG
 giganteavam-nas	gigantear+V.ele.ACC.3.F.PL+IMPF+3+PL
 giganteava-as	gigantear+V.ele.ACC.3.F.PL+IMPF+3+SG
+giganteá-las	gigantear+V.ele.ACC.3.F.PL+INF
 gigantearmo-las	gigantear+V.ele.ACC.3.F.PL+INF+1+PL
 giganteá-las	gigantear+V.ele.ACC.3.F.PL+INF+1+SG
 gigantearde-las	gigantear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -25610,6 +25799,7 @@ giganteávei-la	gigantear+V.ele.ACC.3.F.SG+IMPF+2+PL
 giganteava-la	gigantear+V.ele.ACC.3.F.SG+IMPF+2+SG
 giganteavam-na	gigantear+V.ele.ACC.3.F.SG+IMPF+3+PL
 giganteava-a	gigantear+V.ele.ACC.3.F.SG+IMPF+3+SG
+giganteá-la	gigantear+V.ele.ACC.3.F.SG+INF
 gigantearmo-la	gigantear+V.ele.ACC.3.F.SG+INF+1+PL
 giganteá-la	gigantear+V.ele.ACC.3.F.SG+INF+1+SG
 gigantearde-la	gigantear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -25659,6 +25849,7 @@ giganteávei-los	gigantear+V.ele.ACC.3.M.PL+IMPF+2+PL
 giganteava-los	gigantear+V.ele.ACC.3.M.PL+IMPF+2+SG
 giganteavam-nos	gigantear+V.ele.ACC.3.M.PL+IMPF+3+PL
 giganteava-os	gigantear+V.ele.ACC.3.M.PL+IMPF+3+SG
+giganteá-los	gigantear+V.ele.ACC.3.M.PL+INF
 gigantearmo-los	gigantear+V.ele.ACC.3.M.PL+INF+1+PL
 giganteá-los	gigantear+V.ele.ACC.3.M.PL+INF+1+SG
 gigantearde-los	gigantear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -25708,6 +25899,7 @@ giganteávei-lo	gigantear+V.ele.ACC.3.M.SG+IMPF+2+PL
 giganteava-lo	gigantear+V.ele.ACC.3.M.SG+IMPF+2+SG
 giganteavam-no	gigantear+V.ele.ACC.3.M.SG+IMPF+3+PL
 giganteava-o	gigantear+V.ele.ACC.3.M.SG+IMPF+3+SG
+giganteá-lo	gigantear+V.ele.ACC.3.M.SG+INF
 gigantearmo-lo	gigantear+V.ele.ACC.3.M.SG+INF+1+PL
 giganteá-lo	gigantear+V.ele.ACC.3.M.SG+INF+1+SG
 gigantearde-lo	gigantear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -26075,6 +26267,7 @@ gineteávei-las	ginetear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gineteava-las	ginetear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gineteavam-nas	ginetear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gineteava-as	ginetear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gineteá-las	ginetear+V.ele.ACC.3.F.PL+INF
 ginetearmo-las	ginetear+V.ele.ACC.3.F.PL+INF+1+PL
 gineteá-las	ginetear+V.ele.ACC.3.F.PL+INF+1+SG
 ginetearde-las	ginetear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -26124,6 +26317,7 @@ gineteávei-la	ginetear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gineteava-la	ginetear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gineteavam-na	ginetear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gineteava-a	ginetear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gineteá-la	ginetear+V.ele.ACC.3.F.SG+INF
 ginetearmo-la	ginetear+V.ele.ACC.3.F.SG+INF+1+PL
 gineteá-la	ginetear+V.ele.ACC.3.F.SG+INF+1+SG
 ginetearde-la	ginetear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -26173,6 +26367,7 @@ gineteávei-los	ginetear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gineteava-los	ginetear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gineteavam-nos	ginetear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gineteava-os	ginetear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gineteá-los	ginetear+V.ele.ACC.3.M.PL+INF
 ginetearmo-los	ginetear+V.ele.ACC.3.M.PL+INF+1+PL
 gineteá-los	ginetear+V.ele.ACC.3.M.PL+INF+1+SG
 ginetearde-los	ginetear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -26222,6 +26417,7 @@ gineteávei-lo	ginetear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gineteava-lo	ginetear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gineteavam-no	ginetear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gineteava-o	ginetear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gineteá-lo	ginetear+V.ele.ACC.3.M.SG+INF
 ginetearmo-lo	ginetear+V.ele.ACC.3.M.SG+INF+1+PL
 gineteá-lo	ginetear+V.ele.ACC.3.M.SG+INF+1+SG
 ginetearde-lo	ginetear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -26592,6 +26788,7 @@ glorificávei-las	glorificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 glorificava-las	glorificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 glorificavam-nas	glorificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 glorificava-as	glorificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+glorificá-las	glorificar+V.ele.ACC.3.F.PL+INF
 glorificarmo-las	glorificar+V.ele.ACC.3.F.PL+INF+1+PL
 glorificá-las	glorificar+V.ele.ACC.3.F.PL+INF+1+SG
 glorificarde-las	glorificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -26643,6 +26840,7 @@ glorificávei-la	glorificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 glorificava-la	glorificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 glorificavam-na	glorificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 glorificava-a	glorificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+glorificá-la	glorificar+V.ele.ACC.3.F.SG+INF
 glorificarmo-la	glorificar+V.ele.ACC.3.F.SG+INF+1+PL
 glorificá-la	glorificar+V.ele.ACC.3.F.SG+INF+1+SG
 glorificarde-la	glorificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -26694,6 +26892,7 @@ glorificávei-los	glorificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 glorificava-los	glorificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 glorificavam-nos	glorificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 glorificava-os	glorificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+glorificá-los	glorificar+V.ele.ACC.3.M.PL+INF
 glorificarmo-los	glorificar+V.ele.ACC.3.M.PL+INF+1+PL
 glorificá-los	glorificar+V.ele.ACC.3.M.PL+INF+1+SG
 glorificarde-los	glorificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -26745,6 +26944,7 @@ glorificávei-lo	glorificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 glorificava-lo	glorificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 glorificavam-no	glorificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 glorificava-o	glorificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+glorificá-lo	glorificar+V.ele.ACC.3.M.SG+INF
 glorificarmo-lo	glorificar+V.ele.ACC.3.M.SG+INF+1+PL
 glorificá-lo	glorificar+V.ele.ACC.3.M.SG+INF+1+SG
 glorificarde-lo	glorificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -27125,6 +27325,7 @@ goleávei-las	golear+V.ele.ACC.3.F.PL+IMPF+2+PL
 goleava-las	golear+V.ele.ACC.3.F.PL+IMPF+2+SG
 goleavam-nas	golear+V.ele.ACC.3.F.PL+IMPF+3+PL
 goleava-as	golear+V.ele.ACC.3.F.PL+IMPF+3+SG
+goleá-las	golear+V.ele.ACC.3.F.PL+INF
 golearmo-las	golear+V.ele.ACC.3.F.PL+INF+1+PL
 goleá-las	golear+V.ele.ACC.3.F.PL+INF+1+SG
 golearde-las	golear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -27174,6 +27375,7 @@ goleávei-la	golear+V.ele.ACC.3.F.SG+IMPF+2+PL
 goleava-la	golear+V.ele.ACC.3.F.SG+IMPF+2+SG
 goleavam-na	golear+V.ele.ACC.3.F.SG+IMPF+3+PL
 goleava-a	golear+V.ele.ACC.3.F.SG+IMPF+3+SG
+goleá-la	golear+V.ele.ACC.3.F.SG+INF
 golearmo-la	golear+V.ele.ACC.3.F.SG+INF+1+PL
 goleá-la	golear+V.ele.ACC.3.F.SG+INF+1+SG
 golearde-la	golear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -27223,6 +27425,7 @@ goleávei-los	golear+V.ele.ACC.3.M.PL+IMPF+2+PL
 goleava-los	golear+V.ele.ACC.3.M.PL+IMPF+2+SG
 goleavam-nos	golear+V.ele.ACC.3.M.PL+IMPF+3+PL
 goleava-os	golear+V.ele.ACC.3.M.PL+IMPF+3+SG
+goleá-los	golear+V.ele.ACC.3.M.PL+INF
 golearmo-los	golear+V.ele.ACC.3.M.PL+INF+1+PL
 goleá-los	golear+V.ele.ACC.3.M.PL+INF+1+SG
 golearde-los	golear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -27272,6 +27475,7 @@ goleávei-lo	golear+V.ele.ACC.3.M.SG+IMPF+2+PL
 goleava-lo	golear+V.ele.ACC.3.M.SG+IMPF+2+SG
 goleavam-no	golear+V.ele.ACC.3.M.SG+IMPF+3+PL
 goleava-o	golear+V.ele.ACC.3.M.SG+IMPF+3+SG
+goleá-lo	golear+V.ele.ACC.3.M.SG+INF
 golearmo-lo	golear+V.ele.ACC.3.M.SG+INF+1+PL
 goleá-lo	golear+V.ele.ACC.3.M.SG+INF+1+SG
 golearde-lo	golear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -27639,6 +27843,7 @@ golpeávei-las	golpear+V.ele.ACC.3.F.PL+IMPF+2+PL
 golpeava-las	golpear+V.ele.ACC.3.F.PL+IMPF+2+SG
 golpeavam-nas	golpear+V.ele.ACC.3.F.PL+IMPF+3+PL
 golpeava-as	golpear+V.ele.ACC.3.F.PL+IMPF+3+SG
+golpeá-las	golpear+V.ele.ACC.3.F.PL+INF
 golpearmo-las	golpear+V.ele.ACC.3.F.PL+INF+1+PL
 golpeá-las	golpear+V.ele.ACC.3.F.PL+INF+1+SG
 golpearde-las	golpear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -27688,6 +27893,7 @@ golpeávei-la	golpear+V.ele.ACC.3.F.SG+IMPF+2+PL
 golpeava-la	golpear+V.ele.ACC.3.F.SG+IMPF+2+SG
 golpeavam-na	golpear+V.ele.ACC.3.F.SG+IMPF+3+PL
 golpeava-a	golpear+V.ele.ACC.3.F.SG+IMPF+3+SG
+golpeá-la	golpear+V.ele.ACC.3.F.SG+INF
 golpearmo-la	golpear+V.ele.ACC.3.F.SG+INF+1+PL
 golpeá-la	golpear+V.ele.ACC.3.F.SG+INF+1+SG
 golpearde-la	golpear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -27737,6 +27943,7 @@ golpeávei-los	golpear+V.ele.ACC.3.M.PL+IMPF+2+PL
 golpeava-los	golpear+V.ele.ACC.3.M.PL+IMPF+2+SG
 golpeavam-nos	golpear+V.ele.ACC.3.M.PL+IMPF+3+PL
 golpeava-os	golpear+V.ele.ACC.3.M.PL+IMPF+3+SG
+golpeá-los	golpear+V.ele.ACC.3.M.PL+INF
 golpearmo-los	golpear+V.ele.ACC.3.M.PL+INF+1+PL
 golpeá-los	golpear+V.ele.ACC.3.M.PL+INF+1+SG
 golpearde-los	golpear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -27786,6 +27993,7 @@ golpeávei-lo	golpear+V.ele.ACC.3.M.SG+IMPF+2+PL
 golpeava-lo	golpear+V.ele.ACC.3.M.SG+IMPF+2+SG
 golpeavam-no	golpear+V.ele.ACC.3.M.SG+IMPF+3+PL
 golpeava-o	golpear+V.ele.ACC.3.M.SG+IMPF+3+SG
+golpeá-lo	golpear+V.ele.ACC.3.M.SG+INF
 golpearmo-lo	golpear+V.ele.ACC.3.M.SG+INF+1+PL
 golpeá-lo	golpear+V.ele.ACC.3.M.SG+INF+1+SG
 golpearde-lo	golpear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -28156,6 +28364,7 @@ gomificávei-las	gomificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 gomificava-las	gomificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 gomificavam-nas	gomificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 gomificava-as	gomificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+gomificá-las	gomificar+V.ele.ACC.3.F.PL+INF
 gomificarmo-las	gomificar+V.ele.ACC.3.F.PL+INF+1+PL
 gomificá-las	gomificar+V.ele.ACC.3.F.PL+INF+1+SG
 gomificarde-las	gomificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -28207,6 +28416,7 @@ gomificávei-la	gomificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 gomificava-la	gomificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 gomificavam-na	gomificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 gomificava-a	gomificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+gomificá-la	gomificar+V.ele.ACC.3.F.SG+INF
 gomificarmo-la	gomificar+V.ele.ACC.3.F.SG+INF+1+PL
 gomificá-la	gomificar+V.ele.ACC.3.F.SG+INF+1+SG
 gomificarde-la	gomificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -28258,6 +28468,7 @@ gomificávei-los	gomificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 gomificava-los	gomificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 gomificavam-nos	gomificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 gomificava-os	gomificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+gomificá-los	gomificar+V.ele.ACC.3.M.PL+INF
 gomificarmo-los	gomificar+V.ele.ACC.3.M.PL+INF+1+PL
 gomificá-los	gomificar+V.ele.ACC.3.M.PL+INF+1+SG
 gomificarde-los	gomificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -28309,6 +28520,7 @@ gomificávei-lo	gomificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 gomificava-lo	gomificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 gomificavam-no	gomificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 gomificava-o	gomificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+gomificá-lo	gomificar+V.ele.ACC.3.M.SG+INF
 gomificarmo-lo	gomificar+V.ele.ACC.3.M.SG+INF+1+PL
 gomificá-lo	gomificar+V.ele.ACC.3.M.SG+INF+1+SG
 gomificarde-lo	gomificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -28689,6 +28901,7 @@ gorjeávei-las	gorjear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gorjeava-las	gorjear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gorjeavam-nas	gorjear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gorjeava-as	gorjear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gorjeá-las	gorjear+V.ele.ACC.3.F.PL+INF
 gorjearmo-las	gorjear+V.ele.ACC.3.F.PL+INF+1+PL
 gorjeá-las	gorjear+V.ele.ACC.3.F.PL+INF+1+SG
 gorjearde-las	gorjear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -28738,6 +28951,7 @@ gorjeávei-la	gorjear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gorjeava-la	gorjear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gorjeavam-na	gorjear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gorjeava-a	gorjear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gorjeá-la	gorjear+V.ele.ACC.3.F.SG+INF
 gorjearmo-la	gorjear+V.ele.ACC.3.F.SG+INF+1+PL
 gorjeá-la	gorjear+V.ele.ACC.3.F.SG+INF+1+SG
 gorjearde-la	gorjear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -28787,6 +29001,7 @@ gorjeávei-los	gorjear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gorjeava-los	gorjear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gorjeavam-nos	gorjear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gorjeava-os	gorjear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gorjeá-los	gorjear+V.ele.ACC.3.M.PL+INF
 gorjearmo-los	gorjear+V.ele.ACC.3.M.PL+INF+1+PL
 gorjeá-los	gorjear+V.ele.ACC.3.M.PL+INF+1+SG
 gorjearde-los	gorjear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -28836,6 +29051,7 @@ gorjeávei-lo	gorjear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gorjeava-lo	gorjear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gorjeavam-no	gorjear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gorjeava-o	gorjear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gorjeá-lo	gorjear+V.ele.ACC.3.M.SG+INF
 gorjearmo-lo	gorjear+V.ele.ACC.3.M.SG+INF+1+PL
 gorjeá-lo	gorjear+V.ele.ACC.3.M.SG+INF+1+SG
 gorjearde-lo	gorjear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -29206,6 +29422,7 @@ gorníei-las	gornir+V.ele.ACC.3.F.PL+IMPF+2+PL
 gornia-las	gornir+V.ele.ACC.3.F.PL+IMPF+2+SG
 gorniam-nas	gornir+V.ele.ACC.3.F.PL+IMPF+3+PL
 gornia-as	gornir+V.ele.ACC.3.F.PL+IMPF+3+SG
+gorni-las	gornir+V.ele.ACC.3.F.PL+INF
 gornirmo-las	gornir+V.ele.ACC.3.F.PL+INF+1+PL
 gorni-las	gornir+V.ele.ACC.3.F.PL+INF+1+SG
 gornirde-las	gornir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -29246,6 +29463,7 @@ gorníei-la	gornir+V.ele.ACC.3.F.SG+IMPF+2+PL
 gornia-la	gornir+V.ele.ACC.3.F.SG+IMPF+2+SG
 gorniam-na	gornir+V.ele.ACC.3.F.SG+IMPF+3+PL
 gornia-a	gornir+V.ele.ACC.3.F.SG+IMPF+3+SG
+gorni-la	gornir+V.ele.ACC.3.F.SG+INF
 gornirmo-la	gornir+V.ele.ACC.3.F.SG+INF+1+PL
 gorni-la	gornir+V.ele.ACC.3.F.SG+INF+1+SG
 gornirde-la	gornir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -29286,6 +29504,7 @@ gorníei-los	gornir+V.ele.ACC.3.M.PL+IMPF+2+PL
 gornia-los	gornir+V.ele.ACC.3.M.PL+IMPF+2+SG
 gorniam-nos	gornir+V.ele.ACC.3.M.PL+IMPF+3+PL
 gornia-os	gornir+V.ele.ACC.3.M.PL+IMPF+3+SG
+gorni-los	gornir+V.ele.ACC.3.M.PL+INF
 gornirmo-los	gornir+V.ele.ACC.3.M.PL+INF+1+PL
 gorni-los	gornir+V.ele.ACC.3.M.PL+INF+1+SG
 gornirde-los	gornir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -29326,6 +29545,7 @@ gorníei-lo	gornir+V.ele.ACC.3.M.SG+IMPF+2+PL
 gornia-lo	gornir+V.ele.ACC.3.M.SG+IMPF+2+SG
 gorniam-no	gornir+V.ele.ACC.3.M.SG+IMPF+3+PL
 gornia-o	gornir+V.ele.ACC.3.M.SG+IMPF+3+SG
+gorni-lo	gornir+V.ele.ACC.3.M.SG+INF
 gornirmo-lo	gornir+V.ele.ACC.3.M.SG+INF+1+PL
 gorni-lo	gornir+V.ele.ACC.3.M.SG+INF+1+SG
 gornirde-lo	gornir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -29625,6 +29845,7 @@ goteávei-las	gotear+V.ele.ACC.3.F.PL+IMPF+2+PL
 goteava-las	gotear+V.ele.ACC.3.F.PL+IMPF+2+SG
 goteavam-nas	gotear+V.ele.ACC.3.F.PL+IMPF+3+PL
 goteava-as	gotear+V.ele.ACC.3.F.PL+IMPF+3+SG
+goteá-las	gotear+V.ele.ACC.3.F.PL+INF
 gotearmo-las	gotear+V.ele.ACC.3.F.PL+INF+1+PL
 goteá-las	gotear+V.ele.ACC.3.F.PL+INF+1+SG
 gotearde-las	gotear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -29674,6 +29895,7 @@ goteávei-la	gotear+V.ele.ACC.3.F.SG+IMPF+2+PL
 goteava-la	gotear+V.ele.ACC.3.F.SG+IMPF+2+SG
 goteavam-na	gotear+V.ele.ACC.3.F.SG+IMPF+3+PL
 goteava-a	gotear+V.ele.ACC.3.F.SG+IMPF+3+SG
+goteá-la	gotear+V.ele.ACC.3.F.SG+INF
 gotearmo-la	gotear+V.ele.ACC.3.F.SG+INF+1+PL
 goteá-la	gotear+V.ele.ACC.3.F.SG+INF+1+SG
 gotearde-la	gotear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -29723,6 +29945,7 @@ goteávei-los	gotear+V.ele.ACC.3.M.PL+IMPF+2+PL
 goteava-los	gotear+V.ele.ACC.3.M.PL+IMPF+2+SG
 goteavam-nos	gotear+V.ele.ACC.3.M.PL+IMPF+3+PL
 goteava-os	gotear+V.ele.ACC.3.M.PL+IMPF+3+SG
+goteá-los	gotear+V.ele.ACC.3.M.PL+INF
 gotearmo-los	gotear+V.ele.ACC.3.M.PL+INF+1+PL
 goteá-los	gotear+V.ele.ACC.3.M.PL+INF+1+SG
 gotearde-los	gotear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -29772,6 +29995,7 @@ goteávei-lo	gotear+V.ele.ACC.3.M.SG+IMPF+2+PL
 goteava-lo	gotear+V.ele.ACC.3.M.SG+IMPF+2+SG
 goteavam-no	gotear+V.ele.ACC.3.M.SG+IMPF+3+PL
 goteava-o	gotear+V.ele.ACC.3.M.SG+IMPF+3+SG
+goteá-lo	gotear+V.ele.ACC.3.M.SG+INF
 gotearmo-lo	gotear+V.ele.ACC.3.M.SG+INF+1+PL
 goteá-lo	gotear+V.ele.ACC.3.M.SG+INF+1+SG
 gotearde-lo	gotear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -30139,6 +30363,7 @@ gradeávei-las	gradear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gradeava-las	gradear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gradeavam-nas	gradear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gradeava-as	gradear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gradeá-las	gradear+V.ele.ACC.3.F.PL+INF
 gradearmo-las	gradear+V.ele.ACC.3.F.PL+INF+1+PL
 gradeá-las	gradear+V.ele.ACC.3.F.PL+INF+1+SG
 gradearde-las	gradear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -30188,6 +30413,7 @@ gradeávei-la	gradear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gradeava-la	gradear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gradeavam-na	gradear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gradeava-a	gradear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gradeá-la	gradear+V.ele.ACC.3.F.SG+INF
 gradearmo-la	gradear+V.ele.ACC.3.F.SG+INF+1+PL
 gradeá-la	gradear+V.ele.ACC.3.F.SG+INF+1+SG
 gradearde-la	gradear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -30237,6 +30463,7 @@ gradeávei-los	gradear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gradeava-los	gradear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gradeavam-nos	gradear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gradeava-os	gradear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gradeá-los	gradear+V.ele.ACC.3.M.PL+INF
 gradearmo-los	gradear+V.ele.ACC.3.M.PL+INF+1+PL
 gradeá-los	gradear+V.ele.ACC.3.M.PL+INF+1+SG
 gradearde-los	gradear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -30286,6 +30513,7 @@ gradeávei-lo	gradear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gradeava-lo	gradear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gradeavam-no	gradear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gradeava-o	gradear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gradeá-lo	gradear+V.ele.ACC.3.M.SG+INF
 gradearmo-lo	gradear+V.ele.ACC.3.M.SG+INF+1+PL
 gradeá-lo	gradear+V.ele.ACC.3.M.SG+INF+1+SG
 gradearde-lo	gradear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -31192,6 +31420,7 @@ gralheávei-las	gralhear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gralheava-las	gralhear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gralheavam-nas	gralhear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gralheava-as	gralhear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gralheá-las	gralhear+V.ele.ACC.3.F.PL+INF
 gralhearmo-las	gralhear+V.ele.ACC.3.F.PL+INF+1+PL
 gralheá-las	gralhear+V.ele.ACC.3.F.PL+INF+1+SG
 gralhearde-las	gralhear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -31241,6 +31470,7 @@ gralheávei-la	gralhear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gralheava-la	gralhear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gralheavam-na	gralhear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gralheava-a	gralhear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gralheá-la	gralhear+V.ele.ACC.3.F.SG+INF
 gralhearmo-la	gralhear+V.ele.ACC.3.F.SG+INF+1+PL
 gralheá-la	gralhear+V.ele.ACC.3.F.SG+INF+1+SG
 gralhearde-la	gralhear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -31290,6 +31520,7 @@ gralheávei-los	gralhear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gralheava-los	gralhear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gralheavam-nos	gralhear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gralheava-os	gralhear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gralheá-los	gralhear+V.ele.ACC.3.M.PL+INF
 gralhearmo-los	gralhear+V.ele.ACC.3.M.PL+INF+1+PL
 gralheá-los	gralhear+V.ele.ACC.3.M.PL+INF+1+SG
 gralhearde-los	gralhear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -31339,6 +31570,7 @@ gralheávei-lo	gralhear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gralheava-lo	gralhear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gralheavam-no	gralhear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gralheava-o	gralhear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gralheá-lo	gralhear+V.ele.ACC.3.M.SG+INF
 gralhearmo-lo	gralhear+V.ele.ACC.3.M.SG+INF+1+PL
 gralheá-lo	gralhear+V.ele.ACC.3.M.SG+INF+1+SG
 gralhearde-lo	gralhear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -31709,6 +31941,7 @@ gramaticávei-las	gramaticar+V.ele.ACC.3.F.PL+IMPF+2+PL
 gramaticava-las	gramaticar+V.ele.ACC.3.F.PL+IMPF+2+SG
 gramaticavam-nas	gramaticar+V.ele.ACC.3.F.PL+IMPF+3+PL
 gramaticava-as	gramaticar+V.ele.ACC.3.F.PL+IMPF+3+SG
+gramaticá-las	gramaticar+V.ele.ACC.3.F.PL+INF
 gramaticarmo-las	gramaticar+V.ele.ACC.3.F.PL+INF+1+PL
 gramaticá-las	gramaticar+V.ele.ACC.3.F.PL+INF+1+SG
 gramaticarde-las	gramaticar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -31760,6 +31993,7 @@ gramaticávei-la	gramaticar+V.ele.ACC.3.F.SG+IMPF+2+PL
 gramaticava-la	gramaticar+V.ele.ACC.3.F.SG+IMPF+2+SG
 gramaticavam-na	gramaticar+V.ele.ACC.3.F.SG+IMPF+3+PL
 gramaticava-a	gramaticar+V.ele.ACC.3.F.SG+IMPF+3+SG
+gramaticá-la	gramaticar+V.ele.ACC.3.F.SG+INF
 gramaticarmo-la	gramaticar+V.ele.ACC.3.F.SG+INF+1+PL
 gramaticá-la	gramaticar+V.ele.ACC.3.F.SG+INF+1+SG
 gramaticarde-la	gramaticar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -31811,6 +32045,7 @@ gramaticávei-los	gramaticar+V.ele.ACC.3.M.PL+IMPF+2+PL
 gramaticava-los	gramaticar+V.ele.ACC.3.M.PL+IMPF+2+SG
 gramaticavam-nos	gramaticar+V.ele.ACC.3.M.PL+IMPF+3+PL
 gramaticava-os	gramaticar+V.ele.ACC.3.M.PL+IMPF+3+SG
+gramaticá-los	gramaticar+V.ele.ACC.3.M.PL+INF
 gramaticarmo-los	gramaticar+V.ele.ACC.3.M.PL+INF+1+PL
 gramaticá-los	gramaticar+V.ele.ACC.3.M.PL+INF+1+SG
 gramaticarde-los	gramaticar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -31862,6 +32097,7 @@ gramaticávei-lo	gramaticar+V.ele.ACC.3.M.SG+IMPF+2+PL
 gramaticava-lo	gramaticar+V.ele.ACC.3.M.SG+IMPF+2+SG
 gramaticavam-no	gramaticar+V.ele.ACC.3.M.SG+IMPF+3+PL
 gramaticava-o	gramaticar+V.ele.ACC.3.M.SG+IMPF+3+SG
+gramaticá-lo	gramaticar+V.ele.ACC.3.M.SG+INF
 gramaticarmo-lo	gramaticar+V.ele.ACC.3.M.SG+INF+1+PL
 gramaticá-lo	gramaticar+V.ele.ACC.3.M.SG+INF+1+SG
 gramaticarde-lo	gramaticar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -32242,6 +32478,7 @@ grampeávei-las	grampear+V.ele.ACC.3.F.PL+IMPF+2+PL
 grampeava-las	grampear+V.ele.ACC.3.F.PL+IMPF+2+SG
 grampeavam-nas	grampear+V.ele.ACC.3.F.PL+IMPF+3+PL
 grampeava-as	grampear+V.ele.ACC.3.F.PL+IMPF+3+SG
+grampeá-las	grampear+V.ele.ACC.3.F.PL+INF
 grampearmo-las	grampear+V.ele.ACC.3.F.PL+INF+1+PL
 grampeá-las	grampear+V.ele.ACC.3.F.PL+INF+1+SG
 grampearde-las	grampear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -32291,6 +32528,7 @@ grampeávei-la	grampear+V.ele.ACC.3.F.SG+IMPF+2+PL
 grampeava-la	grampear+V.ele.ACC.3.F.SG+IMPF+2+SG
 grampeavam-na	grampear+V.ele.ACC.3.F.SG+IMPF+3+PL
 grampeava-a	grampear+V.ele.ACC.3.F.SG+IMPF+3+SG
+grampeá-la	grampear+V.ele.ACC.3.F.SG+INF
 grampearmo-la	grampear+V.ele.ACC.3.F.SG+INF+1+PL
 grampeá-la	grampear+V.ele.ACC.3.F.SG+INF+1+SG
 grampearde-la	grampear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -32340,6 +32578,7 @@ grampeávei-los	grampear+V.ele.ACC.3.M.PL+IMPF+2+PL
 grampeava-los	grampear+V.ele.ACC.3.M.PL+IMPF+2+SG
 grampeavam-nos	grampear+V.ele.ACC.3.M.PL+IMPF+3+PL
 grampeava-os	grampear+V.ele.ACC.3.M.PL+IMPF+3+SG
+grampeá-los	grampear+V.ele.ACC.3.M.PL+INF
 grampearmo-los	grampear+V.ele.ACC.3.M.PL+INF+1+PL
 grampeá-los	grampear+V.ele.ACC.3.M.PL+INF+1+SG
 grampearde-los	grampear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -32389,6 +32628,7 @@ grampeávei-lo	grampear+V.ele.ACC.3.M.SG+IMPF+2+PL
 grampeava-lo	grampear+V.ele.ACC.3.M.SG+IMPF+2+SG
 grampeavam-no	grampear+V.ele.ACC.3.M.SG+IMPF+3+PL
 grampeava-o	grampear+V.ele.ACC.3.M.SG+IMPF+3+SG
+grampeá-lo	grampear+V.ele.ACC.3.M.SG+INF
 grampearmo-lo	grampear+V.ele.ACC.3.M.SG+INF+1+PL
 grampeá-lo	grampear+V.ele.ACC.3.M.SG+INF+1+SG
 grampearde-lo	grampear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -32756,6 +32996,7 @@ graneávei-las	granear+V.ele.ACC.3.F.PL+IMPF+2+PL
 graneava-las	granear+V.ele.ACC.3.F.PL+IMPF+2+SG
 graneavam-nas	granear+V.ele.ACC.3.F.PL+IMPF+3+PL
 graneava-as	granear+V.ele.ACC.3.F.PL+IMPF+3+SG
+graneá-las	granear+V.ele.ACC.3.F.PL+INF
 granearmo-las	granear+V.ele.ACC.3.F.PL+INF+1+PL
 graneá-las	granear+V.ele.ACC.3.F.PL+INF+1+SG
 granearde-las	granear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -32805,6 +33046,7 @@ graneávei-la	granear+V.ele.ACC.3.F.SG+IMPF+2+PL
 graneava-la	granear+V.ele.ACC.3.F.SG+IMPF+2+SG
 graneavam-na	granear+V.ele.ACC.3.F.SG+IMPF+3+PL
 graneava-a	granear+V.ele.ACC.3.F.SG+IMPF+3+SG
+graneá-la	granear+V.ele.ACC.3.F.SG+INF
 granearmo-la	granear+V.ele.ACC.3.F.SG+INF+1+PL
 graneá-la	granear+V.ele.ACC.3.F.SG+INF+1+SG
 granearde-la	granear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -32854,6 +33096,7 @@ graneávei-los	granear+V.ele.ACC.3.M.PL+IMPF+2+PL
 graneava-los	granear+V.ele.ACC.3.M.PL+IMPF+2+SG
 graneavam-nos	granear+V.ele.ACC.3.M.PL+IMPF+3+PL
 graneava-os	granear+V.ele.ACC.3.M.PL+IMPF+3+SG
+graneá-los	granear+V.ele.ACC.3.M.PL+INF
 granearmo-los	granear+V.ele.ACC.3.M.PL+INF+1+PL
 graneá-los	granear+V.ele.ACC.3.M.PL+INF+1+SG
 granearde-los	granear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -32903,6 +33146,7 @@ graneávei-lo	granear+V.ele.ACC.3.M.SG+IMPF+2+PL
 graneava-lo	granear+V.ele.ACC.3.M.SG+IMPF+2+SG
 graneavam-no	granear+V.ele.ACC.3.M.SG+IMPF+3+PL
 graneava-o	granear+V.ele.ACC.3.M.SG+IMPF+3+SG
+graneá-lo	granear+V.ele.ACC.3.M.SG+INF
 granearmo-lo	granear+V.ele.ACC.3.M.SG+INF+1+PL
 graneá-lo	granear+V.ele.ACC.3.M.SG+INF+1+SG
 granearde-lo	granear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -33273,6 +33517,7 @@ graníei-las	granir+V.ele.ACC.3.F.PL+IMPF+2+PL
 grania-las	granir+V.ele.ACC.3.F.PL+IMPF+2+SG
 graniam-nas	granir+V.ele.ACC.3.F.PL+IMPF+3+PL
 grania-as	granir+V.ele.ACC.3.F.PL+IMPF+3+SG
+grani-las	granir+V.ele.ACC.3.F.PL+INF
 granirmo-las	granir+V.ele.ACC.3.F.PL+INF+1+PL
 grani-las	granir+V.ele.ACC.3.F.PL+INF+1+SG
 granirde-las	granir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -33313,6 +33558,7 @@ graníei-la	granir+V.ele.ACC.3.F.SG+IMPF+2+PL
 grania-la	granir+V.ele.ACC.3.F.SG+IMPF+2+SG
 graniam-na	granir+V.ele.ACC.3.F.SG+IMPF+3+PL
 grania-a	granir+V.ele.ACC.3.F.SG+IMPF+3+SG
+grani-la	granir+V.ele.ACC.3.F.SG+INF
 granirmo-la	granir+V.ele.ACC.3.F.SG+INF+1+PL
 grani-la	granir+V.ele.ACC.3.F.SG+INF+1+SG
 granirde-la	granir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -33353,6 +33599,7 @@ graníei-los	granir+V.ele.ACC.3.M.PL+IMPF+2+PL
 grania-los	granir+V.ele.ACC.3.M.PL+IMPF+2+SG
 graniam-nos	granir+V.ele.ACC.3.M.PL+IMPF+3+PL
 grania-os	granir+V.ele.ACC.3.M.PL+IMPF+3+SG
+grani-los	granir+V.ele.ACC.3.M.PL+INF
 granirmo-los	granir+V.ele.ACC.3.M.PL+INF+1+PL
 grani-los	granir+V.ele.ACC.3.M.PL+INF+1+SG
 granirde-los	granir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -33393,6 +33640,7 @@ graníei-lo	granir+V.ele.ACC.3.M.SG+IMPF+2+PL
 grania-lo	granir+V.ele.ACC.3.M.SG+IMPF+2+SG
 graniam-no	granir+V.ele.ACC.3.M.SG+IMPF+3+PL
 grania-o	granir+V.ele.ACC.3.M.SG+IMPF+3+SG
+grani-lo	granir+V.ele.ACC.3.M.SG+INF
 granirmo-lo	granir+V.ele.ACC.3.M.SG+INF+1+PL
 grani-lo	granir+V.ele.ACC.3.M.SG+INF+1+SG
 granirde-lo	granir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -33692,6 +33940,7 @@ granjeávei-las	granjear+V.ele.ACC.3.F.PL+IMPF+2+PL
 granjeava-las	granjear+V.ele.ACC.3.F.PL+IMPF+2+SG
 granjeavam-nas	granjear+V.ele.ACC.3.F.PL+IMPF+3+PL
 granjeava-as	granjear+V.ele.ACC.3.F.PL+IMPF+3+SG
+granjeá-las	granjear+V.ele.ACC.3.F.PL+INF
 granjearmo-las	granjear+V.ele.ACC.3.F.PL+INF+1+PL
 granjeá-las	granjear+V.ele.ACC.3.F.PL+INF+1+SG
 granjearde-las	granjear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -33741,6 +33990,7 @@ granjeávei-la	granjear+V.ele.ACC.3.F.SG+IMPF+2+PL
 granjeava-la	granjear+V.ele.ACC.3.F.SG+IMPF+2+SG
 granjeavam-na	granjear+V.ele.ACC.3.F.SG+IMPF+3+PL
 granjeava-a	granjear+V.ele.ACC.3.F.SG+IMPF+3+SG
+granjeá-la	granjear+V.ele.ACC.3.F.SG+INF
 granjearmo-la	granjear+V.ele.ACC.3.F.SG+INF+1+PL
 granjeá-la	granjear+V.ele.ACC.3.F.SG+INF+1+SG
 granjearde-la	granjear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -33790,6 +34040,7 @@ granjeávei-los	granjear+V.ele.ACC.3.M.PL+IMPF+2+PL
 granjeava-los	granjear+V.ele.ACC.3.M.PL+IMPF+2+SG
 granjeavam-nos	granjear+V.ele.ACC.3.M.PL+IMPF+3+PL
 granjeava-os	granjear+V.ele.ACC.3.M.PL+IMPF+3+SG
+granjeá-los	granjear+V.ele.ACC.3.M.PL+INF
 granjearmo-los	granjear+V.ele.ACC.3.M.PL+INF+1+PL
 granjeá-los	granjear+V.ele.ACC.3.M.PL+INF+1+SG
 granjearde-los	granjear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -33839,6 +34090,7 @@ granjeávei-lo	granjear+V.ele.ACC.3.M.SG+IMPF+2+PL
 granjeava-lo	granjear+V.ele.ACC.3.M.SG+IMPF+2+SG
 granjeavam-no	granjear+V.ele.ACC.3.M.SG+IMPF+3+PL
 granjeava-o	granjear+V.ele.ACC.3.M.SG+IMPF+3+SG
+granjeá-lo	granjear+V.ele.ACC.3.M.SG+INF
 granjearmo-lo	granjear+V.ele.ACC.3.M.SG+INF+1+PL
 granjeá-lo	granjear+V.ele.ACC.3.M.SG+INF+1+SG
 granjearde-lo	granjear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -34209,6 +34461,7 @@ grasníei-las	grasnir+V.ele.ACC.3.F.PL+IMPF+2+PL
 grasnia-las	grasnir+V.ele.ACC.3.F.PL+IMPF+2+SG
 grasniam-nas	grasnir+V.ele.ACC.3.F.PL+IMPF+3+PL
 grasnia-as	grasnir+V.ele.ACC.3.F.PL+IMPF+3+SG
+grasni-las	grasnir+V.ele.ACC.3.F.PL+INF
 grasnirmo-las	grasnir+V.ele.ACC.3.F.PL+INF+1+PL
 grasni-las	grasnir+V.ele.ACC.3.F.PL+INF+1+SG
 grasnirde-las	grasnir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -34249,6 +34502,7 @@ grasníei-la	grasnir+V.ele.ACC.3.F.SG+IMPF+2+PL
 grasnia-la	grasnir+V.ele.ACC.3.F.SG+IMPF+2+SG
 grasniam-na	grasnir+V.ele.ACC.3.F.SG+IMPF+3+PL
 grasnia-a	grasnir+V.ele.ACC.3.F.SG+IMPF+3+SG
+grasni-la	grasnir+V.ele.ACC.3.F.SG+INF
 grasnirmo-la	grasnir+V.ele.ACC.3.F.SG+INF+1+PL
 grasni-la	grasnir+V.ele.ACC.3.F.SG+INF+1+SG
 grasnirde-la	grasnir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -34289,6 +34543,7 @@ grasníei-los	grasnir+V.ele.ACC.3.M.PL+IMPF+2+PL
 grasnia-los	grasnir+V.ele.ACC.3.M.PL+IMPF+2+SG
 grasniam-nos	grasnir+V.ele.ACC.3.M.PL+IMPF+3+PL
 grasnia-os	grasnir+V.ele.ACC.3.M.PL+IMPF+3+SG
+grasni-los	grasnir+V.ele.ACC.3.M.PL+INF
 grasnirmo-los	grasnir+V.ele.ACC.3.M.PL+INF+1+PL
 grasni-los	grasnir+V.ele.ACC.3.M.PL+INF+1+SG
 grasnirde-los	grasnir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -34329,6 +34584,7 @@ grasníei-lo	grasnir+V.ele.ACC.3.M.SG+IMPF+2+PL
 grasnia-lo	grasnir+V.ele.ACC.3.M.SG+IMPF+2+SG
 grasniam-no	grasnir+V.ele.ACC.3.M.SG+IMPF+3+PL
 grasnia-o	grasnir+V.ele.ACC.3.M.SG+IMPF+3+SG
+grasni-lo	grasnir+V.ele.ACC.3.M.SG+INF
 grasnirmo-lo	grasnir+V.ele.ACC.3.M.SG+INF+1+PL
 grasni-lo	grasnir+V.ele.ACC.3.M.SG+INF+1+SG
 grasnirde-lo	grasnir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -34628,6 +34884,7 @@ grateávei-las	gratear+V.ele.ACC.3.F.PL+IMPF+2+PL
 grateava-las	gratear+V.ele.ACC.3.F.PL+IMPF+2+SG
 grateavam-nas	gratear+V.ele.ACC.3.F.PL+IMPF+3+PL
 grateava-as	gratear+V.ele.ACC.3.F.PL+IMPF+3+SG
+grateá-las	gratear+V.ele.ACC.3.F.PL+INF
 gratearmo-las	gratear+V.ele.ACC.3.F.PL+INF+1+PL
 grateá-las	gratear+V.ele.ACC.3.F.PL+INF+1+SG
 gratearde-las	gratear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -34677,6 +34934,7 @@ grateávei-la	gratear+V.ele.ACC.3.F.SG+IMPF+2+PL
 grateava-la	gratear+V.ele.ACC.3.F.SG+IMPF+2+SG
 grateavam-na	gratear+V.ele.ACC.3.F.SG+IMPF+3+PL
 grateava-a	gratear+V.ele.ACC.3.F.SG+IMPF+3+SG
+grateá-la	gratear+V.ele.ACC.3.F.SG+INF
 gratearmo-la	gratear+V.ele.ACC.3.F.SG+INF+1+PL
 grateá-la	gratear+V.ele.ACC.3.F.SG+INF+1+SG
 gratearde-la	gratear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -34726,6 +34984,7 @@ grateávei-los	gratear+V.ele.ACC.3.M.PL+IMPF+2+PL
 grateava-los	gratear+V.ele.ACC.3.M.PL+IMPF+2+SG
 grateavam-nos	gratear+V.ele.ACC.3.M.PL+IMPF+3+PL
 grateava-os	gratear+V.ele.ACC.3.M.PL+IMPF+3+SG
+grateá-los	gratear+V.ele.ACC.3.M.PL+INF
 gratearmo-los	gratear+V.ele.ACC.3.M.PL+INF+1+PL
 grateá-los	gratear+V.ele.ACC.3.M.PL+INF+1+SG
 gratearde-los	gratear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -34775,6 +35034,7 @@ grateávei-lo	gratear+V.ele.ACC.3.M.SG+IMPF+2+PL
 grateava-lo	gratear+V.ele.ACC.3.M.SG+IMPF+2+SG
 grateavam-no	gratear+V.ele.ACC.3.M.SG+IMPF+3+PL
 grateava-o	gratear+V.ele.ACC.3.M.SG+IMPF+3+SG
+grateá-lo	gratear+V.ele.ACC.3.M.SG+INF
 gratearmo-lo	gratear+V.ele.ACC.3.M.SG+INF+1+PL
 grateá-lo	gratear+V.ele.ACC.3.M.SG+INF+1+SG
 gratearde-lo	gratear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -35145,6 +35405,7 @@ gratificávei-las	gratificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 gratificava-las	gratificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 gratificavam-nas	gratificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 gratificava-as	gratificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+gratificá-las	gratificar+V.ele.ACC.3.F.PL+INF
 gratificarmo-las	gratificar+V.ele.ACC.3.F.PL+INF+1+PL
 gratificá-las	gratificar+V.ele.ACC.3.F.PL+INF+1+SG
 gratificarde-las	gratificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -35196,6 +35457,7 @@ gratificávei-la	gratificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 gratificava-la	gratificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 gratificavam-na	gratificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 gratificava-a	gratificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+gratificá-la	gratificar+V.ele.ACC.3.F.SG+INF
 gratificarmo-la	gratificar+V.ele.ACC.3.F.SG+INF+1+PL
 gratificá-la	gratificar+V.ele.ACC.3.F.SG+INF+1+SG
 gratificarde-la	gratificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -35247,6 +35509,7 @@ gratificávei-los	gratificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 gratificava-los	gratificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 gratificavam-nos	gratificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 gratificava-os	gratificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+gratificá-los	gratificar+V.ele.ACC.3.M.PL+INF
 gratificarmo-los	gratificar+V.ele.ACC.3.M.PL+INF+1+PL
 gratificá-los	gratificar+V.ele.ACC.3.M.PL+INF+1+SG
 gratificarde-los	gratificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -35298,6 +35561,7 @@ gratificávei-lo	gratificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 gratificava-lo	gratificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 gratificavam-no	gratificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 gratificava-o	gratificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+gratificá-lo	gratificar+V.ele.ACC.3.M.SG+INF
 gratificarmo-lo	gratificar+V.ele.ACC.3.M.SG+INF+1+PL
 gratificá-lo	gratificar+V.ele.ACC.3.M.SG+INF+1+SG
 gratificarde-lo	gratificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -35678,6 +35942,7 @@ gravateávei-las	gravatear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gravateava-las	gravatear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gravateavam-nas	gravatear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gravateava-as	gravatear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gravateá-las	gravatear+V.ele.ACC.3.F.PL+INF
 gravatearmo-las	gravatear+V.ele.ACC.3.F.PL+INF+1+PL
 gravateá-las	gravatear+V.ele.ACC.3.F.PL+INF+1+SG
 gravatearde-las	gravatear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -35727,6 +35992,7 @@ gravateávei-la	gravatear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gravateava-la	gravatear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gravateavam-na	gravatear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gravateava-a	gravatear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gravateá-la	gravatear+V.ele.ACC.3.F.SG+INF
 gravatearmo-la	gravatear+V.ele.ACC.3.F.SG+INF+1+PL
 gravateá-la	gravatear+V.ele.ACC.3.F.SG+INF+1+SG
 gravatearde-la	gravatear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -35776,6 +36042,7 @@ gravateávei-los	gravatear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gravateava-los	gravatear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gravateavam-nos	gravatear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gravateava-os	gravatear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gravateá-los	gravatear+V.ele.ACC.3.M.PL+INF
 gravatearmo-los	gravatear+V.ele.ACC.3.M.PL+INF+1+PL
 gravateá-los	gravatear+V.ele.ACC.3.M.PL+INF+1+SG
 gravatearde-los	gravatear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -35825,6 +36092,7 @@ gravateávei-lo	gravatear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gravateava-lo	gravatear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gravateavam-no	gravatear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gravateava-o	gravatear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gravateá-lo	gravatear+V.ele.ACC.3.M.SG+INF
 gravatearmo-lo	gravatear+V.ele.ACC.3.M.SG+INF+1+PL
 gravateá-lo	gravatear+V.ele.ACC.3.M.SG+INF+1+SG
 gravatearde-lo	gravatear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -36192,6 +36460,7 @@ gravoteávei-las	gravotear+V.ele.ACC.3.F.PL+IMPF+2+PL
 gravoteava-las	gravotear+V.ele.ACC.3.F.PL+IMPF+2+SG
 gravoteavam-nas	gravotear+V.ele.ACC.3.F.PL+IMPF+3+PL
 gravoteava-as	gravotear+V.ele.ACC.3.F.PL+IMPF+3+SG
+gravoteá-las	gravotear+V.ele.ACC.3.F.PL+INF
 gravotearmo-las	gravotear+V.ele.ACC.3.F.PL+INF+1+PL
 gravoteá-las	gravotear+V.ele.ACC.3.F.PL+INF+1+SG
 gravotearde-las	gravotear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -36241,6 +36510,7 @@ gravoteávei-la	gravotear+V.ele.ACC.3.F.SG+IMPF+2+PL
 gravoteava-la	gravotear+V.ele.ACC.3.F.SG+IMPF+2+SG
 gravoteavam-na	gravotear+V.ele.ACC.3.F.SG+IMPF+3+PL
 gravoteava-a	gravotear+V.ele.ACC.3.F.SG+IMPF+3+SG
+gravoteá-la	gravotear+V.ele.ACC.3.F.SG+INF
 gravotearmo-la	gravotear+V.ele.ACC.3.F.SG+INF+1+PL
 gravoteá-la	gravotear+V.ele.ACC.3.F.SG+INF+1+SG
 gravotearde-la	gravotear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -36290,6 +36560,7 @@ gravoteávei-los	gravotear+V.ele.ACC.3.M.PL+IMPF+2+PL
 gravoteava-los	gravotear+V.ele.ACC.3.M.PL+IMPF+2+SG
 gravoteavam-nos	gravotear+V.ele.ACC.3.M.PL+IMPF+3+PL
 gravoteava-os	gravotear+V.ele.ACC.3.M.PL+IMPF+3+SG
+gravoteá-los	gravotear+V.ele.ACC.3.M.PL+INF
 gravotearmo-los	gravotear+V.ele.ACC.3.M.PL+INF+1+PL
 gravoteá-los	gravotear+V.ele.ACC.3.M.PL+INF+1+SG
 gravotearde-los	gravotear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -36339,6 +36610,7 @@ gravoteávei-lo	gravotear+V.ele.ACC.3.M.SG+IMPF+2+PL
 gravoteava-lo	gravotear+V.ele.ACC.3.M.SG+IMPF+2+SG
 gravoteavam-no	gravotear+V.ele.ACC.3.M.SG+IMPF+3+PL
 gravoteava-o	gravotear+V.ele.ACC.3.M.SG+IMPF+3+SG
+gravoteá-lo	gravotear+V.ele.ACC.3.M.SG+INF
 gravotearmo-lo	gravotear+V.ele.ACC.3.M.SG+INF+1+PL
 gravoteá-lo	gravotear+V.ele.ACC.3.M.SG+INF+1+SG
 gravotearde-lo	gravotear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -36706,6 +36978,7 @@ graxeávei-las	graxear+V.ele.ACC.3.F.PL+IMPF+2+PL
 graxeava-las	graxear+V.ele.ACC.3.F.PL+IMPF+2+SG
 graxeavam-nas	graxear+V.ele.ACC.3.F.PL+IMPF+3+PL
 graxeava-as	graxear+V.ele.ACC.3.F.PL+IMPF+3+SG
+graxeá-las	graxear+V.ele.ACC.3.F.PL+INF
 graxearmo-las	graxear+V.ele.ACC.3.F.PL+INF+1+PL
 graxeá-las	graxear+V.ele.ACC.3.F.PL+INF+1+SG
 graxearde-las	graxear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -36755,6 +37028,7 @@ graxeávei-la	graxear+V.ele.ACC.3.F.SG+IMPF+2+PL
 graxeava-la	graxear+V.ele.ACC.3.F.SG+IMPF+2+SG
 graxeavam-na	graxear+V.ele.ACC.3.F.SG+IMPF+3+PL
 graxeava-a	graxear+V.ele.ACC.3.F.SG+IMPF+3+SG
+graxeá-la	graxear+V.ele.ACC.3.F.SG+INF
 graxearmo-la	graxear+V.ele.ACC.3.F.SG+INF+1+PL
 graxeá-la	graxear+V.ele.ACC.3.F.SG+INF+1+SG
 graxearde-la	graxear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -36804,6 +37078,7 @@ graxeávei-los	graxear+V.ele.ACC.3.M.PL+IMPF+2+PL
 graxeava-los	graxear+V.ele.ACC.3.M.PL+IMPF+2+SG
 graxeavam-nos	graxear+V.ele.ACC.3.M.PL+IMPF+3+PL
 graxeava-os	graxear+V.ele.ACC.3.M.PL+IMPF+3+SG
+graxeá-los	graxear+V.ele.ACC.3.M.PL+INF
 graxearmo-los	graxear+V.ele.ACC.3.M.PL+INF+1+PL
 graxeá-los	graxear+V.ele.ACC.3.M.PL+INF+1+SG
 graxearde-los	graxear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -36853,6 +37128,7 @@ graxeávei-lo	graxear+V.ele.ACC.3.M.SG+IMPF+2+PL
 graxeava-lo	graxear+V.ele.ACC.3.M.SG+IMPF+2+SG
 graxeavam-no	graxear+V.ele.ACC.3.M.SG+IMPF+3+PL
 graxeava-o	graxear+V.ele.ACC.3.M.SG+IMPF+3+SG
+graxeá-lo	graxear+V.ele.ACC.3.M.SG+INF
 graxearmo-lo	graxear+V.ele.ACC.3.M.SG+INF+1+PL
 graxeá-lo	graxear+V.ele.ACC.3.M.SG+INF+1+SG
 graxearde-lo	graxear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -37223,6 +37499,7 @@ graçolávei-las	graçolar+V.ele.ACC.3.F.PL+IMPF+2+PL
 graçolava-las	graçolar+V.ele.ACC.3.F.PL+IMPF+2+SG
 graçolavam-nas	graçolar+V.ele.ACC.3.F.PL+IMPF+3+PL
 graçolava-as	graçolar+V.ele.ACC.3.F.PL+IMPF+3+SG
+graçolá-las	graçolar+V.ele.ACC.3.F.PL+INF
 graçolarmo-las	graçolar+V.ele.ACC.3.F.PL+INF+1+PL
 graçolá-las	graçolar+V.ele.ACC.3.F.PL+INF+1+SG
 graçolarde-las	graçolar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -37275,6 +37552,7 @@ graçolávei-la	graçolar+V.ele.ACC.3.F.SG+IMPF+2+PL
 graçolava-la	graçolar+V.ele.ACC.3.F.SG+IMPF+2+SG
 graçolavam-na	graçolar+V.ele.ACC.3.F.SG+IMPF+3+PL
 graçolava-a	graçolar+V.ele.ACC.3.F.SG+IMPF+3+SG
+graçolá-la	graçolar+V.ele.ACC.3.F.SG+INF
 graçolarmo-la	graçolar+V.ele.ACC.3.F.SG+INF+1+PL
 graçolá-la	graçolar+V.ele.ACC.3.F.SG+INF+1+SG
 graçolarde-la	graçolar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -37325,6 +37603,7 @@ graçolava-os	graçolar+V.ele.ACC.3.M.PL+IMPF+1+SG
 graçolávei-los	graçolar+V.ele.ACC.3.M.PL+IMPF+2+PL
 graçolava-los	graçolar+V.ele.ACC.3.M.PL+IMPF+2+SG
 graçolava-os	graçolar+V.ele.ACC.3.M.PL+IMPF+3+SG
+graçolá-los	graçolar+V.ele.ACC.3.M.PL+INF
 graçolarmo-los	graçolar+V.ele.ACC.3.M.PL+INF+1+PL
 graçolá-los	graçolar+V.ele.ACC.3.M.PL+INF+1+SG
 graçolarde-los	graçolar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -37372,6 +37651,7 @@ graçolávei-lo	graçolar+V.ele.ACC.3.M.SG+IMPF+2+PL
 graçolava-lo	graçolar+V.ele.ACC.3.M.SG+IMPF+2+SG
 graçolavam-no	graçolar+V.ele.ACC.3.M.SG+IMPF+3+PL
 graçolava-o	graçolar+V.ele.ACC.3.M.SG+IMPF+3+SG
+graçolá-lo	graçolar+V.ele.ACC.3.M.SG+INF
 graçolarmo-lo	graçolar+V.ele.ACC.3.M.SG+INF+1+PL
 graçolá-lo	graçolar+V.ele.ACC.3.M.SG+INF+1+SG
 graçolarde-lo	graçolar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -37762,6 +38042,7 @@ gruíei-las	gruir+V.ele.ACC.3.F.PL+IMPF+2+PL
 gruía-las	gruir+V.ele.ACC.3.F.PL+IMPF+2+SG
 gruíam-nas	gruir+V.ele.ACC.3.F.PL+IMPF+3+PL
 gruía-as	gruir+V.ele.ACC.3.F.PL+IMPF+3+SG
+gruí-las	gruir+V.ele.ACC.3.F.PL+INF
 gruirmo-las	gruir+V.ele.ACC.3.F.PL+INF+1+PL
 gruí-las	gruir+V.ele.ACC.3.F.PL+INF+1+SG
 gruirde-las	gruir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -37814,6 +38095,7 @@ gruíei-la	gruir+V.ele.ACC.3.F.SG+IMPF+2+PL
 gruía-la	gruir+V.ele.ACC.3.F.SG+IMPF+2+SG
 gruíam-na	gruir+V.ele.ACC.3.F.SG+IMPF+3+PL
 gruía-a	gruir+V.ele.ACC.3.F.SG+IMPF+3+SG
+gruí-la	gruir+V.ele.ACC.3.F.SG+INF
 gruirmo-la	gruir+V.ele.ACC.3.F.SG+INF+1+PL
 gruí-la	gruir+V.ele.ACC.3.F.SG+INF+1+SG
 gruirde-la	gruir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -37867,6 +38149,7 @@ gruía-los	gruir+V.ele.ACC.3.M.PL+IMPF+2+SG
 gruía-os	gruir+V.ele.ACC.3.M.PL+IMPF+3+SG
 gruir-nos	gruir+V.ele.ACC.3.M.PL+INF
 gruir-vos	gruir+V.ele.ACC.3.M.PL+INF
+gruí-los	gruir+V.ele.ACC.3.M.PL+INF
 gruirmo-los	gruir+V.ele.ACC.3.M.PL+INF+1+PL
 gruí-los	gruir+V.ele.ACC.3.M.PL+INF+1+SG
 gruirde-los	gruir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -37915,6 +38198,7 @@ gruíei-lo	gruir+V.ele.ACC.3.M.SG+IMPF+2+PL
 gruía-lo	gruir+V.ele.ACC.3.M.SG+IMPF+2+SG
 gruíam-no	gruir+V.ele.ACC.3.M.SG+IMPF+3+PL
 gruía-o	gruir+V.ele.ACC.3.M.SG+IMPF+3+SG
+gruí-lo	gruir+V.ele.ACC.3.M.SG+INF
 gruirmo-lo	gruir+V.ele.ACC.3.M.SG+INF+1+PL
 gruí-lo	gruir+V.ele.ACC.3.M.SG+INF+1+SG
 gruirde-lo	gruir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -38834,6 +39118,7 @@ grunhíei-las	grunhir+V.ele.ACC.3.F.PL+IMPF+2+PL
 grunhia-las	grunhir+V.ele.ACC.3.F.PL+IMPF+2+SG
 grunhiam-nas	grunhir+V.ele.ACC.3.F.PL+IMPF+3+PL
 grunhia-as	grunhir+V.ele.ACC.3.F.PL+IMPF+3+SG
+grunhi-las	grunhir+V.ele.ACC.3.F.PL+INF
 grunhirmo-las	grunhir+V.ele.ACC.3.F.PL+INF+1+PL
 grunhi-las	grunhir+V.ele.ACC.3.F.PL+INF+1+SG
 grunhirde-las	grunhir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -38874,6 +39159,7 @@ grunhíei-la	grunhir+V.ele.ACC.3.F.SG+IMPF+2+PL
 grunhia-la	grunhir+V.ele.ACC.3.F.SG+IMPF+2+SG
 grunhiam-na	grunhir+V.ele.ACC.3.F.SG+IMPF+3+PL
 grunhia-a	grunhir+V.ele.ACC.3.F.SG+IMPF+3+SG
+grunhi-la	grunhir+V.ele.ACC.3.F.SG+INF
 grunhirmo-la	grunhir+V.ele.ACC.3.F.SG+INF+1+PL
 grunhi-la	grunhir+V.ele.ACC.3.F.SG+INF+1+SG
 grunhirde-la	grunhir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -38914,6 +39200,7 @@ grunhíei-los	grunhir+V.ele.ACC.3.M.PL+IMPF+2+PL
 grunhia-los	grunhir+V.ele.ACC.3.M.PL+IMPF+2+SG
 grunhiam-nos	grunhir+V.ele.ACC.3.M.PL+IMPF+3+PL
 grunhia-os	grunhir+V.ele.ACC.3.M.PL+IMPF+3+SG
+grunhi-los	grunhir+V.ele.ACC.3.M.PL+INF
 grunhirmo-los	grunhir+V.ele.ACC.3.M.PL+INF+1+PL
 grunhi-los	grunhir+V.ele.ACC.3.M.PL+INF+1+SG
 grunhirde-los	grunhir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -38954,6 +39241,7 @@ grunhíei-lo	grunhir+V.ele.ACC.3.M.SG+IMPF+2+PL
 grunhia-lo	grunhir+V.ele.ACC.3.M.SG+IMPF+2+SG
 grunhiam-no	grunhir+V.ele.ACC.3.M.SG+IMPF+3+PL
 grunhia-o	grunhir+V.ele.ACC.3.M.SG+IMPF+3+SG
+grunhi-lo	grunhir+V.ele.ACC.3.M.SG+INF
 grunhirmo-lo	grunhir+V.ele.ACC.3.M.SG+INF+1+PL
 grunhi-lo	grunhir+V.ele.ACC.3.M.SG+INF+1+SG
 grunhirde-lo	grunhir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -39256,6 +39544,7 @@ gualdíei-las	gualdir+V.ele.ACC.3.F.PL+IMPF+2+PL
 gualdia-las	gualdir+V.ele.ACC.3.F.PL+IMPF+2+SG
 gualdiam-nas	gualdir+V.ele.ACC.3.F.PL+IMPF+3+PL
 gualdia-as	gualdir+V.ele.ACC.3.F.PL+IMPF+3+SG
+gualdi-las	gualdir+V.ele.ACC.3.F.PL+INF
 gualdirmo-las	gualdir+V.ele.ACC.3.F.PL+INF+1+PL
 gualdi-las	gualdir+V.ele.ACC.3.F.PL+INF+1+SG
 gualdirde-las	gualdir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -39296,6 +39585,7 @@ gualdíei-la	gualdir+V.ele.ACC.3.F.SG+IMPF+2+PL
 gualdia-la	gualdir+V.ele.ACC.3.F.SG+IMPF+2+SG
 gualdiam-na	gualdir+V.ele.ACC.3.F.SG+IMPF+3+PL
 gualdia-a	gualdir+V.ele.ACC.3.F.SG+IMPF+3+SG
+gualdi-la	gualdir+V.ele.ACC.3.F.SG+INF
 gualdirmo-la	gualdir+V.ele.ACC.3.F.SG+INF+1+PL
 gualdi-la	gualdir+V.ele.ACC.3.F.SG+INF+1+SG
 gualdirde-la	gualdir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -39336,6 +39626,7 @@ gualdíei-los	gualdir+V.ele.ACC.3.M.PL+IMPF+2+PL
 gualdia-los	gualdir+V.ele.ACC.3.M.PL+IMPF+2+SG
 gualdiam-nos	gualdir+V.ele.ACC.3.M.PL+IMPF+3+PL
 gualdia-os	gualdir+V.ele.ACC.3.M.PL+IMPF+3+SG
+gualdi-los	gualdir+V.ele.ACC.3.M.PL+INF
 gualdirmo-los	gualdir+V.ele.ACC.3.M.PL+INF+1+PL
 gualdi-los	gualdir+V.ele.ACC.3.M.PL+INF+1+SG
 gualdirde-los	gualdir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -39376,6 +39667,7 @@ gualdíei-lo	gualdir+V.ele.ACC.3.M.SG+IMPF+2+PL
 gualdia-lo	gualdir+V.ele.ACC.3.M.SG+IMPF+2+SG
 gualdiam-no	gualdir+V.ele.ACC.3.M.SG+IMPF+3+PL
 gualdia-o	gualdir+V.ele.ACC.3.M.SG+IMPF+3+SG
+gualdi-lo	gualdir+V.ele.ACC.3.M.SG+INF
 gualdirmo-lo	gualdir+V.ele.ACC.3.M.SG+INF+1+PL
 gualdi-lo	gualdir+V.ele.ACC.3.M.SG+INF+1+SG
 gualdirde-lo	gualdir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -39675,6 +39967,7 @@ guampeávei-las	guampear+V.ele.ACC.3.F.PL+IMPF+2+PL
 guampeava-las	guampear+V.ele.ACC.3.F.PL+IMPF+2+SG
 guampeavam-nas	guampear+V.ele.ACC.3.F.PL+IMPF+3+PL
 guampeava-as	guampear+V.ele.ACC.3.F.PL+IMPF+3+SG
+guampeá-las	guampear+V.ele.ACC.3.F.PL+INF
 guampearmo-las	guampear+V.ele.ACC.3.F.PL+INF+1+PL
 guampeá-las	guampear+V.ele.ACC.3.F.PL+INF+1+SG
 guampearde-las	guampear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -39724,6 +40017,7 @@ guampeávei-la	guampear+V.ele.ACC.3.F.SG+IMPF+2+PL
 guampeava-la	guampear+V.ele.ACC.3.F.SG+IMPF+2+SG
 guampeavam-na	guampear+V.ele.ACC.3.F.SG+IMPF+3+PL
 guampeava-a	guampear+V.ele.ACC.3.F.SG+IMPF+3+SG
+guampeá-la	guampear+V.ele.ACC.3.F.SG+INF
 guampearmo-la	guampear+V.ele.ACC.3.F.SG+INF+1+PL
 guampeá-la	guampear+V.ele.ACC.3.F.SG+INF+1+SG
 guampearde-la	guampear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -39773,6 +40067,7 @@ guampeávei-los	guampear+V.ele.ACC.3.M.PL+IMPF+2+PL
 guampeava-los	guampear+V.ele.ACC.3.M.PL+IMPF+2+SG
 guampeavam-nos	guampear+V.ele.ACC.3.M.PL+IMPF+3+PL
 guampeava-os	guampear+V.ele.ACC.3.M.PL+IMPF+3+SG
+guampeá-los	guampear+V.ele.ACC.3.M.PL+INF
 guampearmo-los	guampear+V.ele.ACC.3.M.PL+INF+1+PL
 guampeá-los	guampear+V.ele.ACC.3.M.PL+INF+1+SG
 guampearde-los	guampear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -39822,6 +40117,7 @@ guampeávei-lo	guampear+V.ele.ACC.3.M.SG+IMPF+2+PL
 guampeava-lo	guampear+V.ele.ACC.3.M.SG+IMPF+2+SG
 guampeavam-no	guampear+V.ele.ACC.3.M.SG+IMPF+3+PL
 guampeava-o	guampear+V.ele.ACC.3.M.SG+IMPF+3+SG
+guampeá-lo	guampear+V.ele.ACC.3.M.SG+INF
 guampearmo-lo	guampear+V.ele.ACC.3.M.SG+INF+1+PL
 guampeá-lo	guampear+V.ele.ACC.3.M.SG+INF+1+SG
 guampearde-lo	guampear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -40189,6 +40485,7 @@ guapeávei-las	guapear+V.ele.ACC.3.F.PL+IMPF+2+PL
 guapeava-las	guapear+V.ele.ACC.3.F.PL+IMPF+2+SG
 guapeavam-nas	guapear+V.ele.ACC.3.F.PL+IMPF+3+PL
 guapeava-as	guapear+V.ele.ACC.3.F.PL+IMPF+3+SG
+guapeá-las	guapear+V.ele.ACC.3.F.PL+INF
 guapearmo-las	guapear+V.ele.ACC.3.F.PL+INF+1+PL
 guapeá-las	guapear+V.ele.ACC.3.F.PL+INF+1+SG
 guapearde-las	guapear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -40238,6 +40535,7 @@ guapeávei-la	guapear+V.ele.ACC.3.F.SG+IMPF+2+PL
 guapeava-la	guapear+V.ele.ACC.3.F.SG+IMPF+2+SG
 guapeavam-na	guapear+V.ele.ACC.3.F.SG+IMPF+3+PL
 guapeava-a	guapear+V.ele.ACC.3.F.SG+IMPF+3+SG
+guapeá-la	guapear+V.ele.ACC.3.F.SG+INF
 guapearmo-la	guapear+V.ele.ACC.3.F.SG+INF+1+PL
 guapeá-la	guapear+V.ele.ACC.3.F.SG+INF+1+SG
 guapearde-la	guapear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -40287,6 +40585,7 @@ guapeávei-los	guapear+V.ele.ACC.3.M.PL+IMPF+2+PL
 guapeava-los	guapear+V.ele.ACC.3.M.PL+IMPF+2+SG
 guapeavam-nos	guapear+V.ele.ACC.3.M.PL+IMPF+3+PL
 guapeava-os	guapear+V.ele.ACC.3.M.PL+IMPF+3+SG
+guapeá-los	guapear+V.ele.ACC.3.M.PL+INF
 guapearmo-los	guapear+V.ele.ACC.3.M.PL+INF+1+PL
 guapeá-los	guapear+V.ele.ACC.3.M.PL+INF+1+SG
 guapearde-los	guapear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -40336,6 +40635,7 @@ guapeávei-lo	guapear+V.ele.ACC.3.M.SG+IMPF+2+PL
 guapeava-lo	guapear+V.ele.ACC.3.M.SG+IMPF+2+SG
 guapeavam-no	guapear+V.ele.ACC.3.M.SG+IMPF+3+PL
 guapeava-o	guapear+V.ele.ACC.3.M.SG+IMPF+3+SG
+guapeá-lo	guapear+V.ele.ACC.3.M.SG+INF
 guapearmo-lo	guapear+V.ele.ACC.3.M.SG+INF+1+PL
 guapeá-lo	guapear+V.ele.ACC.3.M.SG+INF+1+SG
 guapearde-lo	guapear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -40703,6 +41003,7 @@ guapetoneávei-las	guapetonear+V.ele.ACC.3.F.PL+IMPF+2+PL
 guapetoneava-las	guapetonear+V.ele.ACC.3.F.PL+IMPF+2+SG
 guapetoneavam-nas	guapetonear+V.ele.ACC.3.F.PL+IMPF+3+PL
 guapetoneava-as	guapetonear+V.ele.ACC.3.F.PL+IMPF+3+SG
+guapetoneá-las	guapetonear+V.ele.ACC.3.F.PL+INF
 guapetonearmo-las	guapetonear+V.ele.ACC.3.F.PL+INF+1+PL
 guapetoneá-las	guapetonear+V.ele.ACC.3.F.PL+INF+1+SG
 guapetonearde-las	guapetonear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -40752,6 +41053,7 @@ guapetoneávei-la	guapetonear+V.ele.ACC.3.F.SG+IMPF+2+PL
 guapetoneava-la	guapetonear+V.ele.ACC.3.F.SG+IMPF+2+SG
 guapetoneavam-na	guapetonear+V.ele.ACC.3.F.SG+IMPF+3+PL
 guapetoneava-a	guapetonear+V.ele.ACC.3.F.SG+IMPF+3+SG
+guapetoneá-la	guapetonear+V.ele.ACC.3.F.SG+INF
 guapetonearmo-la	guapetonear+V.ele.ACC.3.F.SG+INF+1+PL
 guapetoneá-la	guapetonear+V.ele.ACC.3.F.SG+INF+1+SG
 guapetonearde-la	guapetonear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -40801,6 +41103,7 @@ guapetoneávei-los	guapetonear+V.ele.ACC.3.M.PL+IMPF+2+PL
 guapetoneava-los	guapetonear+V.ele.ACC.3.M.PL+IMPF+2+SG
 guapetoneavam-nos	guapetonear+V.ele.ACC.3.M.PL+IMPF+3+PL
 guapetoneava-os	guapetonear+V.ele.ACC.3.M.PL+IMPF+3+SG
+guapetoneá-los	guapetonear+V.ele.ACC.3.M.PL+INF
 guapetonearmo-los	guapetonear+V.ele.ACC.3.M.PL+INF+1+PL
 guapetoneá-los	guapetonear+V.ele.ACC.3.M.PL+INF+1+SG
 guapetonearde-los	guapetonear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -40850,6 +41153,7 @@ guapetoneávei-lo	guapetonear+V.ele.ACC.3.M.SG+IMPF+2+PL
 guapetoneava-lo	guapetonear+V.ele.ACC.3.M.SG+IMPF+2+SG
 guapetoneavam-no	guapetonear+V.ele.ACC.3.M.SG+IMPF+3+PL
 guapetoneava-o	guapetonear+V.ele.ACC.3.M.SG+IMPF+3+SG
+guapetoneá-lo	guapetonear+V.ele.ACC.3.M.SG+INF
 guapetonearmo-lo	guapetonear+V.ele.ACC.3.M.SG+INF+1+PL
 guapetoneá-lo	guapetonear+V.ele.ACC.3.M.SG+INF+1+SG
 guapetonearde-lo	guapetonear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -41217,6 +41521,7 @@ guardeávei-las	guardear+V.ele.ACC.3.F.PL+IMPF+2+PL
 guardeava-las	guardear+V.ele.ACC.3.F.PL+IMPF+2+SG
 guardeavam-nas	guardear+V.ele.ACC.3.F.PL+IMPF+3+PL
 guardeava-as	guardear+V.ele.ACC.3.F.PL+IMPF+3+SG
+guardeá-las	guardear+V.ele.ACC.3.F.PL+INF
 guardearmo-las	guardear+V.ele.ACC.3.F.PL+INF+1+PL
 guardeá-las	guardear+V.ele.ACC.3.F.PL+INF+1+SG
 guardearde-las	guardear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -41266,6 +41571,7 @@ guardeávei-la	guardear+V.ele.ACC.3.F.SG+IMPF+2+PL
 guardeava-la	guardear+V.ele.ACC.3.F.SG+IMPF+2+SG
 guardeavam-na	guardear+V.ele.ACC.3.F.SG+IMPF+3+PL
 guardeava-a	guardear+V.ele.ACC.3.F.SG+IMPF+3+SG
+guardeá-la	guardear+V.ele.ACC.3.F.SG+INF
 guardearmo-la	guardear+V.ele.ACC.3.F.SG+INF+1+PL
 guardeá-la	guardear+V.ele.ACC.3.F.SG+INF+1+SG
 guardearde-la	guardear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -41315,6 +41621,7 @@ guardeávei-los	guardear+V.ele.ACC.3.M.PL+IMPF+2+PL
 guardeava-los	guardear+V.ele.ACC.3.M.PL+IMPF+2+SG
 guardeavam-nos	guardear+V.ele.ACC.3.M.PL+IMPF+3+PL
 guardeava-os	guardear+V.ele.ACC.3.M.PL+IMPF+3+SG
+guardeá-los	guardear+V.ele.ACC.3.M.PL+INF
 guardearmo-los	guardear+V.ele.ACC.3.M.PL+INF+1+PL
 guardeá-los	guardear+V.ele.ACC.3.M.PL+INF+1+SG
 guardearde-los	guardear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -41364,6 +41671,7 @@ guardeávei-lo	guardear+V.ele.ACC.3.M.SG+IMPF+2+PL
 guardeava-lo	guardear+V.ele.ACC.3.M.SG+IMPF+2+SG
 guardeavam-no	guardear+V.ele.ACC.3.M.SG+IMPF+3+PL
 guardeava-o	guardear+V.ele.ACC.3.M.SG+IMPF+3+SG
+guardeá-lo	guardear+V.ele.ACC.3.M.SG+INF
 guardearmo-lo	guardear+V.ele.ACC.3.M.SG+INF+1+PL
 guardeá-lo	guardear+V.ele.ACC.3.M.SG+INF+1+SG
 guardearde-lo	guardear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -42273,6 +42581,7 @@ guaríei-las	guarir+V.ele.ACC.3.F.PL+IMPF+2+PL
 guaria-las	guarir+V.ele.ACC.3.F.PL+IMPF+2+SG
 guariam-nas	guarir+V.ele.ACC.3.F.PL+IMPF+3+PL
 guaria-as	guarir+V.ele.ACC.3.F.PL+IMPF+3+SG
+guari-las	guarir+V.ele.ACC.3.F.PL+INF
 guarirmo-las	guarir+V.ele.ACC.3.F.PL+INF+1+PL
 guari-las	guarir+V.ele.ACC.3.F.PL+INF+1+SG
 guarirde-las	guarir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -42313,6 +42622,7 @@ guaríei-la	guarir+V.ele.ACC.3.F.SG+IMPF+2+PL
 guaria-la	guarir+V.ele.ACC.3.F.SG+IMPF+2+SG
 guariam-na	guarir+V.ele.ACC.3.F.SG+IMPF+3+PL
 guaria-a	guarir+V.ele.ACC.3.F.SG+IMPF+3+SG
+guari-la	guarir+V.ele.ACC.3.F.SG+INF
 guarirmo-la	guarir+V.ele.ACC.3.F.SG+INF+1+PL
 guari-la	guarir+V.ele.ACC.3.F.SG+INF+1+SG
 guarirde-la	guarir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -42353,6 +42663,7 @@ guaríei-los	guarir+V.ele.ACC.3.M.PL+IMPF+2+PL
 guaria-los	guarir+V.ele.ACC.3.M.PL+IMPF+2+SG
 guariam-nos	guarir+V.ele.ACC.3.M.PL+IMPF+3+PL
 guaria-os	guarir+V.ele.ACC.3.M.PL+IMPF+3+SG
+guari-los	guarir+V.ele.ACC.3.M.PL+INF
 guarirmo-los	guarir+V.ele.ACC.3.M.PL+INF+1+PL
 guari-los	guarir+V.ele.ACC.3.M.PL+INF+1+SG
 guarirde-los	guarir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -42393,6 +42704,7 @@ guaríei-lo	guarir+V.ele.ACC.3.M.SG+IMPF+2+PL
 guaria-lo	guarir+V.ele.ACC.3.M.SG+IMPF+2+SG
 guariam-no	guarir+V.ele.ACC.3.M.SG+IMPF+3+PL
 guaria-o	guarir+V.ele.ACC.3.M.SG+IMPF+3+SG
+guari-lo	guarir+V.ele.ACC.3.M.SG+INF
 guarirmo-lo	guarir+V.ele.ACC.3.M.SG+INF+1+PL
 guari-lo	guarir+V.ele.ACC.3.M.SG+INF+1+SG
 guarirde-lo	guarir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -43234,6 +43546,7 @@ guarníei-las	guarnir+V.ele.ACC.3.F.PL+IMPF+2+PL
 guarnia-las	guarnir+V.ele.ACC.3.F.PL+IMPF+2+SG
 guarniam-nas	guarnir+V.ele.ACC.3.F.PL+IMPF+3+PL
 guarnia-as	guarnir+V.ele.ACC.3.F.PL+IMPF+3+SG
+guarni-las	guarnir+V.ele.ACC.3.F.PL+INF
 guarnirmo-las	guarnir+V.ele.ACC.3.F.PL+INF+1+PL
 guarni-las	guarnir+V.ele.ACC.3.F.PL+INF+1+SG
 guarnirde-las	guarnir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -43274,6 +43587,7 @@ guarníei-la	guarnir+V.ele.ACC.3.F.SG+IMPF+2+PL
 guarnia-la	guarnir+V.ele.ACC.3.F.SG+IMPF+2+SG
 guarniam-na	guarnir+V.ele.ACC.3.F.SG+IMPF+3+PL
 guarnia-a	guarnir+V.ele.ACC.3.F.SG+IMPF+3+SG
+guarni-la	guarnir+V.ele.ACC.3.F.SG+INF
 guarnirmo-la	guarnir+V.ele.ACC.3.F.SG+INF+1+PL
 guarni-la	guarnir+V.ele.ACC.3.F.SG+INF+1+SG
 guarnirde-la	guarnir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -43314,6 +43628,7 @@ guarníei-los	guarnir+V.ele.ACC.3.M.PL+IMPF+2+PL
 guarnia-los	guarnir+V.ele.ACC.3.M.PL+IMPF+2+SG
 guarniam-nos	guarnir+V.ele.ACC.3.M.PL+IMPF+3+PL
 guarnia-os	guarnir+V.ele.ACC.3.M.PL+IMPF+3+SG
+guarni-los	guarnir+V.ele.ACC.3.M.PL+INF
 guarnirmo-los	guarnir+V.ele.ACC.3.M.PL+INF+1+PL
 guarni-los	guarnir+V.ele.ACC.3.M.PL+INF+1+SG
 guarnirde-los	guarnir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -43354,6 +43669,7 @@ guarníei-lo	guarnir+V.ele.ACC.3.M.SG+IMPF+2+PL
 guarnia-lo	guarnir+V.ele.ACC.3.M.SG+IMPF+2+SG
 guarniam-no	guarnir+V.ele.ACC.3.M.SG+IMPF+3+PL
 guarnia-o	guarnir+V.ele.ACC.3.M.SG+IMPF+3+SG
+guarni-lo	guarnir+V.ele.ACC.3.M.SG+INF
 guarnirmo-lo	guarnir+V.ele.ACC.3.M.SG+INF+1+PL
 guarni-lo	guarnir+V.ele.ACC.3.M.SG+INF+1+SG
 guarnirde-lo	guarnir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -43653,6 +43969,7 @@ guasqueávei-las	guasquear+V.ele.ACC.3.F.PL+IMPF+2+PL
 guasqueava-las	guasquear+V.ele.ACC.3.F.PL+IMPF+2+SG
 guasqueavam-nas	guasquear+V.ele.ACC.3.F.PL+IMPF+3+PL
 guasqueava-as	guasquear+V.ele.ACC.3.F.PL+IMPF+3+SG
+guasqueá-las	guasquear+V.ele.ACC.3.F.PL+INF
 guasquearmo-las	guasquear+V.ele.ACC.3.F.PL+INF+1+PL
 guasqueá-las	guasquear+V.ele.ACC.3.F.PL+INF+1+SG
 guasquearde-las	guasquear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -43702,6 +44019,7 @@ guasqueávei-la	guasquear+V.ele.ACC.3.F.SG+IMPF+2+PL
 guasqueava-la	guasquear+V.ele.ACC.3.F.SG+IMPF+2+SG
 guasqueavam-na	guasquear+V.ele.ACC.3.F.SG+IMPF+3+PL
 guasqueava-a	guasquear+V.ele.ACC.3.F.SG+IMPF+3+SG
+guasqueá-la	guasquear+V.ele.ACC.3.F.SG+INF
 guasquearmo-la	guasquear+V.ele.ACC.3.F.SG+INF+1+PL
 guasqueá-la	guasquear+V.ele.ACC.3.F.SG+INF+1+SG
 guasquearde-la	guasquear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -43751,6 +44069,7 @@ guasqueávei-los	guasquear+V.ele.ACC.3.M.PL+IMPF+2+PL
 guasqueava-los	guasquear+V.ele.ACC.3.M.PL+IMPF+2+SG
 guasqueavam-nos	guasquear+V.ele.ACC.3.M.PL+IMPF+3+PL
 guasqueava-os	guasquear+V.ele.ACC.3.M.PL+IMPF+3+SG
+guasqueá-los	guasquear+V.ele.ACC.3.M.PL+INF
 guasquearmo-los	guasquear+V.ele.ACC.3.M.PL+INF+1+PL
 guasqueá-los	guasquear+V.ele.ACC.3.M.PL+INF+1+SG
 guasquearde-los	guasquear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -43800,6 +44119,7 @@ guasqueávei-lo	guasquear+V.ele.ACC.3.M.SG+IMPF+2+PL
 guasqueava-lo	guasquear+V.ele.ACC.3.M.SG+IMPF+2+SG
 guasqueavam-no	guasquear+V.ele.ACC.3.M.SG+IMPF+3+PL
 guasqueava-o	guasquear+V.ele.ACC.3.M.SG+IMPF+3+SG
+guasqueá-lo	guasquear+V.ele.ACC.3.M.SG+INF
 guasquearmo-lo	guasquear+V.ele.ACC.3.M.SG+INF+1+PL
 guasqueá-lo	guasquear+V.ele.ACC.3.M.SG+INF+1+SG
 guasquearde-lo	guasquear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -44167,6 +44487,7 @@ guerreávei-las	guerrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 guerreava-las	guerrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 guerreavam-nas	guerrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 guerreava-as	guerrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+guerreá-las	guerrear+V.ele.ACC.3.F.PL+INF
 guerrearmo-las	guerrear+V.ele.ACC.3.F.PL+INF+1+PL
 guerreá-las	guerrear+V.ele.ACC.3.F.PL+INF+1+SG
 guerrearde-las	guerrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -44216,6 +44537,7 @@ guerreávei-la	guerrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 guerreava-la	guerrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 guerreavam-na	guerrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 guerreava-a	guerrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+guerreá-la	guerrear+V.ele.ACC.3.F.SG+INF
 guerrearmo-la	guerrear+V.ele.ACC.3.F.SG+INF+1+PL
 guerreá-la	guerrear+V.ele.ACC.3.F.SG+INF+1+SG
 guerrearde-la	guerrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -44265,6 +44587,7 @@ guerreávei-los	guerrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 guerreava-los	guerrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 guerreavam-nos	guerrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 guerreava-os	guerrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+guerreá-los	guerrear+V.ele.ACC.3.M.PL+INF
 guerrearmo-los	guerrear+V.ele.ACC.3.M.PL+INF+1+PL
 guerreá-los	guerrear+V.ele.ACC.3.M.PL+INF+1+SG
 guerrearde-los	guerrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -44314,6 +44637,7 @@ guerreávei-lo	guerrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 guerreava-lo	guerrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 guerreavam-no	guerrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 guerreava-o	guerrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+guerreá-lo	guerrear+V.ele.ACC.3.M.SG+INF
 guerrearmo-lo	guerrear+V.ele.ACC.3.M.SG+INF+1+PL
 guerreá-lo	guerrear+V.ele.ACC.3.M.SG+INF+1+SG
 guerrearde-lo	guerrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -44681,6 +45005,7 @@ guitarreávei-las	guitarrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 guitarreava-las	guitarrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 guitarreavam-nas	guitarrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 guitarreava-as	guitarrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+guitarreá-las	guitarrear+V.ele.ACC.3.F.PL+INF
 guitarrearmo-las	guitarrear+V.ele.ACC.3.F.PL+INF+1+PL
 guitarreá-las	guitarrear+V.ele.ACC.3.F.PL+INF+1+SG
 guitarrearde-las	guitarrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -44730,6 +45055,7 @@ guitarreávei-la	guitarrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 guitarreava-la	guitarrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 guitarreavam-na	guitarrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 guitarreava-a	guitarrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+guitarreá-la	guitarrear+V.ele.ACC.3.F.SG+INF
 guitarrearmo-la	guitarrear+V.ele.ACC.3.F.SG+INF+1+PL
 guitarreá-la	guitarrear+V.ele.ACC.3.F.SG+INF+1+SG
 guitarrearde-la	guitarrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -44779,6 +45105,7 @@ guitarreávei-los	guitarrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 guitarreava-los	guitarrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 guitarreavam-nos	guitarrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 guitarreava-os	guitarrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+guitarreá-los	guitarrear+V.ele.ACC.3.M.PL+INF
 guitarrearmo-los	guitarrear+V.ele.ACC.3.M.PL+INF+1+PL
 guitarreá-los	guitarrear+V.ele.ACC.3.M.PL+INF+1+SG
 guitarrearde-los	guitarrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -44828,6 +45155,7 @@ guitarreávei-lo	guitarrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 guitarreava-lo	guitarrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 guitarreavam-no	guitarrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 guitarreava-o	guitarrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+guitarreá-lo	guitarrear+V.ele.ACC.3.M.SG+INF
 guitarrearmo-lo	guitarrear+V.ele.ACC.3.M.SG+INF+1+PL
 guitarreá-lo	guitarrear+V.ele.ACC.3.M.SG+INF+1+SG
 guitarrearde-lo	guitarrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -45195,6 +45523,7 @@ guloseávei-las	gulosear+V.ele.ACC.3.F.PL+IMPF+2+PL
 guloseava-las	gulosear+V.ele.ACC.3.F.PL+IMPF+2+SG
 guloseavam-nas	gulosear+V.ele.ACC.3.F.PL+IMPF+3+PL
 guloseava-as	gulosear+V.ele.ACC.3.F.PL+IMPF+3+SG
+guloseá-las	gulosear+V.ele.ACC.3.F.PL+INF
 gulosearmo-las	gulosear+V.ele.ACC.3.F.PL+INF+1+PL
 guloseá-las	gulosear+V.ele.ACC.3.F.PL+INF+1+SG
 gulosearde-las	gulosear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -45244,6 +45573,7 @@ guloseávei-la	gulosear+V.ele.ACC.3.F.SG+IMPF+2+PL
 guloseava-la	gulosear+V.ele.ACC.3.F.SG+IMPF+2+SG
 guloseavam-na	gulosear+V.ele.ACC.3.F.SG+IMPF+3+PL
 guloseava-a	gulosear+V.ele.ACC.3.F.SG+IMPF+3+SG
+guloseá-la	gulosear+V.ele.ACC.3.F.SG+INF
 gulosearmo-la	gulosear+V.ele.ACC.3.F.SG+INF+1+PL
 guloseá-la	gulosear+V.ele.ACC.3.F.SG+INF+1+SG
 gulosearde-la	gulosear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -45293,6 +45623,7 @@ guloseávei-los	gulosear+V.ele.ACC.3.M.PL+IMPF+2+PL
 guloseava-los	gulosear+V.ele.ACC.3.M.PL+IMPF+2+SG
 guloseavam-nos	gulosear+V.ele.ACC.3.M.PL+IMPF+3+PL
 guloseava-os	gulosear+V.ele.ACC.3.M.PL+IMPF+3+SG
+guloseá-los	gulosear+V.ele.ACC.3.M.PL+INF
 gulosearmo-los	gulosear+V.ele.ACC.3.M.PL+INF+1+PL
 guloseá-los	gulosear+V.ele.ACC.3.M.PL+INF+1+SG
 gulosearde-los	gulosear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -45342,6 +45673,7 @@ guloseávei-lo	gulosear+V.ele.ACC.3.M.SG+IMPF+2+PL
 guloseava-lo	gulosear+V.ele.ACC.3.M.SG+IMPF+2+SG
 guloseavam-no	gulosear+V.ele.ACC.3.M.SG+IMPF+3+PL
 guloseava-o	gulosear+V.ele.ACC.3.M.SG+IMPF+3+SG
+guloseá-lo	gulosear+V.ele.ACC.3.M.SG+INF
 gulosearmo-lo	gulosear+V.ele.ACC.3.M.SG+INF+1+PL
 guloseá-lo	gulosear+V.ele.ACC.3.M.SG+INF+1+SG
 gulosearde-lo	gulosear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -45712,6 +46044,7 @@ gurníei-las	gurnir+V.ele.ACC.3.F.PL+IMPF+2+PL
 gurnia-las	gurnir+V.ele.ACC.3.F.PL+IMPF+2+SG
 gurniam-nas	gurnir+V.ele.ACC.3.F.PL+IMPF+3+PL
 gurnia-as	gurnir+V.ele.ACC.3.F.PL+IMPF+3+SG
+gurni-las	gurnir+V.ele.ACC.3.F.PL+INF
 gurnirmo-las	gurnir+V.ele.ACC.3.F.PL+INF+1+PL
 gurni-las	gurnir+V.ele.ACC.3.F.PL+INF+1+SG
 gurnirde-las	gurnir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -45752,6 +46085,7 @@ gurníei-la	gurnir+V.ele.ACC.3.F.SG+IMPF+2+PL
 gurnia-la	gurnir+V.ele.ACC.3.F.SG+IMPF+2+SG
 gurniam-na	gurnir+V.ele.ACC.3.F.SG+IMPF+3+PL
 gurnia-a	gurnir+V.ele.ACC.3.F.SG+IMPF+3+SG
+gurni-la	gurnir+V.ele.ACC.3.F.SG+INF
 gurnirmo-la	gurnir+V.ele.ACC.3.F.SG+INF+1+PL
 gurni-la	gurnir+V.ele.ACC.3.F.SG+INF+1+SG
 gurnirde-la	gurnir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -45792,6 +46126,7 @@ gurníei-los	gurnir+V.ele.ACC.3.M.PL+IMPF+2+PL
 gurnia-los	gurnir+V.ele.ACC.3.M.PL+IMPF+2+SG
 gurniam-nos	gurnir+V.ele.ACC.3.M.PL+IMPF+3+PL
 gurnia-os	gurnir+V.ele.ACC.3.M.PL+IMPF+3+SG
+gurni-los	gurnir+V.ele.ACC.3.M.PL+INF
 gurnirmo-los	gurnir+V.ele.ACC.3.M.PL+INF+1+PL
 gurni-los	gurnir+V.ele.ACC.3.M.PL+INF+1+SG
 gurnirde-los	gurnir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -45832,6 +46167,7 @@ gurníei-lo	gurnir+V.ele.ACC.3.M.SG+IMPF+2+PL
 gurnia-lo	gurnir+V.ele.ACC.3.M.SG+IMPF+2+SG
 gurniam-no	gurnir+V.ele.ACC.3.M.SG+IMPF+3+PL
 gurnia-o	gurnir+V.ele.ACC.3.M.SG+IMPF+3+SG
+gurni-lo	gurnir+V.ele.ACC.3.M.SG+INF
 gurnirmo-lo	gurnir+V.ele.ACC.3.M.SG+INF+1+PL
 gurni-lo	gurnir+V.ele.ACC.3.M.SG+INF+1+SG
 gurnirde-lo	gurnir+V.ele.ACC.3.M.SG+INF+2+PL

@@ -17,6 +17,7 @@ xaropeávei-las	xaropear+V.ele.ACC.3.F.PL+IMPF+2+PL
 xaropeava-las	xaropear+V.ele.ACC.3.F.PL+IMPF+2+SG
 xaropeavam-nas	xaropear+V.ele.ACC.3.F.PL+IMPF+3+PL
 xaropeava-as	xaropear+V.ele.ACC.3.F.PL+IMPF+3+SG
+xaropeá-las	xaropear+V.ele.ACC.3.F.PL+INF
 xaropearmo-las	xaropear+V.ele.ACC.3.F.PL+INF+1+PL
 xaropeá-las	xaropear+V.ele.ACC.3.F.PL+INF+1+SG
 xaropearde-las	xaropear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -66,6 +67,7 @@ xaropeávei-la	xaropear+V.ele.ACC.3.F.SG+IMPF+2+PL
 xaropeava-la	xaropear+V.ele.ACC.3.F.SG+IMPF+2+SG
 xaropeavam-na	xaropear+V.ele.ACC.3.F.SG+IMPF+3+PL
 xaropeava-a	xaropear+V.ele.ACC.3.F.SG+IMPF+3+SG
+xaropeá-la	xaropear+V.ele.ACC.3.F.SG+INF
 xaropearmo-la	xaropear+V.ele.ACC.3.F.SG+INF+1+PL
 xaropeá-la	xaropear+V.ele.ACC.3.F.SG+INF+1+SG
 xaropearde-la	xaropear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -115,6 +117,7 @@ xaropeávei-los	xaropear+V.ele.ACC.3.M.PL+IMPF+2+PL
 xaropeava-los	xaropear+V.ele.ACC.3.M.PL+IMPF+2+SG
 xaropeavam-nos	xaropear+V.ele.ACC.3.M.PL+IMPF+3+PL
 xaropeava-os	xaropear+V.ele.ACC.3.M.PL+IMPF+3+SG
+xaropeá-los	xaropear+V.ele.ACC.3.M.PL+INF
 xaropearmo-los	xaropear+V.ele.ACC.3.M.PL+INF+1+PL
 xaropeá-los	xaropear+V.ele.ACC.3.M.PL+INF+1+SG
 xaropearde-los	xaropear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -164,6 +167,7 @@ xaropeávei-lo	xaropear+V.ele.ACC.3.M.SG+IMPF+2+PL
 xaropeava-lo	xaropear+V.ele.ACC.3.M.SG+IMPF+2+SG
 xaropeavam-no	xaropear+V.ele.ACC.3.M.SG+IMPF+3+PL
 xaropeava-o	xaropear+V.ele.ACC.3.M.SG+IMPF+3+SG
+xaropeá-lo	xaropear+V.ele.ACC.3.M.SG+INF
 xaropearmo-lo	xaropear+V.ele.ACC.3.M.SG+INF+1+PL
 xaropeá-lo	xaropear+V.ele.ACC.3.M.SG+INF+1+SG
 xaropearde-lo	xaropear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -531,6 +535,7 @@ xereteávei-las	xeretear+V.ele.ACC.3.F.PL+IMPF+2+PL
 xereteava-las	xeretear+V.ele.ACC.3.F.PL+IMPF+2+SG
 xereteavam-nas	xeretear+V.ele.ACC.3.F.PL+IMPF+3+PL
 xereteava-as	xeretear+V.ele.ACC.3.F.PL+IMPF+3+SG
+xereteá-las	xeretear+V.ele.ACC.3.F.PL+INF
 xeretearmo-las	xeretear+V.ele.ACC.3.F.PL+INF+1+PL
 xereteá-las	xeretear+V.ele.ACC.3.F.PL+INF+1+SG
 xeretearde-las	xeretear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -580,6 +585,7 @@ xereteávei-la	xeretear+V.ele.ACC.3.F.SG+IMPF+2+PL
 xereteava-la	xeretear+V.ele.ACC.3.F.SG+IMPF+2+SG
 xereteavam-na	xeretear+V.ele.ACC.3.F.SG+IMPF+3+PL
 xereteava-a	xeretear+V.ele.ACC.3.F.SG+IMPF+3+SG
+xereteá-la	xeretear+V.ele.ACC.3.F.SG+INF
 xeretearmo-la	xeretear+V.ele.ACC.3.F.SG+INF+1+PL
 xereteá-la	xeretear+V.ele.ACC.3.F.SG+INF+1+SG
 xeretearde-la	xeretear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -629,6 +635,7 @@ xereteávei-los	xeretear+V.ele.ACC.3.M.PL+IMPF+2+PL
 xereteava-los	xeretear+V.ele.ACC.3.M.PL+IMPF+2+SG
 xereteavam-nos	xeretear+V.ele.ACC.3.M.PL+IMPF+3+PL
 xereteava-os	xeretear+V.ele.ACC.3.M.PL+IMPF+3+SG
+xereteá-los	xeretear+V.ele.ACC.3.M.PL+INF
 xeretearmo-los	xeretear+V.ele.ACC.3.M.PL+INF+1+PL
 xereteá-los	xeretear+V.ele.ACC.3.M.PL+INF+1+SG
 xeretearde-los	xeretear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -678,6 +685,7 @@ xereteávei-lo	xeretear+V.ele.ACC.3.M.SG+IMPF+2+PL
 xereteava-lo	xeretear+V.ele.ACC.3.M.SG+IMPF+2+SG
 xereteavam-no	xeretear+V.ele.ACC.3.M.SG+IMPF+3+PL
 xereteava-o	xeretear+V.ele.ACC.3.M.SG+IMPF+3+SG
+xereteá-lo	xeretear+V.ele.ACC.3.M.SG+INF
 xeretearmo-lo	xeretear+V.ele.ACC.3.M.SG+INF+1+PL
 xereteá-lo	xeretear+V.ele.ACC.3.M.SG+INF+1+SG
 xeretearde-lo	xeretear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1048,6 +1056,7 @@ xerocávei-las	xerocar+V.ele.ACC.3.F.PL+IMPF+2+PL
 xerocava-las	xerocar+V.ele.ACC.3.F.PL+IMPF+2+SG
 xerocavam-nas	xerocar+V.ele.ACC.3.F.PL+IMPF+3+PL
 xerocava-as	xerocar+V.ele.ACC.3.F.PL+IMPF+3+SG
+xerocá-las	xerocar+V.ele.ACC.3.F.PL+INF
 xerocarmo-las	xerocar+V.ele.ACC.3.F.PL+INF+1+PL
 xerocá-las	xerocar+V.ele.ACC.3.F.PL+INF+1+SG
 xerocarde-las	xerocar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1099,6 +1108,7 @@ xerocávei-la	xerocar+V.ele.ACC.3.F.SG+IMPF+2+PL
 xerocava-la	xerocar+V.ele.ACC.3.F.SG+IMPF+2+SG
 xerocavam-na	xerocar+V.ele.ACC.3.F.SG+IMPF+3+PL
 xerocava-a	xerocar+V.ele.ACC.3.F.SG+IMPF+3+SG
+xerocá-la	xerocar+V.ele.ACC.3.F.SG+INF
 xerocarmo-la	xerocar+V.ele.ACC.3.F.SG+INF+1+PL
 xerocá-la	xerocar+V.ele.ACC.3.F.SG+INF+1+SG
 xerocarde-la	xerocar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1150,6 +1160,7 @@ xerocávei-los	xerocar+V.ele.ACC.3.M.PL+IMPF+2+PL
 xerocava-los	xerocar+V.ele.ACC.3.M.PL+IMPF+2+SG
 xerocavam-nos	xerocar+V.ele.ACC.3.M.PL+IMPF+3+PL
 xerocava-os	xerocar+V.ele.ACC.3.M.PL+IMPF+3+SG
+xerocá-los	xerocar+V.ele.ACC.3.M.PL+INF
 xerocarmo-los	xerocar+V.ele.ACC.3.M.PL+INF+1+PL
 xerocá-los	xerocar+V.ele.ACC.3.M.PL+INF+1+SG
 xerocarde-los	xerocar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1201,6 +1212,7 @@ xerocávei-lo	xerocar+V.ele.ACC.3.M.SG+IMPF+2+PL
 xerocava-lo	xerocar+V.ele.ACC.3.M.SG+IMPF+2+SG
 xerocavam-no	xerocar+V.ele.ACC.3.M.SG+IMPF+3+PL
 xerocava-o	xerocar+V.ele.ACC.3.M.SG+IMPF+3+SG
+xerocá-lo	xerocar+V.ele.ACC.3.M.SG+INF
 xerocarmo-lo	xerocar+V.ele.ACC.3.M.SG+INF+1+PL
 xerocá-lo	xerocar+V.ele.ACC.3.M.SG+INF+1+SG
 xerocarde-lo	xerocar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1584,6 +1596,7 @@ xurdíei-las	xurdir+V.ele.ACC.3.F.PL+IMPF+2+PL
 xurdia-las	xurdir+V.ele.ACC.3.F.PL+IMPF+2+SG
 xurdiam-nas	xurdir+V.ele.ACC.3.F.PL+IMPF+3+PL
 xurdia-as	xurdir+V.ele.ACC.3.F.PL+IMPF+3+SG
+xurdi-las	xurdir+V.ele.ACC.3.F.PL+INF
 xurdirmo-las	xurdir+V.ele.ACC.3.F.PL+INF+1+PL
 xurdi-las	xurdir+V.ele.ACC.3.F.PL+INF+1+SG
 xurdirde-las	xurdir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1624,6 +1637,7 @@ xurdíei-la	xurdir+V.ele.ACC.3.F.SG+IMPF+2+PL
 xurdia-la	xurdir+V.ele.ACC.3.F.SG+IMPF+2+SG
 xurdiam-na	xurdir+V.ele.ACC.3.F.SG+IMPF+3+PL
 xurdia-a	xurdir+V.ele.ACC.3.F.SG+IMPF+3+SG
+xurdi-la	xurdir+V.ele.ACC.3.F.SG+INF
 xurdirmo-la	xurdir+V.ele.ACC.3.F.SG+INF+1+PL
 xurdi-la	xurdir+V.ele.ACC.3.F.SG+INF+1+SG
 xurdirde-la	xurdir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1664,6 +1678,7 @@ xurdíei-los	xurdir+V.ele.ACC.3.M.PL+IMPF+2+PL
 xurdia-los	xurdir+V.ele.ACC.3.M.PL+IMPF+2+SG
 xurdiam-nos	xurdir+V.ele.ACC.3.M.PL+IMPF+3+PL
 xurdia-os	xurdir+V.ele.ACC.3.M.PL+IMPF+3+SG
+xurdi-los	xurdir+V.ele.ACC.3.M.PL+INF
 xurdirmo-los	xurdir+V.ele.ACC.3.M.PL+INF+1+PL
 xurdi-los	xurdir+V.ele.ACC.3.M.PL+INF+1+SG
 xurdirde-los	xurdir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1704,6 +1719,7 @@ xurdíei-lo	xurdir+V.ele.ACC.3.M.SG+IMPF+2+PL
 xurdia-lo	xurdir+V.ele.ACC.3.M.SG+IMPF+2+SG
 xurdiam-no	xurdir+V.ele.ACC.3.M.SG+IMPF+3+PL
 xurdia-o	xurdir+V.ele.ACC.3.M.SG+IMPF+3+SG
+xurdi-lo	xurdir+V.ele.ACC.3.M.SG+INF
 xurdirmo-lo	xurdir+V.ele.ACC.3.M.SG+INF+1+PL
 xurdi-lo	xurdir+V.ele.ACC.3.M.SG+INF+1+SG
 xurdirde-lo	xurdir+V.ele.ACC.3.M.SG+INF+2+PL

@@ -20,6 +20,7 @@ vacávei-las	vacar+V.ele.ACC.3.F.PL+IMPF+2+PL
 vacava-las	vacar+V.ele.ACC.3.F.PL+IMPF+2+SG
 vacavam-nas	vacar+V.ele.ACC.3.F.PL+IMPF+3+PL
 vacava-as	vacar+V.ele.ACC.3.F.PL+IMPF+3+SG
+vacá-las	vacar+V.ele.ACC.3.F.PL+INF
 vacarmo-las	vacar+V.ele.ACC.3.F.PL+INF+1+PL
 vacá-las	vacar+V.ele.ACC.3.F.PL+INF+1+SG
 vacarde-las	vacar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -71,6 +72,7 @@ vacávei-la	vacar+V.ele.ACC.3.F.SG+IMPF+2+PL
 vacava-la	vacar+V.ele.ACC.3.F.SG+IMPF+2+SG
 vacavam-na	vacar+V.ele.ACC.3.F.SG+IMPF+3+PL
 vacava-a	vacar+V.ele.ACC.3.F.SG+IMPF+3+SG
+vacá-la	vacar+V.ele.ACC.3.F.SG+INF
 vacarmo-la	vacar+V.ele.ACC.3.F.SG+INF+1+PL
 vacá-la	vacar+V.ele.ACC.3.F.SG+INF+1+SG
 vacarde-la	vacar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -122,6 +124,7 @@ vacávei-los	vacar+V.ele.ACC.3.M.PL+IMPF+2+PL
 vacava-los	vacar+V.ele.ACC.3.M.PL+IMPF+2+SG
 vacavam-nos	vacar+V.ele.ACC.3.M.PL+IMPF+3+PL
 vacava-os	vacar+V.ele.ACC.3.M.PL+IMPF+3+SG
+vacá-los	vacar+V.ele.ACC.3.M.PL+INF
 vacarmo-los	vacar+V.ele.ACC.3.M.PL+INF+1+PL
 vacá-los	vacar+V.ele.ACC.3.M.PL+INF+1+SG
 vacarde-los	vacar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -173,6 +176,7 @@ vacávei-lo	vacar+V.ele.ACC.3.M.SG+IMPF+2+PL
 vacava-lo	vacar+V.ele.ACC.3.M.SG+IMPF+2+SG
 vacavam-no	vacar+V.ele.ACC.3.M.SG+IMPF+3+PL
 vacava-o	vacar+V.ele.ACC.3.M.SG+IMPF+3+SG
+vacá-lo	vacar+V.ele.ACC.3.M.SG+INF
 vacarmo-lo	vacar+V.ele.ACC.3.M.SG+INF+1+PL
 vacá-lo	vacar+V.ele.ACC.3.M.SG+INF+1+SG
 vacarde-lo	vacar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -553,6 +557,7 @@ vadeávei-las	vadear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vadeava-las	vadear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vadeavam-nas	vadear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vadeava-as	vadear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vadeá-las	vadear+V.ele.ACC.3.F.PL+INF
 vadearmo-las	vadear+V.ele.ACC.3.F.PL+INF+1+PL
 vadeá-las	vadear+V.ele.ACC.3.F.PL+INF+1+SG
 vadearde-las	vadear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -602,6 +607,7 @@ vadeávei-la	vadear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vadeava-la	vadear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vadeavam-na	vadear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vadeava-a	vadear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vadeá-la	vadear+V.ele.ACC.3.F.SG+INF
 vadearmo-la	vadear+V.ele.ACC.3.F.SG+INF+1+PL
 vadeá-la	vadear+V.ele.ACC.3.F.SG+INF+1+SG
 vadearde-la	vadear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -651,6 +657,7 @@ vadeávei-los	vadear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vadeava-los	vadear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vadeavam-nos	vadear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vadeava-os	vadear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vadeá-los	vadear+V.ele.ACC.3.M.PL+INF
 vadearmo-los	vadear+V.ele.ACC.3.M.PL+INF+1+PL
 vadeá-los	vadear+V.ele.ACC.3.M.PL+INF+1+SG
 vadearde-los	vadear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -700,6 +707,7 @@ vadeávei-lo	vadear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vadeava-lo	vadear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vadeavam-no	vadear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vadeava-o	vadear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vadeá-lo	vadear+V.ele.ACC.3.M.SG+INF
 vadearmo-lo	vadear+V.ele.ACC.3.M.SG+INF+1+PL
 vadeá-lo	vadear+V.ele.ACC.3.M.SG+INF+1+SG
 vadearde-lo	vadear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1067,6 +1075,7 @@ vagabundeávei-las	vagabundear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vagabundeava-las	vagabundear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vagabundeavam-nas	vagabundear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vagabundeava-as	vagabundear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vagabundeá-las	vagabundear+V.ele.ACC.3.F.PL+INF
 vagabundearmo-las	vagabundear+V.ele.ACC.3.F.PL+INF+1+PL
 vagabundeá-las	vagabundear+V.ele.ACC.3.F.PL+INF+1+SG
 vagabundearde-las	vagabundear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1116,6 +1125,7 @@ vagabundeávei-la	vagabundear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vagabundeava-la	vagabundear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vagabundeavam-na	vagabundear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vagabundeava-a	vagabundear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vagabundeá-la	vagabundear+V.ele.ACC.3.F.SG+INF
 vagabundearmo-la	vagabundear+V.ele.ACC.3.F.SG+INF+1+PL
 vagabundeá-la	vagabundear+V.ele.ACC.3.F.SG+INF+1+SG
 vagabundearde-la	vagabundear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1165,6 +1175,7 @@ vagabundeávei-los	vagabundear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vagabundeava-los	vagabundear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vagabundeavam-nos	vagabundear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vagabundeava-os	vagabundear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vagabundeá-los	vagabundear+V.ele.ACC.3.M.PL+INF
 vagabundearmo-los	vagabundear+V.ele.ACC.3.M.PL+INF+1+PL
 vagabundeá-los	vagabundear+V.ele.ACC.3.M.PL+INF+1+SG
 vagabundearde-los	vagabundear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1214,6 +1225,7 @@ vagabundeávei-lo	vagabundear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vagabundeava-lo	vagabundear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vagabundeavam-no	vagabundear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vagabundeava-o	vagabundear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vagabundeá-lo	vagabundear+V.ele.ACC.3.M.SG+INF
 vagabundearmo-lo	vagabundear+V.ele.ACC.3.M.SG+INF+1+PL
 vagabundeá-lo	vagabundear+V.ele.ACC.3.M.SG+INF+1+SG
 vagabundearde-lo	vagabundear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1581,6 +1593,7 @@ vagamundeávei-las	vagamundear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vagamundeava-las	vagamundear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vagamundeavam-nas	vagamundear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vagamundeava-as	vagamundear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vagamundeá-las	vagamundear+V.ele.ACC.3.F.PL+INF
 vagamundearmo-las	vagamundear+V.ele.ACC.3.F.PL+INF+1+PL
 vagamundeá-las	vagamundear+V.ele.ACC.3.F.PL+INF+1+SG
 vagamundearde-las	vagamundear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1630,6 +1643,7 @@ vagamundeávei-la	vagamundear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vagamundeava-la	vagamundear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vagamundeavam-na	vagamundear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vagamundeava-a	vagamundear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vagamundeá-la	vagamundear+V.ele.ACC.3.F.SG+INF
 vagamundearmo-la	vagamundear+V.ele.ACC.3.F.SG+INF+1+PL
 vagamundeá-la	vagamundear+V.ele.ACC.3.F.SG+INF+1+SG
 vagamundearde-la	vagamundear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1679,6 +1693,7 @@ vagamundeávei-los	vagamundear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vagamundeava-los	vagamundear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vagamundeavam-nos	vagamundear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vagamundeava-os	vagamundear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vagamundeá-los	vagamundear+V.ele.ACC.3.M.PL+INF
 vagamundearmo-los	vagamundear+V.ele.ACC.3.M.PL+INF+1+PL
 vagamundeá-los	vagamundear+V.ele.ACC.3.M.PL+INF+1+SG
 vagamundearde-los	vagamundear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1728,6 +1743,7 @@ vagamundeávei-lo	vagamundear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vagamundeava-lo	vagamundear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vagamundeavam-no	vagamundear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vagamundeava-o	vagamundear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vagamundeá-lo	vagamundear+V.ele.ACC.3.M.SG+INF
 vagamundearmo-lo	vagamundear+V.ele.ACC.3.M.SG+INF+1+PL
 vagamundeá-lo	vagamundear+V.ele.ACC.3.M.SG+INF+1+SG
 vagamundearde-lo	vagamundear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2098,6 +2114,7 @@ vagíei-las	vagir+V.ele.ACC.3.F.PL+IMPF+2+PL
 vagia-las	vagir+V.ele.ACC.3.F.PL+IMPF+2+SG
 vagiam-nas	vagir+V.ele.ACC.3.F.PL+IMPF+3+PL
 vagia-as	vagir+V.ele.ACC.3.F.PL+IMPF+3+SG
+vagi-las	vagir+V.ele.ACC.3.F.PL+INF
 vagirmo-las	vagir+V.ele.ACC.3.F.PL+INF+1+PL
 vagi-las	vagir+V.ele.ACC.3.F.PL+INF+1+SG
 vagirde-las	vagir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2144,6 +2161,7 @@ vagíei-la	vagir+V.ele.ACC.3.F.SG+IMPF+2+PL
 vagia-la	vagir+V.ele.ACC.3.F.SG+IMPF+2+SG
 vagiam-na	vagir+V.ele.ACC.3.F.SG+IMPF+3+PL
 vagia-a	vagir+V.ele.ACC.3.F.SG+IMPF+3+SG
+vagi-la	vagir+V.ele.ACC.3.F.SG+INF
 vagirmo-la	vagir+V.ele.ACC.3.F.SG+INF+1+PL
 vagi-la	vagir+V.ele.ACC.3.F.SG+INF+1+SG
 vagirde-la	vagir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2190,6 +2208,7 @@ vagíei-los	vagir+V.ele.ACC.3.M.PL+IMPF+2+PL
 vagia-los	vagir+V.ele.ACC.3.M.PL+IMPF+2+SG
 vagiam-nos	vagir+V.ele.ACC.3.M.PL+IMPF+3+PL
 vagia-os	vagir+V.ele.ACC.3.M.PL+IMPF+3+SG
+vagi-los	vagir+V.ele.ACC.3.M.PL+INF
 vagirmo-los	vagir+V.ele.ACC.3.M.PL+INF+1+PL
 vagi-los	vagir+V.ele.ACC.3.M.PL+INF+1+SG
 vagirde-los	vagir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2236,6 +2255,7 @@ vagíei-lo	vagir+V.ele.ACC.3.M.SG+IMPF+2+PL
 vagia-lo	vagir+V.ele.ACC.3.M.SG+IMPF+2+SG
 vagiam-no	vagir+V.ele.ACC.3.M.SG+IMPF+3+PL
 vagia-o	vagir+V.ele.ACC.3.M.SG+IMPF+3+SG
+vagi-lo	vagir+V.ele.ACC.3.M.SG+INF
 vagirmo-lo	vagir+V.ele.ACC.3.M.SG+INF+1+PL
 vagi-lo	vagir+V.ele.ACC.3.M.SG+INF+1+SG
 vagirde-lo	vagir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2579,6 +2599,7 @@ vagueávei-las	vaguear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vagueava-las	vaguear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vagueavam-nas	vaguear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vagueava-as	vaguear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vagueá-las	vaguear+V.ele.ACC.3.F.PL+INF
 vaguearmo-las	vaguear+V.ele.ACC.3.F.PL+INF+1+PL
 vagueá-las	vaguear+V.ele.ACC.3.F.PL+INF+1+SG
 vaguearde-las	vaguear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2628,6 +2649,7 @@ vagueávei-la	vaguear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vagueava-la	vaguear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vagueavam-na	vaguear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vagueava-a	vaguear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vagueá-la	vaguear+V.ele.ACC.3.F.SG+INF
 vaguearmo-la	vaguear+V.ele.ACC.3.F.SG+INF+1+PL
 vagueá-la	vaguear+V.ele.ACC.3.F.SG+INF+1+SG
 vaguearde-la	vaguear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2677,6 +2699,7 @@ vagueávei-los	vaguear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vagueava-los	vaguear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vagueavam-nos	vaguear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vagueava-os	vaguear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vagueá-los	vaguear+V.ele.ACC.3.M.PL+INF
 vaguearmo-los	vaguear+V.ele.ACC.3.M.PL+INF+1+PL
 vagueá-los	vaguear+V.ele.ACC.3.M.PL+INF+1+SG
 vaguearde-los	vaguear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2726,6 +2749,7 @@ vagueávei-lo	vaguear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vagueava-lo	vaguear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vagueavam-no	vaguear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vagueava-o	vaguear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vagueá-lo	vaguear+V.ele.ACC.3.M.SG+INF
 vaguearmo-lo	vaguear+V.ele.ACC.3.M.SG+INF+1+PL
 vagueá-lo	vaguear+V.ele.ACC.3.M.SG+INF+1+SG
 vaguearde-lo	vaguear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3093,6 +3117,7 @@ valenteávei-las	valentear+V.ele.ACC.3.F.PL+IMPF+2+PL
 valenteava-las	valentear+V.ele.ACC.3.F.PL+IMPF+2+SG
 valenteavam-nas	valentear+V.ele.ACC.3.F.PL+IMPF+3+PL
 valenteava-as	valentear+V.ele.ACC.3.F.PL+IMPF+3+SG
+valenteá-las	valentear+V.ele.ACC.3.F.PL+INF
 valentearmo-las	valentear+V.ele.ACC.3.F.PL+INF+1+PL
 valenteá-las	valentear+V.ele.ACC.3.F.PL+INF+1+SG
 valentearde-las	valentear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3142,6 +3167,7 @@ valenteávei-la	valentear+V.ele.ACC.3.F.SG+IMPF+2+PL
 valenteava-la	valentear+V.ele.ACC.3.F.SG+IMPF+2+SG
 valenteavam-na	valentear+V.ele.ACC.3.F.SG+IMPF+3+PL
 valenteava-a	valentear+V.ele.ACC.3.F.SG+IMPF+3+SG
+valenteá-la	valentear+V.ele.ACC.3.F.SG+INF
 valentearmo-la	valentear+V.ele.ACC.3.F.SG+INF+1+PL
 valenteá-la	valentear+V.ele.ACC.3.F.SG+INF+1+SG
 valentearde-la	valentear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3191,6 +3217,7 @@ valenteávei-los	valentear+V.ele.ACC.3.M.PL+IMPF+2+PL
 valenteava-los	valentear+V.ele.ACC.3.M.PL+IMPF+2+SG
 valenteavam-nos	valentear+V.ele.ACC.3.M.PL+IMPF+3+PL
 valenteava-os	valentear+V.ele.ACC.3.M.PL+IMPF+3+SG
+valenteá-los	valentear+V.ele.ACC.3.M.PL+INF
 valentearmo-los	valentear+V.ele.ACC.3.M.PL+INF+1+PL
 valenteá-los	valentear+V.ele.ACC.3.M.PL+INF+1+SG
 valentearde-los	valentear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3240,6 +3267,7 @@ valenteávei-lo	valentear+V.ele.ACC.3.M.SG+IMPF+2+PL
 valenteava-lo	valentear+V.ele.ACC.3.M.SG+IMPF+2+SG
 valenteavam-no	valentear+V.ele.ACC.3.M.SG+IMPF+3+PL
 valenteava-o	valentear+V.ele.ACC.3.M.SG+IMPF+3+SG
+valenteá-lo	valentear+V.ele.ACC.3.M.SG+INF
 valentearmo-lo	valentear+V.ele.ACC.3.M.SG+INF+1+PL
 valenteá-lo	valentear+V.ele.ACC.3.M.SG+INF+1+SG
 valentearde-lo	valentear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4657,10 +4685,6 @@ vanecerdes-vos	vanecer+V.vós.AD.2.PL+SBJF+2+PL
 vaneceres-vos	vanecer+V.vós.AD.2.PL+SBJF+2+SG
 vanecerem-vos	vanecer+V.vós.AD.2.PL+SBJF+3+PL
 vanecer-vos	vanecer+V.vós.AD.2.PL+SBJF+3+SG
-varrê-las	varrer+V.ele.ACC.3.F.PL+INF
-varrê-la	varrer+V.ele.ACC.3.F.SG+INF
-varrê-los	varrer+V.ele.ACC.3.M.PL+INF
-varrê-lo	varrer+V.ele.ACC.3.M.SG+INF
 vasconceá-las-íamos	vasconcear+V.ele.ACC.3.F.PL+COND+1+PL
 vasconceá-las-ia	vasconcear+V.ele.ACC.3.F.PL+COND+1+SG
 vasconceá-las-íeis	vasconcear+V.ele.ACC.3.F.PL+COND+2+PL
@@ -4680,6 +4704,7 @@ vasconceávei-las	vasconcear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vasconceava-las	vasconcear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vasconceavam-nas	vasconcear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vasconceava-as	vasconcear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vasconceá-las	vasconcear+V.ele.ACC.3.F.PL+INF
 vasconcearmo-las	vasconcear+V.ele.ACC.3.F.PL+INF+1+PL
 vasconceá-las	vasconcear+V.ele.ACC.3.F.PL+INF+1+SG
 vasconcearde-las	vasconcear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4729,6 +4754,7 @@ vasconceávei-la	vasconcear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vasconceava-la	vasconcear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vasconceavam-na	vasconcear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vasconceava-a	vasconcear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vasconceá-la	vasconcear+V.ele.ACC.3.F.SG+INF
 vasconcearmo-la	vasconcear+V.ele.ACC.3.F.SG+INF+1+PL
 vasconceá-la	vasconcear+V.ele.ACC.3.F.SG+INF+1+SG
 vasconcearde-la	vasconcear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4778,6 +4804,7 @@ vasconceávei-los	vasconcear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vasconceava-los	vasconcear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vasconceavam-nos	vasconcear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vasconceava-os	vasconcear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vasconceá-los	vasconcear+V.ele.ACC.3.M.PL+INF
 vasconcearmo-los	vasconcear+V.ele.ACC.3.M.PL+INF+1+PL
 vasconceá-los	vasconcear+V.ele.ACC.3.M.PL+INF+1+SG
 vasconcearde-los	vasconcear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4827,6 +4854,7 @@ vasconceávei-lo	vasconcear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vasconceava-lo	vasconcear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vasconceavam-no	vasconcear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vasconceava-o	vasconcear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vasconceá-lo	vasconcear+V.ele.ACC.3.M.SG+INF
 vasconcearmo-lo	vasconcear+V.ele.ACC.3.M.SG+INF+1+PL
 vasconceá-lo	vasconcear+V.ele.ACC.3.M.SG+INF+1+SG
 vasconcearde-lo	vasconcear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5194,6 +5222,7 @@ vasqueávei-las	vasquear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vasqueava-las	vasquear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vasqueavam-nas	vasquear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vasqueava-as	vasquear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vasqueá-las	vasquear+V.ele.ACC.3.F.PL+INF
 vasquearmo-las	vasquear+V.ele.ACC.3.F.PL+INF+1+PL
 vasqueá-las	vasquear+V.ele.ACC.3.F.PL+INF+1+SG
 vasquearde-las	vasquear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5243,6 +5272,7 @@ vasqueávei-la	vasquear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vasqueava-la	vasquear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vasqueavam-na	vasquear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vasqueava-a	vasquear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vasqueá-la	vasquear+V.ele.ACC.3.F.SG+INF
 vasquearmo-la	vasquear+V.ele.ACC.3.F.SG+INF+1+PL
 vasqueá-la	vasquear+V.ele.ACC.3.F.SG+INF+1+SG
 vasquearde-la	vasquear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5292,6 +5322,7 @@ vasqueávei-los	vasquear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vasqueava-los	vasquear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vasqueavam-nos	vasquear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vasqueava-os	vasquear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vasqueá-los	vasquear+V.ele.ACC.3.M.PL+INF
 vasquearmo-los	vasquear+V.ele.ACC.3.M.PL+INF+1+PL
 vasqueá-los	vasquear+V.ele.ACC.3.M.PL+INF+1+SG
 vasquearde-los	vasquear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5341,6 +5372,7 @@ vasqueávei-lo	vasquear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vasqueava-lo	vasquear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vasqueavam-no	vasquear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vasqueava-o	vasquear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vasqueá-lo	vasquear+V.ele.ACC.3.M.SG+INF
 vasquearmo-lo	vasquear+V.ele.ACC.3.M.SG+INF+1+PL
 vasqueá-lo	vasquear+V.ele.ACC.3.M.SG+INF+1+SG
 vasquearde-lo	vasquear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5708,6 +5740,7 @@ veleávei-las	velear+V.ele.ACC.3.F.PL+IMPF+2+PL
 veleava-las	velear+V.ele.ACC.3.F.PL+IMPF+2+SG
 veleavam-nas	velear+V.ele.ACC.3.F.PL+IMPF+3+PL
 veleava-as	velear+V.ele.ACC.3.F.PL+IMPF+3+SG
+veleá-las	velear+V.ele.ACC.3.F.PL+INF
 velearmo-las	velear+V.ele.ACC.3.F.PL+INF+1+PL
 veleá-las	velear+V.ele.ACC.3.F.PL+INF+1+SG
 velearde-las	velear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5757,6 +5790,7 @@ veleávei-la	velear+V.ele.ACC.3.F.SG+IMPF+2+PL
 veleava-la	velear+V.ele.ACC.3.F.SG+IMPF+2+SG
 veleavam-na	velear+V.ele.ACC.3.F.SG+IMPF+3+PL
 veleava-a	velear+V.ele.ACC.3.F.SG+IMPF+3+SG
+veleá-la	velear+V.ele.ACC.3.F.SG+INF
 velearmo-la	velear+V.ele.ACC.3.F.SG+INF+1+PL
 veleá-la	velear+V.ele.ACC.3.F.SG+INF+1+SG
 velearde-la	velear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5806,6 +5840,7 @@ veleávei-los	velear+V.ele.ACC.3.M.PL+IMPF+2+PL
 veleava-los	velear+V.ele.ACC.3.M.PL+IMPF+2+SG
 veleavam-nos	velear+V.ele.ACC.3.M.PL+IMPF+3+PL
 veleava-os	velear+V.ele.ACC.3.M.PL+IMPF+3+SG
+veleá-los	velear+V.ele.ACC.3.M.PL+INF
 velearmo-los	velear+V.ele.ACC.3.M.PL+INF+1+PL
 veleá-los	velear+V.ele.ACC.3.M.PL+INF+1+SG
 velearde-los	velear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5855,6 +5890,7 @@ veleávei-lo	velear+V.ele.ACC.3.M.SG+IMPF+2+PL
 veleava-lo	velear+V.ele.ACC.3.M.SG+IMPF+2+SG
 veleavam-no	velear+V.ele.ACC.3.M.SG+IMPF+3+PL
 veleava-o	velear+V.ele.ACC.3.M.SG+IMPF+3+SG
+veleá-lo	velear+V.ele.ACC.3.M.SG+INF
 velearmo-lo	velear+V.ele.ACC.3.M.SG+INF+1+PL
 veleá-lo	velear+V.ele.ACC.3.M.SG+INF+1+SG
 velearde-lo	velear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6225,6 +6261,7 @@ velhacávei-las	velhacar+V.ele.ACC.3.F.PL+IMPF+2+PL
 velhacava-las	velhacar+V.ele.ACC.3.F.PL+IMPF+2+SG
 velhacavam-nas	velhacar+V.ele.ACC.3.F.PL+IMPF+3+PL
 velhacava-as	velhacar+V.ele.ACC.3.F.PL+IMPF+3+SG
+velhacá-las	velhacar+V.ele.ACC.3.F.PL+INF
 velhacarmo-las	velhacar+V.ele.ACC.3.F.PL+INF+1+PL
 velhacá-las	velhacar+V.ele.ACC.3.F.PL+INF+1+SG
 velhacarde-las	velhacar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6276,6 +6313,7 @@ velhacávei-la	velhacar+V.ele.ACC.3.F.SG+IMPF+2+PL
 velhacava-la	velhacar+V.ele.ACC.3.F.SG+IMPF+2+SG
 velhacavam-na	velhacar+V.ele.ACC.3.F.SG+IMPF+3+PL
 velhacava-a	velhacar+V.ele.ACC.3.F.SG+IMPF+3+SG
+velhacá-la	velhacar+V.ele.ACC.3.F.SG+INF
 velhacarmo-la	velhacar+V.ele.ACC.3.F.SG+INF+1+PL
 velhacá-la	velhacar+V.ele.ACC.3.F.SG+INF+1+SG
 velhacarde-la	velhacar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6327,6 +6365,7 @@ velhacávei-los	velhacar+V.ele.ACC.3.M.PL+IMPF+2+PL
 velhacava-los	velhacar+V.ele.ACC.3.M.PL+IMPF+2+SG
 velhacavam-nos	velhacar+V.ele.ACC.3.M.PL+IMPF+3+PL
 velhacava-os	velhacar+V.ele.ACC.3.M.PL+IMPF+3+SG
+velhacá-los	velhacar+V.ele.ACC.3.M.PL+INF
 velhacarmo-los	velhacar+V.ele.ACC.3.M.PL+INF+1+PL
 velhacá-los	velhacar+V.ele.ACC.3.M.PL+INF+1+SG
 velhacarde-los	velhacar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6378,6 +6417,7 @@ velhacávei-lo	velhacar+V.ele.ACC.3.M.SG+IMPF+2+PL
 velhacava-lo	velhacar+V.ele.ACC.3.M.SG+IMPF+2+SG
 velhacavam-no	velhacar+V.ele.ACC.3.M.SG+IMPF+3+PL
 velhacava-o	velhacar+V.ele.ACC.3.M.SG+IMPF+3+SG
+velhacá-lo	velhacar+V.ele.ACC.3.M.SG+INF
 velhacarmo-lo	velhacar+V.ele.ACC.3.M.SG+INF+1+PL
 velhacá-lo	velhacar+V.ele.ACC.3.M.SG+INF+1+SG
 velhacarde-lo	velhacar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6758,6 +6798,7 @@ velhaqueávei-las	velhaquear+V.ele.ACC.3.F.PL+IMPF+2+PL
 velhaqueava-las	velhaquear+V.ele.ACC.3.F.PL+IMPF+2+SG
 velhaqueavam-nas	velhaquear+V.ele.ACC.3.F.PL+IMPF+3+PL
 velhaqueava-as	velhaquear+V.ele.ACC.3.F.PL+IMPF+3+SG
+velhaqueá-las	velhaquear+V.ele.ACC.3.F.PL+INF
 velhaquearmo-las	velhaquear+V.ele.ACC.3.F.PL+INF+1+PL
 velhaqueá-las	velhaquear+V.ele.ACC.3.F.PL+INF+1+SG
 velhaquearde-las	velhaquear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6807,6 +6848,7 @@ velhaqueávei-la	velhaquear+V.ele.ACC.3.F.SG+IMPF+2+PL
 velhaqueava-la	velhaquear+V.ele.ACC.3.F.SG+IMPF+2+SG
 velhaqueavam-na	velhaquear+V.ele.ACC.3.F.SG+IMPF+3+PL
 velhaqueava-a	velhaquear+V.ele.ACC.3.F.SG+IMPF+3+SG
+velhaqueá-la	velhaquear+V.ele.ACC.3.F.SG+INF
 velhaquearmo-la	velhaquear+V.ele.ACC.3.F.SG+INF+1+PL
 velhaqueá-la	velhaquear+V.ele.ACC.3.F.SG+INF+1+SG
 velhaquearde-la	velhaquear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6856,6 +6898,7 @@ velhaqueávei-los	velhaquear+V.ele.ACC.3.M.PL+IMPF+2+PL
 velhaqueava-los	velhaquear+V.ele.ACC.3.M.PL+IMPF+2+SG
 velhaqueavam-nos	velhaquear+V.ele.ACC.3.M.PL+IMPF+3+PL
 velhaqueava-os	velhaquear+V.ele.ACC.3.M.PL+IMPF+3+SG
+velhaqueá-los	velhaquear+V.ele.ACC.3.M.PL+INF
 velhaquearmo-los	velhaquear+V.ele.ACC.3.M.PL+INF+1+PL
 velhaqueá-los	velhaquear+V.ele.ACC.3.M.PL+INF+1+SG
 velhaquearde-los	velhaquear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6905,6 +6948,7 @@ velhaqueávei-lo	velhaquear+V.ele.ACC.3.M.SG+IMPF+2+PL
 velhaqueava-lo	velhaquear+V.ele.ACC.3.M.SG+IMPF+2+SG
 velhaqueavam-no	velhaquear+V.ele.ACC.3.M.SG+IMPF+3+PL
 velhaqueava-o	velhaquear+V.ele.ACC.3.M.SG+IMPF+3+SG
+velhaqueá-lo	velhaquear+V.ele.ACC.3.M.SG+INF
 velhaquearmo-lo	velhaquear+V.ele.ACC.3.M.SG+INF+1+PL
 velhaqueá-lo	velhaquear+V.ele.ACC.3.M.SG+INF+1+SG
 velhaquearde-lo	velhaquear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -7275,6 +7319,7 @@ velicávei-las	velicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 velicava-las	velicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 velicavam-nas	velicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 velicava-as	velicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+velicá-las	velicar+V.ele.ACC.3.F.PL+INF
 velicarmo-las	velicar+V.ele.ACC.3.F.PL+INF+1+PL
 velicá-las	velicar+V.ele.ACC.3.F.PL+INF+1+SG
 velicarde-las	velicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -7326,6 +7371,7 @@ velicávei-la	velicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 velicava-la	velicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 velicavam-na	velicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 velicava-a	velicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+velicá-la	velicar+V.ele.ACC.3.F.SG+INF
 velicarmo-la	velicar+V.ele.ACC.3.F.SG+INF+1+PL
 velicá-la	velicar+V.ele.ACC.3.F.SG+INF+1+SG
 velicarde-la	velicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7377,6 +7423,7 @@ velicávei-los	velicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 velicava-los	velicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 velicavam-nos	velicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 velicava-os	velicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+velicá-los	velicar+V.ele.ACC.3.M.PL+INF
 velicarmo-los	velicar+V.ele.ACC.3.M.PL+INF+1+PL
 velicá-los	velicar+V.ele.ACC.3.M.PL+INF+1+SG
 velicarde-los	velicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -7428,6 +7475,7 @@ velicávei-lo	velicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 velicava-lo	velicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 velicavam-no	velicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 velicava-o	velicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+velicá-lo	velicar+V.ele.ACC.3.M.SG+INF
 velicarmo-lo	velicar+V.ele.ACC.3.M.SG+INF+1+PL
 velicá-lo	velicar+V.ele.ACC.3.M.SG+INF+1+SG
 velicarde-lo	velicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8328,10 +8376,6 @@ vencerdes-vos	vencer+V.vós.AD.2.PL+SBJF+2+PL
 venceres-vos	vencer+V.vós.AD.2.PL+SBJF+2+SG
 vencerem-vos	vencer+V.vós.AD.2.PL+SBJF+3+PL
 vencer-vos	vencer+V.vós.AD.2.PL+SBJF+3+SG
-vendê-las	vender+V.ele.ACC.3.F.PL+INF
-vendê-la	vender+V.ele.ACC.3.F.SG+INF
-vendê-los	vender+V.ele.ACC.3.M.PL+INF
-vendê-lo	vender+V.ele.ACC.3.M.SG+INF
 veneficá-las-íamos	veneficar+V.ele.ACC.3.F.PL+COND+1+PL
 veneficá-las-ia	veneficar+V.ele.ACC.3.F.PL+COND+1+SG
 veneficá-las-íeis	veneficar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -8354,6 +8398,7 @@ veneficávei-las	veneficar+V.ele.ACC.3.F.PL+IMPF+2+PL
 veneficava-las	veneficar+V.ele.ACC.3.F.PL+IMPF+2+SG
 veneficavam-nas	veneficar+V.ele.ACC.3.F.PL+IMPF+3+PL
 veneficava-as	veneficar+V.ele.ACC.3.F.PL+IMPF+3+SG
+veneficá-las	veneficar+V.ele.ACC.3.F.PL+INF
 veneficarmo-las	veneficar+V.ele.ACC.3.F.PL+INF+1+PL
 veneficá-las	veneficar+V.ele.ACC.3.F.PL+INF+1+SG
 veneficarde-las	veneficar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8405,6 +8450,7 @@ veneficávei-la	veneficar+V.ele.ACC.3.F.SG+IMPF+2+PL
 veneficava-la	veneficar+V.ele.ACC.3.F.SG+IMPF+2+SG
 veneficavam-na	veneficar+V.ele.ACC.3.F.SG+IMPF+3+PL
 veneficava-a	veneficar+V.ele.ACC.3.F.SG+IMPF+3+SG
+veneficá-la	veneficar+V.ele.ACC.3.F.SG+INF
 veneficarmo-la	veneficar+V.ele.ACC.3.F.SG+INF+1+PL
 veneficá-la	veneficar+V.ele.ACC.3.F.SG+INF+1+SG
 veneficarde-la	veneficar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -8456,6 +8502,7 @@ veneficávei-los	veneficar+V.ele.ACC.3.M.PL+IMPF+2+PL
 veneficava-los	veneficar+V.ele.ACC.3.M.PL+IMPF+2+SG
 veneficavam-nos	veneficar+V.ele.ACC.3.M.PL+IMPF+3+PL
 veneficava-os	veneficar+V.ele.ACC.3.M.PL+IMPF+3+SG
+veneficá-los	veneficar+V.ele.ACC.3.M.PL+INF
 veneficarmo-los	veneficar+V.ele.ACC.3.M.PL+INF+1+PL
 veneficá-los	veneficar+V.ele.ACC.3.M.PL+INF+1+SG
 veneficarde-los	veneficar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8507,6 +8554,7 @@ veneficávei-lo	veneficar+V.ele.ACC.3.M.SG+IMPF+2+PL
 veneficava-lo	veneficar+V.ele.ACC.3.M.SG+IMPF+2+SG
 veneficavam-no	veneficar+V.ele.ACC.3.M.SG+IMPF+3+PL
 veneficava-o	veneficar+V.ele.ACC.3.M.SG+IMPF+3+SG
+veneficá-lo	veneficar+V.ele.ACC.3.M.SG+INF
 veneficarmo-lo	veneficar+V.ele.ACC.3.M.SG+INF+1+PL
 veneficá-lo	veneficar+V.ele.ACC.3.M.SG+INF+1+SG
 veneficarde-lo	veneficar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8887,6 +8935,7 @@ ventaneávei-las	ventanear+V.ele.ACC.3.F.PL+IMPF+2+PL
 ventaneava-las	ventanear+V.ele.ACC.3.F.PL+IMPF+2+SG
 ventaneavam-nas	ventanear+V.ele.ACC.3.F.PL+IMPF+3+PL
 ventaneava-as	ventanear+V.ele.ACC.3.F.PL+IMPF+3+SG
+ventaneá-las	ventanear+V.ele.ACC.3.F.PL+INF
 ventanearmo-las	ventanear+V.ele.ACC.3.F.PL+INF+1+PL
 ventaneá-las	ventanear+V.ele.ACC.3.F.PL+INF+1+SG
 ventanearde-las	ventanear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8936,6 +8985,7 @@ ventaneávei-la	ventanear+V.ele.ACC.3.F.SG+IMPF+2+PL
 ventaneava-la	ventanear+V.ele.ACC.3.F.SG+IMPF+2+SG
 ventaneavam-na	ventanear+V.ele.ACC.3.F.SG+IMPF+3+PL
 ventaneava-a	ventanear+V.ele.ACC.3.F.SG+IMPF+3+SG
+ventaneá-la	ventanear+V.ele.ACC.3.F.SG+INF
 ventanearmo-la	ventanear+V.ele.ACC.3.F.SG+INF+1+PL
 ventaneá-la	ventanear+V.ele.ACC.3.F.SG+INF+1+SG
 ventanearde-la	ventanear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -8985,6 +9035,7 @@ ventaneávei-los	ventanear+V.ele.ACC.3.M.PL+IMPF+2+PL
 ventaneava-los	ventanear+V.ele.ACC.3.M.PL+IMPF+2+SG
 ventaneavam-nos	ventanear+V.ele.ACC.3.M.PL+IMPF+3+PL
 ventaneava-os	ventanear+V.ele.ACC.3.M.PL+IMPF+3+SG
+ventaneá-los	ventanear+V.ele.ACC.3.M.PL+INF
 ventanearmo-los	ventanear+V.ele.ACC.3.M.PL+INF+1+PL
 ventaneá-los	ventanear+V.ele.ACC.3.M.PL+INF+1+SG
 ventanearde-los	ventanear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -9034,6 +9085,7 @@ ventaneávei-lo	ventanear+V.ele.ACC.3.M.SG+IMPF+2+PL
 ventaneava-lo	ventanear+V.ele.ACC.3.M.SG+IMPF+2+SG
 ventaneavam-no	ventanear+V.ele.ACC.3.M.SG+IMPF+3+PL
 ventaneava-o	ventanear+V.ele.ACC.3.M.SG+IMPF+3+SG
+ventaneá-lo	ventanear+V.ele.ACC.3.M.SG+INF
 ventanearmo-lo	ventanear+V.ele.ACC.3.M.SG+INF+1+PL
 ventaneá-lo	ventanear+V.ele.ACC.3.M.SG+INF+1+SG
 ventanearde-lo	ventanear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -9888,6 +9940,7 @@ veraneávei-las	veranear+V.ele.ACC.3.F.PL+IMPF+2+PL
 veraneava-las	veranear+V.ele.ACC.3.F.PL+IMPF+2+SG
 veraneavam-nas	veranear+V.ele.ACC.3.F.PL+IMPF+3+PL
 veraneava-as	veranear+V.ele.ACC.3.F.PL+IMPF+3+SG
+veraneá-las	veranear+V.ele.ACC.3.F.PL+INF
 veranearmo-las	veranear+V.ele.ACC.3.F.PL+INF+1+PL
 veraneá-las	veranear+V.ele.ACC.3.F.PL+INF+1+SG
 veranearde-las	veranear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -9937,6 +9990,7 @@ veraneávei-la	veranear+V.ele.ACC.3.F.SG+IMPF+2+PL
 veraneava-la	veranear+V.ele.ACC.3.F.SG+IMPF+2+SG
 veraneavam-na	veranear+V.ele.ACC.3.F.SG+IMPF+3+PL
 veraneava-a	veranear+V.ele.ACC.3.F.SG+IMPF+3+SG
+veraneá-la	veranear+V.ele.ACC.3.F.SG+INF
 veranearmo-la	veranear+V.ele.ACC.3.F.SG+INF+1+PL
 veraneá-la	veranear+V.ele.ACC.3.F.SG+INF+1+SG
 veranearde-la	veranear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -9986,6 +10040,7 @@ veraneávei-los	veranear+V.ele.ACC.3.M.PL+IMPF+2+PL
 veraneava-los	veranear+V.ele.ACC.3.M.PL+IMPF+2+SG
 veraneavam-nos	veranear+V.ele.ACC.3.M.PL+IMPF+3+PL
 veraneava-os	veranear+V.ele.ACC.3.M.PL+IMPF+3+SG
+veraneá-los	veranear+V.ele.ACC.3.M.PL+INF
 veranearmo-los	veranear+V.ele.ACC.3.M.PL+INF+1+PL
 veraneá-los	veranear+V.ele.ACC.3.M.PL+INF+1+SG
 veranearde-los	veranear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -10035,6 +10090,7 @@ veraneávei-lo	veranear+V.ele.ACC.3.M.SG+IMPF+2+PL
 veraneava-lo	veranear+V.ele.ACC.3.M.SG+IMPF+2+SG
 veraneavam-no	veranear+V.ele.ACC.3.M.SG+IMPF+3+PL
 veraneava-o	veranear+V.ele.ACC.3.M.SG+IMPF+3+SG
+veraneá-lo	veranear+V.ele.ACC.3.M.SG+INF
 veranearmo-lo	veranear+V.ele.ACC.3.M.SG+INF+1+PL
 veraneá-lo	veranear+V.ele.ACC.3.M.SG+INF+1+SG
 veranearde-lo	veranear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -10405,6 +10461,7 @@ verdascávei-las	verdascar+V.ele.ACC.3.F.PL+IMPF+2+PL
 verdascava-las	verdascar+V.ele.ACC.3.F.PL+IMPF+2+SG
 verdascavam-nas	verdascar+V.ele.ACC.3.F.PL+IMPF+3+PL
 verdascava-as	verdascar+V.ele.ACC.3.F.PL+IMPF+3+SG
+verdascá-las	verdascar+V.ele.ACC.3.F.PL+INF
 verdascarmo-las	verdascar+V.ele.ACC.3.F.PL+INF+1+PL
 verdascá-las	verdascar+V.ele.ACC.3.F.PL+INF+1+SG
 verdascarde-las	verdascar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10456,6 +10513,7 @@ verdascávei-la	verdascar+V.ele.ACC.3.F.SG+IMPF+2+PL
 verdascava-la	verdascar+V.ele.ACC.3.F.SG+IMPF+2+SG
 verdascavam-na	verdascar+V.ele.ACC.3.F.SG+IMPF+3+PL
 verdascava-a	verdascar+V.ele.ACC.3.F.SG+IMPF+3+SG
+verdascá-la	verdascar+V.ele.ACC.3.F.SG+INF
 verdascarmo-la	verdascar+V.ele.ACC.3.F.SG+INF+1+PL
 verdascá-la	verdascar+V.ele.ACC.3.F.SG+INF+1+SG
 verdascarde-la	verdascar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -10507,6 +10565,7 @@ verdascávei-los	verdascar+V.ele.ACC.3.M.PL+IMPF+2+PL
 verdascava-los	verdascar+V.ele.ACC.3.M.PL+IMPF+2+SG
 verdascavam-nos	verdascar+V.ele.ACC.3.M.PL+IMPF+3+PL
 verdascava-os	verdascar+V.ele.ACC.3.M.PL+IMPF+3+SG
+verdascá-los	verdascar+V.ele.ACC.3.M.PL+INF
 verdascarmo-los	verdascar+V.ele.ACC.3.M.PL+INF+1+PL
 verdascá-los	verdascar+V.ele.ACC.3.M.PL+INF+1+SG
 verdascarde-los	verdascar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -10558,6 +10617,7 @@ verdascávei-lo	verdascar+V.ele.ACC.3.M.SG+IMPF+2+PL
 verdascava-lo	verdascar+V.ele.ACC.3.M.SG+IMPF+2+SG
 verdascavam-no	verdascar+V.ele.ACC.3.M.SG+IMPF+3+PL
 verdascava-o	verdascar+V.ele.ACC.3.M.SG+IMPF+3+SG
+verdascá-lo	verdascar+V.ele.ACC.3.M.SG+INF
 verdascarmo-lo	verdascar+V.ele.ACC.3.M.SG+INF+1+PL
 verdascá-lo	verdascar+V.ele.ACC.3.M.SG+INF+1+SG
 verdascarde-lo	verdascar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -10938,6 +10998,7 @@ verdeávei-las	verdear+V.ele.ACC.3.F.PL+IMPF+2+PL
 verdeava-las	verdear+V.ele.ACC.3.F.PL+IMPF+2+SG
 verdeavam-nas	verdear+V.ele.ACC.3.F.PL+IMPF+3+PL
 verdeava-as	verdear+V.ele.ACC.3.F.PL+IMPF+3+SG
+verdeá-las	verdear+V.ele.ACC.3.F.PL+INF
 verdearmo-las	verdear+V.ele.ACC.3.F.PL+INF+1+PL
 verdeá-las	verdear+V.ele.ACC.3.F.PL+INF+1+SG
 verdearde-las	verdear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10987,6 +11048,7 @@ verdeávei-la	verdear+V.ele.ACC.3.F.SG+IMPF+2+PL
 verdeava-la	verdear+V.ele.ACC.3.F.SG+IMPF+2+SG
 verdeavam-na	verdear+V.ele.ACC.3.F.SG+IMPF+3+PL
 verdeava-a	verdear+V.ele.ACC.3.F.SG+IMPF+3+SG
+verdeá-la	verdear+V.ele.ACC.3.F.SG+INF
 verdearmo-la	verdear+V.ele.ACC.3.F.SG+INF+1+PL
 verdeá-la	verdear+V.ele.ACC.3.F.SG+INF+1+SG
 verdearde-la	verdear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -11036,6 +11098,7 @@ verdeávei-los	verdear+V.ele.ACC.3.M.PL+IMPF+2+PL
 verdeava-los	verdear+V.ele.ACC.3.M.PL+IMPF+2+SG
 verdeavam-nos	verdear+V.ele.ACC.3.M.PL+IMPF+3+PL
 verdeava-os	verdear+V.ele.ACC.3.M.PL+IMPF+3+SG
+verdeá-los	verdear+V.ele.ACC.3.M.PL+INF
 verdearmo-los	verdear+V.ele.ACC.3.M.PL+INF+1+PL
 verdeá-los	verdear+V.ele.ACC.3.M.PL+INF+1+SG
 verdearde-los	verdear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -11085,6 +11148,7 @@ verdeávei-lo	verdear+V.ele.ACC.3.M.SG+IMPF+2+PL
 verdeava-lo	verdear+V.ele.ACC.3.M.SG+IMPF+2+SG
 verdeavam-no	verdear+V.ele.ACC.3.M.SG+IMPF+3+PL
 verdeava-o	verdear+V.ele.ACC.3.M.SG+IMPF+3+SG
+verdeá-lo	verdear+V.ele.ACC.3.M.SG+INF
 verdearmo-lo	verdear+V.ele.ACC.3.M.SG+INF+1+PL
 verdeá-lo	verdear+V.ele.ACC.3.M.SG+INF+1+SG
 verdearde-lo	verdear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -11991,6 +12055,7 @@ vereávei-las	verear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vereava-las	verear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vereavam-nas	verear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vereava-as	verear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vereá-las	verear+V.ele.ACC.3.F.PL+INF
 verearmo-las	verear+V.ele.ACC.3.F.PL+INF+1+PL
 vereá-las	verear+V.ele.ACC.3.F.PL+INF+1+SG
 verearde-las	verear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12040,6 +12105,7 @@ vereávei-la	verear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vereava-la	verear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vereavam-na	verear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vereava-a	verear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vereá-la	verear+V.ele.ACC.3.F.SG+INF
 verearmo-la	verear+V.ele.ACC.3.F.SG+INF+1+PL
 vereá-la	verear+V.ele.ACC.3.F.SG+INF+1+SG
 verearde-la	verear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12089,6 +12155,7 @@ vereávei-los	verear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vereava-los	verear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vereavam-nos	verear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vereava-os	verear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vereá-los	verear+V.ele.ACC.3.M.PL+INF
 verearmo-los	verear+V.ele.ACC.3.M.PL+INF+1+PL
 vereá-los	verear+V.ele.ACC.3.M.PL+INF+1+SG
 verearde-los	verear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12138,6 +12205,7 @@ vereávei-lo	verear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vereava-lo	verear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vereavam-no	verear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vereava-o	verear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vereá-lo	verear+V.ele.ACC.3.M.SG+INF
 verearmo-lo	verear+V.ele.ACC.3.M.SG+INF+1+PL
 vereá-lo	verear+V.ele.ACC.3.M.SG+INF+1+SG
 verearde-lo	verear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -12505,6 +12573,7 @@ vergonteávei-las	vergontear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vergonteava-las	vergontear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vergonteavam-nas	vergontear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vergonteava-as	vergontear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vergonteá-las	vergontear+V.ele.ACC.3.F.PL+INF
 vergontearmo-las	vergontear+V.ele.ACC.3.F.PL+INF+1+PL
 vergonteá-las	vergontear+V.ele.ACC.3.F.PL+INF+1+SG
 vergontearde-las	vergontear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12554,6 +12623,7 @@ vergonteávei-la	vergontear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vergonteava-la	vergontear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vergonteavam-na	vergontear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vergonteava-a	vergontear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vergonteá-la	vergontear+V.ele.ACC.3.F.SG+INF
 vergontearmo-la	vergontear+V.ele.ACC.3.F.SG+INF+1+PL
 vergonteá-la	vergontear+V.ele.ACC.3.F.SG+INF+1+SG
 vergontearde-la	vergontear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12603,6 +12673,7 @@ vergonteávei-los	vergontear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vergonteava-los	vergontear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vergonteavam-nos	vergontear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vergonteava-os	vergontear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vergonteá-los	vergontear+V.ele.ACC.3.M.PL+INF
 vergontearmo-los	vergontear+V.ele.ACC.3.M.PL+INF+1+PL
 vergonteá-los	vergontear+V.ele.ACC.3.M.PL+INF+1+SG
 vergontearde-los	vergontear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12652,6 +12723,7 @@ vergonteávei-lo	vergontear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vergonteava-lo	vergontear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vergonteavam-no	vergontear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vergonteava-o	vergontear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vergonteá-lo	vergontear+V.ele.ACC.3.M.SG+INF
 vergontearmo-lo	vergontear+V.ele.ACC.3.M.SG+INF+1+PL
 vergonteá-lo	vergontear+V.ele.ACC.3.M.SG+INF+1+SG
 vergontearde-lo	vergontear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13022,6 +13094,7 @@ verificávei-las	verificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 verificava-las	verificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 verificavam-nas	verificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 verificava-as	verificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+verificá-las	verificar+V.ele.ACC.3.F.PL+INF
 verificarmo-las	verificar+V.ele.ACC.3.F.PL+INF+1+PL
 verificá-las	verificar+V.ele.ACC.3.F.PL+INF+1+SG
 verificarde-las	verificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -13073,6 +13146,7 @@ verificávei-la	verificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 verificava-la	verificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 verificavam-na	verificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 verificava-a	verificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+verificá-la	verificar+V.ele.ACC.3.F.SG+INF
 verificarmo-la	verificar+V.ele.ACC.3.F.SG+INF+1+PL
 verificá-la	verificar+V.ele.ACC.3.F.SG+INF+1+SG
 verificarde-la	verificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -13124,6 +13198,7 @@ verificávei-los	verificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 verificava-los	verificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 verificavam-nos	verificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 verificava-os	verificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+verificá-los	verificar+V.ele.ACC.3.M.PL+INF
 verificarmo-los	verificar+V.ele.ACC.3.M.PL+INF+1+PL
 verificá-los	verificar+V.ele.ACC.3.M.PL+INF+1+SG
 verificarde-los	verificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -13175,6 +13250,7 @@ verificávei-lo	verificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 verificava-lo	verificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 verificavam-no	verificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 verificava-o	verificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+verificá-lo	verificar+V.ele.ACC.3.M.SG+INF
 verificarmo-lo	verificar+V.ele.ACC.3.M.SG+INF+1+PL
 verificá-lo	verificar+V.ele.ACC.3.M.SG+INF+1+SG
 verificarde-lo	verificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13555,6 +13631,7 @@ vermelheávei-las	vermelhear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vermelheava-las	vermelhear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vermelheavam-nas	vermelhear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vermelheava-as	vermelhear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vermelheá-las	vermelhear+V.ele.ACC.3.F.PL+INF
 vermelhearmo-las	vermelhear+V.ele.ACC.3.F.PL+INF+1+PL
 vermelheá-las	vermelhear+V.ele.ACC.3.F.PL+INF+1+SG
 vermelhearde-las	vermelhear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -13604,6 +13681,7 @@ vermelheávei-la	vermelhear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vermelheava-la	vermelhear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vermelheavam-na	vermelhear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vermelheava-a	vermelhear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vermelheá-la	vermelhear+V.ele.ACC.3.F.SG+INF
 vermelhearmo-la	vermelhear+V.ele.ACC.3.F.SG+INF+1+PL
 vermelheá-la	vermelhear+V.ele.ACC.3.F.SG+INF+1+SG
 vermelhearde-la	vermelhear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -13653,6 +13731,7 @@ vermelheávei-los	vermelhear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vermelheava-los	vermelhear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vermelheavam-nos	vermelhear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vermelheava-os	vermelhear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vermelheá-los	vermelhear+V.ele.ACC.3.M.PL+INF
 vermelhearmo-los	vermelhear+V.ele.ACC.3.M.PL+INF+1+PL
 vermelheá-los	vermelhear+V.ele.ACC.3.M.PL+INF+1+SG
 vermelhearde-los	vermelhear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -13702,6 +13781,7 @@ vermelheávei-lo	vermelhear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vermelheava-lo	vermelhear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vermelheavam-no	vermelhear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vermelheava-o	vermelhear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vermelheá-lo	vermelhear+V.ele.ACC.3.M.SG+INF
 vermelhearmo-lo	vermelhear+V.ele.ACC.3.M.SG+INF+1+PL
 vermelheá-lo	vermelhear+V.ele.ACC.3.M.SG+INF+1+SG
 vermelhearde-lo	vermelhear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -14611,6 +14691,7 @@ versificávei-las	versificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 versificava-las	versificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 versificavam-nas	versificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 versificava-as	versificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+versificá-las	versificar+V.ele.ACC.3.F.PL+INF
 versificarmo-las	versificar+V.ele.ACC.3.F.PL+INF+1+PL
 versificá-las	versificar+V.ele.ACC.3.F.PL+INF+1+SG
 versificarde-las	versificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -14662,6 +14743,7 @@ versificávei-la	versificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 versificava-la	versificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 versificavam-na	versificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 versificava-a	versificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+versificá-la	versificar+V.ele.ACC.3.F.SG+INF
 versificarmo-la	versificar+V.ele.ACC.3.F.SG+INF+1+PL
 versificá-la	versificar+V.ele.ACC.3.F.SG+INF+1+SG
 versificarde-la	versificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -14713,6 +14795,7 @@ versificávei-los	versificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 versificava-los	versificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 versificavam-nos	versificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 versificava-os	versificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+versificá-los	versificar+V.ele.ACC.3.M.PL+INF
 versificarmo-los	versificar+V.ele.ACC.3.M.PL+INF+1+PL
 versificá-los	versificar+V.ele.ACC.3.M.PL+INF+1+SG
 versificarde-los	versificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -14764,6 +14847,7 @@ versificávei-lo	versificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 versificava-lo	versificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 versificavam-no	versificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 versificava-o	versificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+versificá-lo	versificar+V.ele.ACC.3.M.SG+INF
 versificarmo-lo	versificar+V.ele.ACC.3.M.SG+INF+1+PL
 versificá-lo	versificar+V.ele.ACC.3.M.SG+INF+1+SG
 versificarde-lo	versificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -15125,10 +15209,6 @@ versificardes-vos	versificar+V.vós.AD.2.PL+SBJF+2+PL
 versificares-vos	versificar+V.vós.AD.2.PL+SBJF+2+SG
 versificarem-vos	versificar+V.vós.AD.2.PL+SBJF+3+PL
 versificar-vos	versificar+V.vós.AD.2.PL+SBJF+3+SG
-vertê-las	verter+V.ele.ACC.3.F.PL+INF
-vertê-la	verter+V.ele.ACC.3.F.SG+INF
-vertê-los	verter+V.ele.ACC.3.M.PL+INF
-vertê-lo	verter+V.ele.ACC.3.M.SG+INF
 vesgueá-las-íamos	vesguear+V.ele.ACC.3.F.PL+COND+1+PL
 vesgueá-las-ia	vesguear+V.ele.ACC.3.F.PL+COND+1+SG
 vesgueá-las-íeis	vesguear+V.ele.ACC.3.F.PL+COND+2+PL
@@ -15148,6 +15228,7 @@ vesgueávei-las	vesguear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vesgueava-las	vesguear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vesgueavam-nas	vesguear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vesgueava-as	vesguear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vesgueá-las	vesguear+V.ele.ACC.3.F.PL+INF
 vesguearmo-las	vesguear+V.ele.ACC.3.F.PL+INF+1+PL
 vesgueá-las	vesguear+V.ele.ACC.3.F.PL+INF+1+SG
 vesguearde-las	vesguear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -15197,6 +15278,7 @@ vesgueávei-la	vesguear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vesgueava-la	vesguear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vesgueavam-na	vesguear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vesgueava-a	vesguear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vesgueá-la	vesguear+V.ele.ACC.3.F.SG+INF
 vesguearmo-la	vesguear+V.ele.ACC.3.F.SG+INF+1+PL
 vesgueá-la	vesguear+V.ele.ACC.3.F.SG+INF+1+SG
 vesguearde-la	vesguear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -15246,6 +15328,7 @@ vesgueávei-los	vesguear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vesgueava-los	vesguear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vesgueavam-nos	vesguear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vesgueava-os	vesguear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vesgueá-los	vesguear+V.ele.ACC.3.M.PL+INF
 vesguearmo-los	vesguear+V.ele.ACC.3.M.PL+INF+1+PL
 vesgueá-los	vesguear+V.ele.ACC.3.M.PL+INF+1+SG
 vesguearde-los	vesguear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -15295,6 +15378,7 @@ vesgueávei-lo	vesguear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vesgueava-lo	vesguear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vesgueavam-no	vesguear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vesgueava-o	vesguear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vesgueá-lo	vesguear+V.ele.ACC.3.M.SG+INF
 vesguearmo-lo	vesguear+V.ele.ACC.3.M.SG+INF+1+PL
 vesgueá-lo	vesguear+V.ele.ACC.3.M.SG+INF+1+SG
 vesguearde-lo	vesguear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -15665,6 +15749,7 @@ vesicávei-las	vesicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 vesicava-las	vesicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 vesicavam-nas	vesicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 vesicava-as	vesicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+vesicá-las	vesicar+V.ele.ACC.3.F.PL+INF
 vesicarmo-las	vesicar+V.ele.ACC.3.F.PL+INF+1+PL
 vesicá-las	vesicar+V.ele.ACC.3.F.PL+INF+1+SG
 vesicarde-las	vesicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -15716,6 +15801,7 @@ vesicávei-la	vesicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 vesicava-la	vesicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 vesicavam-na	vesicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 vesicava-a	vesicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+vesicá-la	vesicar+V.ele.ACC.3.F.SG+INF
 vesicarmo-la	vesicar+V.ele.ACC.3.F.SG+INF+1+PL
 vesicá-la	vesicar+V.ele.ACC.3.F.SG+INF+1+SG
 vesicarde-la	vesicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -15767,6 +15853,7 @@ vesicávei-los	vesicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 vesicava-los	vesicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 vesicavam-nos	vesicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 vesicava-os	vesicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+vesicá-los	vesicar+V.ele.ACC.3.M.PL+INF
 vesicarmo-los	vesicar+V.ele.ACC.3.M.PL+INF+1+PL
 vesicá-los	vesicar+V.ele.ACC.3.M.PL+INF+1+SG
 vesicarde-los	vesicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -15818,6 +15905,7 @@ vesicávei-lo	vesicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 vesicava-lo	vesicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 vesicavam-no	vesicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 vesicava-o	vesicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+vesicá-lo	vesicar+V.ele.ACC.3.M.SG+INF
 vesicarmo-lo	vesicar+V.ele.ACC.3.M.SG+INF+1+PL
 vesicá-lo	vesicar+V.ele.ACC.3.M.SG+INF+1+SG
 vesicarde-lo	vesicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -16201,6 +16289,7 @@ vestíei-las	vestir+V.ele.ACC.3.F.PL+IMPF+2+PL
 vestia-las	vestir+V.ele.ACC.3.F.PL+IMPF+2+SG
 vestiam-nas	vestir+V.ele.ACC.3.F.PL+IMPF+3+PL
 vestia-as	vestir+V.ele.ACC.3.F.PL+IMPF+3+SG
+vesti-las	vestir+V.ele.ACC.3.F.PL+INF
 vestirmo-las	vestir+V.ele.ACC.3.F.PL+INF+1+PL
 vesti-las	vestir+V.ele.ACC.3.F.PL+INF+1+SG
 vestirde-las	vestir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -16247,6 +16336,7 @@ vestíei-la	vestir+V.ele.ACC.3.F.SG+IMPF+2+PL
 vestia-la	vestir+V.ele.ACC.3.F.SG+IMPF+2+SG
 vestiam-na	vestir+V.ele.ACC.3.F.SG+IMPF+3+PL
 vestia-a	vestir+V.ele.ACC.3.F.SG+IMPF+3+SG
+vesti-la	vestir+V.ele.ACC.3.F.SG+INF
 vestirmo-la	vestir+V.ele.ACC.3.F.SG+INF+1+PL
 vesti-la	vestir+V.ele.ACC.3.F.SG+INF+1+SG
 vestirde-la	vestir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -16293,6 +16383,7 @@ vestíei-los	vestir+V.ele.ACC.3.M.PL+IMPF+2+PL
 vestia-los	vestir+V.ele.ACC.3.M.PL+IMPF+2+SG
 vestiam-nos	vestir+V.ele.ACC.3.M.PL+IMPF+3+PL
 vestia-os	vestir+V.ele.ACC.3.M.PL+IMPF+3+SG
+vesti-los	vestir+V.ele.ACC.3.M.PL+INF
 vestirmo-los	vestir+V.ele.ACC.3.M.PL+INF+1+PL
 vesti-los	vestir+V.ele.ACC.3.M.PL+INF+1+SG
 vestirde-los	vestir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -16339,6 +16430,7 @@ vestíei-lo	vestir+V.ele.ACC.3.M.SG+IMPF+2+PL
 vestia-lo	vestir+V.ele.ACC.3.M.SG+IMPF+2+SG
 vestiam-no	vestir+V.ele.ACC.3.M.SG+IMPF+3+PL
 vestia-o	vestir+V.ele.ACC.3.M.SG+IMPF+3+SG
+vesti-lo	vestir+V.ele.ACC.3.M.SG+INF
 vestirmo-lo	vestir+V.ele.ACC.3.M.SG+INF+1+PL
 vesti-lo	vestir+V.ele.ACC.3.M.SG+INF+1+SG
 vestirde-lo	vestir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -16682,6 +16774,7 @@ viageávei-las	viagear+V.ele.ACC.3.F.PL+IMPF+2+PL
 viageava-las	viagear+V.ele.ACC.3.F.PL+IMPF+2+SG
 viageavam-nas	viagear+V.ele.ACC.3.F.PL+IMPF+3+PL
 viageava-as	viagear+V.ele.ACC.3.F.PL+IMPF+3+SG
+viageá-las	viagear+V.ele.ACC.3.F.PL+INF
 viagearmo-las	viagear+V.ele.ACC.3.F.PL+INF+1+PL
 viageá-las	viagear+V.ele.ACC.3.F.PL+INF+1+SG
 viagearde-las	viagear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -16731,6 +16824,7 @@ viageávei-la	viagear+V.ele.ACC.3.F.SG+IMPF+2+PL
 viageava-la	viagear+V.ele.ACC.3.F.SG+IMPF+2+SG
 viageavam-na	viagear+V.ele.ACC.3.F.SG+IMPF+3+PL
 viageava-a	viagear+V.ele.ACC.3.F.SG+IMPF+3+SG
+viageá-la	viagear+V.ele.ACC.3.F.SG+INF
 viagearmo-la	viagear+V.ele.ACC.3.F.SG+INF+1+PL
 viageá-la	viagear+V.ele.ACC.3.F.SG+INF+1+SG
 viagearde-la	viagear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -16780,6 +16874,7 @@ viageávei-los	viagear+V.ele.ACC.3.M.PL+IMPF+2+PL
 viageava-los	viagear+V.ele.ACC.3.M.PL+IMPF+2+SG
 viageavam-nos	viagear+V.ele.ACC.3.M.PL+IMPF+3+PL
 viageava-os	viagear+V.ele.ACC.3.M.PL+IMPF+3+SG
+viageá-los	viagear+V.ele.ACC.3.M.PL+INF
 viagearmo-los	viagear+V.ele.ACC.3.M.PL+INF+1+PL
 viageá-los	viagear+V.ele.ACC.3.M.PL+INF+1+SG
 viagearde-los	viagear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -16829,6 +16924,7 @@ viageávei-lo	viagear+V.ele.ACC.3.M.SG+IMPF+2+PL
 viageava-lo	viagear+V.ele.ACC.3.M.SG+IMPF+2+SG
 viageavam-no	viagear+V.ele.ACC.3.M.SG+IMPF+3+PL
 viageava-o	viagear+V.ele.ACC.3.M.SG+IMPF+3+SG
+viageá-lo	viagear+V.ele.ACC.3.M.SG+INF
 viagearmo-lo	viagear+V.ele.ACC.3.M.SG+INF+1+PL
 viageá-lo	viagear+V.ele.ACC.3.M.SG+INF+1+SG
 viagearde-lo	viagear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -17748,6 +17844,7 @@ vilificávei-las	vilificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 vilificava-las	vilificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 vilificavam-nas	vilificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 vilificava-as	vilificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+vilificá-las	vilificar+V.ele.ACC.3.F.PL+INF
 vilificarmo-las	vilificar+V.ele.ACC.3.F.PL+INF+1+PL
 vilificá-las	vilificar+V.ele.ACC.3.F.PL+INF+1+SG
 vilificarde-las	vilificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -17799,6 +17896,7 @@ vilificávei-la	vilificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 vilificava-la	vilificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 vilificavam-na	vilificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 vilificava-a	vilificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+vilificá-la	vilificar+V.ele.ACC.3.F.SG+INF
 vilificarmo-la	vilificar+V.ele.ACC.3.F.SG+INF+1+PL
 vilificá-la	vilificar+V.ele.ACC.3.F.SG+INF+1+SG
 vilificarde-la	vilificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -17850,6 +17948,7 @@ vilificávei-los	vilificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 vilificava-los	vilificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 vilificavam-nos	vilificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 vilificava-os	vilificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+vilificá-los	vilificar+V.ele.ACC.3.M.PL+INF
 vilificarmo-los	vilificar+V.ele.ACC.3.M.PL+INF+1+PL
 vilificá-los	vilificar+V.ele.ACC.3.M.PL+INF+1+SG
 vilificarde-los	vilificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -17901,6 +18000,7 @@ vilificávei-lo	vilificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 vilificava-lo	vilificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 vilificavam-no	vilificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 vilificava-o	vilificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+vilificá-lo	vilificar+V.ele.ACC.3.M.SG+INF
 vilificarmo-lo	vilificar+V.ele.ACC.3.M.SG+INF+1+PL
 vilificá-lo	vilificar+V.ele.ACC.3.M.SG+INF+1+SG
 vilificarde-lo	vilificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -18284,6 +18384,7 @@ vincávei-las	vincar+V.ele.ACC.3.F.PL+IMPF+2+PL
 vincava-las	vincar+V.ele.ACC.3.F.PL+IMPF+2+SG
 vincavam-nas	vincar+V.ele.ACC.3.F.PL+IMPF+3+PL
 vincava-as	vincar+V.ele.ACC.3.F.PL+IMPF+3+SG
+vincá-las	vincar+V.ele.ACC.3.F.PL+INF
 vincarmo-las	vincar+V.ele.ACC.3.F.PL+INF+1+PL
 vincá-las	vincar+V.ele.ACC.3.F.PL+INF+1+SG
 vincarde-las	vincar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -18335,6 +18436,7 @@ vincávei-la	vincar+V.ele.ACC.3.F.SG+IMPF+2+PL
 vincava-la	vincar+V.ele.ACC.3.F.SG+IMPF+2+SG
 vincavam-na	vincar+V.ele.ACC.3.F.SG+IMPF+3+PL
 vincava-a	vincar+V.ele.ACC.3.F.SG+IMPF+3+SG
+vincá-la	vincar+V.ele.ACC.3.F.SG+INF
 vincarmo-la	vincar+V.ele.ACC.3.F.SG+INF+1+PL
 vincá-la	vincar+V.ele.ACC.3.F.SG+INF+1+SG
 vincarde-la	vincar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -18386,6 +18488,7 @@ vincávei-los	vincar+V.ele.ACC.3.M.PL+IMPF+2+PL
 vincava-los	vincar+V.ele.ACC.3.M.PL+IMPF+2+SG
 vincavam-nos	vincar+V.ele.ACC.3.M.PL+IMPF+3+PL
 vincava-os	vincar+V.ele.ACC.3.M.PL+IMPF+3+SG
+vincá-los	vincar+V.ele.ACC.3.M.PL+INF
 vincarmo-los	vincar+V.ele.ACC.3.M.PL+INF+1+PL
 vincá-los	vincar+V.ele.ACC.3.M.PL+INF+1+SG
 vincarde-los	vincar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -18437,6 +18540,7 @@ vincávei-lo	vincar+V.ele.ACC.3.M.SG+IMPF+2+PL
 vincava-lo	vincar+V.ele.ACC.3.M.SG+IMPF+2+SG
 vincavam-no	vincar+V.ele.ACC.3.M.SG+IMPF+3+PL
 vincava-o	vincar+V.ele.ACC.3.M.SG+IMPF+3+SG
+vincá-lo	vincar+V.ele.ACC.3.M.SG+INF
 vincarmo-lo	vincar+V.ele.ACC.3.M.SG+INF+1+PL
 vincá-lo	vincar+V.ele.ACC.3.M.SG+INF+1+SG
 vincarde-lo	vincar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -18820,6 +18924,7 @@ vindicávei-las	vindicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 vindicava-las	vindicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 vindicavam-nas	vindicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 vindicava-as	vindicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+vindicá-las	vindicar+V.ele.ACC.3.F.PL+INF
 vindicarmo-las	vindicar+V.ele.ACC.3.F.PL+INF+1+PL
 vindicá-las	vindicar+V.ele.ACC.3.F.PL+INF+1+SG
 vindicarde-las	vindicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -18871,6 +18976,7 @@ vindicávei-la	vindicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 vindicava-la	vindicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 vindicavam-na	vindicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 vindicava-a	vindicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+vindicá-la	vindicar+V.ele.ACC.3.F.SG+INF
 vindicarmo-la	vindicar+V.ele.ACC.3.F.SG+INF+1+PL
 vindicá-la	vindicar+V.ele.ACC.3.F.SG+INF+1+SG
 vindicarde-la	vindicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -18922,6 +19028,7 @@ vindicávei-los	vindicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 vindicava-los	vindicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 vindicavam-nos	vindicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 vindicava-os	vindicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+vindicá-los	vindicar+V.ele.ACC.3.M.PL+INF
 vindicarmo-los	vindicar+V.ele.ACC.3.M.PL+INF+1+PL
 vindicá-los	vindicar+V.ele.ACC.3.M.PL+INF+1+SG
 vindicarde-los	vindicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -18973,6 +19080,7 @@ vindicávei-lo	vindicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 vindicava-lo	vindicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 vindicavam-no	vindicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 vindicava-o	vindicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+vindicá-lo	vindicar+V.ele.ACC.3.M.SG+INF
 vindicarmo-lo	vindicar+V.ele.ACC.3.M.SG+INF+1+PL
 vindicá-lo	vindicar+V.ele.ACC.3.M.SG+INF+1+SG
 vindicarde-lo	vindicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -19356,6 +19464,7 @@ vinificávei-las	vinificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 vinificava-las	vinificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 vinificavam-nas	vinificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 vinificava-as	vinificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+vinificá-las	vinificar+V.ele.ACC.3.F.PL+INF
 vinificarmo-las	vinificar+V.ele.ACC.3.F.PL+INF+1+PL
 vinificá-las	vinificar+V.ele.ACC.3.F.PL+INF+1+SG
 vinificarde-las	vinificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -19407,6 +19516,7 @@ vinificávei-la	vinificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 vinificava-la	vinificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 vinificavam-na	vinificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 vinificava-a	vinificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+vinificá-la	vinificar+V.ele.ACC.3.F.SG+INF
 vinificarmo-la	vinificar+V.ele.ACC.3.F.SG+INF+1+PL
 vinificá-la	vinificar+V.ele.ACC.3.F.SG+INF+1+SG
 vinificarde-la	vinificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -19458,6 +19568,7 @@ vinificávei-los	vinificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 vinificava-los	vinificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 vinificavam-nos	vinificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 vinificava-os	vinificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+vinificá-los	vinificar+V.ele.ACC.3.M.PL+INF
 vinificarmo-los	vinificar+V.ele.ACC.3.M.PL+INF+1+PL
 vinificá-los	vinificar+V.ele.ACC.3.M.PL+INF+1+SG
 vinificarde-los	vinificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -19509,6 +19620,7 @@ vinificávei-lo	vinificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 vinificava-lo	vinificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 vinificavam-no	vinificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 vinificava-o	vinificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+vinificá-lo	vinificar+V.ele.ACC.3.M.SG+INF
 vinificarmo-lo	vinificar+V.ele.ACC.3.M.SG+INF+1+PL
 vinificá-lo	vinificar+V.ele.ACC.3.M.SG+INF+1+SG
 vinificarde-lo	vinificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -19892,6 +20004,7 @@ vínhei-las	vir+V.ele.ACC.3.F.PL+IMPF+2+PL
 vinha-las	vir+V.ele.ACC.3.F.PL+IMPF+2+SG
 vinham-nas	vir+V.ele.ACC.3.F.PL+IMPF+3+PL
 vinha-as	vir+V.ele.ACC.3.F.PL+IMPF+3+SG
+vi-las	vir+V.ele.ACC.3.F.PL+INF
 virmo-las	vir+V.ele.ACC.3.F.PL+INF+1+PL
 vi-las	vir+V.ele.ACC.3.F.PL+INF+1+SG
 virde-las	vir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -19944,6 +20057,7 @@ vínhei-la	vir+V.ele.ACC.3.F.SG+IMPF+2+PL
 vinha-la	vir+V.ele.ACC.3.F.SG+IMPF+2+SG
 vinham-na	vir+V.ele.ACC.3.F.SG+IMPF+3+PL
 vinha-a	vir+V.ele.ACC.3.F.SG+IMPF+3+SG
+vi-la	vir+V.ele.ACC.3.F.SG+INF
 virmo-la	vir+V.ele.ACC.3.F.SG+INF+1+PL
 vi-la	vir+V.ele.ACC.3.F.SG+INF+1+SG
 virde-la	vir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -19996,6 +20110,7 @@ vínhei-los	vir+V.ele.ACC.3.M.PL+IMPF+2+PL
 vinha-los	vir+V.ele.ACC.3.M.PL+IMPF+2+SG
 vinham-nos	vir+V.ele.ACC.3.M.PL+IMPF+3+PL
 vinha-os	vir+V.ele.ACC.3.M.PL+IMPF+3+SG
+vi-los	vir+V.ele.ACC.3.M.PL+INF
 virmo-los	vir+V.ele.ACC.3.M.PL+INF+1+PL
 vi-los	vir+V.ele.ACC.3.M.PL+INF+1+SG
 virde-los	vir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -20047,6 +20162,7 @@ vínhei-lo	vir+V.ele.ACC.3.M.SG+IMPF+2+PL
 vinha-lo	vir+V.ele.ACC.3.M.SG+IMPF+2+SG
 vinham-no	vir+V.ele.ACC.3.M.SG+IMPF+3+PL
 vinha-o	vir+V.ele.ACC.3.M.SG+IMPF+3+SG
+vi-lo	vir+V.ele.ACC.3.M.SG+INF
 virmo-lo	vir+V.ele.ACC.3.M.SG+INF+1+PL
 vi-lo	vir+V.ele.ACC.3.M.SG+INF+1+SG
 virde-lo	vir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -20421,6 +20537,7 @@ viravolteávei-las	viravoltear+V.ele.ACC.3.F.PL+IMPF+2+PL
 viravolteava-las	viravoltear+V.ele.ACC.3.F.PL+IMPF+2+SG
 viravolteavam-nas	viravoltear+V.ele.ACC.3.F.PL+IMPF+3+PL
 viravolteava-as	viravoltear+V.ele.ACC.3.F.PL+IMPF+3+SG
+viravolteá-las	viravoltear+V.ele.ACC.3.F.PL+INF
 viravoltearmo-las	viravoltear+V.ele.ACC.3.F.PL+INF+1+PL
 viravolteá-las	viravoltear+V.ele.ACC.3.F.PL+INF+1+SG
 viravoltearde-las	viravoltear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -20470,6 +20587,7 @@ viravolteávei-la	viravoltear+V.ele.ACC.3.F.SG+IMPF+2+PL
 viravolteava-la	viravoltear+V.ele.ACC.3.F.SG+IMPF+2+SG
 viravolteavam-na	viravoltear+V.ele.ACC.3.F.SG+IMPF+3+PL
 viravolteava-a	viravoltear+V.ele.ACC.3.F.SG+IMPF+3+SG
+viravolteá-la	viravoltear+V.ele.ACC.3.F.SG+INF
 viravoltearmo-la	viravoltear+V.ele.ACC.3.F.SG+INF+1+PL
 viravolteá-la	viravoltear+V.ele.ACC.3.F.SG+INF+1+SG
 viravoltearde-la	viravoltear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -20519,6 +20637,7 @@ viravolteávei-los	viravoltear+V.ele.ACC.3.M.PL+IMPF+2+PL
 viravolteava-los	viravoltear+V.ele.ACC.3.M.PL+IMPF+2+SG
 viravolteavam-nos	viravoltear+V.ele.ACC.3.M.PL+IMPF+3+PL
 viravolteava-os	viravoltear+V.ele.ACC.3.M.PL+IMPF+3+SG
+viravolteá-los	viravoltear+V.ele.ACC.3.M.PL+INF
 viravoltearmo-los	viravoltear+V.ele.ACC.3.M.PL+INF+1+PL
 viravolteá-los	viravoltear+V.ele.ACC.3.M.PL+INF+1+SG
 viravoltearde-los	viravoltear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -20568,6 +20687,7 @@ viravolteávei-lo	viravoltear+V.ele.ACC.3.M.SG+IMPF+2+PL
 viravolteava-lo	viravoltear+V.ele.ACC.3.M.SG+IMPF+2+SG
 viravolteavam-no	viravoltear+V.ele.ACC.3.M.SG+IMPF+3+PL
 viravolteava-o	viravoltear+V.ele.ACC.3.M.SG+IMPF+3+SG
+viravolteá-lo	viravoltear+V.ele.ACC.3.M.SG+INF
 viravoltearmo-lo	viravoltear+V.ele.ACC.3.M.SG+INF+1+PL
 viravolteá-lo	viravoltear+V.ele.ACC.3.M.SG+INF+1+SG
 viravoltearde-lo	viravoltear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -20938,6 +21058,7 @@ vitrificávei-las	vitrificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 vitrificava-las	vitrificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 vitrificavam-nas	vitrificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 vitrificava-as	vitrificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+vitrificá-las	vitrificar+V.ele.ACC.3.F.PL+INF
 vitrificarmo-las	vitrificar+V.ele.ACC.3.F.PL+INF+1+PL
 vitrificá-las	vitrificar+V.ele.ACC.3.F.PL+INF+1+SG
 vitrificarde-las	vitrificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -20989,6 +21110,7 @@ vitrificávei-la	vitrificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 vitrificava-la	vitrificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 vitrificavam-na	vitrificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 vitrificava-a	vitrificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+vitrificá-la	vitrificar+V.ele.ACC.3.F.SG+INF
 vitrificarmo-la	vitrificar+V.ele.ACC.3.F.SG+INF+1+PL
 vitrificá-la	vitrificar+V.ele.ACC.3.F.SG+INF+1+SG
 vitrificarde-la	vitrificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -21040,6 +21162,7 @@ vitrificávei-los	vitrificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 vitrificava-los	vitrificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 vitrificavam-nos	vitrificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 vitrificava-os	vitrificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+vitrificá-los	vitrificar+V.ele.ACC.3.M.PL+INF
 vitrificarmo-los	vitrificar+V.ele.ACC.3.M.PL+INF+1+PL
 vitrificá-los	vitrificar+V.ele.ACC.3.M.PL+INF+1+SG
 vitrificarde-los	vitrificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -21091,6 +21214,7 @@ vitrificávei-lo	vitrificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 vitrificava-lo	vitrificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 vitrificavam-no	vitrificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 vitrificava-o	vitrificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+vitrificá-lo	vitrificar+V.ele.ACC.3.M.SG+INF
 vitrificarmo-lo	vitrificar+V.ele.ACC.3.M.SG+INF+1+PL
 vitrificá-lo	vitrificar+V.ele.ACC.3.M.SG+INF+1+SG
 vitrificarde-lo	vitrificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -21474,6 +21598,7 @@ viuvávei-las	viuvar+V.ele.ACC.3.F.PL+IMPF+2+PL
 viuvava-las	viuvar+V.ele.ACC.3.F.PL+IMPF+2+SG
 viuvavam-nas	viuvar+V.ele.ACC.3.F.PL+IMPF+3+PL
 viuvava-as	viuvar+V.ele.ACC.3.F.PL+IMPF+3+SG
+viuvá-las	viuvar+V.ele.ACC.3.F.PL+INF
 viuvarmo-las	viuvar+V.ele.ACC.3.F.PL+INF+1+PL
 viuvá-las	viuvar+V.ele.ACC.3.F.PL+INF+1+SG
 viuvarde-las	viuvar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -21526,6 +21651,7 @@ viuvávei-la	viuvar+V.ele.ACC.3.F.SG+IMPF+2+PL
 viuvava-la	viuvar+V.ele.ACC.3.F.SG+IMPF+2+SG
 viuvavam-na	viuvar+V.ele.ACC.3.F.SG+IMPF+3+PL
 viuvava-a	viuvar+V.ele.ACC.3.F.SG+IMPF+3+SG
+viuvá-la	viuvar+V.ele.ACC.3.F.SG+INF
 viuvarmo-la	viuvar+V.ele.ACC.3.F.SG+INF+1+PL
 viuvá-la	viuvar+V.ele.ACC.3.F.SG+INF+1+SG
 viuvarde-la	viuvar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -21578,6 +21704,7 @@ viuvávei-los	viuvar+V.ele.ACC.3.M.PL+IMPF+2+PL
 viuvava-los	viuvar+V.ele.ACC.3.M.PL+IMPF+2+SG
 viuvavam-nos	viuvar+V.ele.ACC.3.M.PL+IMPF+3+PL
 viuvava-os	viuvar+V.ele.ACC.3.M.PL+IMPF+3+SG
+viuvá-los	viuvar+V.ele.ACC.3.M.PL+INF
 viuvarmo-los	viuvar+V.ele.ACC.3.M.PL+INF+1+PL
 viuvá-los	viuvar+V.ele.ACC.3.M.PL+INF+1+SG
 viuvarde-los	viuvar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -21630,6 +21757,7 @@ viuvávei-lo	viuvar+V.ele.ACC.3.M.SG+IMPF+2+PL
 viuvava-lo	viuvar+V.ele.ACC.3.M.SG+IMPF+2+SG
 viuvavam-no	viuvar+V.ele.ACC.3.M.SG+IMPF+3+PL
 viuvava-o	viuvar+V.ele.ACC.3.M.SG+IMPF+3+SG
+viuvá-lo	viuvar+V.ele.ACC.3.M.SG+INF
 viuvarmo-lo	viuvar+V.ele.ACC.3.M.SG+INF+1+PL
 viuvá-lo	viuvar+V.ele.ACC.3.M.SG+INF+1+SG
 viuvarde-lo	viuvar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -21998,10 +22126,6 @@ viuvardes-vos	viuvar+V.vós.AD.2.PL+SBJF+2+PL
 viuvares-vos	viuvar+V.vós.AD.2.PL+SBJF+2+SG
 viuvarem-vos	viuvar+V.vós.AD.2.PL+SBJF+3+PL
 viuvar-vos	viuvar+V.vós.AD.2.PL+SBJF+3+SG
-vivê-las	viver+V.ele.ACC.3.F.PL+INF
-vivê-la	viver+V.ele.ACC.3.F.SG+INF
-vivê-los	viver+V.ele.ACC.3.M.PL+INF
-vivê-lo	viver+V.ele.ACC.3.M.SG+INF
 vivificá-las-íamos	vivificar+V.ele.ACC.3.F.PL+COND+1+PL
 vivificá-las-ia	vivificar+V.ele.ACC.3.F.PL+COND+1+SG
 vivificá-las-íeis	vivificar+V.ele.ACC.3.F.PL+COND+2+PL
@@ -22024,6 +22148,7 @@ vivificávei-las	vivificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 vivificava-las	vivificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 vivificavam-nas	vivificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 vivificava-as	vivificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+vivificá-las	vivificar+V.ele.ACC.3.F.PL+INF
 vivificarmo-las	vivificar+V.ele.ACC.3.F.PL+INF+1+PL
 vivificá-las	vivificar+V.ele.ACC.3.F.PL+INF+1+SG
 vivificarde-las	vivificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -22075,6 +22200,7 @@ vivificávei-la	vivificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 vivificava-la	vivificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 vivificavam-na	vivificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 vivificava-a	vivificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+vivificá-la	vivificar+V.ele.ACC.3.F.SG+INF
 vivificarmo-la	vivificar+V.ele.ACC.3.F.SG+INF+1+PL
 vivificá-la	vivificar+V.ele.ACC.3.F.SG+INF+1+SG
 vivificarde-la	vivificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -22126,6 +22252,7 @@ vivificávei-los	vivificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 vivificava-los	vivificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 vivificavam-nos	vivificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 vivificava-os	vivificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+vivificá-los	vivificar+V.ele.ACC.3.M.PL+INF
 vivificarmo-los	vivificar+V.ele.ACC.3.M.PL+INF+1+PL
 vivificá-los	vivificar+V.ele.ACC.3.M.PL+INF+1+SG
 vivificarde-los	vivificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -22177,6 +22304,7 @@ vivificávei-lo	vivificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 vivificava-lo	vivificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 vivificavam-no	vivificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 vivificava-o	vivificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+vivificá-lo	vivificar+V.ele.ACC.3.M.SG+INF
 vivificarmo-lo	vivificar+V.ele.ACC.3.M.SG+INF+1+PL
 vivificá-lo	vivificar+V.ele.ACC.3.M.SG+INF+1+SG
 vivificarde-lo	vivificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -22560,6 +22688,7 @@ viçávei-las	viçar+V.ele.ACC.3.F.PL+IMPF+2+PL
 viçava-las	viçar+V.ele.ACC.3.F.PL+IMPF+2+SG
 viçavam-nas	viçar+V.ele.ACC.3.F.PL+IMPF+3+PL
 viçava-as	viçar+V.ele.ACC.3.F.PL+IMPF+3+SG
+viçá-las	viçar+V.ele.ACC.3.F.PL+INF
 viçarmo-las	viçar+V.ele.ACC.3.F.PL+INF+1+PL
 viçá-las	viçar+V.ele.ACC.3.F.PL+INF+1+SG
 viçarde-las	viçar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -22611,6 +22740,7 @@ viçávei-la	viçar+V.ele.ACC.3.F.SG+IMPF+2+PL
 viçava-la	viçar+V.ele.ACC.3.F.SG+IMPF+2+SG
 viçavam-na	viçar+V.ele.ACC.3.F.SG+IMPF+3+PL
 viçava-a	viçar+V.ele.ACC.3.F.SG+IMPF+3+SG
+viçá-la	viçar+V.ele.ACC.3.F.SG+INF
 viçarmo-la	viçar+V.ele.ACC.3.F.SG+INF+1+PL
 viçá-la	viçar+V.ele.ACC.3.F.SG+INF+1+SG
 viçarde-la	viçar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -22661,6 +22791,7 @@ viçava-os	viçar+V.ele.ACC.3.M.PL+IMPF+1+SG
 viçávei-los	viçar+V.ele.ACC.3.M.PL+IMPF+2+PL
 viçava-los	viçar+V.ele.ACC.3.M.PL+IMPF+2+SG
 viçava-os	viçar+V.ele.ACC.3.M.PL+IMPF+3+SG
+viçá-los	viçar+V.ele.ACC.3.M.PL+INF
 viçarmo-los	viçar+V.ele.ACC.3.M.PL+INF+1+PL
 viçá-los	viçar+V.ele.ACC.3.M.PL+INF+1+SG
 viçarde-los	viçar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -22707,6 +22838,7 @@ viçávei-lo	viçar+V.ele.ACC.3.M.SG+IMPF+2+PL
 viçava-lo	viçar+V.ele.ACC.3.M.SG+IMPF+2+SG
 viçavam-no	viçar+V.ele.ACC.3.M.SG+IMPF+3+PL
 viçava-o	viçar+V.ele.ACC.3.M.SG+IMPF+3+SG
+viçá-lo	viçar+V.ele.ACC.3.M.SG+INF
 viçarmo-lo	viçar+V.ele.ACC.3.M.SG+INF+1+PL
 viçá-lo	viçar+V.ele.ACC.3.M.SG+INF+1+SG
 viçarde-lo	viçar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -23089,6 +23221,7 @@ voávei-las	voar+V.ele.ACC.3.F.PL+IMPF+2+PL
 voava-las	voar+V.ele.ACC.3.F.PL+IMPF+2+SG
 voavam-nas	voar+V.ele.ACC.3.F.PL+IMPF+3+PL
 voava-as	voar+V.ele.ACC.3.F.PL+IMPF+3+SG
+voá-las	voar+V.ele.ACC.3.F.PL+INF
 voarmo-las	voar+V.ele.ACC.3.F.PL+INF+1+PL
 voá-las	voar+V.ele.ACC.3.F.PL+INF+1+SG
 voarde-las	voar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -23141,6 +23274,7 @@ voávei-la	voar+V.ele.ACC.3.F.SG+IMPF+2+PL
 voava-la	voar+V.ele.ACC.3.F.SG+IMPF+2+SG
 voavam-na	voar+V.ele.ACC.3.F.SG+IMPF+3+PL
 voava-a	voar+V.ele.ACC.3.F.SG+IMPF+3+SG
+voá-la	voar+V.ele.ACC.3.F.SG+INF
 voarmo-la	voar+V.ele.ACC.3.F.SG+INF+1+PL
 voá-la	voar+V.ele.ACC.3.F.SG+INF+1+SG
 voarde-la	voar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -23193,6 +23327,7 @@ voávei-los	voar+V.ele.ACC.3.M.PL+IMPF+2+PL
 voava-los	voar+V.ele.ACC.3.M.PL+IMPF+2+SG
 voavam-nos	voar+V.ele.ACC.3.M.PL+IMPF+3+PL
 voava-os	voar+V.ele.ACC.3.M.PL+IMPF+3+SG
+voá-los	voar+V.ele.ACC.3.M.PL+INF
 voarmo-los	voar+V.ele.ACC.3.M.PL+INF+1+PL
 voá-los	voar+V.ele.ACC.3.M.PL+INF+1+SG
 voarde-los	voar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -23245,6 +23380,7 @@ voávei-lo	voar+V.ele.ACC.3.M.SG+IMPF+2+PL
 voava-lo	voar+V.ele.ACC.3.M.SG+IMPF+2+SG
 voavam-no	voar+V.ele.ACC.3.M.SG+IMPF+3+PL
 voava-o	voar+V.ele.ACC.3.M.SG+IMPF+3+SG
+voá-lo	voar+V.ele.ACC.3.M.SG+INF
 voarmo-lo	voar+V.ele.ACC.3.M.SG+INF+1+PL
 voá-lo	voar+V.ele.ACC.3.M.SG+INF+1+SG
 voarde-lo	voar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -23632,6 +23768,7 @@ volateávei-las	volatear+V.ele.ACC.3.F.PL+IMPF+2+PL
 volateava-las	volatear+V.ele.ACC.3.F.PL+IMPF+2+SG
 volateavam-nas	volatear+V.ele.ACC.3.F.PL+IMPF+3+PL
 volateava-as	volatear+V.ele.ACC.3.F.PL+IMPF+3+SG
+volateá-las	volatear+V.ele.ACC.3.F.PL+INF
 volatearmo-las	volatear+V.ele.ACC.3.F.PL+INF+1+PL
 volateá-las	volatear+V.ele.ACC.3.F.PL+INF+1+SG
 volatearde-las	volatear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -23681,6 +23818,7 @@ volateávei-la	volatear+V.ele.ACC.3.F.SG+IMPF+2+PL
 volateava-la	volatear+V.ele.ACC.3.F.SG+IMPF+2+SG
 volateavam-na	volatear+V.ele.ACC.3.F.SG+IMPF+3+PL
 volateava-a	volatear+V.ele.ACC.3.F.SG+IMPF+3+SG
+volateá-la	volatear+V.ele.ACC.3.F.SG+INF
 volatearmo-la	volatear+V.ele.ACC.3.F.SG+INF+1+PL
 volateá-la	volatear+V.ele.ACC.3.F.SG+INF+1+SG
 volatearde-la	volatear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -23730,6 +23868,7 @@ volateávei-los	volatear+V.ele.ACC.3.M.PL+IMPF+2+PL
 volateava-los	volatear+V.ele.ACC.3.M.PL+IMPF+2+SG
 volateavam-nos	volatear+V.ele.ACC.3.M.PL+IMPF+3+PL
 volateava-os	volatear+V.ele.ACC.3.M.PL+IMPF+3+SG
+volateá-los	volatear+V.ele.ACC.3.M.PL+INF
 volatearmo-los	volatear+V.ele.ACC.3.M.PL+INF+1+PL
 volateá-los	volatear+V.ele.ACC.3.M.PL+INF+1+SG
 volatearde-los	volatear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -23779,6 +23918,7 @@ volateávei-lo	volatear+V.ele.ACC.3.M.SG+IMPF+2+PL
 volateava-lo	volatear+V.ele.ACC.3.M.SG+IMPF+2+SG
 volateavam-no	volatear+V.ele.ACC.3.M.SG+IMPF+3+PL
 volateava-o	volatear+V.ele.ACC.3.M.SG+IMPF+3+SG
+volateá-lo	volatear+V.ele.ACC.3.M.SG+INF
 volatearmo-lo	volatear+V.ele.ACC.3.M.SG+INF+1+PL
 volateá-lo	volatear+V.ele.ACC.3.M.SG+INF+1+SG
 volatearde-lo	volatear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -24146,6 +24286,7 @@ volteávei-las	voltear+V.ele.ACC.3.F.PL+IMPF+2+PL
 volteava-las	voltear+V.ele.ACC.3.F.PL+IMPF+2+SG
 volteavam-nas	voltear+V.ele.ACC.3.F.PL+IMPF+3+PL
 volteava-as	voltear+V.ele.ACC.3.F.PL+IMPF+3+SG
+volteá-las	voltear+V.ele.ACC.3.F.PL+INF
 voltearmo-las	voltear+V.ele.ACC.3.F.PL+INF+1+PL
 volteá-las	voltear+V.ele.ACC.3.F.PL+INF+1+SG
 voltearde-las	voltear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -24195,6 +24336,7 @@ volteávei-la	voltear+V.ele.ACC.3.F.SG+IMPF+2+PL
 volteava-la	voltear+V.ele.ACC.3.F.SG+IMPF+2+SG
 volteavam-na	voltear+V.ele.ACC.3.F.SG+IMPF+3+PL
 volteava-a	voltear+V.ele.ACC.3.F.SG+IMPF+3+SG
+volteá-la	voltear+V.ele.ACC.3.F.SG+INF
 voltearmo-la	voltear+V.ele.ACC.3.F.SG+INF+1+PL
 volteá-la	voltear+V.ele.ACC.3.F.SG+INF+1+SG
 voltearde-la	voltear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -24244,6 +24386,7 @@ volteávei-los	voltear+V.ele.ACC.3.M.PL+IMPF+2+PL
 volteava-los	voltear+V.ele.ACC.3.M.PL+IMPF+2+SG
 volteavam-nos	voltear+V.ele.ACC.3.M.PL+IMPF+3+PL
 volteava-os	voltear+V.ele.ACC.3.M.PL+IMPF+3+SG
+volteá-los	voltear+V.ele.ACC.3.M.PL+INF
 voltearmo-los	voltear+V.ele.ACC.3.M.PL+INF+1+PL
 volteá-los	voltear+V.ele.ACC.3.M.PL+INF+1+SG
 voltearde-los	voltear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -24293,6 +24436,7 @@ volteávei-lo	voltear+V.ele.ACC.3.M.SG+IMPF+2+PL
 volteava-lo	voltear+V.ele.ACC.3.M.SG+IMPF+2+SG
 volteavam-no	voltear+V.ele.ACC.3.M.SG+IMPF+3+PL
 volteava-o	voltear+V.ele.ACC.3.M.SG+IMPF+3+SG
+volteá-lo	voltear+V.ele.ACC.3.M.SG+INF
 voltearmo-lo	voltear+V.ele.ACC.3.M.SG+INF+1+PL
 volteá-lo	voltear+V.ele.ACC.3.M.SG+INF+1+SG
 voltearde-lo	voltear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -24660,6 +24804,7 @@ voluteávei-las	volutear+V.ele.ACC.3.F.PL+IMPF+2+PL
 voluteava-las	volutear+V.ele.ACC.3.F.PL+IMPF+2+SG
 voluteavam-nas	volutear+V.ele.ACC.3.F.PL+IMPF+3+PL
 voluteava-as	volutear+V.ele.ACC.3.F.PL+IMPF+3+SG
+voluteá-las	volutear+V.ele.ACC.3.F.PL+INF
 volutearmo-las	volutear+V.ele.ACC.3.F.PL+INF+1+PL
 voluteá-las	volutear+V.ele.ACC.3.F.PL+INF+1+SG
 volutearde-las	volutear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -24709,6 +24854,7 @@ voluteávei-la	volutear+V.ele.ACC.3.F.SG+IMPF+2+PL
 voluteava-la	volutear+V.ele.ACC.3.F.SG+IMPF+2+SG
 voluteavam-na	volutear+V.ele.ACC.3.F.SG+IMPF+3+PL
 voluteava-a	volutear+V.ele.ACC.3.F.SG+IMPF+3+SG
+voluteá-la	volutear+V.ele.ACC.3.F.SG+INF
 volutearmo-la	volutear+V.ele.ACC.3.F.SG+INF+1+PL
 voluteá-la	volutear+V.ele.ACC.3.F.SG+INF+1+SG
 volutearde-la	volutear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -24758,6 +24904,7 @@ voluteávei-los	volutear+V.ele.ACC.3.M.PL+IMPF+2+PL
 voluteava-los	volutear+V.ele.ACC.3.M.PL+IMPF+2+SG
 voluteavam-nos	volutear+V.ele.ACC.3.M.PL+IMPF+3+PL
 voluteava-os	volutear+V.ele.ACC.3.M.PL+IMPF+3+SG
+voluteá-los	volutear+V.ele.ACC.3.M.PL+INF
 volutearmo-los	volutear+V.ele.ACC.3.M.PL+INF+1+PL
 voluteá-los	volutear+V.ele.ACC.3.M.PL+INF+1+SG
 volutearde-los	volutear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -24807,6 +24954,7 @@ voluteávei-lo	volutear+V.ele.ACC.3.M.SG+IMPF+2+PL
 voluteava-lo	volutear+V.ele.ACC.3.M.SG+IMPF+2+SG
 voluteavam-no	volutear+V.ele.ACC.3.M.SG+IMPF+3+PL
 voluteava-o	volutear+V.ele.ACC.3.M.SG+IMPF+3+SG
+voluteá-lo	volutear+V.ele.ACC.3.M.SG+INF
 volutearmo-lo	volutear+V.ele.ACC.3.M.SG+INF+1+PL
 voluteá-lo	volutear+V.ele.ACC.3.M.SG+INF+1+SG
 volutearde-lo	volutear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -25155,10 +25303,6 @@ voluteardes-vos	volutear+V.vós.AD.2.PL+SBJF+2+PL
 voluteares-vos	volutear+V.vós.AD.2.PL+SBJF+2+SG
 volutearem-vos	volutear+V.vós.AD.2.PL+SBJF+3+PL
 volutear-vos	volutear+V.vós.AD.2.PL+SBJF+3+SG
-volvê-las	volver+V.ele.ACC.3.F.PL+INF
-volvê-la	volver+V.ele.ACC.3.F.SG+INF
-volvê-los	volver+V.ele.ACC.3.M.PL+INF
-volvê-lo	volver+V.ele.ACC.3.M.SG+INF
 voseá-las-íamos	vosear+V.ele.ACC.3.F.PL+COND+1+PL
 voseá-las-ia	vosear+V.ele.ACC.3.F.PL+COND+1+SG
 voseá-las-íeis	vosear+V.ele.ACC.3.F.PL+COND+2+PL
@@ -25178,6 +25322,7 @@ voseávei-las	vosear+V.ele.ACC.3.F.PL+IMPF+2+PL
 voseava-las	vosear+V.ele.ACC.3.F.PL+IMPF+2+SG
 voseavam-nas	vosear+V.ele.ACC.3.F.PL+IMPF+3+PL
 voseava-as	vosear+V.ele.ACC.3.F.PL+IMPF+3+SG
+voseá-las	vosear+V.ele.ACC.3.F.PL+INF
 vosearmo-las	vosear+V.ele.ACC.3.F.PL+INF+1+PL
 voseá-las	vosear+V.ele.ACC.3.F.PL+INF+1+SG
 vosearde-las	vosear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -25227,6 +25372,7 @@ voseávei-la	vosear+V.ele.ACC.3.F.SG+IMPF+2+PL
 voseava-la	vosear+V.ele.ACC.3.F.SG+IMPF+2+SG
 voseavam-na	vosear+V.ele.ACC.3.F.SG+IMPF+3+PL
 voseava-a	vosear+V.ele.ACC.3.F.SG+IMPF+3+SG
+voseá-la	vosear+V.ele.ACC.3.F.SG+INF
 vosearmo-la	vosear+V.ele.ACC.3.F.SG+INF+1+PL
 voseá-la	vosear+V.ele.ACC.3.F.SG+INF+1+SG
 vosearde-la	vosear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -25276,6 +25422,7 @@ voseávei-los	vosear+V.ele.ACC.3.M.PL+IMPF+2+PL
 voseava-los	vosear+V.ele.ACC.3.M.PL+IMPF+2+SG
 voseavam-nos	vosear+V.ele.ACC.3.M.PL+IMPF+3+PL
 voseava-os	vosear+V.ele.ACC.3.M.PL+IMPF+3+SG
+voseá-los	vosear+V.ele.ACC.3.M.PL+INF
 vosearmo-los	vosear+V.ele.ACC.3.M.PL+INF+1+PL
 voseá-los	vosear+V.ele.ACC.3.M.PL+INF+1+SG
 vosearde-los	vosear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -25325,6 +25472,7 @@ voseávei-lo	vosear+V.ele.ACC.3.M.SG+IMPF+2+PL
 voseava-lo	vosear+V.ele.ACC.3.M.SG+IMPF+2+SG
 voseavam-no	vosear+V.ele.ACC.3.M.SG+IMPF+3+PL
 voseava-o	vosear+V.ele.ACC.3.M.SG+IMPF+3+SG
+voseá-lo	vosear+V.ele.ACC.3.M.SG+INF
 vosearmo-lo	vosear+V.ele.ACC.3.M.SG+INF+1+PL
 voseá-lo	vosear+V.ele.ACC.3.M.SG+INF+1+SG
 vosearde-lo	vosear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -25692,6 +25840,7 @@ vozeávei-las	vozear+V.ele.ACC.3.F.PL+IMPF+2+PL
 vozeava-las	vozear+V.ele.ACC.3.F.PL+IMPF+2+SG
 vozeavam-nas	vozear+V.ele.ACC.3.F.PL+IMPF+3+PL
 vozeava-as	vozear+V.ele.ACC.3.F.PL+IMPF+3+SG
+vozeá-las	vozear+V.ele.ACC.3.F.PL+INF
 vozearmo-las	vozear+V.ele.ACC.3.F.PL+INF+1+PL
 vozeá-las	vozear+V.ele.ACC.3.F.PL+INF+1+SG
 vozearde-las	vozear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -25741,6 +25890,7 @@ vozeávei-la	vozear+V.ele.ACC.3.F.SG+IMPF+2+PL
 vozeava-la	vozear+V.ele.ACC.3.F.SG+IMPF+2+SG
 vozeavam-na	vozear+V.ele.ACC.3.F.SG+IMPF+3+PL
 vozeava-a	vozear+V.ele.ACC.3.F.SG+IMPF+3+SG
+vozeá-la	vozear+V.ele.ACC.3.F.SG+INF
 vozearmo-la	vozear+V.ele.ACC.3.F.SG+INF+1+PL
 vozeá-la	vozear+V.ele.ACC.3.F.SG+INF+1+SG
 vozearde-la	vozear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -25790,6 +25940,7 @@ vozeávei-los	vozear+V.ele.ACC.3.M.PL+IMPF+2+PL
 vozeava-los	vozear+V.ele.ACC.3.M.PL+IMPF+2+SG
 vozeavam-nos	vozear+V.ele.ACC.3.M.PL+IMPF+3+PL
 vozeava-os	vozear+V.ele.ACC.3.M.PL+IMPF+3+SG
+vozeá-los	vozear+V.ele.ACC.3.M.PL+INF
 vozearmo-los	vozear+V.ele.ACC.3.M.PL+INF+1+PL
 vozeá-los	vozear+V.ele.ACC.3.M.PL+INF+1+SG
 vozearde-los	vozear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -25839,6 +25990,7 @@ vozeávei-lo	vozear+V.ele.ACC.3.M.SG+IMPF+2+PL
 vozeava-lo	vozear+V.ele.ACC.3.M.SG+IMPF+2+SG
 vozeavam-no	vozear+V.ele.ACC.3.M.SG+IMPF+3+PL
 vozeava-o	vozear+V.ele.ACC.3.M.SG+IMPF+3+SG
+vozeá-lo	vozear+V.ele.ACC.3.M.SG+INF
 vozearmo-lo	vozear+V.ele.ACC.3.M.SG+INF+1+PL
 vozeá-lo	vozear+V.ele.ACC.3.M.SG+INF+1+SG
 vozearde-lo	vozear+V.ele.ACC.3.M.SG+INF+2+PL

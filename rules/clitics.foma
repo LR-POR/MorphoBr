@@ -28,18 +28,17 @@
 ! Os pronomes se ligam às formas finitas (exceto o presente do subjuntivo
 ! e o imperativo da 2ª pessoa, ausentes dos dados), ao infinitivo
 ! (impessoal e pessoal) e ao gerúndio. O reflexivo se fica restrito à
-! 3ª pessoa, ao infinitivo impessoal e ao gerúndio. O acusativo (o, a, os,
-! as) não se liga ao infinitivo impessoal: nos dados ele aparece em só 5%
-! dos lemas. As células que as regras não cobrem (essas, o reflexivo se
-! analisado como 1ª pessoa do singular etc.) ficam nos arquivos .dict
-! (ver #165).
+! 3ª pessoa, ao infinitivo impessoal e ao gerúndio. O acusativo no
+! infinitivo impessoal (amá-lo, detê-lo, fazê-la, vê-la; AO90, Bases VIII
+! e XVII) foi acrescentado em #107. As células que as regras não cobrem
+! ficam nos arquivos .dict (ver #165).
 
 define Pers   ["+1" | "+2" | "+3"] ;
 define Num    ["+SG" | "+PL"] ;
 define Tags   ["+COND" | "+FUT" | "+IMPF" | "+PQP" | "+PRF" | "+PRS" | "+SBJF" | "+INF"] Pers Num
             | "+IMP" ["+1" "+PL" | "+3" Num]
             | "+GRD" ;
-define TagsAcc Tags ;
+define TagsAcc Tags | "+INF" ;
 define TagsDat Tags | "+INF" ;
 define Tags3  [Tags & $"+3"] | "+INF" | "+GRD" ;
 

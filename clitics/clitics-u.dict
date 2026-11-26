@@ -559,6 +559,7 @@ umidificávei-las	umidificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 umidificava-las	umidificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 umidificavam-nas	umidificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 umidificava-as	umidificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+umidificá-las	umidificar+V.ele.ACC.3.F.PL+INF
 umidificarmo-las	umidificar+V.ele.ACC.3.F.PL+INF+1+PL
 umidificá-las	umidificar+V.ele.ACC.3.F.PL+INF+1+SG
 umidificarde-las	umidificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -610,6 +611,7 @@ umidificávei-la	umidificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 umidificava-la	umidificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 umidificavam-na	umidificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 umidificava-a	umidificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+umidificá-la	umidificar+V.ele.ACC.3.F.SG+INF
 umidificarmo-la	umidificar+V.ele.ACC.3.F.SG+INF+1+PL
 umidificá-la	umidificar+V.ele.ACC.3.F.SG+INF+1+SG
 umidificarde-la	umidificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -661,6 +663,7 @@ umidificávei-los	umidificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 umidificava-los	umidificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 umidificavam-nos	umidificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 umidificava-os	umidificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+umidificá-los	umidificar+V.ele.ACC.3.M.PL+INF
 umidificarmo-los	umidificar+V.ele.ACC.3.M.PL+INF+1+PL
 umidificá-los	umidificar+V.ele.ACC.3.M.PL+INF+1+SG
 umidificarde-los	umidificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -712,6 +715,7 @@ umidificávei-lo	umidificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 umidificava-lo	umidificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 umidificavam-no	umidificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 umidificava-o	umidificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+umidificá-lo	umidificar+V.ele.ACC.3.M.SG+INF
 umidificarmo-lo	umidificar+V.ele.ACC.3.M.SG+INF+1+PL
 umidificá-lo	umidificar+V.ele.ACC.3.M.SG+INF+1+SG
 umidificarde-lo	umidificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1095,6 +1099,7 @@ unanimificávei-las	unanimificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 unanimificava-las	unanimificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 unanimificavam-nas	unanimificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 unanimificava-as	unanimificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+unanimificá-las	unanimificar+V.ele.ACC.3.F.PL+INF
 unanimificarmo-las	unanimificar+V.ele.ACC.3.F.PL+INF+1+PL
 unanimificá-las	unanimificar+V.ele.ACC.3.F.PL+INF+1+SG
 unanimificarde-las	unanimificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1146,6 +1151,7 @@ unanimificávei-la	unanimificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 unanimificava-la	unanimificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 unanimificavam-na	unanimificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 unanimificava-a	unanimificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+unanimificá-la	unanimificar+V.ele.ACC.3.F.SG+INF
 unanimificarmo-la	unanimificar+V.ele.ACC.3.F.SG+INF+1+PL
 unanimificá-la	unanimificar+V.ele.ACC.3.F.SG+INF+1+SG
 unanimificarde-la	unanimificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1197,6 +1203,7 @@ unanimificávei-los	unanimificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 unanimificava-los	unanimificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 unanimificavam-nos	unanimificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 unanimificava-os	unanimificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+unanimificá-los	unanimificar+V.ele.ACC.3.M.PL+INF
 unanimificarmo-los	unanimificar+V.ele.ACC.3.M.PL+INF+1+PL
 unanimificá-los	unanimificar+V.ele.ACC.3.M.PL+INF+1+SG
 unanimificarde-los	unanimificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1248,6 +1255,7 @@ unanimificávei-lo	unanimificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 unanimificava-lo	unanimificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 unanimificavam-no	unanimificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 unanimificava-o	unanimificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+unanimificá-lo	unanimificar+V.ele.ACC.3.M.SG+INF
 unanimificarmo-lo	unanimificar+V.ele.ACC.3.M.SG+INF+1+PL
 unanimificá-lo	unanimificar+V.ele.ACC.3.M.SG+INF+1+SG
 unanimificarde-lo	unanimificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1631,6 +1639,7 @@ ungíei-las	ungir+V.ele.ACC.3.F.PL+IMPF+2+PL
 ungia-las	ungir+V.ele.ACC.3.F.PL+IMPF+2+SG
 ungiam-nas	ungir+V.ele.ACC.3.F.PL+IMPF+3+PL
 ungia-as	ungir+V.ele.ACC.3.F.PL+IMPF+3+SG
+ungi-las	ungir+V.ele.ACC.3.F.PL+INF
 ungirmo-las	ungir+V.ele.ACC.3.F.PL+INF+1+PL
 ungi-las	ungir+V.ele.ACC.3.F.PL+INF+1+SG
 ungirde-las	ungir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1677,6 +1686,7 @@ ungíei-la	ungir+V.ele.ACC.3.F.SG+IMPF+2+PL
 ungia-la	ungir+V.ele.ACC.3.F.SG+IMPF+2+SG
 ungiam-na	ungir+V.ele.ACC.3.F.SG+IMPF+3+PL
 ungia-a	ungir+V.ele.ACC.3.F.SG+IMPF+3+SG
+ungi-la	ungir+V.ele.ACC.3.F.SG+INF
 ungirmo-la	ungir+V.ele.ACC.3.F.SG+INF+1+PL
 ungi-la	ungir+V.ele.ACC.3.F.SG+INF+1+SG
 ungirde-la	ungir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1723,6 +1733,7 @@ ungíei-los	ungir+V.ele.ACC.3.M.PL+IMPF+2+PL
 ungia-los	ungir+V.ele.ACC.3.M.PL+IMPF+2+SG
 ungiam-nos	ungir+V.ele.ACC.3.M.PL+IMPF+3+PL
 ungia-os	ungir+V.ele.ACC.3.M.PL+IMPF+3+SG
+ungi-los	ungir+V.ele.ACC.3.M.PL+INF
 ungirmo-los	ungir+V.ele.ACC.3.M.PL+INF+1+PL
 ungi-los	ungir+V.ele.ACC.3.M.PL+INF+1+SG
 ungirde-los	ungir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1769,6 +1780,7 @@ ungíei-lo	ungir+V.ele.ACC.3.M.SG+IMPF+2+PL
 ungia-lo	ungir+V.ele.ACC.3.M.SG+IMPF+2+SG
 ungiam-no	ungir+V.ele.ACC.3.M.SG+IMPF+3+PL
 ungia-o	ungir+V.ele.ACC.3.M.SG+IMPF+3+SG
+ungi-lo	ungir+V.ele.ACC.3.M.SG+INF
 ungirmo-lo	ungir+V.ele.ACC.3.M.SG+INF+1+PL
 ungi-lo	ungir+V.ele.ACC.3.M.SG+INF+1+SG
 ungirde-lo	ungir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2115,6 +2127,7 @@ unificávei-las	unificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 unificava-las	unificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 unificavam-nas	unificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 unificava-as	unificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+unificá-las	unificar+V.ele.ACC.3.F.PL+INF
 unificarmo-las	unificar+V.ele.ACC.3.F.PL+INF+1+PL
 unificá-las	unificar+V.ele.ACC.3.F.PL+INF+1+SG
 unificarde-las	unificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2166,6 +2179,7 @@ unificávei-la	unificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 unificava-la	unificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 unificavam-na	unificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 unificava-a	unificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+unificá-la	unificar+V.ele.ACC.3.F.SG+INF
 unificarmo-la	unificar+V.ele.ACC.3.F.SG+INF+1+PL
 unificá-la	unificar+V.ele.ACC.3.F.SG+INF+1+SG
 unificarde-la	unificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2217,6 +2231,7 @@ unificávei-los	unificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 unificava-los	unificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 unificavam-nos	unificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 unificava-os	unificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+unificá-los	unificar+V.ele.ACC.3.M.PL+INF
 unificarmo-los	unificar+V.ele.ACC.3.M.PL+INF+1+PL
 unificá-los	unificar+V.ele.ACC.3.M.PL+INF+1+SG
 unificarde-los	unificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2268,6 +2283,7 @@ unificávei-lo	unificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 unificava-lo	unificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 unificavam-no	unificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 unificava-o	unificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+unificá-lo	unificar+V.ele.ACC.3.M.SG+INF
 unificarmo-lo	unificar+V.ele.ACC.3.M.SG+INF+1+PL
 unificá-lo	unificar+V.ele.ACC.3.M.SG+INF+1+SG
 unificarde-lo	unificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2651,6 +2667,7 @@ uníei-las	unir+V.ele.ACC.3.F.PL+IMPF+2+PL
 unia-las	unir+V.ele.ACC.3.F.PL+IMPF+2+SG
 uniam-nas	unir+V.ele.ACC.3.F.PL+IMPF+3+PL
 unia-as	unir+V.ele.ACC.3.F.PL+IMPF+3+SG
+uni-las	unir+V.ele.ACC.3.F.PL+INF
 unirmo-las	unir+V.ele.ACC.3.F.PL+INF+1+PL
 uni-las	unir+V.ele.ACC.3.F.PL+INF+1+SG
 unirde-las	unir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2691,6 +2708,7 @@ uníei-la	unir+V.ele.ACC.3.F.SG+IMPF+2+PL
 unia-la	unir+V.ele.ACC.3.F.SG+IMPF+2+SG
 uniam-na	unir+V.ele.ACC.3.F.SG+IMPF+3+PL
 unia-a	unir+V.ele.ACC.3.F.SG+IMPF+3+SG
+uni-la	unir+V.ele.ACC.3.F.SG+INF
 unirmo-la	unir+V.ele.ACC.3.F.SG+INF+1+PL
 uni-la	unir+V.ele.ACC.3.F.SG+INF+1+SG
 unirde-la	unir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2731,6 +2749,7 @@ uníei-los	unir+V.ele.ACC.3.M.PL+IMPF+2+PL
 unia-los	unir+V.ele.ACC.3.M.PL+IMPF+2+SG
 uniam-nos	unir+V.ele.ACC.3.M.PL+IMPF+3+PL
 unia-os	unir+V.ele.ACC.3.M.PL+IMPF+3+SG
+uni-los	unir+V.ele.ACC.3.M.PL+INF
 unirmo-los	unir+V.ele.ACC.3.M.PL+INF+1+PL
 uni-los	unir+V.ele.ACC.3.M.PL+INF+1+SG
 unirde-los	unir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2771,6 +2790,7 @@ uníei-lo	unir+V.ele.ACC.3.M.SG+IMPF+2+PL
 unia-lo	unir+V.ele.ACC.3.M.SG+IMPF+2+SG
 uniam-no	unir+V.ele.ACC.3.M.SG+IMPF+3+PL
 unia-o	unir+V.ele.ACC.3.M.SG+IMPF+3+SG
+uni-lo	unir+V.ele.ACC.3.M.SG+INF
 unirmo-lo	unir+V.ele.ACC.3.M.SG+INF+1+PL
 uni-lo	unir+V.ele.ACC.3.M.SG+INF+1+SG
 unirde-lo	unir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3073,6 +3093,7 @@ urdíei-las	urdir+V.ele.ACC.3.F.PL+IMPF+2+PL
 urdia-las	urdir+V.ele.ACC.3.F.PL+IMPF+2+SG
 urdiam-nas	urdir+V.ele.ACC.3.F.PL+IMPF+3+PL
 urdia-as	urdir+V.ele.ACC.3.F.PL+IMPF+3+SG
+urdi-las	urdir+V.ele.ACC.3.F.PL+INF
 urdirmo-las	urdir+V.ele.ACC.3.F.PL+INF+1+PL
 urdi-las	urdir+V.ele.ACC.3.F.PL+INF+1+SG
 urdirde-las	urdir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3113,6 +3134,7 @@ urdíei-la	urdir+V.ele.ACC.3.F.SG+IMPF+2+PL
 urdia-la	urdir+V.ele.ACC.3.F.SG+IMPF+2+SG
 urdiam-na	urdir+V.ele.ACC.3.F.SG+IMPF+3+PL
 urdia-a	urdir+V.ele.ACC.3.F.SG+IMPF+3+SG
+urdi-la	urdir+V.ele.ACC.3.F.SG+INF
 urdirmo-la	urdir+V.ele.ACC.3.F.SG+INF+1+PL
 urdi-la	urdir+V.ele.ACC.3.F.SG+INF+1+SG
 urdirde-la	urdir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3153,6 +3175,7 @@ urdíei-los	urdir+V.ele.ACC.3.M.PL+IMPF+2+PL
 urdia-los	urdir+V.ele.ACC.3.M.PL+IMPF+2+SG
 urdiam-nos	urdir+V.ele.ACC.3.M.PL+IMPF+3+PL
 urdia-os	urdir+V.ele.ACC.3.M.PL+IMPF+3+SG
+urdi-los	urdir+V.ele.ACC.3.M.PL+INF
 urdirmo-los	urdir+V.ele.ACC.3.M.PL+INF+1+PL
 urdi-los	urdir+V.ele.ACC.3.M.PL+INF+1+SG
 urdirde-los	urdir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3193,6 +3216,7 @@ urdíei-lo	urdir+V.ele.ACC.3.M.SG+IMPF+2+PL
 urdia-lo	urdir+V.ele.ACC.3.M.SG+IMPF+2+SG
 urdiam-no	urdir+V.ele.ACC.3.M.SG+IMPF+3+PL
 urdia-o	urdir+V.ele.ACC.3.M.SG+IMPF+3+SG
+urdi-lo	urdir+V.ele.ACC.3.M.SG+INF
 urdirmo-lo	urdir+V.ele.ACC.3.M.SG+INF+1+PL
 urdi-lo	urdir+V.ele.ACC.3.M.SG+INF+1+SG
 urdirde-lo	urdir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3495,6 +3519,7 @@ urgíei-las	urgir+V.ele.ACC.3.F.PL+IMPF+2+PL
 urgia-las	urgir+V.ele.ACC.3.F.PL+IMPF+2+SG
 urgiam-nas	urgir+V.ele.ACC.3.F.PL+IMPF+3+PL
 urgia-as	urgir+V.ele.ACC.3.F.PL+IMPF+3+SG
+urgi-las	urgir+V.ele.ACC.3.F.PL+INF
 urgirmo-las	urgir+V.ele.ACC.3.F.PL+INF+1+PL
 urgi-las	urgir+V.ele.ACC.3.F.PL+INF+1+SG
 urgirde-las	urgir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3541,6 +3566,7 @@ urgíei-la	urgir+V.ele.ACC.3.F.SG+IMPF+2+PL
 urgia-la	urgir+V.ele.ACC.3.F.SG+IMPF+2+SG
 urgiam-na	urgir+V.ele.ACC.3.F.SG+IMPF+3+PL
 urgia-a	urgir+V.ele.ACC.3.F.SG+IMPF+3+SG
+urgi-la	urgir+V.ele.ACC.3.F.SG+INF
 urgirmo-la	urgir+V.ele.ACC.3.F.SG+INF+1+PL
 urgi-la	urgir+V.ele.ACC.3.F.SG+INF+1+SG
 urgirde-la	urgir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3587,6 +3613,7 @@ urgíei-los	urgir+V.ele.ACC.3.M.PL+IMPF+2+PL
 urgia-los	urgir+V.ele.ACC.3.M.PL+IMPF+2+SG
 urgiam-nos	urgir+V.ele.ACC.3.M.PL+IMPF+3+PL
 urgia-os	urgir+V.ele.ACC.3.M.PL+IMPF+3+SG
+urgi-los	urgir+V.ele.ACC.3.M.PL+INF
 urgirmo-los	urgir+V.ele.ACC.3.M.PL+INF+1+PL
 urgi-los	urgir+V.ele.ACC.3.M.PL+INF+1+SG
 urgirde-los	urgir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3633,6 +3660,7 @@ urgíei-lo	urgir+V.ele.ACC.3.M.SG+IMPF+2+PL
 urgia-lo	urgir+V.ele.ACC.3.M.SG+IMPF+2+SG
 urgiam-no	urgir+V.ele.ACC.3.M.SG+IMPF+3+PL
 urgia-o	urgir+V.ele.ACC.3.M.SG+IMPF+3+SG
+urgi-lo	urgir+V.ele.ACC.3.M.SG+INF
 urgirmo-lo	urgir+V.ele.ACC.3.M.SG+INF+1+PL
 urgi-lo	urgir+V.ele.ACC.3.M.SG+INF+1+SG
 urgirde-lo	urgir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3979,6 +4007,7 @@ urticávei-las	urticar+V.ele.ACC.3.F.PL+IMPF+2+PL
 urticava-las	urticar+V.ele.ACC.3.F.PL+IMPF+2+SG
 urticavam-nas	urticar+V.ele.ACC.3.F.PL+IMPF+3+PL
 urticava-as	urticar+V.ele.ACC.3.F.PL+IMPF+3+SG
+urticá-las	urticar+V.ele.ACC.3.F.PL+INF
 urticarmo-las	urticar+V.ele.ACC.3.F.PL+INF+1+PL
 urticá-las	urticar+V.ele.ACC.3.F.PL+INF+1+SG
 urticarde-las	urticar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4030,6 +4059,7 @@ urticávei-la	urticar+V.ele.ACC.3.F.SG+IMPF+2+PL
 urticava-la	urticar+V.ele.ACC.3.F.SG+IMPF+2+SG
 urticavam-na	urticar+V.ele.ACC.3.F.SG+IMPF+3+PL
 urticava-a	urticar+V.ele.ACC.3.F.SG+IMPF+3+SG
+urticá-la	urticar+V.ele.ACC.3.F.SG+INF
 urticarmo-la	urticar+V.ele.ACC.3.F.SG+INF+1+PL
 urticá-la	urticar+V.ele.ACC.3.F.SG+INF+1+SG
 urticarde-la	urticar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4081,6 +4111,7 @@ urticávei-los	urticar+V.ele.ACC.3.M.PL+IMPF+2+PL
 urticava-los	urticar+V.ele.ACC.3.M.PL+IMPF+2+SG
 urticavam-nos	urticar+V.ele.ACC.3.M.PL+IMPF+3+PL
 urticava-os	urticar+V.ele.ACC.3.M.PL+IMPF+3+SG
+urticá-los	urticar+V.ele.ACC.3.M.PL+INF
 urticarmo-los	urticar+V.ele.ACC.3.M.PL+INF+1+PL
 urticá-los	urticar+V.ele.ACC.3.M.PL+INF+1+SG
 urticarde-los	urticar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4132,6 +4163,7 @@ urticávei-lo	urticar+V.ele.ACC.3.M.SG+IMPF+2+PL
 urticava-lo	urticar+V.ele.ACC.3.M.SG+IMPF+2+SG
 urticavam-no	urticar+V.ele.ACC.3.M.SG+IMPF+3+PL
 urticava-o	urticar+V.ele.ACC.3.M.SG+IMPF+3+SG
+urticá-lo	urticar+V.ele.ACC.3.M.SG+INF
 urticarmo-lo	urticar+V.ele.ACC.3.M.SG+INF+1+PL
 urticá-lo	urticar+V.ele.ACC.3.M.SG+INF+1+SG
 urticarde-lo	urticar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4515,6 +4547,7 @@ usucapíei-las	usucapir+V.ele.ACC.3.F.PL+IMPF+2+PL
 usucapia-las	usucapir+V.ele.ACC.3.F.PL+IMPF+2+SG
 usucapiam-nas	usucapir+V.ele.ACC.3.F.PL+IMPF+3+PL
 usucapia-as	usucapir+V.ele.ACC.3.F.PL+IMPF+3+SG
+usucapi-las	usucapir+V.ele.ACC.3.F.PL+INF
 usucapirmo-las	usucapir+V.ele.ACC.3.F.PL+INF+1+PL
 usucapi-las	usucapir+V.ele.ACC.3.F.PL+INF+1+SG
 usucapirde-las	usucapir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4555,6 +4588,7 @@ usucapíei-la	usucapir+V.ele.ACC.3.F.SG+IMPF+2+PL
 usucapia-la	usucapir+V.ele.ACC.3.F.SG+IMPF+2+SG
 usucapiam-na	usucapir+V.ele.ACC.3.F.SG+IMPF+3+PL
 usucapia-a	usucapir+V.ele.ACC.3.F.SG+IMPF+3+SG
+usucapi-la	usucapir+V.ele.ACC.3.F.SG+INF
 usucapirmo-la	usucapir+V.ele.ACC.3.F.SG+INF+1+PL
 usucapi-la	usucapir+V.ele.ACC.3.F.SG+INF+1+SG
 usucapirde-la	usucapir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4595,6 +4629,7 @@ usucapíei-los	usucapir+V.ele.ACC.3.M.PL+IMPF+2+PL
 usucapia-los	usucapir+V.ele.ACC.3.M.PL+IMPF+2+SG
 usucapiam-nos	usucapir+V.ele.ACC.3.M.PL+IMPF+3+PL
 usucapia-os	usucapir+V.ele.ACC.3.M.PL+IMPF+3+SG
+usucapi-los	usucapir+V.ele.ACC.3.M.PL+INF
 usucapirmo-los	usucapir+V.ele.ACC.3.M.PL+INF+1+PL
 usucapi-los	usucapir+V.ele.ACC.3.M.PL+INF+1+SG
 usucapirde-los	usucapir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4635,6 +4670,7 @@ usucapíei-lo	usucapir+V.ele.ACC.3.M.SG+IMPF+2+PL
 usucapia-lo	usucapir+V.ele.ACC.3.M.SG+IMPF+2+SG
 usucapiam-no	usucapir+V.ele.ACC.3.M.SG+IMPF+3+PL
 usucapia-o	usucapir+V.ele.ACC.3.M.SG+IMPF+3+SG
+usucapi-lo	usucapir+V.ele.ACC.3.M.SG+INF
 usucapirmo-lo	usucapir+V.ele.ACC.3.M.SG+INF+1+PL
 usucapi-lo	usucapir+V.ele.ACC.3.M.SG+INF+1+SG
 usucapirde-lo	usucapir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4937,6 +4973,7 @@ usufruíei-las	usufruir+V.ele.ACC.3.F.PL+IMPF+2+PL
 usufruía-las	usufruir+V.ele.ACC.3.F.PL+IMPF+2+SG
 usufruíam-nas	usufruir+V.ele.ACC.3.F.PL+IMPF+3+PL
 usufruía-as	usufruir+V.ele.ACC.3.F.PL+IMPF+3+SG
+usufruí-las	usufruir+V.ele.ACC.3.F.PL+INF
 usufruirmo-las	usufruir+V.ele.ACC.3.F.PL+INF+1+PL
 usufruí-las	usufruir+V.ele.ACC.3.F.PL+INF+1+SG
 usufruirde-las	usufruir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4989,6 +5026,7 @@ usufruíei-la	usufruir+V.ele.ACC.3.F.SG+IMPF+2+PL
 usufruía-la	usufruir+V.ele.ACC.3.F.SG+IMPF+2+SG
 usufruíam-na	usufruir+V.ele.ACC.3.F.SG+IMPF+3+PL
 usufruía-a	usufruir+V.ele.ACC.3.F.SG+IMPF+3+SG
+usufruí-la	usufruir+V.ele.ACC.3.F.SG+INF
 usufruirmo-la	usufruir+V.ele.ACC.3.F.SG+INF+1+PL
 usufruí-la	usufruir+V.ele.ACC.3.F.SG+INF+1+SG
 usufruirde-la	usufruir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5042,6 +5080,7 @@ usufruía-los	usufruir+V.ele.ACC.3.M.PL+IMPF+2+SG
 usufruía-os	usufruir+V.ele.ACC.3.M.PL+IMPF+3+SG
 usufruir-nos	usufruir+V.ele.ACC.3.M.PL+INF
 usufruir-vos	usufruir+V.ele.ACC.3.M.PL+INF
+usufruí-los	usufruir+V.ele.ACC.3.M.PL+INF
 usufruirmo-los	usufruir+V.ele.ACC.3.M.PL+INF+1+PL
 usufruí-los	usufruir+V.ele.ACC.3.M.PL+INF+1+SG
 usufruirde-los	usufruir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5090,6 +5129,7 @@ usufruíei-lo	usufruir+V.ele.ACC.3.M.SG+IMPF+2+PL
 usufruía-lo	usufruir+V.ele.ACC.3.M.SG+IMPF+2+SG
 usufruíam-no	usufruir+V.ele.ACC.3.M.SG+IMPF+3+PL
 usufruía-o	usufruir+V.ele.ACC.3.M.SG+IMPF+3+SG
+usufruí-lo	usufruir+V.ele.ACC.3.M.SG+INF
 usufruirmo-lo	usufruir+V.ele.ACC.3.M.SG+INF+1+PL
 usufruí-lo	usufruir+V.ele.ACC.3.M.SG+INF+1+SG
 usufruirde-lo	usufruir+V.ele.ACC.3.M.SG+INF+2+PL

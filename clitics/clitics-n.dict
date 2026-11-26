@@ -20,6 +20,7 @@ nadificávei-las	nadificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 nadificava-las	nadificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 nadificavam-nas	nadificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 nadificava-as	nadificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+nadificá-las	nadificar+V.ele.ACC.3.F.PL+INF
 nadificarmo-las	nadificar+V.ele.ACC.3.F.PL+INF+1+PL
 nadificá-las	nadificar+V.ele.ACC.3.F.PL+INF+1+SG
 nadificarde-las	nadificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -71,6 +72,7 @@ nadificávei-la	nadificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 nadificava-la	nadificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 nadificavam-na	nadificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 nadificava-a	nadificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+nadificá-la	nadificar+V.ele.ACC.3.F.SG+INF
 nadificarmo-la	nadificar+V.ele.ACC.3.F.SG+INF+1+PL
 nadificá-la	nadificar+V.ele.ACC.3.F.SG+INF+1+SG
 nadificarde-la	nadificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -122,6 +124,7 @@ nadificávei-los	nadificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 nadificava-los	nadificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 nadificavam-nos	nadificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 nadificava-os	nadificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+nadificá-los	nadificar+V.ele.ACC.3.M.PL+INF
 nadificarmo-los	nadificar+V.ele.ACC.3.M.PL+INF+1+PL
 nadificá-los	nadificar+V.ele.ACC.3.M.PL+INF+1+SG
 nadificarde-los	nadificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -173,6 +176,7 @@ nadificávei-lo	nadificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 nadificava-lo	nadificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 nadificavam-no	nadificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 nadificava-o	nadificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+nadificá-lo	nadificar+V.ele.ACC.3.M.SG+INF
 nadificarmo-lo	nadificar+V.ele.ACC.3.M.SG+INF+1+PL
 nadificá-lo	nadificar+V.ele.ACC.3.M.SG+INF+1+SG
 nadificarde-lo	nadificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -556,6 +560,7 @@ namoricávei-las	namoricar+V.ele.ACC.3.F.PL+IMPF+2+PL
 namoricava-las	namoricar+V.ele.ACC.3.F.PL+IMPF+2+SG
 namoricavam-nas	namoricar+V.ele.ACC.3.F.PL+IMPF+3+PL
 namoricava-as	namoricar+V.ele.ACC.3.F.PL+IMPF+3+SG
+namoricá-las	namoricar+V.ele.ACC.3.F.PL+INF
 namoricarmo-las	namoricar+V.ele.ACC.3.F.PL+INF+1+PL
 namoricá-las	namoricar+V.ele.ACC.3.F.PL+INF+1+SG
 namoricarde-las	namoricar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -607,6 +612,7 @@ namoricávei-la	namoricar+V.ele.ACC.3.F.SG+IMPF+2+PL
 namoricava-la	namoricar+V.ele.ACC.3.F.SG+IMPF+2+SG
 namoricavam-na	namoricar+V.ele.ACC.3.F.SG+IMPF+3+PL
 namoricava-a	namoricar+V.ele.ACC.3.F.SG+IMPF+3+SG
+namoricá-la	namoricar+V.ele.ACC.3.F.SG+INF
 namoricarmo-la	namoricar+V.ele.ACC.3.F.SG+INF+1+PL
 namoricá-la	namoricar+V.ele.ACC.3.F.SG+INF+1+SG
 namoricarde-la	namoricar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -658,6 +664,7 @@ namoricávei-los	namoricar+V.ele.ACC.3.M.PL+IMPF+2+PL
 namoricava-los	namoricar+V.ele.ACC.3.M.PL+IMPF+2+SG
 namoricavam-nos	namoricar+V.ele.ACC.3.M.PL+IMPF+3+PL
 namoricava-os	namoricar+V.ele.ACC.3.M.PL+IMPF+3+SG
+namoricá-los	namoricar+V.ele.ACC.3.M.PL+INF
 namoricarmo-los	namoricar+V.ele.ACC.3.M.PL+INF+1+PL
 namoricá-los	namoricar+V.ele.ACC.3.M.PL+INF+1+SG
 namoricarde-los	namoricar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -709,6 +716,7 @@ namoricávei-lo	namoricar+V.ele.ACC.3.M.SG+IMPF+2+PL
 namoricava-lo	namoricar+V.ele.ACC.3.M.SG+IMPF+2+SG
 namoricavam-no	namoricar+V.ele.ACC.3.M.SG+IMPF+3+PL
 namoricava-o	namoricar+V.ele.ACC.3.M.SG+IMPF+3+SG
+namoricá-lo	namoricar+V.ele.ACC.3.M.SG+INF
 namoricarmo-lo	namoricar+V.ele.ACC.3.M.SG+INF+1+PL
 namoricá-lo	namoricar+V.ele.ACC.3.M.SG+INF+1+SG
 namoricarde-lo	namoricar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1092,6 +1100,7 @@ namoriscávei-las	namoriscar+V.ele.ACC.3.F.PL+IMPF+2+PL
 namoriscava-las	namoriscar+V.ele.ACC.3.F.PL+IMPF+2+SG
 namoriscavam-nas	namoriscar+V.ele.ACC.3.F.PL+IMPF+3+PL
 namoriscava-as	namoriscar+V.ele.ACC.3.F.PL+IMPF+3+SG
+namoriscá-las	namoriscar+V.ele.ACC.3.F.PL+INF
 namoriscarmo-las	namoriscar+V.ele.ACC.3.F.PL+INF+1+PL
 namoriscá-las	namoriscar+V.ele.ACC.3.F.PL+INF+1+SG
 namoriscarde-las	namoriscar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1143,6 +1152,7 @@ namoriscávei-la	namoriscar+V.ele.ACC.3.F.SG+IMPF+2+PL
 namoriscava-la	namoriscar+V.ele.ACC.3.F.SG+IMPF+2+SG
 namoriscavam-na	namoriscar+V.ele.ACC.3.F.SG+IMPF+3+PL
 namoriscava-a	namoriscar+V.ele.ACC.3.F.SG+IMPF+3+SG
+namoriscá-la	namoriscar+V.ele.ACC.3.F.SG+INF
 namoriscarmo-la	namoriscar+V.ele.ACC.3.F.SG+INF+1+PL
 namoriscá-la	namoriscar+V.ele.ACC.3.F.SG+INF+1+SG
 namoriscarde-la	namoriscar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1194,6 +1204,7 @@ namoriscávei-los	namoriscar+V.ele.ACC.3.M.PL+IMPF+2+PL
 namoriscava-los	namoriscar+V.ele.ACC.3.M.PL+IMPF+2+SG
 namoriscavam-nos	namoriscar+V.ele.ACC.3.M.PL+IMPF+3+PL
 namoriscava-os	namoriscar+V.ele.ACC.3.M.PL+IMPF+3+SG
+namoriscá-los	namoriscar+V.ele.ACC.3.M.PL+INF
 namoriscarmo-los	namoriscar+V.ele.ACC.3.M.PL+INF+1+PL
 namoriscá-los	namoriscar+V.ele.ACC.3.M.PL+INF+1+SG
 namoriscarde-los	namoriscar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1245,6 +1256,7 @@ namoriscávei-lo	namoriscar+V.ele.ACC.3.M.SG+IMPF+2+PL
 namoriscava-lo	namoriscar+V.ele.ACC.3.M.SG+IMPF+2+SG
 namoriscavam-no	namoriscar+V.ele.ACC.3.M.SG+IMPF+3+PL
 namoriscava-o	namoriscar+V.ele.ACC.3.M.SG+IMPF+3+SG
+namoriscá-lo	namoriscar+V.ele.ACC.3.M.SG+INF
 namoriscarmo-lo	namoriscar+V.ele.ACC.3.M.SG+INF+1+PL
 namoriscá-lo	namoriscar+V.ele.ACC.3.M.SG+INF+1+SG
 namoriscarde-lo	namoriscar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2164,6 +2176,7 @@ nauseávei-las	nausear+V.ele.ACC.3.F.PL+IMPF+2+PL
 nauseava-las	nausear+V.ele.ACC.3.F.PL+IMPF+2+SG
 nauseavam-nas	nausear+V.ele.ACC.3.F.PL+IMPF+3+PL
 nauseava-as	nausear+V.ele.ACC.3.F.PL+IMPF+3+SG
+nauseá-las	nausear+V.ele.ACC.3.F.PL+INF
 nausearmo-las	nausear+V.ele.ACC.3.F.PL+INF+1+PL
 nauseá-las	nausear+V.ele.ACC.3.F.PL+INF+1+SG
 nausearde-las	nausear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2213,6 +2226,7 @@ nauseávei-la	nausear+V.ele.ACC.3.F.SG+IMPF+2+PL
 nauseava-la	nausear+V.ele.ACC.3.F.SG+IMPF+2+SG
 nauseavam-na	nausear+V.ele.ACC.3.F.SG+IMPF+3+PL
 nauseava-a	nausear+V.ele.ACC.3.F.SG+IMPF+3+SG
+nauseá-la	nausear+V.ele.ACC.3.F.SG+INF
 nausearmo-la	nausear+V.ele.ACC.3.F.SG+INF+1+PL
 nauseá-la	nausear+V.ele.ACC.3.F.SG+INF+1+SG
 nausearde-la	nausear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2262,6 +2276,7 @@ nauseávei-los	nausear+V.ele.ACC.3.M.PL+IMPF+2+PL
 nauseava-los	nausear+V.ele.ACC.3.M.PL+IMPF+2+SG
 nauseavam-nos	nausear+V.ele.ACC.3.M.PL+IMPF+3+PL
 nauseava-os	nausear+V.ele.ACC.3.M.PL+IMPF+3+SG
+nauseá-los	nausear+V.ele.ACC.3.M.PL+INF
 nausearmo-los	nausear+V.ele.ACC.3.M.PL+INF+1+PL
 nauseá-los	nausear+V.ele.ACC.3.M.PL+INF+1+SG
 nausearde-los	nausear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2311,6 +2326,7 @@ nauseávei-lo	nausear+V.ele.ACC.3.M.SG+IMPF+2+PL
 nauseava-lo	nausear+V.ele.ACC.3.M.SG+IMPF+2+SG
 nauseavam-no	nausear+V.ele.ACC.3.M.SG+IMPF+3+PL
 nauseava-o	nausear+V.ele.ACC.3.M.SG+IMPF+3+SG
+nauseá-lo	nausear+V.ele.ACC.3.M.SG+INF
 nausearmo-lo	nausear+V.ele.ACC.3.M.SG+INF+1+PL
 nauseá-lo	nausear+V.ele.ACC.3.M.SG+INF+1+SG
 nausearde-lo	nausear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2678,6 +2694,7 @@ neceávei-las	necear+V.ele.ACC.3.F.PL+IMPF+2+PL
 neceava-las	necear+V.ele.ACC.3.F.PL+IMPF+2+SG
 neceavam-nas	necear+V.ele.ACC.3.F.PL+IMPF+3+PL
 neceava-as	necear+V.ele.ACC.3.F.PL+IMPF+3+SG
+neceá-las	necear+V.ele.ACC.3.F.PL+INF
 necearmo-las	necear+V.ele.ACC.3.F.PL+INF+1+PL
 neceá-las	necear+V.ele.ACC.3.F.PL+INF+1+SG
 necearde-las	necear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2727,6 +2744,7 @@ neceávei-la	necear+V.ele.ACC.3.F.SG+IMPF+2+PL
 neceava-la	necear+V.ele.ACC.3.F.SG+IMPF+2+SG
 neceavam-na	necear+V.ele.ACC.3.F.SG+IMPF+3+PL
 neceava-a	necear+V.ele.ACC.3.F.SG+IMPF+3+SG
+neceá-la	necear+V.ele.ACC.3.F.SG+INF
 necearmo-la	necear+V.ele.ACC.3.F.SG+INF+1+PL
 neceá-la	necear+V.ele.ACC.3.F.SG+INF+1+SG
 necearde-la	necear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2776,6 +2794,7 @@ neceávei-los	necear+V.ele.ACC.3.M.PL+IMPF+2+PL
 neceava-los	necear+V.ele.ACC.3.M.PL+IMPF+2+SG
 neceavam-nos	necear+V.ele.ACC.3.M.PL+IMPF+3+PL
 neceava-os	necear+V.ele.ACC.3.M.PL+IMPF+3+SG
+neceá-los	necear+V.ele.ACC.3.M.PL+INF
 necearmo-los	necear+V.ele.ACC.3.M.PL+INF+1+PL
 neceá-los	necear+V.ele.ACC.3.M.PL+INF+1+SG
 necearde-los	necear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2825,6 +2844,7 @@ neceávei-lo	necear+V.ele.ACC.3.M.SG+IMPF+2+PL
 neceava-lo	necear+V.ele.ACC.3.M.SG+IMPF+2+SG
 neceavam-no	necear+V.ele.ACC.3.M.SG+IMPF+3+PL
 neceava-o	necear+V.ele.ACC.3.M.SG+IMPF+3+SG
+neceá-lo	necear+V.ele.ACC.3.M.SG+INF
 necearmo-lo	necear+V.ele.ACC.3.M.SG+INF+1+PL
 neceá-lo	necear+V.ele.ACC.3.M.SG+INF+1+SG
 necearde-lo	necear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3192,6 +3212,7 @@ negaceávei-las	negacear+V.ele.ACC.3.F.PL+IMPF+2+PL
 negaceava-las	negacear+V.ele.ACC.3.F.PL+IMPF+2+SG
 negaceavam-nas	negacear+V.ele.ACC.3.F.PL+IMPF+3+PL
 negaceava-as	negacear+V.ele.ACC.3.F.PL+IMPF+3+SG
+negaceá-las	negacear+V.ele.ACC.3.F.PL+INF
 negacearmo-las	negacear+V.ele.ACC.3.F.PL+INF+1+PL
 negaceá-las	negacear+V.ele.ACC.3.F.PL+INF+1+SG
 negacearde-las	negacear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3241,6 +3262,7 @@ negaceávei-la	negacear+V.ele.ACC.3.F.SG+IMPF+2+PL
 negaceava-la	negacear+V.ele.ACC.3.F.SG+IMPF+2+SG
 negaceavam-na	negacear+V.ele.ACC.3.F.SG+IMPF+3+PL
 negaceava-a	negacear+V.ele.ACC.3.F.SG+IMPF+3+SG
+negaceá-la	negacear+V.ele.ACC.3.F.SG+INF
 negacearmo-la	negacear+V.ele.ACC.3.F.SG+INF+1+PL
 negaceá-la	negacear+V.ele.ACC.3.F.SG+INF+1+SG
 negacearde-la	negacear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3290,6 +3312,7 @@ negaceávei-los	negacear+V.ele.ACC.3.M.PL+IMPF+2+PL
 negaceava-los	negacear+V.ele.ACC.3.M.PL+IMPF+2+SG
 negaceavam-nos	negacear+V.ele.ACC.3.M.PL+IMPF+3+PL
 negaceava-os	negacear+V.ele.ACC.3.M.PL+IMPF+3+SG
+negaceá-los	negacear+V.ele.ACC.3.M.PL+INF
 negacearmo-los	negacear+V.ele.ACC.3.M.PL+INF+1+PL
 negaceá-los	negacear+V.ele.ACC.3.M.PL+INF+1+SG
 negacearde-los	negacear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3339,6 +3362,7 @@ negaceávei-lo	negacear+V.ele.ACC.3.M.SG+IMPF+2+PL
 negaceava-lo	negacear+V.ele.ACC.3.M.SG+IMPF+2+SG
 negaceavam-no	negacear+V.ele.ACC.3.M.SG+IMPF+3+PL
 negaceava-o	negacear+V.ele.ACC.3.M.SG+IMPF+3+SG
+negaceá-lo	negacear+V.ele.ACC.3.M.SG+INF
 negacearmo-lo	negacear+V.ele.ACC.3.M.SG+INF+1+PL
 negaceá-lo	negacear+V.ele.ACC.3.M.SG+INF+1+SG
 negacearde-lo	negacear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3709,6 +3733,7 @@ negociávei-las	negociar+V.ele.ACC.3.F.PL+IMPF+2+PL
 negociava-las	negociar+V.ele.ACC.3.F.PL+IMPF+2+SG
 negociavam-nas	negociar+V.ele.ACC.3.F.PL+IMPF+3+PL
 negociava-as	negociar+V.ele.ACC.3.F.PL+IMPF+3+SG
+negociá-las	negociar+V.ele.ACC.3.F.PL+INF
 negociarmo-las	negociar+V.ele.ACC.3.F.PL+INF+1+PL
 negociá-las	negociar+V.ele.ACC.3.F.PL+INF+1+SG
 negociarde-las	negociar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3761,6 +3786,7 @@ negociávei-la	negociar+V.ele.ACC.3.F.SG+IMPF+2+PL
 negociava-la	negociar+V.ele.ACC.3.F.SG+IMPF+2+SG
 negociavam-na	negociar+V.ele.ACC.3.F.SG+IMPF+3+PL
 negociava-a	negociar+V.ele.ACC.3.F.SG+IMPF+3+SG
+negociá-la	negociar+V.ele.ACC.3.F.SG+INF
 negociarmo-la	negociar+V.ele.ACC.3.F.SG+INF+1+PL
 negociá-la	negociar+V.ele.ACC.3.F.SG+INF+1+SG
 negociarde-la	negociar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3813,6 +3839,7 @@ negociávei-los	negociar+V.ele.ACC.3.M.PL+IMPF+2+PL
 negociava-los	negociar+V.ele.ACC.3.M.PL+IMPF+2+SG
 negociavam-nos	negociar+V.ele.ACC.3.M.PL+IMPF+3+PL
 negociava-os	negociar+V.ele.ACC.3.M.PL+IMPF+3+SG
+negociá-los	negociar+V.ele.ACC.3.M.PL+INF
 negociarmo-los	negociar+V.ele.ACC.3.M.PL+INF+1+PL
 negociá-los	negociar+V.ele.ACC.3.M.PL+INF+1+SG
 negociarde-los	negociar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3865,6 +3892,7 @@ negociávei-lo	negociar+V.ele.ACC.3.M.SG+IMPF+2+PL
 negociava-lo	negociar+V.ele.ACC.3.M.SG+IMPF+2+SG
 negociavam-no	negociar+V.ele.ACC.3.M.SG+IMPF+3+PL
 negociava-o	negociar+V.ele.ACC.3.M.SG+IMPF+3+SG
+negociá-lo	negociar+V.ele.ACC.3.M.SG+INF
 negociarmo-lo	negociar+V.ele.ACC.3.M.SG+INF+1+PL
 negociá-lo	negociar+V.ele.ACC.3.M.SG+INF+1+SG
 negociarde-lo	negociar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4255,6 +4283,7 @@ neviscávei-las	neviscar+V.ele.ACC.3.F.PL+IMPF+2+PL
 neviscava-las	neviscar+V.ele.ACC.3.F.PL+IMPF+2+SG
 neviscavam-nas	neviscar+V.ele.ACC.3.F.PL+IMPF+3+PL
 neviscava-as	neviscar+V.ele.ACC.3.F.PL+IMPF+3+SG
+neviscá-las	neviscar+V.ele.ACC.3.F.PL+INF
 neviscarmo-las	neviscar+V.ele.ACC.3.F.PL+INF+1+PL
 neviscá-las	neviscar+V.ele.ACC.3.F.PL+INF+1+SG
 neviscarde-las	neviscar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4306,6 +4335,7 @@ neviscávei-la	neviscar+V.ele.ACC.3.F.SG+IMPF+2+PL
 neviscava-la	neviscar+V.ele.ACC.3.F.SG+IMPF+2+SG
 neviscavam-na	neviscar+V.ele.ACC.3.F.SG+IMPF+3+PL
 neviscava-a	neviscar+V.ele.ACC.3.F.SG+IMPF+3+SG
+neviscá-la	neviscar+V.ele.ACC.3.F.SG+INF
 neviscarmo-la	neviscar+V.ele.ACC.3.F.SG+INF+1+PL
 neviscá-la	neviscar+V.ele.ACC.3.F.SG+INF+1+SG
 neviscarde-la	neviscar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4357,6 +4387,7 @@ neviscávei-los	neviscar+V.ele.ACC.3.M.PL+IMPF+2+PL
 neviscava-los	neviscar+V.ele.ACC.3.M.PL+IMPF+2+SG
 neviscavam-nos	neviscar+V.ele.ACC.3.M.PL+IMPF+3+PL
 neviscava-os	neviscar+V.ele.ACC.3.M.PL+IMPF+3+SG
+neviscá-los	neviscar+V.ele.ACC.3.M.PL+INF
 neviscarmo-los	neviscar+V.ele.ACC.3.M.PL+INF+1+PL
 neviscá-los	neviscar+V.ele.ACC.3.M.PL+INF+1+SG
 neviscarde-los	neviscar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4408,6 +4439,7 @@ neviscávei-lo	neviscar+V.ele.ACC.3.M.SG+IMPF+2+PL
 neviscava-lo	neviscar+V.ele.ACC.3.M.SG+IMPF+2+SG
 neviscavam-no	neviscar+V.ele.ACC.3.M.SG+IMPF+3+PL
 neviscava-o	neviscar+V.ele.ACC.3.M.SG+IMPF+3+SG
+neviscá-lo	neviscar+V.ele.ACC.3.M.SG+INF
 neviscarmo-lo	neviscar+V.ele.ACC.3.M.SG+INF+1+PL
 neviscá-lo	neviscar+V.ele.ACC.3.M.SG+INF+1+SG
 neviscarde-lo	neviscar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4791,6 +4823,7 @@ nevoávei-las	nevoar+V.ele.ACC.3.F.PL+IMPF+2+PL
 nevoava-las	nevoar+V.ele.ACC.3.F.PL+IMPF+2+SG
 nevoavam-nas	nevoar+V.ele.ACC.3.F.PL+IMPF+3+PL
 nevoava-as	nevoar+V.ele.ACC.3.F.PL+IMPF+3+SG
+nevoá-las	nevoar+V.ele.ACC.3.F.PL+INF
 nevoarmo-las	nevoar+V.ele.ACC.3.F.PL+INF+1+PL
 nevoá-las	nevoar+V.ele.ACC.3.F.PL+INF+1+SG
 nevoarde-las	nevoar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4843,6 +4876,7 @@ nevoávei-la	nevoar+V.ele.ACC.3.F.SG+IMPF+2+PL
 nevoava-la	nevoar+V.ele.ACC.3.F.SG+IMPF+2+SG
 nevoavam-na	nevoar+V.ele.ACC.3.F.SG+IMPF+3+PL
 nevoava-a	nevoar+V.ele.ACC.3.F.SG+IMPF+3+SG
+nevoá-la	nevoar+V.ele.ACC.3.F.SG+INF
 nevoarmo-la	nevoar+V.ele.ACC.3.F.SG+INF+1+PL
 nevoá-la	nevoar+V.ele.ACC.3.F.SG+INF+1+SG
 nevoarde-la	nevoar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4895,6 +4929,7 @@ nevoávei-los	nevoar+V.ele.ACC.3.M.PL+IMPF+2+PL
 nevoava-los	nevoar+V.ele.ACC.3.M.PL+IMPF+2+SG
 nevoavam-nos	nevoar+V.ele.ACC.3.M.PL+IMPF+3+PL
 nevoava-os	nevoar+V.ele.ACC.3.M.PL+IMPF+3+SG
+nevoá-los	nevoar+V.ele.ACC.3.M.PL+INF
 nevoarmo-los	nevoar+V.ele.ACC.3.M.PL+INF+1+PL
 nevoá-los	nevoar+V.ele.ACC.3.M.PL+INF+1+SG
 nevoarde-los	nevoar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4947,6 +4982,7 @@ nevoávei-lo	nevoar+V.ele.ACC.3.M.SG+IMPF+2+PL
 nevoava-lo	nevoar+V.ele.ACC.3.M.SG+IMPF+2+SG
 nevoavam-no	nevoar+V.ele.ACC.3.M.SG+IMPF+3+PL
 nevoava-o	nevoar+V.ele.ACC.3.M.SG+IMPF+3+SG
+nevoá-lo	nevoar+V.ele.ACC.3.M.SG+INF
 nevoarmo-lo	nevoar+V.ele.ACC.3.M.SG+INF+1+PL
 nevoá-lo	nevoar+V.ele.ACC.3.M.SG+INF+1+SG
 nevoarde-lo	nevoar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5337,6 +5373,7 @@ nicávei-las	nicar+V.ele.ACC.3.F.PL+IMPF+2+PL
 nicava-las	nicar+V.ele.ACC.3.F.PL+IMPF+2+SG
 nicavam-nas	nicar+V.ele.ACC.3.F.PL+IMPF+3+PL
 nicava-as	nicar+V.ele.ACC.3.F.PL+IMPF+3+SG
+nicá-las	nicar+V.ele.ACC.3.F.PL+INF
 nicarmo-las	nicar+V.ele.ACC.3.F.PL+INF+1+PL
 nicá-las	nicar+V.ele.ACC.3.F.PL+INF+1+SG
 nicarde-las	nicar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5388,6 +5425,7 @@ nicávei-la	nicar+V.ele.ACC.3.F.SG+IMPF+2+PL
 nicava-la	nicar+V.ele.ACC.3.F.SG+IMPF+2+SG
 nicavam-na	nicar+V.ele.ACC.3.F.SG+IMPF+3+PL
 nicava-a	nicar+V.ele.ACC.3.F.SG+IMPF+3+SG
+nicá-la	nicar+V.ele.ACC.3.F.SG+INF
 nicarmo-la	nicar+V.ele.ACC.3.F.SG+INF+1+PL
 nicá-la	nicar+V.ele.ACC.3.F.SG+INF+1+SG
 nicarde-la	nicar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5439,6 +5477,7 @@ nicávei-los	nicar+V.ele.ACC.3.M.PL+IMPF+2+PL
 nicava-los	nicar+V.ele.ACC.3.M.PL+IMPF+2+SG
 nicavam-nos	nicar+V.ele.ACC.3.M.PL+IMPF+3+PL
 nicava-os	nicar+V.ele.ACC.3.M.PL+IMPF+3+SG
+nicá-los	nicar+V.ele.ACC.3.M.PL+INF
 nicarmo-los	nicar+V.ele.ACC.3.M.PL+INF+1+PL
 nicá-los	nicar+V.ele.ACC.3.M.PL+INF+1+SG
 nicarde-los	nicar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5490,6 +5529,7 @@ nicávei-lo	nicar+V.ele.ACC.3.M.SG+IMPF+2+PL
 nicava-lo	nicar+V.ele.ACC.3.M.SG+IMPF+2+SG
 nicavam-no	nicar+V.ele.ACC.3.M.SG+IMPF+3+PL
 nicava-o	nicar+V.ele.ACC.3.M.SG+IMPF+3+SG
+nicá-lo	nicar+V.ele.ACC.3.M.SG+INF
 nicarmo-lo	nicar+V.ele.ACC.3.M.SG+INF+1+PL
 nicá-lo	nicar+V.ele.ACC.3.M.SG+INF+1+SG
 nicarde-lo	nicar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5873,6 +5913,7 @@ nidificávei-las	nidificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 nidificava-las	nidificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 nidificavam-nas	nidificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 nidificava-as	nidificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+nidificá-las	nidificar+V.ele.ACC.3.F.PL+INF
 nidificarmo-las	nidificar+V.ele.ACC.3.F.PL+INF+1+PL
 nidificá-las	nidificar+V.ele.ACC.3.F.PL+INF+1+SG
 nidificarde-las	nidificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5924,6 +5965,7 @@ nidificávei-la	nidificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 nidificava-la	nidificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 nidificavam-na	nidificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 nidificava-a	nidificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+nidificá-la	nidificar+V.ele.ACC.3.F.SG+INF
 nidificarmo-la	nidificar+V.ele.ACC.3.F.SG+INF+1+PL
 nidificá-la	nidificar+V.ele.ACC.3.F.SG+INF+1+SG
 nidificarde-la	nidificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5975,6 +6017,7 @@ nidificávei-los	nidificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 nidificava-los	nidificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 nidificavam-nos	nidificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 nidificava-os	nidificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+nidificá-los	nidificar+V.ele.ACC.3.M.PL+INF
 nidificarmo-los	nidificar+V.ele.ACC.3.M.PL+INF+1+PL
 nidificá-los	nidificar+V.ele.ACC.3.M.PL+INF+1+SG
 nidificarde-los	nidificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6026,6 +6069,7 @@ nidificávei-lo	nidificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 nidificava-lo	nidificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 nidificavam-no	nidificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 nidificava-o	nidificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+nidificá-lo	nidificar+V.ele.ACC.3.M.SG+INF
 nidificarmo-lo	nidificar+V.ele.ACC.3.M.SG+INF+1+PL
 nidificá-lo	nidificar+V.ele.ACC.3.M.SG+INF+1+SG
 nidificarde-lo	nidificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6409,6 +6453,7 @@ nitrificávei-las	nitrificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 nitrificava-las	nitrificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 nitrificavam-nas	nitrificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 nitrificava-as	nitrificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+nitrificá-las	nitrificar+V.ele.ACC.3.F.PL+INF
 nitrificarmo-las	nitrificar+V.ele.ACC.3.F.PL+INF+1+PL
 nitrificá-las	nitrificar+V.ele.ACC.3.F.PL+INF+1+SG
 nitrificarde-las	nitrificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6460,6 +6505,7 @@ nitrificávei-la	nitrificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 nitrificava-la	nitrificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 nitrificavam-na	nitrificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 nitrificava-a	nitrificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+nitrificá-la	nitrificar+V.ele.ACC.3.F.SG+INF
 nitrificarmo-la	nitrificar+V.ele.ACC.3.F.SG+INF+1+PL
 nitrificá-la	nitrificar+V.ele.ACC.3.F.SG+INF+1+SG
 nitrificarde-la	nitrificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6511,6 +6557,7 @@ nitrificávei-los	nitrificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 nitrificava-los	nitrificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 nitrificavam-nos	nitrificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 nitrificava-os	nitrificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+nitrificá-los	nitrificar+V.ele.ACC.3.M.PL+INF
 nitrificarmo-los	nitrificar+V.ele.ACC.3.M.PL+INF+1+PL
 nitrificá-los	nitrificar+V.ele.ACC.3.M.PL+INF+1+SG
 nitrificarde-los	nitrificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6562,6 +6609,7 @@ nitrificávei-lo	nitrificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 nitrificava-lo	nitrificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 nitrificavam-no	nitrificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 nitrificava-o	nitrificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+nitrificá-lo	nitrificar+V.ele.ACC.3.M.SG+INF
 nitrificarmo-lo	nitrificar+V.ele.ACC.3.M.SG+INF+1+PL
 nitrificá-lo	nitrificar+V.ele.ACC.3.M.SG+INF+1+SG
 nitrificarde-lo	nitrificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6945,6 +6993,7 @@ nitríei-las	nitrir+V.ele.ACC.3.F.PL+IMPF+2+PL
 nitria-las	nitrir+V.ele.ACC.3.F.PL+IMPF+2+SG
 nitriam-nas	nitrir+V.ele.ACC.3.F.PL+IMPF+3+PL
 nitria-as	nitrir+V.ele.ACC.3.F.PL+IMPF+3+SG
+nitri-las	nitrir+V.ele.ACC.3.F.PL+INF
 nitrirmo-las	nitrir+V.ele.ACC.3.F.PL+INF+1+PL
 nitri-las	nitrir+V.ele.ACC.3.F.PL+INF+1+SG
 nitrirde-las	nitrir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6985,6 +7034,7 @@ nitríei-la	nitrir+V.ele.ACC.3.F.SG+IMPF+2+PL
 nitria-la	nitrir+V.ele.ACC.3.F.SG+IMPF+2+SG
 nitriam-na	nitrir+V.ele.ACC.3.F.SG+IMPF+3+PL
 nitria-a	nitrir+V.ele.ACC.3.F.SG+IMPF+3+SG
+nitri-la	nitrir+V.ele.ACC.3.F.SG+INF
 nitrirmo-la	nitrir+V.ele.ACC.3.F.SG+INF+1+PL
 nitri-la	nitrir+V.ele.ACC.3.F.SG+INF+1+SG
 nitrirde-la	nitrir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7025,6 +7075,7 @@ nitríei-los	nitrir+V.ele.ACC.3.M.PL+IMPF+2+PL
 nitria-los	nitrir+V.ele.ACC.3.M.PL+IMPF+2+SG
 nitriam-nos	nitrir+V.ele.ACC.3.M.PL+IMPF+3+PL
 nitria-os	nitrir+V.ele.ACC.3.M.PL+IMPF+3+SG
+nitri-los	nitrir+V.ele.ACC.3.M.PL+INF
 nitrirmo-los	nitrir+V.ele.ACC.3.M.PL+INF+1+PL
 nitri-los	nitrir+V.ele.ACC.3.M.PL+INF+1+SG
 nitrirde-los	nitrir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -7065,6 +7116,7 @@ nitríei-lo	nitrir+V.ele.ACC.3.M.SG+IMPF+2+PL
 nitria-lo	nitrir+V.ele.ACC.3.M.SG+IMPF+2+SG
 nitriam-no	nitrir+V.ele.ACC.3.M.SG+IMPF+3+PL
 nitria-o	nitrir+V.ele.ACC.3.M.SG+IMPF+3+SG
+nitri-lo	nitrir+V.ele.ACC.3.M.SG+INF
 nitrirmo-lo	nitrir+V.ele.ACC.3.M.SG+INF+1+PL
 nitri-lo	nitrir+V.ele.ACC.3.M.SG+INF+1+SG
 nitrirde-lo	nitrir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -7903,6 +7955,7 @@ nocauteávei-las	nocautear+V.ele.ACC.3.F.PL+IMPF+2+PL
 nocauteava-las	nocautear+V.ele.ACC.3.F.PL+IMPF+2+SG
 nocauteavam-nas	nocautear+V.ele.ACC.3.F.PL+IMPF+3+PL
 nocauteava-as	nocautear+V.ele.ACC.3.F.PL+IMPF+3+SG
+nocauteá-las	nocautear+V.ele.ACC.3.F.PL+INF
 nocautearmo-las	nocautear+V.ele.ACC.3.F.PL+INF+1+PL
 nocauteá-las	nocautear+V.ele.ACC.3.F.PL+INF+1+SG
 nocautearde-las	nocautear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -7952,6 +8005,7 @@ nocauteávei-la	nocautear+V.ele.ACC.3.F.SG+IMPF+2+PL
 nocauteava-la	nocautear+V.ele.ACC.3.F.SG+IMPF+2+SG
 nocauteavam-na	nocautear+V.ele.ACC.3.F.SG+IMPF+3+PL
 nocauteava-a	nocautear+V.ele.ACC.3.F.SG+IMPF+3+SG
+nocauteá-la	nocautear+V.ele.ACC.3.F.SG+INF
 nocautearmo-la	nocautear+V.ele.ACC.3.F.SG+INF+1+PL
 nocauteá-la	nocautear+V.ele.ACC.3.F.SG+INF+1+SG
 nocautearde-la	nocautear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -8001,6 +8055,7 @@ nocauteávei-los	nocautear+V.ele.ACC.3.M.PL+IMPF+2+PL
 nocauteava-los	nocautear+V.ele.ACC.3.M.PL+IMPF+2+SG
 nocauteavam-nos	nocautear+V.ele.ACC.3.M.PL+IMPF+3+PL
 nocauteava-os	nocautear+V.ele.ACC.3.M.PL+IMPF+3+SG
+nocauteá-los	nocautear+V.ele.ACC.3.M.PL+INF
 nocautearmo-los	nocautear+V.ele.ACC.3.M.PL+INF+1+PL
 nocauteá-los	nocautear+V.ele.ACC.3.M.PL+INF+1+SG
 nocautearde-los	nocautear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8050,6 +8105,7 @@ nocauteávei-lo	nocautear+V.ele.ACC.3.M.SG+IMPF+2+PL
 nocauteava-lo	nocautear+V.ele.ACC.3.M.SG+IMPF+2+SG
 nocauteavam-no	nocautear+V.ele.ACC.3.M.SG+IMPF+3+PL
 nocauteava-o	nocautear+V.ele.ACC.3.M.SG+IMPF+3+SG
+nocauteá-lo	nocautear+V.ele.ACC.3.M.SG+INF
 nocautearmo-lo	nocautear+V.ele.ACC.3.M.SG+INF+1+PL
 nocauteá-lo	nocautear+V.ele.ACC.3.M.SG+INF+1+SG
 nocautearde-lo	nocautear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -8420,6 +8476,7 @@ nodoávei-las	nodoar+V.ele.ACC.3.F.PL+IMPF+2+PL
 nodoava-las	nodoar+V.ele.ACC.3.F.PL+IMPF+2+SG
 nodoavam-nas	nodoar+V.ele.ACC.3.F.PL+IMPF+3+PL
 nodoava-as	nodoar+V.ele.ACC.3.F.PL+IMPF+3+SG
+nodoá-las	nodoar+V.ele.ACC.3.F.PL+INF
 nodoarmo-las	nodoar+V.ele.ACC.3.F.PL+INF+1+PL
 nodoá-las	nodoar+V.ele.ACC.3.F.PL+INF+1+SG
 nodoarde-las	nodoar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -8472,6 +8529,7 @@ nodoávei-la	nodoar+V.ele.ACC.3.F.SG+IMPF+2+PL
 nodoava-la	nodoar+V.ele.ACC.3.F.SG+IMPF+2+SG
 nodoavam-na	nodoar+V.ele.ACC.3.F.SG+IMPF+3+PL
 nodoava-a	nodoar+V.ele.ACC.3.F.SG+IMPF+3+SG
+nodoá-la	nodoar+V.ele.ACC.3.F.SG+INF
 nodoarmo-la	nodoar+V.ele.ACC.3.F.SG+INF+1+PL
 nodoá-la	nodoar+V.ele.ACC.3.F.SG+INF+1+SG
 nodoarde-la	nodoar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -8524,6 +8582,7 @@ nodoávei-los	nodoar+V.ele.ACC.3.M.PL+IMPF+2+PL
 nodoava-los	nodoar+V.ele.ACC.3.M.PL+IMPF+2+SG
 nodoavam-nos	nodoar+V.ele.ACC.3.M.PL+IMPF+3+PL
 nodoava-os	nodoar+V.ele.ACC.3.M.PL+IMPF+3+SG
+nodoá-los	nodoar+V.ele.ACC.3.M.PL+INF
 nodoarmo-los	nodoar+V.ele.ACC.3.M.PL+INF+1+PL
 nodoá-los	nodoar+V.ele.ACC.3.M.PL+INF+1+SG
 nodoarde-los	nodoar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -8576,6 +8635,7 @@ nodoávei-lo	nodoar+V.ele.ACC.3.M.SG+IMPF+2+PL
 nodoava-lo	nodoar+V.ele.ACC.3.M.SG+IMPF+2+SG
 nodoavam-no	nodoar+V.ele.ACC.3.M.SG+IMPF+3+PL
 nodoava-o	nodoar+V.ele.ACC.3.M.SG+IMPF+3+SG
+nodoá-lo	nodoar+V.ele.ACC.3.M.SG+INF
 nodoarmo-lo	nodoar+V.ele.ACC.3.M.SG+INF+1+PL
 nodoá-lo	nodoar+V.ele.ACC.3.M.SG+INF+1+SG
 nodoarde-lo	nodoar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -9502,6 +9562,7 @@ nomeávei-las	nomear+V.ele.ACC.3.F.PL+IMPF+2+PL
 nomeava-las	nomear+V.ele.ACC.3.F.PL+IMPF+2+SG
 nomeavam-nas	nomear+V.ele.ACC.3.F.PL+IMPF+3+PL
 nomeava-as	nomear+V.ele.ACC.3.F.PL+IMPF+3+SG
+nomeá-las	nomear+V.ele.ACC.3.F.PL+INF
 nomearmo-las	nomear+V.ele.ACC.3.F.PL+INF+1+PL
 nomeá-las	nomear+V.ele.ACC.3.F.PL+INF+1+SG
 nomearde-las	nomear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -9551,6 +9612,7 @@ nomeávei-la	nomear+V.ele.ACC.3.F.SG+IMPF+2+PL
 nomeava-la	nomear+V.ele.ACC.3.F.SG+IMPF+2+SG
 nomeavam-na	nomear+V.ele.ACC.3.F.SG+IMPF+3+PL
 nomeava-a	nomear+V.ele.ACC.3.F.SG+IMPF+3+SG
+nomeá-la	nomear+V.ele.ACC.3.F.SG+INF
 nomearmo-la	nomear+V.ele.ACC.3.F.SG+INF+1+PL
 nomeá-la	nomear+V.ele.ACC.3.F.SG+INF+1+SG
 nomearde-la	nomear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -9600,6 +9662,7 @@ nomeávei-los	nomear+V.ele.ACC.3.M.PL+IMPF+2+PL
 nomeava-los	nomear+V.ele.ACC.3.M.PL+IMPF+2+SG
 nomeavam-nos	nomear+V.ele.ACC.3.M.PL+IMPF+3+PL
 nomeava-os	nomear+V.ele.ACC.3.M.PL+IMPF+3+SG
+nomeá-los	nomear+V.ele.ACC.3.M.PL+INF
 nomearmo-los	nomear+V.ele.ACC.3.M.PL+INF+1+PL
 nomeá-los	nomear+V.ele.ACC.3.M.PL+INF+1+SG
 nomearde-los	nomear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -9649,6 +9712,7 @@ nomeávei-lo	nomear+V.ele.ACC.3.M.SG+IMPF+2+PL
 nomeava-lo	nomear+V.ele.ACC.3.M.SG+IMPF+2+SG
 nomeavam-no	nomear+V.ele.ACC.3.M.SG+IMPF+3+PL
 nomeava-o	nomear+V.ele.ACC.3.M.SG+IMPF+3+SG
+nomeá-lo	nomear+V.ele.ACC.3.M.SG+INF
 nomearmo-lo	nomear+V.ele.ACC.3.M.SG+INF+1+PL
 nomeá-lo	nomear+V.ele.ACC.3.M.SG+INF+1+SG
 nomearde-lo	nomear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -10016,6 +10080,7 @@ nordesteávei-las	nordestear+V.ele.ACC.3.F.PL+IMPF+2+PL
 nordesteava-las	nordestear+V.ele.ACC.3.F.PL+IMPF+2+SG
 nordesteavam-nas	nordestear+V.ele.ACC.3.F.PL+IMPF+3+PL
 nordesteava-as	nordestear+V.ele.ACC.3.F.PL+IMPF+3+SG
+nordesteá-las	nordestear+V.ele.ACC.3.F.PL+INF
 nordestearmo-las	nordestear+V.ele.ACC.3.F.PL+INF+1+PL
 nordesteá-las	nordestear+V.ele.ACC.3.F.PL+INF+1+SG
 nordestearde-las	nordestear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10065,6 +10130,7 @@ nordesteávei-la	nordestear+V.ele.ACC.3.F.SG+IMPF+2+PL
 nordesteava-la	nordestear+V.ele.ACC.3.F.SG+IMPF+2+SG
 nordesteavam-na	nordestear+V.ele.ACC.3.F.SG+IMPF+3+PL
 nordesteava-a	nordestear+V.ele.ACC.3.F.SG+IMPF+3+SG
+nordesteá-la	nordestear+V.ele.ACC.3.F.SG+INF
 nordestearmo-la	nordestear+V.ele.ACC.3.F.SG+INF+1+PL
 nordesteá-la	nordestear+V.ele.ACC.3.F.SG+INF+1+SG
 nordestearde-la	nordestear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -10114,6 +10180,7 @@ nordesteávei-los	nordestear+V.ele.ACC.3.M.PL+IMPF+2+PL
 nordesteava-los	nordestear+V.ele.ACC.3.M.PL+IMPF+2+SG
 nordesteavam-nos	nordestear+V.ele.ACC.3.M.PL+IMPF+3+PL
 nordesteava-os	nordestear+V.ele.ACC.3.M.PL+IMPF+3+SG
+nordesteá-los	nordestear+V.ele.ACC.3.M.PL+INF
 nordestearmo-los	nordestear+V.ele.ACC.3.M.PL+INF+1+PL
 nordesteá-los	nordestear+V.ele.ACC.3.M.PL+INF+1+SG
 nordestearde-los	nordestear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -10163,6 +10230,7 @@ nordesteávei-lo	nordestear+V.ele.ACC.3.M.SG+IMPF+2+PL
 nordesteava-lo	nordestear+V.ele.ACC.3.M.SG+IMPF+2+SG
 nordesteavam-no	nordestear+V.ele.ACC.3.M.SG+IMPF+3+PL
 nordesteava-o	nordestear+V.ele.ACC.3.M.SG+IMPF+3+SG
+nordesteá-lo	nordestear+V.ele.ACC.3.M.SG+INF
 nordestearmo-lo	nordestear+V.ele.ACC.3.M.SG+INF+1+PL
 nordesteá-lo	nordestear+V.ele.ACC.3.M.SG+INF+1+SG
 nordestearde-lo	nordestear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -10530,6 +10598,7 @@ norteávei-las	nortear+V.ele.ACC.3.F.PL+IMPF+2+PL
 norteava-las	nortear+V.ele.ACC.3.F.PL+IMPF+2+SG
 norteavam-nas	nortear+V.ele.ACC.3.F.PL+IMPF+3+PL
 norteava-as	nortear+V.ele.ACC.3.F.PL+IMPF+3+SG
+norteá-las	nortear+V.ele.ACC.3.F.PL+INF
 nortearmo-las	nortear+V.ele.ACC.3.F.PL+INF+1+PL
 norteá-las	nortear+V.ele.ACC.3.F.PL+INF+1+SG
 nortearde-las	nortear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -10579,6 +10648,7 @@ norteávei-la	nortear+V.ele.ACC.3.F.SG+IMPF+2+PL
 norteava-la	nortear+V.ele.ACC.3.F.SG+IMPF+2+SG
 norteavam-na	nortear+V.ele.ACC.3.F.SG+IMPF+3+PL
 norteava-a	nortear+V.ele.ACC.3.F.SG+IMPF+3+SG
+norteá-la	nortear+V.ele.ACC.3.F.SG+INF
 nortearmo-la	nortear+V.ele.ACC.3.F.SG+INF+1+PL
 norteá-la	nortear+V.ele.ACC.3.F.SG+INF+1+SG
 nortearde-la	nortear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -10628,6 +10698,7 @@ norteávei-los	nortear+V.ele.ACC.3.M.PL+IMPF+2+PL
 norteava-los	nortear+V.ele.ACC.3.M.PL+IMPF+2+SG
 norteavam-nos	nortear+V.ele.ACC.3.M.PL+IMPF+3+PL
 norteava-os	nortear+V.ele.ACC.3.M.PL+IMPF+3+SG
+norteá-los	nortear+V.ele.ACC.3.M.PL+INF
 nortearmo-los	nortear+V.ele.ACC.3.M.PL+INF+1+PL
 norteá-los	nortear+V.ele.ACC.3.M.PL+INF+1+SG
 nortearde-los	nortear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -10677,6 +10748,7 @@ norteávei-lo	nortear+V.ele.ACC.3.M.SG+IMPF+2+PL
 norteava-lo	nortear+V.ele.ACC.3.M.SG+IMPF+2+SG
 norteavam-no	nortear+V.ele.ACC.3.M.SG+IMPF+3+PL
 norteava-o	nortear+V.ele.ACC.3.M.SG+IMPF+3+SG
+norteá-lo	nortear+V.ele.ACC.3.M.SG+INF
 nortearmo-lo	nortear+V.ele.ACC.3.M.SG+INF+1+PL
 norteá-lo	nortear+V.ele.ACC.3.M.SG+INF+1+SG
 nortearde-lo	nortear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -11047,6 +11119,7 @@ notificávei-las	notificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 notificava-las	notificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 notificavam-nas	notificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 notificava-as	notificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+notificá-las	notificar+V.ele.ACC.3.F.PL+INF
 notificarmo-las	notificar+V.ele.ACC.3.F.PL+INF+1+PL
 notificá-las	notificar+V.ele.ACC.3.F.PL+INF+1+SG
 notificarde-las	notificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -11098,6 +11171,7 @@ notificávei-la	notificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 notificava-la	notificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 notificavam-na	notificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 notificava-a	notificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+notificá-la	notificar+V.ele.ACC.3.F.SG+INF
 notificarmo-la	notificar+V.ele.ACC.3.F.SG+INF+1+PL
 notificá-la	notificar+V.ele.ACC.3.F.SG+INF+1+SG
 notificarde-la	notificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -11149,6 +11223,7 @@ notificávei-los	notificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 notificava-los	notificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 notificavam-nos	notificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 notificava-os	notificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+notificá-los	notificar+V.ele.ACC.3.M.PL+INF
 notificarmo-los	notificar+V.ele.ACC.3.M.PL+INF+1+PL
 notificá-los	notificar+V.ele.ACC.3.M.PL+INF+1+SG
 notificarde-los	notificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -11200,6 +11275,7 @@ notificávei-lo	notificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 notificava-lo	notificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 notificavam-no	notificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 notificava-o	notificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+notificá-lo	notificar+V.ele.ACC.3.M.SG+INF
 notificarmo-lo	notificar+V.ele.ACC.3.M.SG+INF+1+PL
 notificá-lo	notificar+V.ele.ACC.3.M.SG+INF+1+SG
 notificarde-lo	notificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -12122,6 +12198,7 @@ nuançávei-las	nuançar+V.ele.ACC.3.F.PL+IMPF+2+PL
 nuançava-las	nuançar+V.ele.ACC.3.F.PL+IMPF+2+SG
 nuançavam-nas	nuançar+V.ele.ACC.3.F.PL+IMPF+3+PL
 nuançava-as	nuançar+V.ele.ACC.3.F.PL+IMPF+3+SG
+nuançá-las	nuançar+V.ele.ACC.3.F.PL+INF
 nuançarmo-las	nuançar+V.ele.ACC.3.F.PL+INF+1+PL
 nuançá-las	nuançar+V.ele.ACC.3.F.PL+INF+1+SG
 nuançarde-las	nuançar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12173,6 +12250,7 @@ nuançávei-la	nuançar+V.ele.ACC.3.F.SG+IMPF+2+PL
 nuançava-la	nuançar+V.ele.ACC.3.F.SG+IMPF+2+SG
 nuançavam-na	nuançar+V.ele.ACC.3.F.SG+IMPF+3+PL
 nuançava-a	nuançar+V.ele.ACC.3.F.SG+IMPF+3+SG
+nuançá-la	nuançar+V.ele.ACC.3.F.SG+INF
 nuançarmo-la	nuançar+V.ele.ACC.3.F.SG+INF+1+PL
 nuançá-la	nuançar+V.ele.ACC.3.F.SG+INF+1+SG
 nuançarde-la	nuançar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12223,6 +12301,7 @@ nuançava-os	nuançar+V.ele.ACC.3.M.PL+IMPF+1+SG
 nuançávei-los	nuançar+V.ele.ACC.3.M.PL+IMPF+2+PL
 nuançava-los	nuançar+V.ele.ACC.3.M.PL+IMPF+2+SG
 nuançava-os	nuançar+V.ele.ACC.3.M.PL+IMPF+3+SG
+nuançá-los	nuançar+V.ele.ACC.3.M.PL+INF
 nuançarmo-los	nuançar+V.ele.ACC.3.M.PL+INF+1+PL
 nuançá-los	nuançar+V.ele.ACC.3.M.PL+INF+1+SG
 nuançarde-los	nuançar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12269,6 +12348,7 @@ nuançávei-lo	nuançar+V.ele.ACC.3.M.SG+IMPF+2+PL
 nuançava-lo	nuançar+V.ele.ACC.3.M.SG+IMPF+2+SG
 nuançavam-no	nuançar+V.ele.ACC.3.M.SG+IMPF+3+PL
 nuançava-o	nuançar+V.ele.ACC.3.M.SG+IMPF+3+SG
+nuançá-lo	nuançar+V.ele.ACC.3.M.SG+INF
 nuançarmo-lo	nuançar+V.ele.ACC.3.M.SG+INF+1+PL
 nuançá-lo	nuançar+V.ele.ACC.3.M.SG+INF+1+SG
 nuançarde-lo	nuançar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -12648,6 +12728,7 @@ nucleávei-las	nuclear+V.ele.ACC.3.F.PL+IMPF+2+PL
 nucleava-las	nuclear+V.ele.ACC.3.F.PL+IMPF+2+SG
 nucleavam-nas	nuclear+V.ele.ACC.3.F.PL+IMPF+3+PL
 nucleava-as	nuclear+V.ele.ACC.3.F.PL+IMPF+3+SG
+nucleá-las	nuclear+V.ele.ACC.3.F.PL+INF
 nuclearmo-las	nuclear+V.ele.ACC.3.F.PL+INF+1+PL
 nucleá-las	nuclear+V.ele.ACC.3.F.PL+INF+1+SG
 nuclearde-las	nuclear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -12697,6 +12778,7 @@ nucleávei-la	nuclear+V.ele.ACC.3.F.SG+IMPF+2+PL
 nucleava-la	nuclear+V.ele.ACC.3.F.SG+IMPF+2+SG
 nucleavam-na	nuclear+V.ele.ACC.3.F.SG+IMPF+3+PL
 nucleava-a	nuclear+V.ele.ACC.3.F.SG+IMPF+3+SG
+nucleá-la	nuclear+V.ele.ACC.3.F.SG+INF
 nuclearmo-la	nuclear+V.ele.ACC.3.F.SG+INF+1+PL
 nucleá-la	nuclear+V.ele.ACC.3.F.SG+INF+1+SG
 nuclearde-la	nuclear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -12746,6 +12828,7 @@ nucleávei-los	nuclear+V.ele.ACC.3.M.PL+IMPF+2+PL
 nucleava-los	nuclear+V.ele.ACC.3.M.PL+IMPF+2+SG
 nucleavam-nos	nuclear+V.ele.ACC.3.M.PL+IMPF+3+PL
 nucleava-os	nuclear+V.ele.ACC.3.M.PL+IMPF+3+SG
+nucleá-los	nuclear+V.ele.ACC.3.M.PL+INF
 nuclearmo-los	nuclear+V.ele.ACC.3.M.PL+INF+1+PL
 nucleá-los	nuclear+V.ele.ACC.3.M.PL+INF+1+SG
 nuclearde-los	nuclear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -12795,6 +12878,7 @@ nucleávei-lo	nuclear+V.ele.ACC.3.M.SG+IMPF+2+PL
 nucleava-lo	nuclear+V.ele.ACC.3.M.SG+IMPF+2+SG
 nucleavam-no	nuclear+V.ele.ACC.3.M.SG+IMPF+3+PL
 nucleava-o	nuclear+V.ele.ACC.3.M.SG+IMPF+3+SG
+nucleá-lo	nuclear+V.ele.ACC.3.M.SG+INF
 nuclearmo-lo	nuclear+V.ele.ACC.3.M.SG+INF+1+PL
 nucleá-lo	nuclear+V.ele.ACC.3.M.SG+INF+1+SG
 nuclearde-lo	nuclear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13165,6 +13249,7 @@ nulificávei-las	nulificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 nulificava-las	nulificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 nulificavam-nas	nulificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 nulificava-as	nulificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+nulificá-las	nulificar+V.ele.ACC.3.F.PL+INF
 nulificarmo-las	nulificar+V.ele.ACC.3.F.PL+INF+1+PL
 nulificá-las	nulificar+V.ele.ACC.3.F.PL+INF+1+SG
 nulificarde-las	nulificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -13216,6 +13301,7 @@ nulificávei-la	nulificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 nulificava-la	nulificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 nulificavam-na	nulificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 nulificava-a	nulificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+nulificá-la	nulificar+V.ele.ACC.3.F.SG+INF
 nulificarmo-la	nulificar+V.ele.ACC.3.F.SG+INF+1+PL
 nulificá-la	nulificar+V.ele.ACC.3.F.SG+INF+1+SG
 nulificarde-la	nulificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -13267,6 +13353,7 @@ nulificávei-los	nulificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 nulificava-los	nulificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 nulificavam-nos	nulificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 nulificava-os	nulificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+nulificá-los	nulificar+V.ele.ACC.3.M.PL+INF
 nulificarmo-los	nulificar+V.ele.ACC.3.M.PL+INF+1+PL
 nulificá-los	nulificar+V.ele.ACC.3.M.PL+INF+1+SG
 nulificarde-los	nulificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -13318,6 +13405,7 @@ nulificávei-lo	nulificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 nulificava-lo	nulificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 nulificavam-no	nulificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 nulificava-o	nulificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+nulificá-lo	nulificar+V.ele.ACC.3.M.SG+INF
 nulificarmo-lo	nulificar+V.ele.ACC.3.M.SG+INF+1+PL
 nulificá-lo	nulificar+V.ele.ACC.3.M.SG+INF+1+SG
 nulificarde-lo	nulificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -13698,6 +13786,7 @@ nuqueávei-las	nuquear+V.ele.ACC.3.F.PL+IMPF+2+PL
 nuqueava-las	nuquear+V.ele.ACC.3.F.PL+IMPF+2+SG
 nuqueavam-nas	nuquear+V.ele.ACC.3.F.PL+IMPF+3+PL
 nuqueava-as	nuquear+V.ele.ACC.3.F.PL+IMPF+3+SG
+nuqueá-las	nuquear+V.ele.ACC.3.F.PL+INF
 nuquearmo-las	nuquear+V.ele.ACC.3.F.PL+INF+1+PL
 nuqueá-las	nuquear+V.ele.ACC.3.F.PL+INF+1+SG
 nuquearde-las	nuquear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -13747,6 +13836,7 @@ nuqueávei-la	nuquear+V.ele.ACC.3.F.SG+IMPF+2+PL
 nuqueava-la	nuquear+V.ele.ACC.3.F.SG+IMPF+2+SG
 nuqueavam-na	nuquear+V.ele.ACC.3.F.SG+IMPF+3+PL
 nuqueava-a	nuquear+V.ele.ACC.3.F.SG+IMPF+3+SG
+nuqueá-la	nuquear+V.ele.ACC.3.F.SG+INF
 nuquearmo-la	nuquear+V.ele.ACC.3.F.SG+INF+1+PL
 nuqueá-la	nuquear+V.ele.ACC.3.F.SG+INF+1+SG
 nuquearde-la	nuquear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -13796,6 +13886,7 @@ nuqueávei-los	nuquear+V.ele.ACC.3.M.PL+IMPF+2+PL
 nuqueava-los	nuquear+V.ele.ACC.3.M.PL+IMPF+2+SG
 nuqueavam-nos	nuquear+V.ele.ACC.3.M.PL+IMPF+3+PL
 nuqueava-os	nuquear+V.ele.ACC.3.M.PL+IMPF+3+SG
+nuqueá-los	nuquear+V.ele.ACC.3.M.PL+INF
 nuquearmo-los	nuquear+V.ele.ACC.3.M.PL+INF+1+PL
 nuqueá-los	nuquear+V.ele.ACC.3.M.PL+INF+1+SG
 nuquearde-los	nuquear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -13845,6 +13936,7 @@ nuqueávei-lo	nuquear+V.ele.ACC.3.M.SG+IMPF+2+PL
 nuqueava-lo	nuquear+V.ele.ACC.3.M.SG+IMPF+2+SG
 nuqueavam-no	nuquear+V.ele.ACC.3.M.SG+IMPF+3+PL
 nuqueava-o	nuquear+V.ele.ACC.3.M.SG+IMPF+3+SG
+nuqueá-lo	nuquear+V.ele.ACC.3.M.SG+INF
 nuquearmo-lo	nuquear+V.ele.ACC.3.M.SG+INF+1+PL
 nuqueá-lo	nuquear+V.ele.ACC.3.M.SG+INF+1+SG
 nuquearde-lo	nuquear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -14215,6 +14307,7 @@ nutrificávei-las	nutrificar+V.ele.ACC.3.F.PL+IMPF+2+PL
 nutrificava-las	nutrificar+V.ele.ACC.3.F.PL+IMPF+2+SG
 nutrificavam-nas	nutrificar+V.ele.ACC.3.F.PL+IMPF+3+PL
 nutrificava-as	nutrificar+V.ele.ACC.3.F.PL+IMPF+3+SG
+nutrificá-las	nutrificar+V.ele.ACC.3.F.PL+INF
 nutrificarmo-las	nutrificar+V.ele.ACC.3.F.PL+INF+1+PL
 nutrificá-las	nutrificar+V.ele.ACC.3.F.PL+INF+1+SG
 nutrificarde-las	nutrificar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -14266,6 +14359,7 @@ nutrificávei-la	nutrificar+V.ele.ACC.3.F.SG+IMPF+2+PL
 nutrificava-la	nutrificar+V.ele.ACC.3.F.SG+IMPF+2+SG
 nutrificavam-na	nutrificar+V.ele.ACC.3.F.SG+IMPF+3+PL
 nutrificava-a	nutrificar+V.ele.ACC.3.F.SG+IMPF+3+SG
+nutrificá-la	nutrificar+V.ele.ACC.3.F.SG+INF
 nutrificarmo-la	nutrificar+V.ele.ACC.3.F.SG+INF+1+PL
 nutrificá-la	nutrificar+V.ele.ACC.3.F.SG+INF+1+SG
 nutrificarde-la	nutrificar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -14317,6 +14411,7 @@ nutrificávei-los	nutrificar+V.ele.ACC.3.M.PL+IMPF+2+PL
 nutrificava-los	nutrificar+V.ele.ACC.3.M.PL+IMPF+2+SG
 nutrificavam-nos	nutrificar+V.ele.ACC.3.M.PL+IMPF+3+PL
 nutrificava-os	nutrificar+V.ele.ACC.3.M.PL+IMPF+3+SG
+nutrificá-los	nutrificar+V.ele.ACC.3.M.PL+INF
 nutrificarmo-los	nutrificar+V.ele.ACC.3.M.PL+INF+1+PL
 nutrificá-los	nutrificar+V.ele.ACC.3.M.PL+INF+1+SG
 nutrificarde-los	nutrificar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -14368,6 +14463,7 @@ nutrificávei-lo	nutrificar+V.ele.ACC.3.M.SG+IMPF+2+PL
 nutrificava-lo	nutrificar+V.ele.ACC.3.M.SG+IMPF+2+SG
 nutrificavam-no	nutrificar+V.ele.ACC.3.M.SG+IMPF+3+PL
 nutrificava-o	nutrificar+V.ele.ACC.3.M.SG+IMPF+3+SG
+nutrificá-lo	nutrificar+V.ele.ACC.3.M.SG+INF
 nutrificarmo-lo	nutrificar+V.ele.ACC.3.M.SG+INF+1+PL
 nutrificá-lo	nutrificar+V.ele.ACC.3.M.SG+INF+1+SG
 nutrificarde-lo	nutrificar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -14751,6 +14847,7 @@ nutríei-las	nutrir+V.ele.ACC.3.F.PL+IMPF+2+PL
 nutria-las	nutrir+V.ele.ACC.3.F.PL+IMPF+2+SG
 nutriam-nas	nutrir+V.ele.ACC.3.F.PL+IMPF+3+PL
 nutria-as	nutrir+V.ele.ACC.3.F.PL+IMPF+3+SG
+nutri-las	nutrir+V.ele.ACC.3.F.PL+INF
 nutrirmo-las	nutrir+V.ele.ACC.3.F.PL+INF+1+PL
 nutri-las	nutrir+V.ele.ACC.3.F.PL+INF+1+SG
 nutrirde-las	nutrir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -14791,6 +14888,7 @@ nutríei-la	nutrir+V.ele.ACC.3.F.SG+IMPF+2+PL
 nutria-la	nutrir+V.ele.ACC.3.F.SG+IMPF+2+SG
 nutriam-na	nutrir+V.ele.ACC.3.F.SG+IMPF+3+PL
 nutria-a	nutrir+V.ele.ACC.3.F.SG+IMPF+3+SG
+nutri-la	nutrir+V.ele.ACC.3.F.SG+INF
 nutrirmo-la	nutrir+V.ele.ACC.3.F.SG+INF+1+PL
 nutri-la	nutrir+V.ele.ACC.3.F.SG+INF+1+SG
 nutrirde-la	nutrir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -14831,6 +14929,7 @@ nutríei-los	nutrir+V.ele.ACC.3.M.PL+IMPF+2+PL
 nutria-los	nutrir+V.ele.ACC.3.M.PL+IMPF+2+SG
 nutriam-nos	nutrir+V.ele.ACC.3.M.PL+IMPF+3+PL
 nutria-os	nutrir+V.ele.ACC.3.M.PL+IMPF+3+SG
+nutri-los	nutrir+V.ele.ACC.3.M.PL+INF
 nutrirmo-los	nutrir+V.ele.ACC.3.M.PL+INF+1+PL
 nutri-los	nutrir+V.ele.ACC.3.M.PL+INF+1+SG
 nutrirde-los	nutrir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -14871,6 +14970,7 @@ nutríei-lo	nutrir+V.ele.ACC.3.M.SG+IMPF+2+PL
 nutria-lo	nutrir+V.ele.ACC.3.M.SG+IMPF+2+SG
 nutriam-no	nutrir+V.ele.ACC.3.M.SG+IMPF+3+PL
 nutria-o	nutrir+V.ele.ACC.3.M.SG+IMPF+3+SG
+nutri-lo	nutrir+V.ele.ACC.3.M.SG+INF
 nutrirmo-lo	nutrir+V.ele.ACC.3.M.SG+INF+1+PL
 nutri-lo	nutrir+V.ele.ACC.3.M.SG+INF+1+SG
 nutrirde-lo	nutrir+V.ele.ACC.3.M.SG+INF+2+PL

@@ -17,6 +17,7 @@ zangarreávei-las	zangarrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 zangarreava-las	zangarrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 zangarreavam-nas	zangarrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 zangarreava-as	zangarrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+zangarreá-las	zangarrear+V.ele.ACC.3.F.PL+INF
 zangarrearmo-las	zangarrear+V.ele.ACC.3.F.PL+INF+1+PL
 zangarreá-las	zangarrear+V.ele.ACC.3.F.PL+INF+1+SG
 zangarrearde-las	zangarrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -66,6 +67,7 @@ zangarreávei-la	zangarrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 zangarreava-la	zangarrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 zangarreavam-na	zangarrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 zangarreava-a	zangarrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+zangarreá-la	zangarrear+V.ele.ACC.3.F.SG+INF
 zangarrearmo-la	zangarrear+V.ele.ACC.3.F.SG+INF+1+PL
 zangarreá-la	zangarrear+V.ele.ACC.3.F.SG+INF+1+SG
 zangarrearde-la	zangarrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -115,6 +117,7 @@ zangarreávei-los	zangarrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 zangarreava-los	zangarrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 zangarreavam-nos	zangarrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 zangarreava-os	zangarrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+zangarreá-los	zangarrear+V.ele.ACC.3.M.PL+INF
 zangarrearmo-los	zangarrear+V.ele.ACC.3.M.PL+INF+1+PL
 zangarreá-los	zangarrear+V.ele.ACC.3.M.PL+INF+1+SG
 zangarrearde-los	zangarrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -164,6 +167,7 @@ zangarreávei-lo	zangarrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 zangarreava-lo	zangarrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 zangarreavam-no	zangarrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 zangarreava-o	zangarrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+zangarreá-lo	zangarrear+V.ele.ACC.3.M.SG+INF
 zangarrearmo-lo	zangarrear+V.ele.ACC.3.M.SG+INF+1+PL
 zangarreá-lo	zangarrear+V.ele.ACC.3.M.SG+INF+1+SG
 zangarrearde-lo	zangarrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -531,6 +535,7 @@ zanguizarreávei-las	zanguizarrear+V.ele.ACC.3.F.PL+IMPF+2+PL
 zanguizarreava-las	zanguizarrear+V.ele.ACC.3.F.PL+IMPF+2+SG
 zanguizarreavam-nas	zanguizarrear+V.ele.ACC.3.F.PL+IMPF+3+PL
 zanguizarreava-as	zanguizarrear+V.ele.ACC.3.F.PL+IMPF+3+SG
+zanguizarreá-las	zanguizarrear+V.ele.ACC.3.F.PL+INF
 zanguizarrearmo-las	zanguizarrear+V.ele.ACC.3.F.PL+INF+1+PL
 zanguizarreá-las	zanguizarrear+V.ele.ACC.3.F.PL+INF+1+SG
 zanguizarrearde-las	zanguizarrear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -580,6 +585,7 @@ zanguizarreávei-la	zanguizarrear+V.ele.ACC.3.F.SG+IMPF+2+PL
 zanguizarreava-la	zanguizarrear+V.ele.ACC.3.F.SG+IMPF+2+SG
 zanguizarreavam-na	zanguizarrear+V.ele.ACC.3.F.SG+IMPF+3+PL
 zanguizarreava-a	zanguizarrear+V.ele.ACC.3.F.SG+IMPF+3+SG
+zanguizarreá-la	zanguizarrear+V.ele.ACC.3.F.SG+INF
 zanguizarrearmo-la	zanguizarrear+V.ele.ACC.3.F.SG+INF+1+PL
 zanguizarreá-la	zanguizarrear+V.ele.ACC.3.F.SG+INF+1+SG
 zanguizarrearde-la	zanguizarrear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -629,6 +635,7 @@ zanguizarreávei-los	zanguizarrear+V.ele.ACC.3.M.PL+IMPF+2+PL
 zanguizarreava-los	zanguizarrear+V.ele.ACC.3.M.PL+IMPF+2+SG
 zanguizarreavam-nos	zanguizarrear+V.ele.ACC.3.M.PL+IMPF+3+PL
 zanguizarreava-os	zanguizarrear+V.ele.ACC.3.M.PL+IMPF+3+SG
+zanguizarreá-los	zanguizarrear+V.ele.ACC.3.M.PL+INF
 zanguizarrearmo-los	zanguizarrear+V.ele.ACC.3.M.PL+INF+1+PL
 zanguizarreá-los	zanguizarrear+V.ele.ACC.3.M.PL+INF+1+SG
 zanguizarrearde-los	zanguizarrear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -678,6 +685,7 @@ zanguizarreávei-lo	zanguizarrear+V.ele.ACC.3.M.SG+IMPF+2+PL
 zanguizarreava-lo	zanguizarrear+V.ele.ACC.3.M.SG+IMPF+2+SG
 zanguizarreavam-no	zanguizarrear+V.ele.ACC.3.M.SG+IMPF+3+PL
 zanguizarreava-o	zanguizarrear+V.ele.ACC.3.M.SG+IMPF+3+SG
+zanguizarreá-lo	zanguizarrear+V.ele.ACC.3.M.SG+INF
 zanguizarrearmo-lo	zanguizarrear+V.ele.ACC.3.M.SG+INF+1+PL
 zanguizarreá-lo	zanguizarrear+V.ele.ACC.3.M.SG+INF+1+SG
 zanguizarrearde-lo	zanguizarrear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1045,6 +1053,7 @@ ziguezagueávei-las	ziguezaguear+V.ele.ACC.3.F.PL+IMPF+2+PL
 ziguezagueava-las	ziguezaguear+V.ele.ACC.3.F.PL+IMPF+2+SG
 ziguezagueavam-nas	ziguezaguear+V.ele.ACC.3.F.PL+IMPF+3+PL
 ziguezagueava-as	ziguezaguear+V.ele.ACC.3.F.PL+IMPF+3+SG
+ziguezagueá-las	ziguezaguear+V.ele.ACC.3.F.PL+INF
 ziguezaguearmo-las	ziguezaguear+V.ele.ACC.3.F.PL+INF+1+PL
 ziguezagueá-las	ziguezaguear+V.ele.ACC.3.F.PL+INF+1+SG
 ziguezaguearde-las	ziguezaguear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1094,6 +1103,7 @@ ziguezagueávei-la	ziguezaguear+V.ele.ACC.3.F.SG+IMPF+2+PL
 ziguezagueava-la	ziguezaguear+V.ele.ACC.3.F.SG+IMPF+2+SG
 ziguezagueavam-na	ziguezaguear+V.ele.ACC.3.F.SG+IMPF+3+PL
 ziguezagueava-a	ziguezaguear+V.ele.ACC.3.F.SG+IMPF+3+SG
+ziguezagueá-la	ziguezaguear+V.ele.ACC.3.F.SG+INF
 ziguezaguearmo-la	ziguezaguear+V.ele.ACC.3.F.SG+INF+1+PL
 ziguezagueá-la	ziguezaguear+V.ele.ACC.3.F.SG+INF+1+SG
 ziguezaguearde-la	ziguezaguear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1143,6 +1153,7 @@ ziguezagueávei-los	ziguezaguear+V.ele.ACC.3.M.PL+IMPF+2+PL
 ziguezagueava-los	ziguezaguear+V.ele.ACC.3.M.PL+IMPF+2+SG
 ziguezagueavam-nos	ziguezaguear+V.ele.ACC.3.M.PL+IMPF+3+PL
 ziguezagueava-os	ziguezaguear+V.ele.ACC.3.M.PL+IMPF+3+SG
+ziguezagueá-los	ziguezaguear+V.ele.ACC.3.M.PL+INF
 ziguezaguearmo-los	ziguezaguear+V.ele.ACC.3.M.PL+INF+1+PL
 ziguezagueá-los	ziguezaguear+V.ele.ACC.3.M.PL+INF+1+SG
 ziguezaguearde-los	ziguezaguear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1192,6 +1203,7 @@ ziguezagueávei-lo	ziguezaguear+V.ele.ACC.3.M.SG+IMPF+2+PL
 ziguezagueava-lo	ziguezaguear+V.ele.ACC.3.M.SG+IMPF+2+SG
 ziguezagueavam-no	ziguezaguear+V.ele.ACC.3.M.SG+IMPF+3+PL
 ziguezagueava-o	ziguezaguear+V.ele.ACC.3.M.SG+IMPF+3+SG
+ziguezagueá-lo	ziguezaguear+V.ele.ACC.3.M.SG+INF
 ziguezaguearmo-lo	ziguezaguear+V.ele.ACC.3.M.SG+INF+1+PL
 ziguezagueá-lo	ziguezaguear+V.ele.ACC.3.M.SG+INF+1+SG
 ziguezaguearde-lo	ziguezaguear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -1562,6 +1574,7 @@ zincávei-las	zincar+V.ele.ACC.3.F.PL+IMPF+2+PL
 zincava-las	zincar+V.ele.ACC.3.F.PL+IMPF+2+SG
 zincavam-nas	zincar+V.ele.ACC.3.F.PL+IMPF+3+PL
 zincava-as	zincar+V.ele.ACC.3.F.PL+IMPF+3+SG
+zincá-las	zincar+V.ele.ACC.3.F.PL+INF
 zincarmo-las	zincar+V.ele.ACC.3.F.PL+INF+1+PL
 zincá-las	zincar+V.ele.ACC.3.F.PL+INF+1+SG
 zincarde-las	zincar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -1613,6 +1626,7 @@ zincávei-la	zincar+V.ele.ACC.3.F.SG+IMPF+2+PL
 zincava-la	zincar+V.ele.ACC.3.F.SG+IMPF+2+SG
 zincavam-na	zincar+V.ele.ACC.3.F.SG+IMPF+3+PL
 zincava-a	zincar+V.ele.ACC.3.F.SG+IMPF+3+SG
+zincá-la	zincar+V.ele.ACC.3.F.SG+INF
 zincarmo-la	zincar+V.ele.ACC.3.F.SG+INF+1+PL
 zincá-la	zincar+V.ele.ACC.3.F.SG+INF+1+SG
 zincarde-la	zincar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -1664,6 +1678,7 @@ zincávei-los	zincar+V.ele.ACC.3.M.PL+IMPF+2+PL
 zincava-los	zincar+V.ele.ACC.3.M.PL+IMPF+2+SG
 zincavam-nos	zincar+V.ele.ACC.3.M.PL+IMPF+3+PL
 zincava-os	zincar+V.ele.ACC.3.M.PL+IMPF+3+SG
+zincá-los	zincar+V.ele.ACC.3.M.PL+INF
 zincarmo-los	zincar+V.ele.ACC.3.M.PL+INF+1+PL
 zincá-los	zincar+V.ele.ACC.3.M.PL+INF+1+SG
 zincarde-los	zincar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -1715,6 +1730,7 @@ zincávei-lo	zincar+V.ele.ACC.3.M.SG+IMPF+2+PL
 zincava-lo	zincar+V.ele.ACC.3.M.SG+IMPF+2+SG
 zincavam-no	zincar+V.ele.ACC.3.M.SG+IMPF+3+PL
 zincava-o	zincar+V.ele.ACC.3.M.SG+IMPF+3+SG
+zincá-lo	zincar+V.ele.ACC.3.M.SG+INF
 zincarmo-lo	zincar+V.ele.ACC.3.M.SG+INF+1+PL
 zincá-lo	zincar+V.ele.ACC.3.M.SG+INF+1+SG
 zincarde-lo	zincar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2095,6 +2111,7 @@ zingareávei-las	zingarear+V.ele.ACC.3.F.PL+IMPF+2+PL
 zingareava-las	zingarear+V.ele.ACC.3.F.PL+IMPF+2+SG
 zingareavam-nas	zingarear+V.ele.ACC.3.F.PL+IMPF+3+PL
 zingareava-as	zingarear+V.ele.ACC.3.F.PL+IMPF+3+SG
+zingareá-las	zingarear+V.ele.ACC.3.F.PL+INF
 zingarearmo-las	zingarear+V.ele.ACC.3.F.PL+INF+1+PL
 zingareá-las	zingarear+V.ele.ACC.3.F.PL+INF+1+SG
 zingarearde-las	zingarear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2144,6 +2161,7 @@ zingareávei-la	zingarear+V.ele.ACC.3.F.SG+IMPF+2+PL
 zingareava-la	zingarear+V.ele.ACC.3.F.SG+IMPF+2+SG
 zingareavam-na	zingarear+V.ele.ACC.3.F.SG+IMPF+3+PL
 zingareava-a	zingarear+V.ele.ACC.3.F.SG+IMPF+3+SG
+zingareá-la	zingarear+V.ele.ACC.3.F.SG+INF
 zingarearmo-la	zingarear+V.ele.ACC.3.F.SG+INF+1+PL
 zingareá-la	zingarear+V.ele.ACC.3.F.SG+INF+1+SG
 zingarearde-la	zingarear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2193,6 +2211,7 @@ zingareávei-los	zingarear+V.ele.ACC.3.M.PL+IMPF+2+PL
 zingareava-los	zingarear+V.ele.ACC.3.M.PL+IMPF+2+SG
 zingareavam-nos	zingarear+V.ele.ACC.3.M.PL+IMPF+3+PL
 zingareava-os	zingarear+V.ele.ACC.3.M.PL+IMPF+3+SG
+zingareá-los	zingarear+V.ele.ACC.3.M.PL+INF
 zingarearmo-los	zingarear+V.ele.ACC.3.M.PL+INF+1+PL
 zingareá-los	zingarear+V.ele.ACC.3.M.PL+INF+1+SG
 zingarearde-los	zingarear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2242,6 +2261,7 @@ zingareávei-lo	zingarear+V.ele.ACC.3.M.SG+IMPF+2+PL
 zingareava-lo	zingarear+V.ele.ACC.3.M.SG+IMPF+2+SG
 zingareavam-no	zingarear+V.ele.ACC.3.M.SG+IMPF+3+PL
 zingareava-o	zingarear+V.ele.ACC.3.M.SG+IMPF+3+SG
+zingareá-lo	zingarear+V.ele.ACC.3.M.SG+INF
 zingarearmo-lo	zingarear+V.ele.ACC.3.M.SG+INF+1+PL
 zingareá-lo	zingarear+V.ele.ACC.3.M.SG+INF+1+SG
 zingarearde-lo	zingarear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -2612,6 +2632,7 @@ ziníei-las	zinir+V.ele.ACC.3.F.PL+IMPF+2+PL
 zinia-las	zinir+V.ele.ACC.3.F.PL+IMPF+2+SG
 ziniam-nas	zinir+V.ele.ACC.3.F.PL+IMPF+3+PL
 zinia-as	zinir+V.ele.ACC.3.F.PL+IMPF+3+SG
+zini-las	zinir+V.ele.ACC.3.F.PL+INF
 zinirmo-las	zinir+V.ele.ACC.3.F.PL+INF+1+PL
 zini-las	zinir+V.ele.ACC.3.F.PL+INF+1+SG
 zinirde-las	zinir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -2652,6 +2673,7 @@ ziníei-la	zinir+V.ele.ACC.3.F.SG+IMPF+2+PL
 zinia-la	zinir+V.ele.ACC.3.F.SG+IMPF+2+SG
 ziniam-na	zinir+V.ele.ACC.3.F.SG+IMPF+3+PL
 zinia-a	zinir+V.ele.ACC.3.F.SG+IMPF+3+SG
+zini-la	zinir+V.ele.ACC.3.F.SG+INF
 zinirmo-la	zinir+V.ele.ACC.3.F.SG+INF+1+PL
 zini-la	zinir+V.ele.ACC.3.F.SG+INF+1+SG
 zinirde-la	zinir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -2692,6 +2714,7 @@ ziníei-los	zinir+V.ele.ACC.3.M.PL+IMPF+2+PL
 zinia-los	zinir+V.ele.ACC.3.M.PL+IMPF+2+SG
 ziniam-nos	zinir+V.ele.ACC.3.M.PL+IMPF+3+PL
 zinia-os	zinir+V.ele.ACC.3.M.PL+IMPF+3+SG
+zini-los	zinir+V.ele.ACC.3.M.PL+INF
 zinirmo-los	zinir+V.ele.ACC.3.M.PL+INF+1+PL
 zini-los	zinir+V.ele.ACC.3.M.PL+INF+1+SG
 zinirde-los	zinir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -2732,6 +2755,7 @@ ziníei-lo	zinir+V.ele.ACC.3.M.SG+IMPF+2+PL
 zinia-lo	zinir+V.ele.ACC.3.M.SG+IMPF+2+SG
 ziniam-no	zinir+V.ele.ACC.3.M.SG+IMPF+3+PL
 zinia-o	zinir+V.ele.ACC.3.M.SG+IMPF+3+SG
+zini-lo	zinir+V.ele.ACC.3.M.SG+INF
 zinirmo-lo	zinir+V.ele.ACC.3.M.SG+INF+1+PL
 zini-lo	zinir+V.ele.ACC.3.M.SG+INF+1+SG
 zinirde-lo	zinir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3034,6 +3058,7 @@ zoávei-las	zoar+V.ele.ACC.3.F.PL+IMPF+2+PL
 zoava-las	zoar+V.ele.ACC.3.F.PL+IMPF+2+SG
 zoavam-nas	zoar+V.ele.ACC.3.F.PL+IMPF+3+PL
 zoava-as	zoar+V.ele.ACC.3.F.PL+IMPF+3+SG
+zoá-las	zoar+V.ele.ACC.3.F.PL+INF
 zoarmo-las	zoar+V.ele.ACC.3.F.PL+INF+1+PL
 zoá-las	zoar+V.ele.ACC.3.F.PL+INF+1+SG
 zoarde-las	zoar+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3086,6 +3111,7 @@ zoávei-la	zoar+V.ele.ACC.3.F.SG+IMPF+2+PL
 zoava-la	zoar+V.ele.ACC.3.F.SG+IMPF+2+SG
 zoavam-na	zoar+V.ele.ACC.3.F.SG+IMPF+3+PL
 zoava-a	zoar+V.ele.ACC.3.F.SG+IMPF+3+SG
+zoá-la	zoar+V.ele.ACC.3.F.SG+INF
 zoarmo-la	zoar+V.ele.ACC.3.F.SG+INF+1+PL
 zoá-la	zoar+V.ele.ACC.3.F.SG+INF+1+SG
 zoarde-la	zoar+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3138,6 +3164,7 @@ zoávei-los	zoar+V.ele.ACC.3.M.PL+IMPF+2+PL
 zoava-los	zoar+V.ele.ACC.3.M.PL+IMPF+2+SG
 zoavam-nos	zoar+V.ele.ACC.3.M.PL+IMPF+3+PL
 zoava-os	zoar+V.ele.ACC.3.M.PL+IMPF+3+SG
+zoá-los	zoar+V.ele.ACC.3.M.PL+INF
 zoarmo-los	zoar+V.ele.ACC.3.M.PL+INF+1+PL
 zoá-los	zoar+V.ele.ACC.3.M.PL+INF+1+SG
 zoarde-los	zoar+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3190,6 +3217,7 @@ zoávei-lo	zoar+V.ele.ACC.3.M.SG+IMPF+2+PL
 zoava-lo	zoar+V.ele.ACC.3.M.SG+IMPF+2+SG
 zoavam-no	zoar+V.ele.ACC.3.M.SG+IMPF+3+PL
 zoava-o	zoar+V.ele.ACC.3.M.SG+IMPF+3+SG
+zoá-lo	zoar+V.ele.ACC.3.M.SG+INF
 zoarmo-lo	zoar+V.ele.ACC.3.M.SG+INF+1+PL
 zoá-lo	zoar+V.ele.ACC.3.M.SG+INF+1+SG
 zoarde-lo	zoar+V.ele.ACC.3.M.SG+INF+2+PL
@@ -3577,6 +3605,7 @@ zombeteávei-las	zombetear+V.ele.ACC.3.F.PL+IMPF+2+PL
 zombeteava-las	zombetear+V.ele.ACC.3.F.PL+IMPF+2+SG
 zombeteavam-nas	zombetear+V.ele.ACC.3.F.PL+IMPF+3+PL
 zombeteava-as	zombetear+V.ele.ACC.3.F.PL+IMPF+3+SG
+zombeteá-las	zombetear+V.ele.ACC.3.F.PL+INF
 zombetearmo-las	zombetear+V.ele.ACC.3.F.PL+INF+1+PL
 zombeteá-las	zombetear+V.ele.ACC.3.F.PL+INF+1+SG
 zombetearde-las	zombetear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -3626,6 +3655,7 @@ zombeteávei-la	zombetear+V.ele.ACC.3.F.SG+IMPF+2+PL
 zombeteava-la	zombetear+V.ele.ACC.3.F.SG+IMPF+2+SG
 zombeteavam-na	zombetear+V.ele.ACC.3.F.SG+IMPF+3+PL
 zombeteava-a	zombetear+V.ele.ACC.3.F.SG+IMPF+3+SG
+zombeteá-la	zombetear+V.ele.ACC.3.F.SG+INF
 zombetearmo-la	zombetear+V.ele.ACC.3.F.SG+INF+1+PL
 zombeteá-la	zombetear+V.ele.ACC.3.F.SG+INF+1+SG
 zombetearde-la	zombetear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -3675,6 +3705,7 @@ zombeteávei-los	zombetear+V.ele.ACC.3.M.PL+IMPF+2+PL
 zombeteava-los	zombetear+V.ele.ACC.3.M.PL+IMPF+2+SG
 zombeteavam-nos	zombetear+V.ele.ACC.3.M.PL+IMPF+3+PL
 zombeteava-os	zombetear+V.ele.ACC.3.M.PL+IMPF+3+SG
+zombeteá-los	zombetear+V.ele.ACC.3.M.PL+INF
 zombetearmo-los	zombetear+V.ele.ACC.3.M.PL+INF+1+PL
 zombeteá-los	zombetear+V.ele.ACC.3.M.PL+INF+1+SG
 zombetearde-los	zombetear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -3724,6 +3755,7 @@ zombeteávei-lo	zombetear+V.ele.ACC.3.M.SG+IMPF+2+PL
 zombeteava-lo	zombetear+V.ele.ACC.3.M.SG+IMPF+2+SG
 zombeteavam-no	zombetear+V.ele.ACC.3.M.SG+IMPF+3+PL
 zombeteava-o	zombetear+V.ele.ACC.3.M.SG+IMPF+3+SG
+zombeteá-lo	zombetear+V.ele.ACC.3.M.SG+INF
 zombetearmo-lo	zombetear+V.ele.ACC.3.M.SG+INF+1+PL
 zombeteá-lo	zombetear+V.ele.ACC.3.M.SG+INF+1+SG
 zombetearde-lo	zombetear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4091,6 +4123,7 @@ zoneávei-las	zonear+V.ele.ACC.3.F.PL+IMPF+2+PL
 zoneava-las	zonear+V.ele.ACC.3.F.PL+IMPF+2+SG
 zoneavam-nas	zonear+V.ele.ACC.3.F.PL+IMPF+3+PL
 zoneava-as	zonear+V.ele.ACC.3.F.PL+IMPF+3+SG
+zoneá-las	zonear+V.ele.ACC.3.F.PL+INF
 zonearmo-las	zonear+V.ele.ACC.3.F.PL+INF+1+PL
 zoneá-las	zonear+V.ele.ACC.3.F.PL+INF+1+SG
 zonearde-las	zonear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4140,6 +4173,7 @@ zoneávei-la	zonear+V.ele.ACC.3.F.SG+IMPF+2+PL
 zoneava-la	zonear+V.ele.ACC.3.F.SG+IMPF+2+SG
 zoneavam-na	zonear+V.ele.ACC.3.F.SG+IMPF+3+PL
 zoneava-a	zonear+V.ele.ACC.3.F.SG+IMPF+3+SG
+zoneá-la	zonear+V.ele.ACC.3.F.SG+INF
 zonearmo-la	zonear+V.ele.ACC.3.F.SG+INF+1+PL
 zoneá-la	zonear+V.ele.ACC.3.F.SG+INF+1+SG
 zonearde-la	zonear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4189,6 +4223,7 @@ zoneávei-los	zonear+V.ele.ACC.3.M.PL+IMPF+2+PL
 zoneava-los	zonear+V.ele.ACC.3.M.PL+IMPF+2+SG
 zoneavam-nos	zonear+V.ele.ACC.3.M.PL+IMPF+3+PL
 zoneava-os	zonear+V.ele.ACC.3.M.PL+IMPF+3+SG
+zoneá-los	zonear+V.ele.ACC.3.M.PL+INF
 zonearmo-los	zonear+V.ele.ACC.3.M.PL+INF+1+PL
 zoneá-los	zonear+V.ele.ACC.3.M.PL+INF+1+SG
 zonearde-los	zonear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4238,6 +4273,7 @@ zoneávei-lo	zonear+V.ele.ACC.3.M.SG+IMPF+2+PL
 zoneava-lo	zonear+V.ele.ACC.3.M.SG+IMPF+2+SG
 zoneavam-no	zonear+V.ele.ACC.3.M.SG+IMPF+3+PL
 zoneava-o	zonear+V.ele.ACC.3.M.SG+IMPF+3+SG
+zoneá-lo	zonear+V.ele.ACC.3.M.SG+INF
 zonearmo-lo	zonear+V.ele.ACC.3.M.SG+INF+1+PL
 zoneá-lo	zonear+V.ele.ACC.3.M.SG+INF+1+SG
 zonearde-lo	zonear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -4605,6 +4641,7 @@ zonzeávei-las	zonzear+V.ele.ACC.3.F.PL+IMPF+2+PL
 zonzeava-las	zonzear+V.ele.ACC.3.F.PL+IMPF+2+SG
 zonzeavam-nas	zonzear+V.ele.ACC.3.F.PL+IMPF+3+PL
 zonzeava-as	zonzear+V.ele.ACC.3.F.PL+IMPF+3+SG
+zonzeá-las	zonzear+V.ele.ACC.3.F.PL+INF
 zonzearmo-las	zonzear+V.ele.ACC.3.F.PL+INF+1+PL
 zonzeá-las	zonzear+V.ele.ACC.3.F.PL+INF+1+SG
 zonzearde-las	zonzear+V.ele.ACC.3.F.PL+INF+2+PL
@@ -4654,6 +4691,7 @@ zonzeávei-la	zonzear+V.ele.ACC.3.F.SG+IMPF+2+PL
 zonzeava-la	zonzear+V.ele.ACC.3.F.SG+IMPF+2+SG
 zonzeavam-na	zonzear+V.ele.ACC.3.F.SG+IMPF+3+PL
 zonzeava-a	zonzear+V.ele.ACC.3.F.SG+IMPF+3+SG
+zonzeá-la	zonzear+V.ele.ACC.3.F.SG+INF
 zonzearmo-la	zonzear+V.ele.ACC.3.F.SG+INF+1+PL
 zonzeá-la	zonzear+V.ele.ACC.3.F.SG+INF+1+SG
 zonzearde-la	zonzear+V.ele.ACC.3.F.SG+INF+2+PL
@@ -4703,6 +4741,7 @@ zonzeávei-los	zonzear+V.ele.ACC.3.M.PL+IMPF+2+PL
 zonzeava-los	zonzear+V.ele.ACC.3.M.PL+IMPF+2+SG
 zonzeavam-nos	zonzear+V.ele.ACC.3.M.PL+IMPF+3+PL
 zonzeava-os	zonzear+V.ele.ACC.3.M.PL+IMPF+3+SG
+zonzeá-los	zonzear+V.ele.ACC.3.M.PL+INF
 zonzearmo-los	zonzear+V.ele.ACC.3.M.PL+INF+1+PL
 zonzeá-los	zonzear+V.ele.ACC.3.M.PL+INF+1+SG
 zonzearde-los	zonzear+V.ele.ACC.3.M.PL+INF+2+PL
@@ -4752,6 +4791,7 @@ zonzeávei-lo	zonzear+V.ele.ACC.3.M.SG+IMPF+2+PL
 zonzeava-lo	zonzear+V.ele.ACC.3.M.SG+IMPF+2+SG
 zonzeavam-no	zonzear+V.ele.ACC.3.M.SG+IMPF+3+PL
 zonzeava-o	zonzear+V.ele.ACC.3.M.SG+IMPF+3+SG
+zonzeá-lo	zonzear+V.ele.ACC.3.M.SG+INF
 zonzearmo-lo	zonzear+V.ele.ACC.3.M.SG+INF+1+PL
 zonzeá-lo	zonzear+V.ele.ACC.3.M.SG+INF+1+SG
 zonzearde-lo	zonzear+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5122,6 +5162,7 @@ zuíei-las	zuir+V.ele.ACC.3.F.PL+IMPF+2+PL
 zuía-las	zuir+V.ele.ACC.3.F.PL+IMPF+2+SG
 zuíam-nas	zuir+V.ele.ACC.3.F.PL+IMPF+3+PL
 zuía-as	zuir+V.ele.ACC.3.F.PL+IMPF+3+SG
+zuí-las	zuir+V.ele.ACC.3.F.PL+INF
 zuirmo-las	zuir+V.ele.ACC.3.F.PL+INF+1+PL
 zuí-las	zuir+V.ele.ACC.3.F.PL+INF+1+SG
 zuirde-las	zuir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5174,6 +5215,7 @@ zuíei-la	zuir+V.ele.ACC.3.F.SG+IMPF+2+PL
 zuía-la	zuir+V.ele.ACC.3.F.SG+IMPF+2+SG
 zuíam-na	zuir+V.ele.ACC.3.F.SG+IMPF+3+PL
 zuía-a	zuir+V.ele.ACC.3.F.SG+IMPF+3+SG
+zuí-la	zuir+V.ele.ACC.3.F.SG+INF
 zuirmo-la	zuir+V.ele.ACC.3.F.SG+INF+1+PL
 zuí-la	zuir+V.ele.ACC.3.F.SG+INF+1+SG
 zuirde-la	zuir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5227,6 +5269,7 @@ zuía-los	zuir+V.ele.ACC.3.M.PL+IMPF+2+SG
 zuía-os	zuir+V.ele.ACC.3.M.PL+IMPF+3+SG
 zuir-nos	zuir+V.ele.ACC.3.M.PL+INF
 zuir-vos	zuir+V.ele.ACC.3.M.PL+INF
+zuí-los	zuir+V.ele.ACC.3.M.PL+INF
 zuirmo-los	zuir+V.ele.ACC.3.M.PL+INF+1+PL
 zuí-los	zuir+V.ele.ACC.3.M.PL+INF+1+SG
 zuirde-los	zuir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5275,6 +5318,7 @@ zuíei-lo	zuir+V.ele.ACC.3.M.SG+IMPF+2+PL
 zuía-lo	zuir+V.ele.ACC.3.M.SG+IMPF+2+SG
 zuíam-no	zuir+V.ele.ACC.3.M.SG+IMPF+3+PL
 zuía-o	zuir+V.ele.ACC.3.M.SG+IMPF+3+SG
+zuí-lo	zuir+V.ele.ACC.3.M.SG+INF
 zuirmo-lo	zuir+V.ele.ACC.3.M.SG+INF+1+PL
 zuí-lo	zuir+V.ele.ACC.3.M.SG+INF+1+SG
 zuirde-lo	zuir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -5655,6 +5699,7 @@ zumbíei-las	zumbir+V.ele.ACC.3.F.PL+IMPF+2+PL
 zumbia-las	zumbir+V.ele.ACC.3.F.PL+IMPF+2+SG
 zumbiam-nas	zumbir+V.ele.ACC.3.F.PL+IMPF+3+PL
 zumbia-as	zumbir+V.ele.ACC.3.F.PL+IMPF+3+SG
+zumbi-las	zumbir+V.ele.ACC.3.F.PL+INF
 zumbirmo-las	zumbir+V.ele.ACC.3.F.PL+INF+1+PL
 zumbi-las	zumbir+V.ele.ACC.3.F.PL+INF+1+SG
 zumbirde-las	zumbir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -5695,6 +5740,7 @@ zumbíei-la	zumbir+V.ele.ACC.3.F.SG+IMPF+2+PL
 zumbia-la	zumbir+V.ele.ACC.3.F.SG+IMPF+2+SG
 zumbiam-na	zumbir+V.ele.ACC.3.F.SG+IMPF+3+PL
 zumbia-a	zumbir+V.ele.ACC.3.F.SG+IMPF+3+SG
+zumbi-la	zumbir+V.ele.ACC.3.F.SG+INF
 zumbirmo-la	zumbir+V.ele.ACC.3.F.SG+INF+1+PL
 zumbi-la	zumbir+V.ele.ACC.3.F.SG+INF+1+SG
 zumbirde-la	zumbir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -5735,6 +5781,7 @@ zumbíei-los	zumbir+V.ele.ACC.3.M.PL+IMPF+2+PL
 zumbia-los	zumbir+V.ele.ACC.3.M.PL+IMPF+2+SG
 zumbiam-nos	zumbir+V.ele.ACC.3.M.PL+IMPF+3+PL
 zumbia-os	zumbir+V.ele.ACC.3.M.PL+IMPF+3+SG
+zumbi-los	zumbir+V.ele.ACC.3.M.PL+INF
 zumbirmo-los	zumbir+V.ele.ACC.3.M.PL+INF+1+PL
 zumbi-los	zumbir+V.ele.ACC.3.M.PL+INF+1+SG
 zumbirde-los	zumbir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -5775,6 +5822,7 @@ zumbíei-lo	zumbir+V.ele.ACC.3.M.SG+IMPF+2+PL
 zumbia-lo	zumbir+V.ele.ACC.3.M.SG+IMPF+2+SG
 zumbiam-no	zumbir+V.ele.ACC.3.M.SG+IMPF+3+PL
 zumbia-o	zumbir+V.ele.ACC.3.M.SG+IMPF+3+SG
+zumbi-lo	zumbir+V.ele.ACC.3.M.SG+INF
 zumbirmo-lo	zumbir+V.ele.ACC.3.M.SG+INF+1+PL
 zumbi-lo	zumbir+V.ele.ACC.3.M.SG+INF+1+SG
 zumbirde-lo	zumbir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6077,6 +6125,7 @@ zumbríei-las	zumbrir+V.ele.ACC.3.F.PL+IMPF+2+PL
 zumbria-las	zumbrir+V.ele.ACC.3.F.PL+IMPF+2+SG
 zumbriam-nas	zumbrir+V.ele.ACC.3.F.PL+IMPF+3+PL
 zumbria-as	zumbrir+V.ele.ACC.3.F.PL+IMPF+3+SG
+zumbri-las	zumbrir+V.ele.ACC.3.F.PL+INF
 zumbrirmo-las	zumbrir+V.ele.ACC.3.F.PL+INF+1+PL
 zumbri-las	zumbrir+V.ele.ACC.3.F.PL+INF+1+SG
 zumbrirde-las	zumbrir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6117,6 +6166,7 @@ zumbríei-la	zumbrir+V.ele.ACC.3.F.SG+IMPF+2+PL
 zumbria-la	zumbrir+V.ele.ACC.3.F.SG+IMPF+2+SG
 zumbriam-na	zumbrir+V.ele.ACC.3.F.SG+IMPF+3+PL
 zumbria-a	zumbrir+V.ele.ACC.3.F.SG+IMPF+3+SG
+zumbri-la	zumbrir+V.ele.ACC.3.F.SG+INF
 zumbrirmo-la	zumbrir+V.ele.ACC.3.F.SG+INF+1+PL
 zumbri-la	zumbrir+V.ele.ACC.3.F.SG+INF+1+SG
 zumbrirde-la	zumbrir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6157,6 +6207,7 @@ zumbríei-los	zumbrir+V.ele.ACC.3.M.PL+IMPF+2+PL
 zumbria-los	zumbrir+V.ele.ACC.3.M.PL+IMPF+2+SG
 zumbriam-nos	zumbrir+V.ele.ACC.3.M.PL+IMPF+3+PL
 zumbria-os	zumbrir+V.ele.ACC.3.M.PL+IMPF+3+SG
+zumbri-los	zumbrir+V.ele.ACC.3.M.PL+INF
 zumbrirmo-los	zumbrir+V.ele.ACC.3.M.PL+INF+1+PL
 zumbri-los	zumbrir+V.ele.ACC.3.M.PL+INF+1+SG
 zumbrirde-los	zumbrir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6197,6 +6248,7 @@ zumbríei-lo	zumbrir+V.ele.ACC.3.M.SG+IMPF+2+PL
 zumbria-lo	zumbrir+V.ele.ACC.3.M.SG+IMPF+2+SG
 zumbriam-no	zumbrir+V.ele.ACC.3.M.SG+IMPF+3+PL
 zumbria-o	zumbrir+V.ele.ACC.3.M.SG+IMPF+3+SG
+zumbri-lo	zumbrir+V.ele.ACC.3.M.SG+INF
 zumbrirmo-lo	zumbrir+V.ele.ACC.3.M.SG+INF+1+PL
 zumbri-lo	zumbrir+V.ele.ACC.3.M.SG+INF+1+SG
 zumbrirde-lo	zumbrir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6499,6 +6551,7 @@ zuníei-las	zunir+V.ele.ACC.3.F.PL+IMPF+2+PL
 zunia-las	zunir+V.ele.ACC.3.F.PL+IMPF+2+SG
 zuniam-nas	zunir+V.ele.ACC.3.F.PL+IMPF+3+PL
 zunia-as	zunir+V.ele.ACC.3.F.PL+IMPF+3+SG
+zuni-las	zunir+V.ele.ACC.3.F.PL+INF
 zunirmo-las	zunir+V.ele.ACC.3.F.PL+INF+1+PL
 zuni-las	zunir+V.ele.ACC.3.F.PL+INF+1+SG
 zunirde-las	zunir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6539,6 +6592,7 @@ zuníei-la	zunir+V.ele.ACC.3.F.SG+IMPF+2+PL
 zunia-la	zunir+V.ele.ACC.3.F.SG+IMPF+2+SG
 zuniam-na	zunir+V.ele.ACC.3.F.SG+IMPF+3+PL
 zunia-a	zunir+V.ele.ACC.3.F.SG+IMPF+3+SG
+zuni-la	zunir+V.ele.ACC.3.F.SG+INF
 zunirmo-la	zunir+V.ele.ACC.3.F.SG+INF+1+PL
 zuni-la	zunir+V.ele.ACC.3.F.SG+INF+1+SG
 zunirde-la	zunir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -6579,6 +6633,7 @@ zuníei-los	zunir+V.ele.ACC.3.M.PL+IMPF+2+PL
 zunia-los	zunir+V.ele.ACC.3.M.PL+IMPF+2+SG
 zuniam-nos	zunir+V.ele.ACC.3.M.PL+IMPF+3+PL
 zunia-os	zunir+V.ele.ACC.3.M.PL+IMPF+3+SG
+zuni-los	zunir+V.ele.ACC.3.M.PL+INF
 zunirmo-los	zunir+V.ele.ACC.3.M.PL+INF+1+PL
 zuni-los	zunir+V.ele.ACC.3.M.PL+INF+1+SG
 zunirde-los	zunir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -6619,6 +6674,7 @@ zuníei-lo	zunir+V.ele.ACC.3.M.SG+IMPF+2+PL
 zunia-lo	zunir+V.ele.ACC.3.M.SG+IMPF+2+SG
 zuniam-no	zunir+V.ele.ACC.3.M.SG+IMPF+3+PL
 zunia-o	zunir+V.ele.ACC.3.M.SG+IMPF+3+SG
+zuni-lo	zunir+V.ele.ACC.3.M.SG+INF
 zunirmo-lo	zunir+V.ele.ACC.3.M.SG+INF+1+PL
 zuni-lo	zunir+V.ele.ACC.3.M.SG+INF+1+SG
 zunirde-lo	zunir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -6921,6 +6977,7 @@ zunzuníei-las	zunzunir+V.ele.ACC.3.F.PL+IMPF+2+PL
 zunzunia-las	zunzunir+V.ele.ACC.3.F.PL+IMPF+2+SG
 zunzuniam-nas	zunzunir+V.ele.ACC.3.F.PL+IMPF+3+PL
 zunzunia-as	zunzunir+V.ele.ACC.3.F.PL+IMPF+3+SG
+zunzuni-las	zunzunir+V.ele.ACC.3.F.PL+INF
 zunzunirmo-las	zunzunir+V.ele.ACC.3.F.PL+INF+1+PL
 zunzuni-las	zunzunir+V.ele.ACC.3.F.PL+INF+1+SG
 zunzunirde-las	zunzunir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -6961,6 +7018,7 @@ zunzuníei-la	zunzunir+V.ele.ACC.3.F.SG+IMPF+2+PL
 zunzunia-la	zunzunir+V.ele.ACC.3.F.SG+IMPF+2+SG
 zunzuniam-na	zunzunir+V.ele.ACC.3.F.SG+IMPF+3+PL
 zunzunia-a	zunzunir+V.ele.ACC.3.F.SG+IMPF+3+SG
+zunzuni-la	zunzunir+V.ele.ACC.3.F.SG+INF
 zunzunirmo-la	zunzunir+V.ele.ACC.3.F.SG+INF+1+PL
 zunzuni-la	zunzunir+V.ele.ACC.3.F.SG+INF+1+SG
 zunzunirde-la	zunzunir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7001,6 +7059,7 @@ zunzuníei-los	zunzunir+V.ele.ACC.3.M.PL+IMPF+2+PL
 zunzunia-los	zunzunir+V.ele.ACC.3.M.PL+IMPF+2+SG
 zunzuniam-nos	zunzunir+V.ele.ACC.3.M.PL+IMPF+3+PL
 zunzunia-os	zunzunir+V.ele.ACC.3.M.PL+IMPF+3+SG
+zunzuni-los	zunzunir+V.ele.ACC.3.M.PL+INF
 zunzunirmo-los	zunzunir+V.ele.ACC.3.M.PL+INF+1+PL
 zunzuni-los	zunzunir+V.ele.ACC.3.M.PL+INF+1+SG
 zunzunirde-los	zunzunir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -7041,6 +7100,7 @@ zunzuníei-lo	zunzunir+V.ele.ACC.3.M.SG+IMPF+2+PL
 zunzunia-lo	zunzunir+V.ele.ACC.3.M.SG+IMPF+2+SG
 zunzuniam-no	zunzunir+V.ele.ACC.3.M.SG+IMPF+3+PL
 zunzunia-o	zunzunir+V.ele.ACC.3.M.SG+IMPF+3+SG
+zunzuni-lo	zunzunir+V.ele.ACC.3.M.SG+INF
 zunzunirmo-lo	zunzunir+V.ele.ACC.3.M.SG+INF+1+PL
 zunzuni-lo	zunzunir+V.ele.ACC.3.M.SG+INF+1+SG
 zunzunirde-lo	zunzunir+V.ele.ACC.3.M.SG+INF+2+PL
@@ -7343,6 +7403,7 @@ zurzíei-las	zurzir+V.ele.ACC.3.F.PL+IMPF+2+PL
 zurzia-las	zurzir+V.ele.ACC.3.F.PL+IMPF+2+SG
 zurziam-nas	zurzir+V.ele.ACC.3.F.PL+IMPF+3+PL
 zurzia-as	zurzir+V.ele.ACC.3.F.PL+IMPF+3+SG
+zurzi-las	zurzir+V.ele.ACC.3.F.PL+INF
 zurzirmo-las	zurzir+V.ele.ACC.3.F.PL+INF+1+PL
 zurzi-las	zurzir+V.ele.ACC.3.F.PL+INF+1+SG
 zurzirde-las	zurzir+V.ele.ACC.3.F.PL+INF+2+PL
@@ -7383,6 +7444,7 @@ zurzíei-la	zurzir+V.ele.ACC.3.F.SG+IMPF+2+PL
 zurzia-la	zurzir+V.ele.ACC.3.F.SG+IMPF+2+SG
 zurziam-na	zurzir+V.ele.ACC.3.F.SG+IMPF+3+PL
 zurzia-a	zurzir+V.ele.ACC.3.F.SG+IMPF+3+SG
+zurzi-la	zurzir+V.ele.ACC.3.F.SG+INF
 zurzirmo-la	zurzir+V.ele.ACC.3.F.SG+INF+1+PL
 zurzi-la	zurzir+V.ele.ACC.3.F.SG+INF+1+SG
 zurzirde-la	zurzir+V.ele.ACC.3.F.SG+INF+2+PL
@@ -7423,6 +7485,7 @@ zurzíei-los	zurzir+V.ele.ACC.3.M.PL+IMPF+2+PL
 zurzia-los	zurzir+V.ele.ACC.3.M.PL+IMPF+2+SG
 zurziam-nos	zurzir+V.ele.ACC.3.M.PL+IMPF+3+PL
 zurzia-os	zurzir+V.ele.ACC.3.M.PL+IMPF+3+SG
+zurzi-los	zurzir+V.ele.ACC.3.M.PL+INF
 zurzirmo-los	zurzir+V.ele.ACC.3.M.PL+INF+1+PL
 zurzi-los	zurzir+V.ele.ACC.3.M.PL+INF+1+SG
 zurzirde-los	zurzir+V.ele.ACC.3.M.PL+INF+2+PL
@@ -7463,6 +7526,7 @@ zurzíei-lo	zurzir+V.ele.ACC.3.M.SG+IMPF+2+PL
 zurzia-lo	zurzir+V.ele.ACC.3.M.SG+IMPF+2+SG
 zurziam-no	zurzir+V.ele.ACC.3.M.SG+IMPF+3+PL
 zurzia-o	zurzir+V.ele.ACC.3.M.SG+IMPF+3+SG
+zurzi-lo	zurzir+V.ele.ACC.3.M.SG+INF
 zurzirmo-lo	zurzir+V.ele.ACC.3.M.SG+INF+1+PL
 zurzi-lo	zurzir+V.ele.ACC.3.M.SG+INF+1+SG
 zurzirde-lo	zurzir+V.ele.ACC.3.M.SG+INF+2+PL

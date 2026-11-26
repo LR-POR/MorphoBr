@@ -17,10 +17,10 @@ Authors: Leonel F. de Alencar, Alexandre Rademaker, Bruno Cuconato.
 |---|---:|---:|
 | Nouns | 83,703 | 537,572 |
 | Adjectives | 55,468 | 543,778 |
-| Verbs | 28,095 | 2,052,130 |
+| Verbs | 28,095 | 2,052,004 |
 | Adverbs | 21,146 | 21,181 |
-| Verbs with clitics | 14,274 | 7,677,577 |
-| **Total** | | **10,832,238** |
+| Verbs with clitics | 14,274 | 7,731,365 |
+| **Total** | | **10,885,900** |
 
 Each entry pairs a form with an analysis:
 
@@ -175,8 +175,7 @@ The rules attach the eleven pronouns (*me, te, se, nos, vos, lhe, lhes, o, a,
 os, as*) to the finite forms (except the present subjunctive and the
 2nd-person imperative), the personal and impersonal infinitive and the gerund;
 the reflexive *se* only to the 3rd person, the impersonal infinitive and the
-gerund; the accusative not to the impersonal infinitive (in the data it occurs
-for only 5% of the lemmas). The accusative becomes *lo, la, los, las* after
+gerund. The accusative becomes *lo, la, los, las* after
 *-r, -z, -s* (which drop, with an accent on *a, e, o*: *amá-lo, fê-lo*) and
 *no, na, nos, nas* after a nasal; a stressed *i* in hiatus gets an accent
 (*atribuí-lo*, *atraí-lo-ia*); the *-s* of the 1st person plural drops before
