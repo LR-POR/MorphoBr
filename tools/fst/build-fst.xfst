@@ -1,6 +1,0 @@
-# XFST script for compiling the final transducer modeling the formation of diminutives in Portuguese
-# Usage: xfst -f build-fst.xfst -q 
-
-source compile-final-fst.xfst
-
-ss xfst.fst
