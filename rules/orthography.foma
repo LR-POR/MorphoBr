@@ -1,0 +1,7 @@
+! Alternâncias ortográficas na fronteira radical^sufixo dos verbos em -ar
+! (ver rules/verbs.lexc). Aplicadas ao lado inferior (forma).
+define CQU c -> {qu} || _ "^" e ;     ! ficar: fique
+define GGU g -> {gu} || _ "^" e ;     ! pagar: pague
+define CED ç -> c || _ "^" e ;        ! abraçar: abrace
+define BOUNDARY "^" -> 0 ;
+define Orthography CQU .o. GGU .o. CED .o. BOUNDARY ;

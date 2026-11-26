@@ -26,6 +26,9 @@ for d in nouns verbs clitics adjectives adverbs; do
     done > $TMP/$d.stxt
 done
 
+# léxico de radicais + paradigmas dos verbos gerados por regras (ver #143)
+tools/lexicon-to-lexc.sh > $TMP/verbs.lexc
+
 "$FOMA" -f compile.foma
 
-rm $TMP/*.stxt
+rm $TMP/*.stxt $TMP/verbs.lexc

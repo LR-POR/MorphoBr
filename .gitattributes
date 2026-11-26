@@ -4,3 +4,4 @@
 /clitics/*.dict text eol=lf
 /adjectives/*.dict text eol=lf
 /adverbs/*.dict text eol=lf
+/lexicon/**/*.tsv text eol=lf
