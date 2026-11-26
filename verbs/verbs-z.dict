@@ -83,6 +83,7 @@ zaconicizarás	zaconicizar+V+FUT+2+SG
 zaconicizarão	zaconicizar+V+FUT+3+PL
 zaconicizará	zaconicizar+V+FUT+3+SG
 zaconicizando	zaconicizar+V+GRD
+zaconicizemo	zaconicizar+V+IMP+1+PL
 zaconicizemos	zaconicizar+V+IMP+1+PL
 zaconicizai	zaconicizar+V+IMP+2+PL
 zaconiciza	zaconicizar+V+IMP+2+SG
@@ -95,6 +96,12 @@ zaconicizavas	zaconicizar+V+IMPF+2+SG
 zaconicizavam	zaconicizar+V+IMPF+3+PL
 zaconicizava	zaconicizar+V+IMPF+3+SG
 zaconicizar	zaconicizar+V+INF
+zaconicizarmos	zaconicizar+V+INF+1+PL
+zaconicizar	zaconicizar+V+INF+1+SG
+zaconicizardes	zaconicizar+V+INF+2+PL
+zaconicizares	zaconicizar+V+INF+2+SG
+zaconicizarem	zaconicizar+V+INF+3+PL
+zaconicizar	zaconicizar+V+INF+3+SG
 zaconicizáramos	zaconicizar+V+PQP+1+PL
 zaconicizara	zaconicizar+V+PQP+1+SG
 zaconicizáreis	zaconicizar+V+PQP+2+PL
@@ -102,6 +109,7 @@ zaconicizaras	zaconicizar+V+PQP+2+SG
 zaconicizaram	zaconicizar+V+PQP+3+PL
 zaconicizara	zaconicizar+V+PQP+3+SG
 zaconicizamos	zaconicizar+V+PRF+1+PL
+zaconicizámos	zaconicizar+V+PRF+1+PL
 zaconicizei	zaconicizar+V+PRF+1+SG
 zaconicizastes	zaconicizar+V+PRF+2+PL
 zaconicizaste	zaconicizar+V+PRF+2+SG
@@ -294,6 +302,7 @@ zairianizarás	zairianizar+V+FUT+2+SG
 zairianizarão	zairianizar+V+FUT+3+PL
 zairianizará	zairianizar+V+FUT+3+SG
 zairianizando	zairianizar+V+GRD
+zairianizemo	zairianizar+V+IMP+1+PL
 zairianizemos	zairianizar+V+IMP+1+PL
 zairianizai	zairianizar+V+IMP+2+PL
 zairianiza	zairianizar+V+IMP+2+SG
@@ -306,6 +315,12 @@ zairianizavas	zairianizar+V+IMPF+2+SG
 zairianizavam	zairianizar+V+IMPF+3+PL
 zairianizava	zairianizar+V+IMPF+3+SG
 zairianizar	zairianizar+V+INF
+zairianizarmos	zairianizar+V+INF+1+PL
+zairianizar	zairianizar+V+INF+1+SG
+zairianizardes	zairianizar+V+INF+2+PL
+zairianizares	zairianizar+V+INF+2+SG
+zairianizarem	zairianizar+V+INF+3+PL
+zairianizar	zairianizar+V+INF+3+SG
 zairianizáramos	zairianizar+V+PQP+1+PL
 zairianizara	zairianizar+V+PQP+1+SG
 zairianizáreis	zairianizar+V+PQP+2+PL
@@ -313,6 +328,7 @@ zairianizaras	zairianizar+V+PQP+2+SG
 zairianizaram	zairianizar+V+PQP+3+PL
 zairianizara	zairianizar+V+PQP+3+SG
 zairianizamos	zairianizar+V+PRF+1+PL
+zairianizámos	zairianizar+V+PRF+1+PL
 zairianizei	zairianizar+V+PRF+1+SG
 zairianizastes	zairianizar+V+PRF+2+PL
 zairianizaste	zairianizar+V+PRF+2+SG
@@ -359,6 +375,7 @@ zambianizarás	zambianizar+V+FUT+2+SG
 zambianizarão	zambianizar+V+FUT+3+PL
 zambianizará	zambianizar+V+FUT+3+SG
 zambianizando	zambianizar+V+GRD
+zambianizemo	zambianizar+V+IMP+1+PL
 zambianizemos	zambianizar+V+IMP+1+PL
 zambianizai	zambianizar+V+IMP+2+PL
 zambianiza	zambianizar+V+IMP+2+SG
@@ -371,6 +388,12 @@ zambianizavas	zambianizar+V+IMPF+2+SG
 zambianizavam	zambianizar+V+IMPF+3+PL
 zambianizava	zambianizar+V+IMPF+3+SG
 zambianizar	zambianizar+V+INF
+zambianizarmos	zambianizar+V+INF+1+PL
+zambianizar	zambianizar+V+INF+1+SG
+zambianizardes	zambianizar+V+INF+2+PL
+zambianizares	zambianizar+V+INF+2+SG
+zambianizarem	zambianizar+V+INF+3+PL
+zambianizar	zambianizar+V+INF+3+SG
 zambianizáramos	zambianizar+V+PQP+1+PL
 zambianizara	zambianizar+V+PQP+1+SG
 zambianizáreis	zambianizar+V+PQP+2+PL
@@ -378,6 +401,7 @@ zambianizaras	zambianizar+V+PQP+2+SG
 zambianizaram	zambianizar+V+PQP+3+PL
 zambianizara	zambianizar+V+PQP+3+SG
 zambianizamos	zambianizar+V+PRF+1+PL
+zambianizámos	zambianizar+V+PRF+1+PL
 zambianizei	zambianizar+V+PRF+1+SG
 zambianizastes	zambianizar+V+PRF+2+PL
 zambianizaste	zambianizar+V+PRF+2+SG
@@ -1585,6 +1609,7 @@ zebralizarás	zebralizar+V+FUT+2+SG
 zebralizarão	zebralizar+V+FUT+3+PL
 zebralizará	zebralizar+V+FUT+3+SG
 zebralizando	zebralizar+V+GRD
+zebralizemo	zebralizar+V+IMP+1+PL
 zebralizemos	zebralizar+V+IMP+1+PL
 zebralizai	zebralizar+V+IMP+2+PL
 zebraliza	zebralizar+V+IMP+2+SG
@@ -1597,6 +1622,12 @@ zebralizavas	zebralizar+V+IMPF+2+SG
 zebralizavam	zebralizar+V+IMPF+3+PL
 zebralizava	zebralizar+V+IMPF+3+SG
 zebralizar	zebralizar+V+INF
+zebralizarmos	zebralizar+V+INF+1+PL
+zebralizar	zebralizar+V+INF+1+SG
+zebralizardes	zebralizar+V+INF+2+PL
+zebralizares	zebralizar+V+INF+2+SG
+zebralizarem	zebralizar+V+INF+3+PL
+zebralizar	zebralizar+V+INF+3+SG
 zebralizáramos	zebralizar+V+PQP+1+PL
 zebralizara	zebralizar+V+PQP+1+SG
 zebralizáreis	zebralizar+V+PQP+2+PL
@@ -1604,6 +1635,7 @@ zebralizaras	zebralizar+V+PQP+2+SG
 zebralizaram	zebralizar+V+PQP+3+PL
 zebralizara	zebralizar+V+PQP+3+SG
 zebralizamos	zebralizar+V+PRF+1+PL
+zebralizámos	zebralizar+V+PRF+1+PL
 zebralizei	zebralizar+V+PRF+1+SG
 zebralizastes	zebralizar+V+PRF+2+PL
 zebralizaste	zebralizar+V+PRF+2+SG
@@ -1723,6 +1755,7 @@ zelabilizarás	zelabilizar+V+FUT+2+SG
 zelabilizarão	zelabilizar+V+FUT+3+PL
 zelabilizará	zelabilizar+V+FUT+3+SG
 zelabilizando	zelabilizar+V+GRD
+zelabilizemo	zelabilizar+V+IMP+1+PL
 zelabilizemos	zelabilizar+V+IMP+1+PL
 zelabilizai	zelabilizar+V+IMP+2+PL
 zelabiliza	zelabilizar+V+IMP+2+SG
@@ -1735,6 +1768,12 @@ zelabilizavas	zelabilizar+V+IMPF+2+SG
 zelabilizavam	zelabilizar+V+IMPF+3+PL
 zelabilizava	zelabilizar+V+IMPF+3+SG
 zelabilizar	zelabilizar+V+INF
+zelabilizarmos	zelabilizar+V+INF+1+PL
+zelabilizar	zelabilizar+V+INF+1+SG
+zelabilizardes	zelabilizar+V+INF+2+PL
+zelabilizares	zelabilizar+V+INF+2+SG
+zelabilizarem	zelabilizar+V+INF+3+PL
+zelabilizar	zelabilizar+V+INF+3+SG
 zelabilizáramos	zelabilizar+V+PQP+1+PL
 zelabilizara	zelabilizar+V+PQP+1+SG
 zelabilizáreis	zelabilizar+V+PQP+2+PL
@@ -1742,6 +1781,7 @@ zelabilizaras	zelabilizar+V+PQP+2+SG
 zelabilizaram	zelabilizar+V+PQP+3+PL
 zelabilizara	zelabilizar+V+PQP+3+SG
 zelabilizamos	zelabilizar+V+PRF+1+PL
+zelabilizámos	zelabilizar+V+PRF+1+PL
 zelabilizei	zelabilizar+V+PRF+1+SG
 zelabilizastes	zelabilizar+V+PRF+2+PL
 zelabilizaste	zelabilizar+V+PRF+2+SG
@@ -1933,6 +1973,7 @@ zenitalizarás	zenitalizar+V+FUT+2+SG
 zenitalizarão	zenitalizar+V+FUT+3+PL
 zenitalizará	zenitalizar+V+FUT+3+SG
 zenitalizando	zenitalizar+V+GRD
+zenitalizemo	zenitalizar+V+IMP+1+PL
 zenitalizemos	zenitalizar+V+IMP+1+PL
 zenitalizai	zenitalizar+V+IMP+2+PL
 zenitaliza	zenitalizar+V+IMP+2+SG
@@ -1945,6 +1986,12 @@ zenitalizavas	zenitalizar+V+IMPF+2+SG
 zenitalizavam	zenitalizar+V+IMPF+3+PL
 zenitalizava	zenitalizar+V+IMPF+3+SG
 zenitalizar	zenitalizar+V+INF
+zenitalizarmos	zenitalizar+V+INF+1+PL
+zenitalizar	zenitalizar+V+INF+1+SG
+zenitalizardes	zenitalizar+V+INF+2+PL
+zenitalizares	zenitalizar+V+INF+2+SG
+zenitalizarem	zenitalizar+V+INF+3+PL
+zenitalizar	zenitalizar+V+INF+3+SG
 zenitalizáramos	zenitalizar+V+PQP+1+PL
 zenitalizara	zenitalizar+V+PQP+1+SG
 zenitalizáreis	zenitalizar+V+PQP+2+PL
@@ -1952,6 +1999,7 @@ zenitalizaras	zenitalizar+V+PQP+2+SG
 zenitalizaram	zenitalizar+V+PQP+3+PL
 zenitalizara	zenitalizar+V+PQP+3+SG
 zenitalizamos	zenitalizar+V+PRF+1+PL
+zenitalizámos	zenitalizar+V+PRF+1+PL
 zenitalizei	zenitalizar+V+PRF+1+SG
 zenitalizastes	zenitalizar+V+PRF+2+PL
 zenitalizaste	zenitalizar+V+PRF+2+SG
@@ -1998,6 +2046,7 @@ zenonicizarás	zenonicizar+V+FUT+2+SG
 zenonicizarão	zenonicizar+V+FUT+3+PL
 zenonicizará	zenonicizar+V+FUT+3+SG
 zenonicizando	zenonicizar+V+GRD
+zenonicizemo	zenonicizar+V+IMP+1+PL
 zenonicizemos	zenonicizar+V+IMP+1+PL
 zenonicizai	zenonicizar+V+IMP+2+PL
 zenoniciza	zenonicizar+V+IMP+2+SG
@@ -2010,6 +2059,12 @@ zenonicizavas	zenonicizar+V+IMPF+2+SG
 zenonicizavam	zenonicizar+V+IMPF+3+PL
 zenonicizava	zenonicizar+V+IMPF+3+SG
 zenonicizar	zenonicizar+V+INF
+zenonicizarmos	zenonicizar+V+INF+1+PL
+zenonicizar	zenonicizar+V+INF+1+SG
+zenonicizardes	zenonicizar+V+INF+2+PL
+zenonicizares	zenonicizar+V+INF+2+SG
+zenonicizarem	zenonicizar+V+INF+3+PL
+zenonicizar	zenonicizar+V+INF+3+SG
 zenonicizáramos	zenonicizar+V+PQP+1+PL
 zenonicizara	zenonicizar+V+PQP+1+SG
 zenonicizáreis	zenonicizar+V+PQP+2+PL
@@ -2017,6 +2072,7 @@ zenonicizaras	zenonicizar+V+PQP+2+SG
 zenonicizaram	zenonicizar+V+PQP+3+PL
 zenonicizara	zenonicizar+V+PQP+3+SG
 zenonicizamos	zenonicizar+V+PRF+1+PL
+zenonicizámos	zenonicizar+V+PRF+1+PL
 zenonicizei	zenonicizar+V+PRF+1+SG
 zenonicizastes	zenonicizar+V+PRF+2+PL
 zenonicizaste	zenonicizar+V+PRF+2+SG
@@ -2063,6 +2119,7 @@ zeoliticizarás	zeoliticizar+V+FUT+2+SG
 zeoliticizarão	zeoliticizar+V+FUT+3+PL
 zeoliticizará	zeoliticizar+V+FUT+3+SG
 zeoliticizando	zeoliticizar+V+GRD
+zeoliticizemo	zeoliticizar+V+IMP+1+PL
 zeoliticizemos	zeoliticizar+V+IMP+1+PL
 zeoliticizai	zeoliticizar+V+IMP+2+PL
 zeoliticiza	zeoliticizar+V+IMP+2+SG
@@ -2075,6 +2132,12 @@ zeoliticizavas	zeoliticizar+V+IMPF+2+SG
 zeoliticizavam	zeoliticizar+V+IMPF+3+PL
 zeoliticizava	zeoliticizar+V+IMPF+3+SG
 zeoliticizar	zeoliticizar+V+INF
+zeoliticizarmos	zeoliticizar+V+INF+1+PL
+zeoliticizar	zeoliticizar+V+INF+1+SG
+zeoliticizardes	zeoliticizar+V+INF+2+PL
+zeoliticizares	zeoliticizar+V+INF+2+SG
+zeoliticizarem	zeoliticizar+V+INF+3+PL
+zeoliticizar	zeoliticizar+V+INF+3+SG
 zeoliticizáramos	zeoliticizar+V+PQP+1+PL
 zeoliticizara	zeoliticizar+V+PQP+1+SG
 zeoliticizáreis	zeoliticizar+V+PQP+2+PL
@@ -2082,6 +2145,7 @@ zeoliticizaras	zeoliticizar+V+PQP+2+SG
 zeoliticizaram	zeoliticizar+V+PQP+3+PL
 zeoliticizara	zeoliticizar+V+PQP+3+SG
 zeoliticizamos	zeoliticizar+V+PRF+1+PL
+zeoliticizámos	zeoliticizar+V+PRF+1+PL
 zeoliticizei	zeoliticizar+V+PRF+1+SG
 zeoliticizastes	zeoliticizar+V+PRF+2+PL
 zeoliticizaste	zeoliticizar+V+PRF+2+SG
@@ -2201,6 +2265,7 @@ zeteticizarás	zeteticizar+V+FUT+2+SG
 zeteticizarão	zeteticizar+V+FUT+3+PL
 zeteticizará	zeteticizar+V+FUT+3+SG
 zeteticizando	zeteticizar+V+GRD
+zeteticizemo	zeteticizar+V+IMP+1+PL
 zeteticizemos	zeteticizar+V+IMP+1+PL
 zeteticizai	zeteticizar+V+IMP+2+PL
 zeteticiza	zeteticizar+V+IMP+2+SG
@@ -2213,6 +2278,12 @@ zeteticizavas	zeteticizar+V+IMPF+2+SG
 zeteticizavam	zeteticizar+V+IMPF+3+PL
 zeteticizava	zeteticizar+V+IMPF+3+SG
 zeteticizar	zeteticizar+V+INF
+zeteticizarmos	zeteticizar+V+INF+1+PL
+zeteticizar	zeteticizar+V+INF+1+SG
+zeteticizardes	zeteticizar+V+INF+2+PL
+zeteticizares	zeteticizar+V+INF+2+SG
+zeteticizarem	zeteticizar+V+INF+3+PL
+zeteticizar	zeteticizar+V+INF+3+SG
 zeteticizáramos	zeteticizar+V+PQP+1+PL
 zeteticizara	zeteticizar+V+PQP+1+SG
 zeteticizáreis	zeteticizar+V+PQP+2+PL
@@ -2220,6 +2291,7 @@ zeteticizaras	zeteticizar+V+PQP+2+SG
 zeteticizaram	zeteticizar+V+PQP+3+PL
 zeteticizara	zeteticizar+V+PQP+3+SG
 zeteticizamos	zeteticizar+V+PRF+1+PL
+zeteticizámos	zeteticizar+V+PRF+1+PL
 zeteticizei	zeteticizar+V+PRF+1+SG
 zeteticizastes	zeteticizar+V+PRF+2+PL
 zeteticizaste	zeteticizar+V+PRF+2+SG
@@ -2266,6 +2338,7 @@ zeugitanizarás	zeugitanizar+V+FUT+2+SG
 zeugitanizarão	zeugitanizar+V+FUT+3+PL
 zeugitanizará	zeugitanizar+V+FUT+3+SG
 zeugitanizando	zeugitanizar+V+GRD
+zeugitanizemo	zeugitanizar+V+IMP+1+PL
 zeugitanizemos	zeugitanizar+V+IMP+1+PL
 zeugitanizai	zeugitanizar+V+IMP+2+PL
 zeugitaniza	zeugitanizar+V+IMP+2+SG
@@ -2278,6 +2351,12 @@ zeugitanizavas	zeugitanizar+V+IMPF+2+SG
 zeugitanizavam	zeugitanizar+V+IMPF+3+PL
 zeugitanizava	zeugitanizar+V+IMPF+3+SG
 zeugitanizar	zeugitanizar+V+INF
+zeugitanizarmos	zeugitanizar+V+INF+1+PL
+zeugitanizar	zeugitanizar+V+INF+1+SG
+zeugitanizardes	zeugitanizar+V+INF+2+PL
+zeugitanizares	zeugitanizar+V+INF+2+SG
+zeugitanizarem	zeugitanizar+V+INF+3+PL
+zeugitanizar	zeugitanizar+V+INF+3+SG
 zeugitanizáramos	zeugitanizar+V+PQP+1+PL
 zeugitanizara	zeugitanizar+V+PQP+1+SG
 zeugitanizáreis	zeugitanizar+V+PQP+2+PL
@@ -2285,6 +2364,7 @@ zeugitanizaras	zeugitanizar+V+PQP+2+SG
 zeugitanizaram	zeugitanizar+V+PQP+3+PL
 zeugitanizara	zeugitanizar+V+PQP+3+SG
 zeugitanizamos	zeugitanizar+V+PRF+1+PL
+zeugitanizámos	zeugitanizar+V+PRF+1+PL
 zeugitanizei	zeugitanizar+V+PRF+1+SG
 zeugitanizastes	zeugitanizar+V+PRF+2+PL
 zeugitanizaste	zeugitanizar+V+PRF+2+SG
@@ -2331,6 +2411,7 @@ zeugmaticizarás	zeugmaticizar+V+FUT+2+SG
 zeugmaticizarão	zeugmaticizar+V+FUT+3+PL
 zeugmaticizará	zeugmaticizar+V+FUT+3+SG
 zeugmaticizando	zeugmaticizar+V+GRD
+zeugmaticizemo	zeugmaticizar+V+IMP+1+PL
 zeugmaticizemos	zeugmaticizar+V+IMP+1+PL
 zeugmaticizai	zeugmaticizar+V+IMP+2+PL
 zeugmaticiza	zeugmaticizar+V+IMP+2+SG
@@ -2343,6 +2424,12 @@ zeugmaticizavas	zeugmaticizar+V+IMPF+2+SG
 zeugmaticizavam	zeugmaticizar+V+IMPF+3+PL
 zeugmaticizava	zeugmaticizar+V+IMPF+3+SG
 zeugmaticizar	zeugmaticizar+V+INF
+zeugmaticizarmos	zeugmaticizar+V+INF+1+PL
+zeugmaticizar	zeugmaticizar+V+INF+1+SG
+zeugmaticizardes	zeugmaticizar+V+INF+2+PL
+zeugmaticizares	zeugmaticizar+V+INF+2+SG
+zeugmaticizarem	zeugmaticizar+V+INF+3+PL
+zeugmaticizar	zeugmaticizar+V+INF+3+SG
 zeugmaticizáramos	zeugmaticizar+V+PQP+1+PL
 zeugmaticizara	zeugmaticizar+V+PQP+1+SG
 zeugmaticizáreis	zeugmaticizar+V+PQP+2+PL
@@ -2350,6 +2437,7 @@ zeugmaticizaras	zeugmaticizar+V+PQP+2+SG
 zeugmaticizaram	zeugmaticizar+V+PQP+3+PL
 zeugmaticizara	zeugmaticizar+V+PQP+3+SG
 zeugmaticizamos	zeugmaticizar+V+PRF+1+PL
+zeugmaticizámos	zeugmaticizar+V+PRF+1+PL
 zeugmaticizei	zeugmaticizar+V+PRF+1+SG
 zeugmaticizastes	zeugmaticizar+V+PRF+2+PL
 zeugmaticizaste	zeugmaticizar+V+PRF+2+SG
@@ -2468,6 +2556,7 @@ zigomatauricularizarás	zigomatauricularizar+V+FUT+2+SG
 zigomatauricularizarão	zigomatauricularizar+V+FUT+3+PL
 zigomatauricularizará	zigomatauricularizar+V+FUT+3+SG
 zigomatauricularizando	zigomatauricularizar+V+GRD
+zigomatauricularizemo	zigomatauricularizar+V+IMP+1+PL
 zigomatauricularizemos	zigomatauricularizar+V+IMP+1+PL
 zigomatauricularizai	zigomatauricularizar+V+IMP+2+PL
 zigomatauriculariza	zigomatauricularizar+V+IMP+2+SG
@@ -2480,6 +2569,12 @@ zigomatauricularizavas	zigomatauricularizar+V+IMPF+2+SG
 zigomatauricularizavam	zigomatauricularizar+V+IMPF+3+PL
 zigomatauricularizava	zigomatauricularizar+V+IMPF+3+SG
 zigomatauricularizar	zigomatauricularizar+V+INF
+zigomatauricularizarmos	zigomatauricularizar+V+INF+1+PL
+zigomatauricularizar	zigomatauricularizar+V+INF+1+SG
+zigomatauricularizardes	zigomatauricularizar+V+INF+2+PL
+zigomatauricularizares	zigomatauricularizar+V+INF+2+SG
+zigomatauricularizarem	zigomatauricularizar+V+INF+3+PL
+zigomatauricularizar	zigomatauricularizar+V+INF+3+SG
 zigomatauricularizáramos	zigomatauricularizar+V+PQP+1+PL
 zigomatauricularizara	zigomatauricularizar+V+PQP+1+SG
 zigomatauricularizáreis	zigomatauricularizar+V+PQP+2+PL
@@ -2487,6 +2582,7 @@ zigomatauricularizaras	zigomatauricularizar+V+PQP+2+SG
 zigomatauricularizaram	zigomatauricularizar+V+PQP+3+PL
 zigomatauricularizara	zigomatauricularizar+V+PQP+3+SG
 zigomatauricularizamos	zigomatauricularizar+V+PRF+1+PL
+zigomatauricularizámos	zigomatauricularizar+V+PRF+1+PL
 zigomatauricularizei	zigomatauricularizar+V+PRF+1+SG
 zigomatauricularizastes	zigomatauricularizar+V+PRF+2+PL
 zigomatauricularizaste	zigomatauricularizar+V+PRF+2+SG
@@ -2533,6 +2629,7 @@ zigomaticizarás	zigomaticizar+V+FUT+2+SG
 zigomaticizarão	zigomaticizar+V+FUT+3+PL
 zigomaticizará	zigomaticizar+V+FUT+3+SG
 zigomaticizando	zigomaticizar+V+GRD
+zigomaticizemo	zigomaticizar+V+IMP+1+PL
 zigomaticizemos	zigomaticizar+V+IMP+1+PL
 zigomaticizai	zigomaticizar+V+IMP+2+PL
 zigomaticiza	zigomaticizar+V+IMP+2+SG
@@ -2545,6 +2642,12 @@ zigomaticizavas	zigomaticizar+V+IMPF+2+SG
 zigomaticizavam	zigomaticizar+V+IMPF+3+PL
 zigomaticizava	zigomaticizar+V+IMPF+3+SG
 zigomaticizar	zigomaticizar+V+INF
+zigomaticizarmos	zigomaticizar+V+INF+1+PL
+zigomaticizar	zigomaticizar+V+INF+1+SG
+zigomaticizardes	zigomaticizar+V+INF+2+PL
+zigomaticizares	zigomaticizar+V+INF+2+SG
+zigomaticizarem	zigomaticizar+V+INF+3+PL
+zigomaticizar	zigomaticizar+V+INF+3+SG
 zigomaticizáramos	zigomaticizar+V+PQP+1+PL
 zigomaticizara	zigomaticizar+V+PQP+1+SG
 zigomaticizáreis	zigomaticizar+V+PQP+2+PL
@@ -2552,6 +2655,7 @@ zigomaticizaras	zigomaticizar+V+PQP+2+SG
 zigomaticizaram	zigomaticizar+V+PQP+3+PL
 zigomaticizara	zigomaticizar+V+PQP+3+SG
 zigomaticizamos	zigomaticizar+V+PRF+1+PL
+zigomaticizámos	zigomaticizar+V+PRF+1+PL
 zigomaticizei	zigomaticizar+V+PRF+1+SG
 zigomaticizastes	zigomaticizar+V+PRF+2+PL
 zigomaticizaste	zigomaticizar+V+PRF+2+SG
@@ -2598,6 +2702,7 @@ zigomatolabializarás	zigomatolabializar+V+FUT+2+SG
 zigomatolabializarão	zigomatolabializar+V+FUT+3+PL
 zigomatolabializará	zigomatolabializar+V+FUT+3+SG
 zigomatolabializando	zigomatolabializar+V+GRD
+zigomatolabializemo	zigomatolabializar+V+IMP+1+PL
 zigomatolabializemos	zigomatolabializar+V+IMP+1+PL
 zigomatolabializai	zigomatolabializar+V+IMP+2+PL
 zigomatolabializa	zigomatolabializar+V+IMP+2+SG
@@ -2610,6 +2715,12 @@ zigomatolabializavas	zigomatolabializar+V+IMPF+2+SG
 zigomatolabializavam	zigomatolabializar+V+IMPF+3+PL
 zigomatolabializava	zigomatolabializar+V+IMPF+3+SG
 zigomatolabializar	zigomatolabializar+V+INF
+zigomatolabializarmos	zigomatolabializar+V+INF+1+PL
+zigomatolabializar	zigomatolabializar+V+INF+1+SG
+zigomatolabializardes	zigomatolabializar+V+INF+2+PL
+zigomatolabializares	zigomatolabializar+V+INF+2+SG
+zigomatolabializarem	zigomatolabializar+V+INF+3+PL
+zigomatolabializar	zigomatolabializar+V+INF+3+SG
 zigomatolabializáramos	zigomatolabializar+V+PQP+1+PL
 zigomatolabializara	zigomatolabializar+V+PQP+1+SG
 zigomatolabializáreis	zigomatolabializar+V+PQP+2+PL
@@ -2617,6 +2728,7 @@ zigomatolabializaras	zigomatolabializar+V+PQP+2+SG
 zigomatolabializaram	zigomatolabializar+V+PQP+3+PL
 zigomatolabializara	zigomatolabializar+V+PQP+3+SG
 zigomatolabializamos	zigomatolabializar+V+PRF+1+PL
+zigomatolabializámos	zigomatolabializar+V+PRF+1+PL
 zigomatolabializei	zigomatolabializar+V+PRF+1+SG
 zigomatolabializastes	zigomatolabializar+V+PRF+2+PL
 zigomatolabializaste	zigomatolabializar+V+PRF+2+SG
@@ -2663,6 +2775,7 @@ zigomatomaxilarizarás	zigomatomaxilarizar+V+FUT+2+SG
 zigomatomaxilarizarão	zigomatomaxilarizar+V+FUT+3+PL
 zigomatomaxilarizará	zigomatomaxilarizar+V+FUT+3+SG
 zigomatomaxilarizando	zigomatomaxilarizar+V+GRD
+zigomatomaxilarizemo	zigomatomaxilarizar+V+IMP+1+PL
 zigomatomaxilarizemos	zigomatomaxilarizar+V+IMP+1+PL
 zigomatomaxilarizai	zigomatomaxilarizar+V+IMP+2+PL
 zigomatomaxilariza	zigomatomaxilarizar+V+IMP+2+SG
@@ -2675,6 +2788,12 @@ zigomatomaxilarizavas	zigomatomaxilarizar+V+IMPF+2+SG
 zigomatomaxilarizavam	zigomatomaxilarizar+V+IMPF+3+PL
 zigomatomaxilarizava	zigomatomaxilarizar+V+IMPF+3+SG
 zigomatomaxilarizar	zigomatomaxilarizar+V+INF
+zigomatomaxilarizarmos	zigomatomaxilarizar+V+INF+1+PL
+zigomatomaxilarizar	zigomatomaxilarizar+V+INF+1+SG
+zigomatomaxilarizardes	zigomatomaxilarizar+V+INF+2+PL
+zigomatomaxilarizares	zigomatomaxilarizar+V+INF+2+SG
+zigomatomaxilarizarem	zigomatomaxilarizar+V+INF+3+PL
+zigomatomaxilarizar	zigomatomaxilarizar+V+INF+3+SG
 zigomatomaxilarizáramos	zigomatomaxilarizar+V+PQP+1+PL
 zigomatomaxilarizara	zigomatomaxilarizar+V+PQP+1+SG
 zigomatomaxilarizáreis	zigomatomaxilarizar+V+PQP+2+PL
@@ -2682,6 +2801,7 @@ zigomatomaxilarizaras	zigomatomaxilarizar+V+PQP+2+SG
 zigomatomaxilarizaram	zigomatomaxilarizar+V+PQP+3+PL
 zigomatomaxilarizara	zigomatomaxilarizar+V+PQP+3+SG
 zigomatomaxilarizamos	zigomatomaxilarizar+V+PRF+1+PL
+zigomatomaxilarizámos	zigomatomaxilarizar+V+PRF+1+PL
 zigomatomaxilarizei	zigomatomaxilarizar+V+PRF+1+SG
 zigomatomaxilarizastes	zigomatomaxilarizar+V+PRF+2+PL
 zigomatomaxilarizaste	zigomatomaxilarizar+V+PRF+2+SG
@@ -2728,6 +2848,7 @@ zigotacticizarás	zigotacticizar+V+FUT+2+SG
 zigotacticizarão	zigotacticizar+V+FUT+3+PL
 zigotacticizará	zigotacticizar+V+FUT+3+SG
 zigotacticizando	zigotacticizar+V+GRD
+zigotacticizemo	zigotacticizar+V+IMP+1+PL
 zigotacticizemos	zigotacticizar+V+IMP+1+PL
 zigotacticizai	zigotacticizar+V+IMP+2+PL
 zigotacticiza	zigotacticizar+V+IMP+2+SG
@@ -2740,6 +2861,12 @@ zigotacticizavas	zigotacticizar+V+IMPF+2+SG
 zigotacticizavam	zigotacticizar+V+IMPF+3+PL
 zigotacticizava	zigotacticizar+V+IMPF+3+SG
 zigotacticizar	zigotacticizar+V+INF
+zigotacticizarmos	zigotacticizar+V+INF+1+PL
+zigotacticizar	zigotacticizar+V+INF+1+SG
+zigotacticizardes	zigotacticizar+V+INF+2+PL
+zigotacticizares	zigotacticizar+V+INF+2+SG
+zigotacticizarem	zigotacticizar+V+INF+3+PL
+zigotacticizar	zigotacticizar+V+INF+3+SG
 zigotacticizáramos	zigotacticizar+V+PQP+1+PL
 zigotacticizara	zigotacticizar+V+PQP+1+SG
 zigotacticizáreis	zigotacticizar+V+PQP+2+PL
@@ -2747,6 +2874,7 @@ zigotacticizaras	zigotacticizar+V+PQP+2+SG
 zigotacticizaram	zigotacticizar+V+PQP+3+PL
 zigotacticizara	zigotacticizar+V+PQP+3+SG
 zigotacticizamos	zigotacticizar+V+PRF+1+PL
+zigotacticizámos	zigotacticizar+V+PRF+1+PL
 zigotacticizei	zigotacticizar+V+PRF+1+SG
 zigotacticizastes	zigotacticizar+V+PRF+2+PL
 zigotacticizaste	zigotacticizar+V+PRF+2+SG
@@ -2793,6 +2921,7 @@ zigotaticizarás	zigotaticizar+V+FUT+2+SG
 zigotaticizarão	zigotaticizar+V+FUT+3+PL
 zigotaticizará	zigotaticizar+V+FUT+3+SG
 zigotaticizando	zigotaticizar+V+GRD
+zigotaticizemo	zigotaticizar+V+IMP+1+PL
 zigotaticizemos	zigotaticizar+V+IMP+1+PL
 zigotaticizai	zigotaticizar+V+IMP+2+PL
 zigotaticiza	zigotaticizar+V+IMP+2+SG
@@ -2805,6 +2934,12 @@ zigotaticizavas	zigotaticizar+V+IMPF+2+SG
 zigotaticizavam	zigotaticizar+V+IMPF+3+PL
 zigotaticizava	zigotaticizar+V+IMPF+3+SG
 zigotaticizar	zigotaticizar+V+INF
+zigotaticizarmos	zigotaticizar+V+INF+1+PL
+zigotaticizar	zigotaticizar+V+INF+1+SG
+zigotaticizardes	zigotaticizar+V+INF+2+PL
+zigotaticizares	zigotaticizar+V+INF+2+SG
+zigotaticizarem	zigotaticizar+V+INF+3+PL
+zigotaticizar	zigotaticizar+V+INF+3+SG
 zigotaticizáramos	zigotaticizar+V+PQP+1+PL
 zigotaticizara	zigotaticizar+V+PQP+1+SG
 zigotaticizáreis	zigotaticizar+V+PQP+2+PL
@@ -2812,6 +2947,7 @@ zigotaticizaras	zigotaticizar+V+PQP+2+SG
 zigotaticizaram	zigotaticizar+V+PQP+3+PL
 zigotaticizara	zigotaticizar+V+PQP+3+SG
 zigotaticizamos	zigotaticizar+V+PRF+1+PL
+zigotaticizámos	zigotaticizar+V+PRF+1+PL
 zigotaticizei	zigotaticizar+V+PRF+1+SG
 zigotaticizastes	zigotaticizar+V+PRF+2+PL
 zigotaticizaste	zigotaticizar+V+PRF+2+SG
@@ -2931,6 +3067,7 @@ zimbabuanizarás	zimbabuanizar+V+FUT+2+SG
 zimbabuanizarão	zimbabuanizar+V+FUT+3+PL
 zimbabuanizará	zimbabuanizar+V+FUT+3+SG
 zimbabuanizando	zimbabuanizar+V+GRD
+zimbabuanizemo	zimbabuanizar+V+IMP+1+PL
 zimbabuanizemos	zimbabuanizar+V+IMP+1+PL
 zimbabuanizai	zimbabuanizar+V+IMP+2+PL
 zimbabuaniza	zimbabuanizar+V+IMP+2+SG
@@ -2943,6 +3080,12 @@ zimbabuanizavas	zimbabuanizar+V+IMPF+2+SG
 zimbabuanizavam	zimbabuanizar+V+IMPF+3+PL
 zimbabuanizava	zimbabuanizar+V+IMPF+3+SG
 zimbabuanizar	zimbabuanizar+V+INF
+zimbabuanizarmos	zimbabuanizar+V+INF+1+PL
+zimbabuanizar	zimbabuanizar+V+INF+1+SG
+zimbabuanizardes	zimbabuanizar+V+INF+2+PL
+zimbabuanizares	zimbabuanizar+V+INF+2+SG
+zimbabuanizarem	zimbabuanizar+V+INF+3+PL
+zimbabuanizar	zimbabuanizar+V+INF+3+SG
 zimbabuanizáramos	zimbabuanizar+V+PQP+1+PL
 zimbabuanizara	zimbabuanizar+V+PQP+1+SG
 zimbabuanizáreis	zimbabuanizar+V+PQP+2+PL
@@ -2950,6 +3093,7 @@ zimbabuanizaras	zimbabuanizar+V+PQP+2+SG
 zimbabuanizaram	zimbabuanizar+V+PQP+3+PL
 zimbabuanizara	zimbabuanizar+V+PQP+3+SG
 zimbabuanizamos	zimbabuanizar+V+PRF+1+PL
+zimbabuanizámos	zimbabuanizar+V+PRF+1+PL
 zimbabuanizei	zimbabuanizar+V+PRF+1+SG
 zimbabuanizastes	zimbabuanizar+V+PRF+2+PL
 zimbabuanizaste	zimbabuanizar+V+PRF+2+SG
@@ -2996,6 +3140,7 @@ zimbabueanizarás	zimbabueanizar+V+FUT+2+SG
 zimbabueanizarão	zimbabueanizar+V+FUT+3+PL
 zimbabueanizará	zimbabueanizar+V+FUT+3+SG
 zimbabueanizando	zimbabueanizar+V+GRD
+zimbabueanizemo	zimbabueanizar+V+IMP+1+PL
 zimbabueanizemos	zimbabueanizar+V+IMP+1+PL
 zimbabueanizai	zimbabueanizar+V+IMP+2+PL
 zimbabueaniza	zimbabueanizar+V+IMP+2+SG
@@ -3008,6 +3153,12 @@ zimbabueanizavas	zimbabueanizar+V+IMPF+2+SG
 zimbabueanizavam	zimbabueanizar+V+IMPF+3+PL
 zimbabueanizava	zimbabueanizar+V+IMPF+3+SG
 zimbabueanizar	zimbabueanizar+V+INF
+zimbabueanizarmos	zimbabueanizar+V+INF+1+PL
+zimbabueanizar	zimbabueanizar+V+INF+1+SG
+zimbabueanizardes	zimbabueanizar+V+INF+2+PL
+zimbabueanizares	zimbabueanizar+V+INF+2+SG
+zimbabueanizarem	zimbabueanizar+V+INF+3+PL
+zimbabueanizar	zimbabueanizar+V+INF+3+SG
 zimbabueanizáramos	zimbabueanizar+V+PQP+1+PL
 zimbabueanizara	zimbabueanizar+V+PQP+1+SG
 zimbabueanizáreis	zimbabueanizar+V+PQP+2+PL
@@ -3015,6 +3166,7 @@ zimbabueanizaras	zimbabueanizar+V+PQP+2+SG
 zimbabueanizaram	zimbabueanizar+V+PQP+3+PL
 zimbabueanizara	zimbabueanizar+V+PQP+3+SG
 zimbabueanizamos	zimbabueanizar+V+PRF+1+PL
+zimbabueanizámos	zimbabueanizar+V+PRF+1+PL
 zimbabueanizei	zimbabueanizar+V+PRF+1+SG
 zimbabueanizastes	zimbabueanizar+V+PRF+2+PL
 zimbabueanizaste	zimbabueanizar+V+PRF+2+SG
@@ -3061,6 +3213,7 @@ zimbrabilizarás	zimbrabilizar+V+FUT+2+SG
 zimbrabilizarão	zimbrabilizar+V+FUT+3+PL
 zimbrabilizará	zimbrabilizar+V+FUT+3+SG
 zimbrabilizando	zimbrabilizar+V+GRD
+zimbrabilizemo	zimbrabilizar+V+IMP+1+PL
 zimbrabilizemos	zimbrabilizar+V+IMP+1+PL
 zimbrabilizai	zimbrabilizar+V+IMP+2+PL
 zimbrabiliza	zimbrabilizar+V+IMP+2+SG
@@ -3073,6 +3226,12 @@ zimbrabilizavas	zimbrabilizar+V+IMPF+2+SG
 zimbrabilizavam	zimbrabilizar+V+IMPF+3+PL
 zimbrabilizava	zimbrabilizar+V+IMPF+3+SG
 zimbrabilizar	zimbrabilizar+V+INF
+zimbrabilizarmos	zimbrabilizar+V+INF+1+PL
+zimbrabilizar	zimbrabilizar+V+INF+1+SG
+zimbrabilizardes	zimbrabilizar+V+INF+2+PL
+zimbrabilizares	zimbrabilizar+V+INF+2+SG
+zimbrabilizarem	zimbrabilizar+V+INF+3+PL
+zimbrabilizar	zimbrabilizar+V+INF+3+SG
 zimbrabilizáramos	zimbrabilizar+V+PQP+1+PL
 zimbrabilizara	zimbrabilizar+V+PQP+1+SG
 zimbrabilizáreis	zimbrabilizar+V+PQP+2+PL
@@ -3080,6 +3239,7 @@ zimbrabilizaras	zimbrabilizar+V+PQP+2+SG
 zimbrabilizaram	zimbrabilizar+V+PQP+3+PL
 zimbrabilizara	zimbrabilizar+V+PQP+3+SG
 zimbrabilizamos	zimbrabilizar+V+PRF+1+PL
+zimbrabilizámos	zimbrabilizar+V+PRF+1+PL
 zimbrabilizei	zimbrabilizar+V+PRF+1+SG
 zimbrabilizastes	zimbrabilizar+V+PRF+2+PL
 zimbrabilizaste	zimbrabilizar+V+PRF+2+SG
@@ -3199,6 +3359,7 @@ zimicizarás	zimicizar+V+FUT+2+SG
 zimicizarão	zimicizar+V+FUT+3+PL
 zimicizará	zimicizar+V+FUT+3+SG
 zimicizando	zimicizar+V+GRD
+zimicizemo	zimicizar+V+IMP+1+PL
 zimicizemos	zimicizar+V+IMP+1+PL
 zimicizai	zimicizar+V+IMP+2+PL
 zimiciza	zimicizar+V+IMP+2+SG
@@ -3211,6 +3372,12 @@ zimicizavas	zimicizar+V+IMPF+2+SG
 zimicizavam	zimicizar+V+IMPF+3+PL
 zimicizava	zimicizar+V+IMPF+3+SG
 zimicizar	zimicizar+V+INF
+zimicizarmos	zimicizar+V+INF+1+PL
+zimicizar	zimicizar+V+INF+1+SG
+zimicizardes	zimicizar+V+INF+2+PL
+zimicizares	zimicizar+V+INF+2+SG
+zimicizarem	zimicizar+V+INF+3+PL
+zimicizar	zimicizar+V+INF+3+SG
 zimicizáramos	zimicizar+V+PQP+1+PL
 zimicizara	zimicizar+V+PQP+1+SG
 zimicizáreis	zimicizar+V+PQP+2+PL
@@ -3218,6 +3385,7 @@ zimicizaras	zimicizar+V+PQP+2+SG
 zimicizaram	zimicizar+V+PQP+3+PL
 zimicizara	zimicizar+V+PQP+3+SG
 zimicizamos	zimicizar+V+PRF+1+PL
+zimicizámos	zimicizar+V+PRF+1+PL
 zimicizei	zimicizar+V+PRF+1+SG
 zimicizastes	zimicizar+V+PRF+2+PL
 zimicizaste	zimicizar+V+PRF+2+SG
@@ -3264,6 +3432,7 @@ zimogenicizarás	zimogenicizar+V+FUT+2+SG
 zimogenicizarão	zimogenicizar+V+FUT+3+PL
 zimogenicizará	zimogenicizar+V+FUT+3+SG
 zimogenicizando	zimogenicizar+V+GRD
+zimogenicizemo	zimogenicizar+V+IMP+1+PL
 zimogenicizemos	zimogenicizar+V+IMP+1+PL
 zimogenicizai	zimogenicizar+V+IMP+2+PL
 zimogeniciza	zimogenicizar+V+IMP+2+SG
@@ -3276,6 +3445,12 @@ zimogenicizavas	zimogenicizar+V+IMPF+2+SG
 zimogenicizavam	zimogenicizar+V+IMPF+3+PL
 zimogenicizava	zimogenicizar+V+IMPF+3+SG
 zimogenicizar	zimogenicizar+V+INF
+zimogenicizarmos	zimogenicizar+V+INF+1+PL
+zimogenicizar	zimogenicizar+V+INF+1+SG
+zimogenicizardes	zimogenicizar+V+INF+2+PL
+zimogenicizares	zimogenicizar+V+INF+2+SG
+zimogenicizarem	zimogenicizar+V+INF+3+PL
+zimogenicizar	zimogenicizar+V+INF+3+SG
 zimogenicizáramos	zimogenicizar+V+PQP+1+PL
 zimogenicizara	zimogenicizar+V+PQP+1+SG
 zimogenicizáreis	zimogenicizar+V+PQP+2+PL
@@ -3283,6 +3458,7 @@ zimogenicizaras	zimogenicizar+V+PQP+2+SG
 zimogenicizaram	zimogenicizar+V+PQP+3+PL
 zimogenicizara	zimogenicizar+V+PQP+3+SG
 zimogenicizamos	zimogenicizar+V+PRF+1+PL
+zimogenicizámos	zimogenicizar+V+PRF+1+PL
 zimogenicizei	zimogenicizar+V+PRF+1+SG
 zimogenicizastes	zimogenicizar+V+PRF+2+PL
 zimogenicizaste	zimogenicizar+V+PRF+2+SG
@@ -3329,6 +3505,7 @@ zimosimetricizarás	zimosimetricizar+V+FUT+2+SG
 zimosimetricizarão	zimosimetricizar+V+FUT+3+PL
 zimosimetricizará	zimosimetricizar+V+FUT+3+SG
 zimosimetricizando	zimosimetricizar+V+GRD
+zimosimetricizemo	zimosimetricizar+V+IMP+1+PL
 zimosimetricizemos	zimosimetricizar+V+IMP+1+PL
 zimosimetricizai	zimosimetricizar+V+IMP+2+PL
 zimosimetriciza	zimosimetricizar+V+IMP+2+SG
@@ -3341,6 +3518,12 @@ zimosimetricizavas	zimosimetricizar+V+IMPF+2+SG
 zimosimetricizavam	zimosimetricizar+V+IMPF+3+PL
 zimosimetricizava	zimosimetricizar+V+IMPF+3+SG
 zimosimetricizar	zimosimetricizar+V+INF
+zimosimetricizarmos	zimosimetricizar+V+INF+1+PL
+zimosimetricizar	zimosimetricizar+V+INF+1+SG
+zimosimetricizardes	zimosimetricizar+V+INF+2+PL
+zimosimetricizares	zimosimetricizar+V+INF+2+SG
+zimosimetricizarem	zimosimetricizar+V+INF+3+PL
+zimosimetricizar	zimosimetricizar+V+INF+3+SG
 zimosimetricizáramos	zimosimetricizar+V+PQP+1+PL
 zimosimetricizara	zimosimetricizar+V+PQP+1+SG
 zimosimetricizáreis	zimosimetricizar+V+PQP+2+PL
@@ -3348,6 +3531,7 @@ zimosimetricizaras	zimosimetricizar+V+PQP+2+SG
 zimosimetricizaram	zimosimetricizar+V+PQP+3+PL
 zimosimetricizara	zimosimetricizar+V+PQP+3+SG
 zimosimetricizamos	zimosimetricizar+V+PRF+1+PL
+zimosimetricizámos	zimosimetricizar+V+PRF+1+PL
 zimosimetricizei	zimosimetricizar+V+PRF+1+SG
 zimosimetricizastes	zimosimetricizar+V+PRF+2+PL
 zimosimetricizaste	zimosimetricizar+V+PRF+2+SG
@@ -3394,6 +3578,7 @@ zimotecnicizarás	zimotecnicizar+V+FUT+2+SG
 zimotecnicizarão	zimotecnicizar+V+FUT+3+PL
 zimotecnicizará	zimotecnicizar+V+FUT+3+SG
 zimotecnicizando	zimotecnicizar+V+GRD
+zimotecnicizemo	zimotecnicizar+V+IMP+1+PL
 zimotecnicizemos	zimotecnicizar+V+IMP+1+PL
 zimotecnicizai	zimotecnicizar+V+IMP+2+PL
 zimotecniciza	zimotecnicizar+V+IMP+2+SG
@@ -3406,6 +3591,12 @@ zimotecnicizavas	zimotecnicizar+V+IMPF+2+SG
 zimotecnicizavam	zimotecnicizar+V+IMPF+3+PL
 zimotecnicizava	zimotecnicizar+V+IMPF+3+SG
 zimotecnicizar	zimotecnicizar+V+INF
+zimotecnicizarmos	zimotecnicizar+V+INF+1+PL
+zimotecnicizar	zimotecnicizar+V+INF+1+SG
+zimotecnicizardes	zimotecnicizar+V+INF+2+PL
+zimotecnicizares	zimotecnicizar+V+INF+2+SG
+zimotecnicizarem	zimotecnicizar+V+INF+3+PL
+zimotecnicizar	zimotecnicizar+V+INF+3+SG
 zimotecnicizáramos	zimotecnicizar+V+PQP+1+PL
 zimotecnicizara	zimotecnicizar+V+PQP+1+SG
 zimotecnicizáreis	zimotecnicizar+V+PQP+2+PL
@@ -3413,6 +3604,7 @@ zimotecnicizaras	zimotecnicizar+V+PQP+2+SG
 zimotecnicizaram	zimotecnicizar+V+PQP+3+PL
 zimotecnicizara	zimotecnicizar+V+PQP+3+SG
 zimotecnicizamos	zimotecnicizar+V+PRF+1+PL
+zimotecnicizámos	zimotecnicizar+V+PRF+1+PL
 zimotecnicizei	zimotecnicizar+V+PRF+1+SG
 zimotecnicizastes	zimotecnicizar+V+PRF+2+PL
 zimotecnicizaste	zimotecnicizar+V+PRF+2+SG
@@ -3459,6 +3651,7 @@ zimoticizarás	zimoticizar+V+FUT+2+SG
 zimoticizarão	zimoticizar+V+FUT+3+PL
 zimoticizará	zimoticizar+V+FUT+3+SG
 zimoticizando	zimoticizar+V+GRD
+zimoticizemo	zimoticizar+V+IMP+1+PL
 zimoticizemos	zimoticizar+V+IMP+1+PL
 zimoticizai	zimoticizar+V+IMP+2+PL
 zimoticiza	zimoticizar+V+IMP+2+SG
@@ -3471,6 +3664,12 @@ zimoticizavas	zimoticizar+V+IMPF+2+SG
 zimoticizavam	zimoticizar+V+IMPF+3+PL
 zimoticizava	zimoticizar+V+IMPF+3+SG
 zimoticizar	zimoticizar+V+INF
+zimoticizarmos	zimoticizar+V+INF+1+PL
+zimoticizar	zimoticizar+V+INF+1+SG
+zimoticizardes	zimoticizar+V+INF+2+PL
+zimoticizares	zimoticizar+V+INF+2+SG
+zimoticizarem	zimoticizar+V+INF+3+PL
+zimoticizar	zimoticizar+V+INF+3+SG
 zimoticizáramos	zimoticizar+V+PQP+1+PL
 zimoticizara	zimoticizar+V+PQP+1+SG
 zimoticizáreis	zimoticizar+V+PQP+2+PL
@@ -3478,6 +3677,7 @@ zimoticizaras	zimoticizar+V+PQP+2+SG
 zimoticizaram	zimoticizar+V+PQP+3+PL
 zimoticizara	zimoticizar+V+PQP+3+SG
 zimoticizamos	zimoticizar+V+PRF+1+PL
+zimoticizámos	zimoticizar+V+PRF+1+PL
 zimoticizei	zimoticizar+V+PRF+1+SG
 zimoticizastes	zimoticizar+V+PRF+2+PL
 zimoticizaste	zimoticizar+V+PRF+2+SG
@@ -3524,6 +3724,7 @@ zincabilizarás	zincabilizar+V+FUT+2+SG
 zincabilizarão	zincabilizar+V+FUT+3+PL
 zincabilizará	zincabilizar+V+FUT+3+SG
 zincabilizando	zincabilizar+V+GRD
+zincabilizemo	zincabilizar+V+IMP+1+PL
 zincabilizemos	zincabilizar+V+IMP+1+PL
 zincabilizai	zincabilizar+V+IMP+2+PL
 zincabiliza	zincabilizar+V+IMP+2+SG
@@ -3536,6 +3737,12 @@ zincabilizavas	zincabilizar+V+IMPF+2+SG
 zincabilizavam	zincabilizar+V+IMPF+3+PL
 zincabilizava	zincabilizar+V+IMPF+3+SG
 zincabilizar	zincabilizar+V+INF
+zincabilizarmos	zincabilizar+V+INF+1+PL
+zincabilizar	zincabilizar+V+INF+1+SG
+zincabilizardes	zincabilizar+V+INF+2+PL
+zincabilizares	zincabilizar+V+INF+2+SG
+zincabilizarem	zincabilizar+V+INF+3+PL
+zincabilizar	zincabilizar+V+INF+3+SG
 zincabilizáramos	zincabilizar+V+PQP+1+PL
 zincabilizara	zincabilizar+V+PQP+1+SG
 zincabilizáreis	zincabilizar+V+PQP+2+PL
@@ -3543,6 +3750,7 @@ zincabilizaras	zincabilizar+V+PQP+2+SG
 zincabilizaram	zincabilizar+V+PQP+3+PL
 zincabilizara	zincabilizar+V+PQP+3+SG
 zincabilizamos	zincabilizar+V+PRF+1+PL
+zincabilizámos	zincabilizar+V+PRF+1+PL
 zincabilizei	zincabilizar+V+PRF+1+SG
 zincabilizastes	zincabilizar+V+PRF+2+PL
 zincabilizaste	zincabilizar+V+PRF+2+SG
@@ -3662,6 +3870,7 @@ zincicizarás	zincicizar+V+FUT+2+SG
 zincicizarão	zincicizar+V+FUT+3+PL
 zincicizará	zincicizar+V+FUT+3+SG
 zincicizando	zincicizar+V+GRD
+zincicizemo	zincicizar+V+IMP+1+PL
 zincicizemos	zincicizar+V+IMP+1+PL
 zincicizai	zincicizar+V+IMP+2+PL
 zinciciza	zincicizar+V+IMP+2+SG
@@ -3674,6 +3883,12 @@ zincicizavas	zincicizar+V+IMPF+2+SG
 zincicizavam	zincicizar+V+IMPF+3+PL
 zincicizava	zincicizar+V+IMPF+3+SG
 zincicizar	zincicizar+V+INF
+zincicizarmos	zincicizar+V+INF+1+PL
+zincicizar	zincicizar+V+INF+1+SG
+zincicizardes	zincicizar+V+INF+2+PL
+zincicizares	zincicizar+V+INF+2+SG
+zincicizarem	zincicizar+V+INF+3+PL
+zincicizar	zincicizar+V+INF+3+SG
 zincicizáramos	zincicizar+V+PQP+1+PL
 zincicizara	zincicizar+V+PQP+1+SG
 zincicizáreis	zincicizar+V+PQP+2+PL
@@ -3681,6 +3896,7 @@ zincicizaras	zincicizar+V+PQP+2+SG
 zincicizaram	zincicizar+V+PQP+3+PL
 zincicizara	zincicizar+V+PQP+3+SG
 zincicizamos	zincicizar+V+PRF+1+PL
+zincicizámos	zincicizar+V+PRF+1+PL
 zincicizei	zincicizar+V+PRF+1+SG
 zincicizastes	zincicizar+V+PRF+2+PL
 zincicizaste	zincicizar+V+PRF+2+SG
@@ -3800,6 +4016,7 @@ zincograficizarás	zincograficizar+V+FUT+2+SG
 zincograficizarão	zincograficizar+V+FUT+3+PL
 zincograficizará	zincograficizar+V+FUT+3+SG
 zincograficizando	zincograficizar+V+GRD
+zincograficizemo	zincograficizar+V+IMP+1+PL
 zincograficizemos	zincograficizar+V+IMP+1+PL
 zincograficizai	zincograficizar+V+IMP+2+PL
 zincograficiza	zincograficizar+V+IMP+2+SG
@@ -3812,6 +4029,12 @@ zincograficizavas	zincograficizar+V+IMPF+2+SG
 zincograficizavam	zincograficizar+V+IMPF+3+PL
 zincograficizava	zincograficizar+V+IMPF+3+SG
 zincograficizar	zincograficizar+V+INF
+zincograficizarmos	zincograficizar+V+INF+1+PL
+zincograficizar	zincograficizar+V+INF+1+SG
+zincograficizardes	zincograficizar+V+INF+2+PL
+zincograficizares	zincograficizar+V+INF+2+SG
+zincograficizarem	zincograficizar+V+INF+3+PL
+zincograficizar	zincograficizar+V+INF+3+SG
 zincograficizáramos	zincograficizar+V+PQP+1+PL
 zincograficizara	zincograficizar+V+PQP+1+SG
 zincograficizáreis	zincograficizar+V+PQP+2+PL
@@ -3819,6 +4042,7 @@ zincograficizaras	zincograficizar+V+PQP+2+SG
 zincograficizaram	zincograficizar+V+PQP+3+PL
 zincograficizara	zincograficizar+V+PQP+3+SG
 zincograficizamos	zincograficizar+V+PRF+1+PL
+zincograficizámos	zincograficizar+V+PRF+1+PL
 zincograficizei	zincograficizar+V+PRF+1+SG
 zincograficizastes	zincograficizar+V+PRF+2+PL
 zincograficizaste	zincograficizar+V+PRF+2+SG
@@ -3865,6 +4089,7 @@ zincogravabilizarás	zincogravabilizar+V+FUT+2+SG
 zincogravabilizarão	zincogravabilizar+V+FUT+3+PL
 zincogravabilizará	zincogravabilizar+V+FUT+3+SG
 zincogravabilizando	zincogravabilizar+V+GRD
+zincogravabilizemo	zincogravabilizar+V+IMP+1+PL
 zincogravabilizemos	zincogravabilizar+V+IMP+1+PL
 zincogravabilizai	zincogravabilizar+V+IMP+2+PL
 zincogravabiliza	zincogravabilizar+V+IMP+2+SG
@@ -3877,6 +4102,12 @@ zincogravabilizavas	zincogravabilizar+V+IMPF+2+SG
 zincogravabilizavam	zincogravabilizar+V+IMPF+3+PL
 zincogravabilizava	zincogravabilizar+V+IMPF+3+SG
 zincogravabilizar	zincogravabilizar+V+INF
+zincogravabilizarmos	zincogravabilizar+V+INF+1+PL
+zincogravabilizar	zincogravabilizar+V+INF+1+SG
+zincogravabilizardes	zincogravabilizar+V+INF+2+PL
+zincogravabilizares	zincogravabilizar+V+INF+2+SG
+zincogravabilizarem	zincogravabilizar+V+INF+3+PL
+zincogravabilizar	zincogravabilizar+V+INF+3+SG
 zincogravabilizáramos	zincogravabilizar+V+PQP+1+PL
 zincogravabilizara	zincogravabilizar+V+PQP+1+SG
 zincogravabilizáreis	zincogravabilizar+V+PQP+2+PL
@@ -3884,6 +4115,7 @@ zincogravabilizaras	zincogravabilizar+V+PQP+2+SG
 zincogravabilizaram	zincogravabilizar+V+PQP+3+PL
 zincogravabilizara	zincogravabilizar+V+PQP+3+SG
 zincogravabilizamos	zincogravabilizar+V+PRF+1+PL
+zincogravabilizámos	zincogravabilizar+V+PRF+1+PL
 zincogravabilizei	zincogravabilizar+V+PRF+1+SG
 zincogravabilizastes	zincogravabilizar+V+PRF+2+PL
 zincogravabilizaste	zincogravabilizar+V+PRF+2+SG
@@ -4510,6 +4742,7 @@ zirbalizarás	zirbalizar+V+FUT+2+SG
 zirbalizarão	zirbalizar+V+FUT+3+PL
 zirbalizará	zirbalizar+V+FUT+3+SG
 zirbalizando	zirbalizar+V+GRD
+zirbalizemo	zirbalizar+V+IMP+1+PL
 zirbalizemos	zirbalizar+V+IMP+1+PL
 zirbalizai	zirbalizar+V+IMP+2+PL
 zirbaliza	zirbalizar+V+IMP+2+SG
@@ -4522,6 +4755,12 @@ zirbalizavas	zirbalizar+V+IMPF+2+SG
 zirbalizavam	zirbalizar+V+IMPF+3+PL
 zirbalizava	zirbalizar+V+IMPF+3+SG
 zirbalizar	zirbalizar+V+INF
+zirbalizarmos	zirbalizar+V+INF+1+PL
+zirbalizar	zirbalizar+V+INF+1+SG
+zirbalizardes	zirbalizar+V+INF+2+PL
+zirbalizares	zirbalizar+V+INF+2+SG
+zirbalizarem	zirbalizar+V+INF+3+PL
+zirbalizar	zirbalizar+V+INF+3+SG
 zirbalizáramos	zirbalizar+V+PQP+1+PL
 zirbalizara	zirbalizar+V+PQP+1+SG
 zirbalizáreis	zirbalizar+V+PQP+2+PL
@@ -4529,6 +4768,7 @@ zirbalizaras	zirbalizar+V+PQP+2+SG
 zirbalizaram	zirbalizar+V+PQP+3+PL
 zirbalizara	zirbalizar+V+PQP+3+SG
 zirbalizamos	zirbalizar+V+PRF+1+PL
+zirbalizámos	zirbalizar+V+PRF+1+PL
 zirbalizei	zirbalizar+V+PRF+1+SG
 zirbalizastes	zirbalizar+V+PRF+2+PL
 zirbalizaste	zirbalizar+V+PRF+2+SG
@@ -4575,6 +4815,7 @@ zirconicizarás	zirconicizar+V+FUT+2+SG
 zirconicizarão	zirconicizar+V+FUT+3+PL
 zirconicizará	zirconicizar+V+FUT+3+SG
 zirconicizando	zirconicizar+V+GRD
+zirconicizemo	zirconicizar+V+IMP+1+PL
 zirconicizemos	zirconicizar+V+IMP+1+PL
 zirconicizai	zirconicizar+V+IMP+2+PL
 zirconiciza	zirconicizar+V+IMP+2+SG
@@ -4587,6 +4828,12 @@ zirconicizavas	zirconicizar+V+IMPF+2+SG
 zirconicizavam	zirconicizar+V+IMPF+3+PL
 zirconicizava	zirconicizar+V+IMPF+3+SG
 zirconicizar	zirconicizar+V+INF
+zirconicizarmos	zirconicizar+V+INF+1+PL
+zirconicizar	zirconicizar+V+INF+1+SG
+zirconicizardes	zirconicizar+V+INF+2+PL
+zirconicizares	zirconicizar+V+INF+2+SG
+zirconicizarem	zirconicizar+V+INF+3+PL
+zirconicizar	zirconicizar+V+INF+3+SG
 zirconicizáramos	zirconicizar+V+PQP+1+PL
 zirconicizara	zirconicizar+V+PQP+1+SG
 zirconicizáreis	zirconicizar+V+PQP+2+PL
@@ -4594,6 +4841,7 @@ zirconicizaras	zirconicizar+V+PQP+2+SG
 zirconicizaram	zirconicizar+V+PQP+3+PL
 zirconicizara	zirconicizar+V+PQP+3+SG
 zirconicizamos	zirconicizar+V+PRF+1+PL
+zirconicizámos	zirconicizar+V+PRF+1+PL
 zirconicizei	zirconicizar+V+PRF+1+SG
 zirconicizastes	zirconicizar+V+PRF+2+PL
 zirconicizaste	zirconicizar+V+PRF+2+SG
@@ -4931,6 +5179,7 @@ zodiacalizarás	zodiacalizar+V+FUT+2+SG
 zodiacalizarão	zodiacalizar+V+FUT+3+PL
 zodiacalizará	zodiacalizar+V+FUT+3+SG
 zodiacalizando	zodiacalizar+V+GRD
+zodiacalizemo	zodiacalizar+V+IMP+1+PL
 zodiacalizemos	zodiacalizar+V+IMP+1+PL
 zodiacalizai	zodiacalizar+V+IMP+2+PL
 zodiacaliza	zodiacalizar+V+IMP+2+SG
@@ -4943,6 +5192,12 @@ zodiacalizavas	zodiacalizar+V+IMPF+2+SG
 zodiacalizavam	zodiacalizar+V+IMPF+3+PL
 zodiacalizava	zodiacalizar+V+IMPF+3+SG
 zodiacalizar	zodiacalizar+V+INF
+zodiacalizarmos	zodiacalizar+V+INF+1+PL
+zodiacalizar	zodiacalizar+V+INF+1+SG
+zodiacalizardes	zodiacalizar+V+INF+2+PL
+zodiacalizares	zodiacalizar+V+INF+2+SG
+zodiacalizarem	zodiacalizar+V+INF+3+PL
+zodiacalizar	zodiacalizar+V+INF+3+SG
 zodiacalizáramos	zodiacalizar+V+PQP+1+PL
 zodiacalizara	zodiacalizar+V+PQP+1+SG
 zodiacalizáreis	zodiacalizar+V+PQP+2+PL
@@ -4950,6 +5205,7 @@ zodiacalizaras	zodiacalizar+V+PQP+2+SG
 zodiacalizaram	zodiacalizar+V+PQP+3+PL
 zodiacalizara	zodiacalizar+V+PQP+3+SG
 zodiacalizamos	zodiacalizar+V+PRF+1+PL
+zodiacalizámos	zodiacalizar+V+PRF+1+PL
 zodiacalizei	zodiacalizar+V+PRF+1+SG
 zodiacalizastes	zodiacalizar+V+PRF+2+PL
 zodiacalizaste	zodiacalizar+V+PRF+2+SG
@@ -4996,6 +5252,7 @@ zoelectricizarás	zoelectricizar+V+FUT+2+SG
 zoelectricizarão	zoelectricizar+V+FUT+3+PL
 zoelectricizará	zoelectricizar+V+FUT+3+SG
 zoelectricizando	zoelectricizar+V+GRD
+zoelectricizemo	zoelectricizar+V+IMP+1+PL
 zoelectricizemos	zoelectricizar+V+IMP+1+PL
 zoelectricizai	zoelectricizar+V+IMP+2+PL
 zoelectriciza	zoelectricizar+V+IMP+2+SG
@@ -5008,6 +5265,12 @@ zoelectricizavas	zoelectricizar+V+IMPF+2+SG
 zoelectricizavam	zoelectricizar+V+IMPF+3+PL
 zoelectricizava	zoelectricizar+V+IMPF+3+SG
 zoelectricizar	zoelectricizar+V+INF
+zoelectricizarmos	zoelectricizar+V+INF+1+PL
+zoelectricizar	zoelectricizar+V+INF+1+SG
+zoelectricizardes	zoelectricizar+V+INF+2+PL
+zoelectricizares	zoelectricizar+V+INF+2+SG
+zoelectricizarem	zoelectricizar+V+INF+3+PL
+zoelectricizar	zoelectricizar+V+INF+3+SG
 zoelectricizáramos	zoelectricizar+V+PQP+1+PL
 zoelectricizara	zoelectricizar+V+PQP+1+SG
 zoelectricizáreis	zoelectricizar+V+PQP+2+PL
@@ -5015,6 +5278,7 @@ zoelectricizaras	zoelectricizar+V+PQP+2+SG
 zoelectricizaram	zoelectricizar+V+PQP+3+PL
 zoelectricizara	zoelectricizar+V+PQP+3+SG
 zoelectricizamos	zoelectricizar+V+PRF+1+PL
+zoelectricizámos	zoelectricizar+V+PRF+1+PL
 zoelectricizei	zoelectricizar+V+PRF+1+SG
 zoelectricizastes	zoelectricizar+V+PRF+2+PL
 zoelectricizaste	zoelectricizar+V+PRF+2+SG
@@ -5061,6 +5325,7 @@ zoeletricizarás	zoeletricizar+V+FUT+2+SG
 zoeletricizarão	zoeletricizar+V+FUT+3+PL
 zoeletricizará	zoeletricizar+V+FUT+3+SG
 zoeletricizando	zoeletricizar+V+GRD
+zoeletricizemo	zoeletricizar+V+IMP+1+PL
 zoeletricizemos	zoeletricizar+V+IMP+1+PL
 zoeletricizai	zoeletricizar+V+IMP+2+PL
 zoeletriciza	zoeletricizar+V+IMP+2+SG
@@ -5073,6 +5338,12 @@ zoeletricizavas	zoeletricizar+V+IMPF+2+SG
 zoeletricizavam	zoeletricizar+V+IMPF+3+PL
 zoeletricizava	zoeletricizar+V+IMPF+3+SG
 zoeletricizar	zoeletricizar+V+INF
+zoeletricizarmos	zoeletricizar+V+INF+1+PL
+zoeletricizar	zoeletricizar+V+INF+1+SG
+zoeletricizardes	zoeletricizar+V+INF+2+PL
+zoeletricizares	zoeletricizar+V+INF+2+SG
+zoeletricizarem	zoeletricizar+V+INF+3+PL
+zoeletricizar	zoeletricizar+V+INF+3+SG
 zoeletricizáramos	zoeletricizar+V+PQP+1+PL
 zoeletricizara	zoeletricizar+V+PQP+1+SG
 zoeletricizáreis	zoeletricizar+V+PQP+2+PL
@@ -5080,6 +5351,7 @@ zoeletricizaras	zoeletricizar+V+PQP+2+SG
 zoeletricizaram	zoeletricizar+V+PQP+3+PL
 zoeletricizara	zoeletricizar+V+PQP+3+SG
 zoeletricizamos	zoeletricizar+V+PRF+1+PL
+zoeletricizámos	zoeletricizar+V+PRF+1+PL
 zoeletricizei	zoeletricizar+V+PRF+1+SG
 zoeletricizastes	zoeletricizar+V+PRF+2+PL
 zoeletricizaste	zoeletricizar+V+PRF+2+SG
@@ -5126,6 +5398,7 @@ zoicizarás	zoicizar+V+FUT+2+SG
 zoicizarão	zoicizar+V+FUT+3+PL
 zoicizará	zoicizar+V+FUT+3+SG
 zoicizando	zoicizar+V+GRD
+zoicizemo	zoicizar+V+IMP+1+PL
 zoicizemos	zoicizar+V+IMP+1+PL
 zoicizai	zoicizar+V+IMP+2+PL
 zoiciza	zoicizar+V+IMP+2+SG
@@ -5138,6 +5411,12 @@ zoicizavas	zoicizar+V+IMPF+2+SG
 zoicizavam	zoicizar+V+IMPF+3+PL
 zoicizava	zoicizar+V+IMPF+3+SG
 zoicizar	zoicizar+V+INF
+zoicizarmos	zoicizar+V+INF+1+PL
+zoicizar	zoicizar+V+INF+1+SG
+zoicizardes	zoicizar+V+INF+2+PL
+zoicizares	zoicizar+V+INF+2+SG
+zoicizarem	zoicizar+V+INF+3+PL
+zoicizar	zoicizar+V+INF+3+SG
 zoicizáramos	zoicizar+V+PQP+1+PL
 zoicizara	zoicizar+V+PQP+1+SG
 zoicizáreis	zoicizar+V+PQP+2+PL
@@ -5145,6 +5424,7 @@ zoicizaras	zoicizar+V+PQP+2+SG
 zoicizaram	zoicizar+V+PQP+3+PL
 zoicizara	zoicizar+V+PQP+3+SG
 zoicizamos	zoicizar+V+PRF+1+PL
+zoicizámos	zoicizar+V+PRF+1+PL
 zoicizei	zoicizar+V+PRF+1+SG
 zoicizastes	zoicizar+V+PRF+2+PL
 zoicizaste	zoicizar+V+PRF+2+SG
@@ -5337,6 +5617,7 @@ zonalizarás	zonalizar+V+FUT+2+SG
 zonalizarão	zonalizar+V+FUT+3+PL
 zonalizará	zonalizar+V+FUT+3+SG
 zonalizando	zonalizar+V+GRD
+zonalizemo	zonalizar+V+IMP+1+PL
 zonalizemos	zonalizar+V+IMP+1+PL
 zonalizai	zonalizar+V+IMP+2+PL
 zonaliza	zonalizar+V+IMP+2+SG
@@ -5349,6 +5630,12 @@ zonalizavas	zonalizar+V+IMPF+2+SG
 zonalizavam	zonalizar+V+IMPF+3+PL
 zonalizava	zonalizar+V+IMPF+3+SG
 zonalizar	zonalizar+V+INF
+zonalizarmos	zonalizar+V+INF+1+PL
+zonalizar	zonalizar+V+INF+1+SG
+zonalizardes	zonalizar+V+INF+2+PL
+zonalizares	zonalizar+V+INF+2+SG
+zonalizarem	zonalizar+V+INF+3+PL
+zonalizar	zonalizar+V+INF+3+SG
 zonalizáramos	zonalizar+V+PQP+1+PL
 zonalizara	zonalizar+V+PQP+1+SG
 zonalizáreis	zonalizar+V+PQP+2+PL
@@ -5356,6 +5643,7 @@ zonalizaras	zonalizar+V+PQP+2+SG
 zonalizaram	zonalizar+V+PQP+3+PL
 zonalizara	zonalizar+V+PQP+3+SG
 zonalizamos	zonalizar+V+PRF+1+PL
+zonalizámos	zonalizar+V+PRF+1+PL
 zonalizei	zonalizar+V+PRF+1+SG
 zonalizastes	zonalizar+V+PRF+2+PL
 zonalizaste	zonalizar+V+PRF+2+SG
@@ -5835,6 +6123,7 @@ zoobioticizarás	zoobioticizar+V+FUT+2+SG
 zoobioticizarão	zoobioticizar+V+FUT+3+PL
 zoobioticizará	zoobioticizar+V+FUT+3+SG
 zoobioticizando	zoobioticizar+V+GRD
+zoobioticizemo	zoobioticizar+V+IMP+1+PL
 zoobioticizemos	zoobioticizar+V+IMP+1+PL
 zoobioticizai	zoobioticizar+V+IMP+2+PL
 zoobioticiza	zoobioticizar+V+IMP+2+SG
@@ -5847,6 +6136,12 @@ zoobioticizavas	zoobioticizar+V+IMPF+2+SG
 zoobioticizavam	zoobioticizar+V+IMPF+3+PL
 zoobioticizava	zoobioticizar+V+IMPF+3+SG
 zoobioticizar	zoobioticizar+V+INF
+zoobioticizarmos	zoobioticizar+V+INF+1+PL
+zoobioticizar	zoobioticizar+V+INF+1+SG
+zoobioticizardes	zoobioticizar+V+INF+2+PL
+zoobioticizares	zoobioticizar+V+INF+2+SG
+zoobioticizarem	zoobioticizar+V+INF+3+PL
+zoobioticizar	zoobioticizar+V+INF+3+SG
 zoobioticizáramos	zoobioticizar+V+PQP+1+PL
 zoobioticizara	zoobioticizar+V+PQP+1+SG
 zoobioticizáreis	zoobioticizar+V+PQP+2+PL
@@ -5854,6 +6149,7 @@ zoobioticizaras	zoobioticizar+V+PQP+2+SG
 zoobioticizaram	zoobioticizar+V+PQP+3+PL
 zoobioticizara	zoobioticizar+V+PQP+3+SG
 zoobioticizamos	zoobioticizar+V+PRF+1+PL
+zoobioticizámos	zoobioticizar+V+PRF+1+PL
 zoobioticizei	zoobioticizar+V+PRF+1+SG
 zoobioticizastes	zoobioticizar+V+PRF+2+PL
 zoobioticizaste	zoobioticizar+V+PRF+2+SG
@@ -5900,6 +6196,7 @@ zooelectricizarás	zooelectricizar+V+FUT+2+SG
 zooelectricizarão	zooelectricizar+V+FUT+3+PL
 zooelectricizará	zooelectricizar+V+FUT+3+SG
 zooelectricizando	zooelectricizar+V+GRD
+zooelectricizemo	zooelectricizar+V+IMP+1+PL
 zooelectricizemos	zooelectricizar+V+IMP+1+PL
 zooelectricizai	zooelectricizar+V+IMP+2+PL
 zooelectriciza	zooelectricizar+V+IMP+2+SG
@@ -5912,6 +6209,12 @@ zooelectricizavas	zooelectricizar+V+IMPF+2+SG
 zooelectricizavam	zooelectricizar+V+IMPF+3+PL
 zooelectricizava	zooelectricizar+V+IMPF+3+SG
 zooelectricizar	zooelectricizar+V+INF
+zooelectricizarmos	zooelectricizar+V+INF+1+PL
+zooelectricizar	zooelectricizar+V+INF+1+SG
+zooelectricizardes	zooelectricizar+V+INF+2+PL
+zooelectricizares	zooelectricizar+V+INF+2+SG
+zooelectricizarem	zooelectricizar+V+INF+3+PL
+zooelectricizar	zooelectricizar+V+INF+3+SG
 zooelectricizáramos	zooelectricizar+V+PQP+1+PL
 zooelectricizara	zooelectricizar+V+PQP+1+SG
 zooelectricizáreis	zooelectricizar+V+PQP+2+PL
@@ -5919,6 +6222,7 @@ zooelectricizaras	zooelectricizar+V+PQP+2+SG
 zooelectricizaram	zooelectricizar+V+PQP+3+PL
 zooelectricizara	zooelectricizar+V+PQP+3+SG
 zooelectricizamos	zooelectricizar+V+PRF+1+PL
+zooelectricizámos	zooelectricizar+V+PRF+1+PL
 zooelectricizei	zooelectricizar+V+PRF+1+SG
 zooelectricizastes	zooelectricizar+V+PRF+2+PL
 zooelectricizaste	zooelectricizar+V+PRF+2+SG
@@ -5965,6 +6269,7 @@ zooeletricizarás	zooeletricizar+V+FUT+2+SG
 zooeletricizarão	zooeletricizar+V+FUT+3+PL
 zooeletricizará	zooeletricizar+V+FUT+3+SG
 zooeletricizando	zooeletricizar+V+GRD
+zooeletricizemo	zooeletricizar+V+IMP+1+PL
 zooeletricizemos	zooeletricizar+V+IMP+1+PL
 zooeletricizai	zooeletricizar+V+IMP+2+PL
 zooeletriciza	zooeletricizar+V+IMP+2+SG
@@ -5977,6 +6282,12 @@ zooeletricizavas	zooeletricizar+V+IMPF+2+SG
 zooeletricizavam	zooeletricizar+V+IMPF+3+PL
 zooeletricizava	zooeletricizar+V+IMPF+3+SG
 zooeletricizar	zooeletricizar+V+INF
+zooeletricizarmos	zooeletricizar+V+INF+1+PL
+zooeletricizar	zooeletricizar+V+INF+1+SG
+zooeletricizardes	zooeletricizar+V+INF+2+PL
+zooeletricizares	zooeletricizar+V+INF+2+SG
+zooeletricizarem	zooeletricizar+V+INF+3+PL
+zooeletricizar	zooeletricizar+V+INF+3+SG
 zooeletricizáramos	zooeletricizar+V+PQP+1+PL
 zooeletricizara	zooeletricizar+V+PQP+1+SG
 zooeletricizáreis	zooeletricizar+V+PQP+2+PL
@@ -5984,6 +6295,7 @@ zooeletricizaras	zooeletricizar+V+PQP+2+SG
 zooeletricizaram	zooeletricizar+V+PQP+3+PL
 zooeletricizara	zooeletricizar+V+PQP+3+SG
 zooeletricizamos	zooeletricizar+V+PRF+1+PL
+zooeletricizámos	zooeletricizar+V+PRF+1+PL
 zooeletricizei	zooeletricizar+V+PRF+1+SG
 zooeletricizastes	zooeletricizar+V+PRF+2+PL
 zooeletricizaste	zooeletricizar+V+PRF+2+SG
@@ -6030,6 +6342,7 @@ zoofiticizarás	zoofiticizar+V+FUT+2+SG
 zoofiticizarão	zoofiticizar+V+FUT+3+PL
 zoofiticizará	zoofiticizar+V+FUT+3+SG
 zoofiticizando	zoofiticizar+V+GRD
+zoofiticizemo	zoofiticizar+V+IMP+1+PL
 zoofiticizemos	zoofiticizar+V+IMP+1+PL
 zoofiticizai	zoofiticizar+V+IMP+2+PL
 zoofiticiza	zoofiticizar+V+IMP+2+SG
@@ -6042,6 +6355,12 @@ zoofiticizavas	zoofiticizar+V+IMPF+2+SG
 zoofiticizavam	zoofiticizar+V+IMPF+3+PL
 zoofiticizava	zoofiticizar+V+IMPF+3+SG
 zoofiticizar	zoofiticizar+V+INF
+zoofiticizarmos	zoofiticizar+V+INF+1+PL
+zoofiticizar	zoofiticizar+V+INF+1+SG
+zoofiticizardes	zoofiticizar+V+INF+2+PL
+zoofiticizares	zoofiticizar+V+INF+2+SG
+zoofiticizarem	zoofiticizar+V+INF+3+PL
+zoofiticizar	zoofiticizar+V+INF+3+SG
 zoofiticizáramos	zoofiticizar+V+PQP+1+PL
 zoofiticizara	zoofiticizar+V+PQP+1+SG
 zoofiticizáreis	zoofiticizar+V+PQP+2+PL
@@ -6049,6 +6368,7 @@ zoofiticizaras	zoofiticizar+V+PQP+2+SG
 zoofiticizaram	zoofiticizar+V+PQP+3+PL
 zoofiticizara	zoofiticizar+V+PQP+3+SG
 zoofiticizamos	zoofiticizar+V+PRF+1+PL
+zoofiticizámos	zoofiticizar+V+PRF+1+PL
 zoofiticizei	zoofiticizar+V+PRF+1+SG
 zoofiticizastes	zoofiticizar+V+PRF+2+PL
 zoofiticizaste	zoofiticizar+V+PRF+2+SG
@@ -6095,6 +6415,7 @@ zoogenicizarás	zoogenicizar+V+FUT+2+SG
 zoogenicizarão	zoogenicizar+V+FUT+3+PL
 zoogenicizará	zoogenicizar+V+FUT+3+SG
 zoogenicizando	zoogenicizar+V+GRD
+zoogenicizemo	zoogenicizar+V+IMP+1+PL
 zoogenicizemos	zoogenicizar+V+IMP+1+PL
 zoogenicizai	zoogenicizar+V+IMP+2+PL
 zoogeniciza	zoogenicizar+V+IMP+2+SG
@@ -6107,6 +6428,12 @@ zoogenicizavas	zoogenicizar+V+IMPF+2+SG
 zoogenicizavam	zoogenicizar+V+IMPF+3+PL
 zoogenicizava	zoogenicizar+V+IMPF+3+SG
 zoogenicizar	zoogenicizar+V+INF
+zoogenicizarmos	zoogenicizar+V+INF+1+PL
+zoogenicizar	zoogenicizar+V+INF+1+SG
+zoogenicizardes	zoogenicizar+V+INF+2+PL
+zoogenicizares	zoogenicizar+V+INF+2+SG
+zoogenicizarem	zoogenicizar+V+INF+3+PL
+zoogenicizar	zoogenicizar+V+INF+3+SG
 zoogenicizáramos	zoogenicizar+V+PQP+1+PL
 zoogenicizara	zoogenicizar+V+PQP+1+SG
 zoogenicizáreis	zoogenicizar+V+PQP+2+PL
@@ -6114,6 +6441,7 @@ zoogenicizaras	zoogenicizar+V+PQP+2+SG
 zoogenicizaram	zoogenicizar+V+PQP+3+PL
 zoogenicizara	zoogenicizar+V+PQP+3+SG
 zoogenicizamos	zoogenicizar+V+PRF+1+PL
+zoogenicizámos	zoogenicizar+V+PRF+1+PL
 zoogenicizei	zoogenicizar+V+PRF+1+SG
 zoogenicizastes	zoogenicizar+V+PRF+2+PL
 zoogenicizaste	zoogenicizar+V+PRF+2+SG
@@ -6233,6 +6561,7 @@ zoograficizarás	zoograficizar+V+FUT+2+SG
 zoograficizarão	zoograficizar+V+FUT+3+PL
 zoograficizará	zoograficizar+V+FUT+3+SG
 zoograficizando	zoograficizar+V+GRD
+zoograficizemo	zoograficizar+V+IMP+1+PL
 zoograficizemos	zoograficizar+V+IMP+1+PL
 zoograficizai	zoograficizar+V+IMP+2+PL
 zoograficiza	zoograficizar+V+IMP+2+SG
@@ -6245,6 +6574,12 @@ zoograficizavas	zoograficizar+V+IMPF+2+SG
 zoograficizavam	zoograficizar+V+IMPF+3+PL
 zoograficizava	zoograficizar+V+IMPF+3+SG
 zoograficizar	zoograficizar+V+INF
+zoograficizarmos	zoograficizar+V+INF+1+PL
+zoograficizar	zoograficizar+V+INF+1+SG
+zoograficizardes	zoograficizar+V+INF+2+PL
+zoograficizares	zoograficizar+V+INF+2+SG
+zoograficizarem	zoograficizar+V+INF+3+PL
+zoograficizar	zoograficizar+V+INF+3+SG
 zoograficizáramos	zoograficizar+V+PQP+1+PL
 zoograficizara	zoograficizar+V+PQP+1+SG
 zoograficizáreis	zoograficizar+V+PQP+2+PL
@@ -6252,6 +6587,7 @@ zoograficizaras	zoograficizar+V+PQP+2+SG
 zoograficizaram	zoograficizar+V+PQP+3+PL
 zoograficizara	zoograficizar+V+PQP+3+SG
 zoograficizamos	zoograficizar+V+PRF+1+PL
+zoograficizámos	zoograficizar+V+PRF+1+PL
 zoograficizei	zoograficizar+V+PRF+1+SG
 zoograficizastes	zoograficizar+V+PRF+2+PL
 zoograficizaste	zoograficizar+V+PRF+2+SG
@@ -6298,6 +6634,7 @@ zoolatricizarás	zoolatricizar+V+FUT+2+SG
 zoolatricizarão	zoolatricizar+V+FUT+3+PL
 zoolatricizará	zoolatricizar+V+FUT+3+SG
 zoolatricizando	zoolatricizar+V+GRD
+zoolatricizemo	zoolatricizar+V+IMP+1+PL
 zoolatricizemos	zoolatricizar+V+IMP+1+PL
 zoolatricizai	zoolatricizar+V+IMP+2+PL
 zoolatriciza	zoolatricizar+V+IMP+2+SG
@@ -6310,6 +6647,12 @@ zoolatricizavas	zoolatricizar+V+IMPF+2+SG
 zoolatricizavam	zoolatricizar+V+IMPF+3+PL
 zoolatricizava	zoolatricizar+V+IMPF+3+SG
 zoolatricizar	zoolatricizar+V+INF
+zoolatricizarmos	zoolatricizar+V+INF+1+PL
+zoolatricizar	zoolatricizar+V+INF+1+SG
+zoolatricizardes	zoolatricizar+V+INF+2+PL
+zoolatricizares	zoolatricizar+V+INF+2+SG
+zoolatricizarem	zoolatricizar+V+INF+3+PL
+zoolatricizar	zoolatricizar+V+INF+3+SG
 zoolatricizáramos	zoolatricizar+V+PQP+1+PL
 zoolatricizara	zoolatricizar+V+PQP+1+SG
 zoolatricizáreis	zoolatricizar+V+PQP+2+PL
@@ -6317,6 +6660,7 @@ zoolatricizaras	zoolatricizar+V+PQP+2+SG
 zoolatricizaram	zoolatricizar+V+PQP+3+PL
 zoolatricizara	zoolatricizar+V+PQP+3+SG
 zoolatricizamos	zoolatricizar+V+PRF+1+PL
+zoolatricizámos	zoolatricizar+V+PRF+1+PL
 zoolatricizei	zoolatricizar+V+PRF+1+SG
 zoolatricizastes	zoolatricizar+V+PRF+2+PL
 zoolatricizaste	zoolatricizar+V+PRF+2+SG
@@ -6363,6 +6707,7 @@ zooliticizarás	zooliticizar+V+FUT+2+SG
 zooliticizarão	zooliticizar+V+FUT+3+PL
 zooliticizará	zooliticizar+V+FUT+3+SG
 zooliticizando	zooliticizar+V+GRD
+zooliticizemo	zooliticizar+V+IMP+1+PL
 zooliticizemos	zooliticizar+V+IMP+1+PL
 zooliticizai	zooliticizar+V+IMP+2+PL
 zooliticiza	zooliticizar+V+IMP+2+SG
@@ -6375,6 +6720,12 @@ zooliticizavas	zooliticizar+V+IMPF+2+SG
 zooliticizavam	zooliticizar+V+IMPF+3+PL
 zooliticizava	zooliticizar+V+IMPF+3+SG
 zooliticizar	zooliticizar+V+INF
+zooliticizarmos	zooliticizar+V+INF+1+PL
+zooliticizar	zooliticizar+V+INF+1+SG
+zooliticizardes	zooliticizar+V+INF+2+PL
+zooliticizares	zooliticizar+V+INF+2+SG
+zooliticizarem	zooliticizar+V+INF+3+PL
+zooliticizar	zooliticizar+V+INF+3+SG
 zooliticizáramos	zooliticizar+V+PQP+1+PL
 zooliticizara	zooliticizar+V+PQP+1+SG
 zooliticizáreis	zooliticizar+V+PQP+2+PL
@@ -6382,6 +6733,7 @@ zooliticizaras	zooliticizar+V+PQP+2+SG
 zooliticizaram	zooliticizar+V+PQP+3+PL
 zooliticizara	zooliticizar+V+PQP+3+SG
 zooliticizamos	zooliticizar+V+PRF+1+PL
+zooliticizámos	zooliticizar+V+PRF+1+PL
 zooliticizei	zooliticizar+V+PRF+1+SG
 zooliticizastes	zooliticizar+V+PRF+2+PL
 zooliticizaste	zooliticizar+V+PRF+2+SG
@@ -6428,6 +6780,7 @@ zoologicizarás	zoologicizar+V+FUT+2+SG
 zoologicizarão	zoologicizar+V+FUT+3+PL
 zoologicizará	zoologicizar+V+FUT+3+SG
 zoologicizando	zoologicizar+V+GRD
+zoologicizemo	zoologicizar+V+IMP+1+PL
 zoologicizemos	zoologicizar+V+IMP+1+PL
 zoologicizai	zoologicizar+V+IMP+2+PL
 zoologiciza	zoologicizar+V+IMP+2+SG
@@ -6440,6 +6793,12 @@ zoologicizavas	zoologicizar+V+IMPF+2+SG
 zoologicizavam	zoologicizar+V+IMPF+3+PL
 zoologicizava	zoologicizar+V+IMPF+3+SG
 zoologicizar	zoologicizar+V+INF
+zoologicizarmos	zoologicizar+V+INF+1+PL
+zoologicizar	zoologicizar+V+INF+1+SG
+zoologicizardes	zoologicizar+V+INF+2+PL
+zoologicizares	zoologicizar+V+INF+2+SG
+zoologicizarem	zoologicizar+V+INF+3+PL
+zoologicizar	zoologicizar+V+INF+3+SG
 zoologicizáramos	zoologicizar+V+PQP+1+PL
 zoologicizara	zoologicizar+V+PQP+1+SG
 zoologicizáreis	zoologicizar+V+PQP+2+PL
@@ -6447,6 +6806,7 @@ zoologicizaras	zoologicizar+V+PQP+2+SG
 zoologicizaram	zoologicizar+V+PQP+3+PL
 zoologicizara	zoologicizar+V+PQP+3+SG
 zoologicizamos	zoologicizar+V+PRF+1+PL
+zoologicizámos	zoologicizar+V+PRF+1+PL
 zoologicizei	zoologicizar+V+PRF+1+SG
 zoologicizastes	zoologicizar+V+PRF+2+PL
 zoologicizaste	zoologicizar+V+PRF+2+SG
@@ -6493,6 +6853,7 @@ zoomagneticizarás	zoomagneticizar+V+FUT+2+SG
 zoomagneticizarão	zoomagneticizar+V+FUT+3+PL
 zoomagneticizará	zoomagneticizar+V+FUT+3+SG
 zoomagneticizando	zoomagneticizar+V+GRD
+zoomagneticizemo	zoomagneticizar+V+IMP+1+PL
 zoomagneticizemos	zoomagneticizar+V+IMP+1+PL
 zoomagneticizai	zoomagneticizar+V+IMP+2+PL
 zoomagneticiza	zoomagneticizar+V+IMP+2+SG
@@ -6505,6 +6866,12 @@ zoomagneticizavas	zoomagneticizar+V+IMPF+2+SG
 zoomagneticizavam	zoomagneticizar+V+IMPF+3+PL
 zoomagneticizava	zoomagneticizar+V+IMPF+3+SG
 zoomagneticizar	zoomagneticizar+V+INF
+zoomagneticizarmos	zoomagneticizar+V+INF+1+PL
+zoomagneticizar	zoomagneticizar+V+INF+1+SG
+zoomagneticizardes	zoomagneticizar+V+INF+2+PL
+zoomagneticizares	zoomagneticizar+V+INF+2+SG
+zoomagneticizarem	zoomagneticizar+V+INF+3+PL
+zoomagneticizar	zoomagneticizar+V+INF+3+SG
 zoomagneticizáramos	zoomagneticizar+V+PQP+1+PL
 zoomagneticizara	zoomagneticizar+V+PQP+1+SG
 zoomagneticizáreis	zoomagneticizar+V+PQP+2+PL
@@ -6512,6 +6879,7 @@ zoomagneticizaras	zoomagneticizar+V+PQP+2+SG
 zoomagneticizaram	zoomagneticizar+V+PQP+3+PL
 zoomagneticizara	zoomagneticizar+V+PQP+3+SG
 zoomagneticizamos	zoomagneticizar+V+PRF+1+PL
+zoomagneticizámos	zoomagneticizar+V+PRF+1+PL
 zoomagneticizei	zoomagneticizar+V+PRF+1+SG
 zoomagneticizastes	zoomagneticizar+V+PRF+2+PL
 zoomagneticizaste	zoomagneticizar+V+PRF+2+SG
@@ -6558,6 +6926,7 @@ zoomorficizarás	zoomorficizar+V+FUT+2+SG
 zoomorficizarão	zoomorficizar+V+FUT+3+PL
 zoomorficizará	zoomorficizar+V+FUT+3+SG
 zoomorficizando	zoomorficizar+V+GRD
+zoomorficizemo	zoomorficizar+V+IMP+1+PL
 zoomorficizemos	zoomorficizar+V+IMP+1+PL
 zoomorficizai	zoomorficizar+V+IMP+2+PL
 zoomorficiza	zoomorficizar+V+IMP+2+SG
@@ -6570,6 +6939,12 @@ zoomorficizavas	zoomorficizar+V+IMPF+2+SG
 zoomorficizavam	zoomorficizar+V+IMPF+3+PL
 zoomorficizava	zoomorficizar+V+IMPF+3+SG
 zoomorficizar	zoomorficizar+V+INF
+zoomorficizarmos	zoomorficizar+V+INF+1+PL
+zoomorficizar	zoomorficizar+V+INF+1+SG
+zoomorficizardes	zoomorficizar+V+INF+2+PL
+zoomorficizares	zoomorficizar+V+INF+2+SG
+zoomorficizarem	zoomorficizar+V+INF+3+PL
+zoomorficizar	zoomorficizar+V+INF+3+SG
 zoomorficizáramos	zoomorficizar+V+PQP+1+PL
 zoomorficizara	zoomorficizar+V+PQP+1+SG
 zoomorficizáreis	zoomorficizar+V+PQP+2+PL
@@ -6577,6 +6952,7 @@ zoomorficizaras	zoomorficizar+V+PQP+2+SG
 zoomorficizaram	zoomorficizar+V+PQP+3+PL
 zoomorficizara	zoomorficizar+V+PQP+3+SG
 zoomorficizamos	zoomorficizar+V+PRF+1+PL
+zoomorficizámos	zoomorficizar+V+PRF+1+PL
 zoomorficizei	zoomorficizar+V+PRF+1+SG
 zoomorficizastes	zoomorficizar+V+PRF+2+PL
 zoomorficizaste	zoomorficizar+V+PRF+2+SG
@@ -6623,6 +6999,7 @@ zoonicizarás	zoonicizar+V+FUT+2+SG
 zoonicizarão	zoonicizar+V+FUT+3+PL
 zoonicizará	zoonicizar+V+FUT+3+SG
 zoonicizando	zoonicizar+V+GRD
+zoonicizemo	zoonicizar+V+IMP+1+PL
 zoonicizemos	zoonicizar+V+IMP+1+PL
 zoonicizai	zoonicizar+V+IMP+2+PL
 zooniciza	zoonicizar+V+IMP+2+SG
@@ -6635,6 +7012,12 @@ zoonicizavas	zoonicizar+V+IMPF+2+SG
 zoonicizavam	zoonicizar+V+IMPF+3+PL
 zoonicizava	zoonicizar+V+IMPF+3+SG
 zoonicizar	zoonicizar+V+INF
+zoonicizarmos	zoonicizar+V+INF+1+PL
+zoonicizar	zoonicizar+V+INF+1+SG
+zoonicizardes	zoonicizar+V+INF+2+PL
+zoonicizares	zoonicizar+V+INF+2+SG
+zoonicizarem	zoonicizar+V+INF+3+PL
+zoonicizar	zoonicizar+V+INF+3+SG
 zoonicizáramos	zoonicizar+V+PQP+1+PL
 zoonicizara	zoonicizar+V+PQP+1+SG
 zoonicizáreis	zoonicizar+V+PQP+2+PL
@@ -6642,6 +7025,7 @@ zoonicizaras	zoonicizar+V+PQP+2+SG
 zoonicizaram	zoonicizar+V+PQP+3+PL
 zoonicizara	zoonicizar+V+PQP+3+SG
 zoonicizamos	zoonicizar+V+PRF+1+PL
+zoonicizámos	zoonicizar+V+PRF+1+PL
 zoonicizei	zoonicizar+V+PRF+1+SG
 zoonicizastes	zoonicizar+V+PRF+2+PL
 zoonicizaste	zoonicizar+V+PRF+2+SG
@@ -6688,6 +7072,7 @@ zoonomicizarás	zoonomicizar+V+FUT+2+SG
 zoonomicizarão	zoonomicizar+V+FUT+3+PL
 zoonomicizará	zoonomicizar+V+FUT+3+SG
 zoonomicizando	zoonomicizar+V+GRD
+zoonomicizemo	zoonomicizar+V+IMP+1+PL
 zoonomicizemos	zoonomicizar+V+IMP+1+PL
 zoonomicizai	zoonomicizar+V+IMP+2+PL
 zoonomiciza	zoonomicizar+V+IMP+2+SG
@@ -6700,6 +7085,12 @@ zoonomicizavas	zoonomicizar+V+IMPF+2+SG
 zoonomicizavam	zoonomicizar+V+IMPF+3+PL
 zoonomicizava	zoonomicizar+V+IMPF+3+SG
 zoonomicizar	zoonomicizar+V+INF
+zoonomicizarmos	zoonomicizar+V+INF+1+PL
+zoonomicizar	zoonomicizar+V+INF+1+SG
+zoonomicizardes	zoonomicizar+V+INF+2+PL
+zoonomicizares	zoonomicizar+V+INF+2+SG
+zoonomicizarem	zoonomicizar+V+INF+3+PL
+zoonomicizar	zoonomicizar+V+INF+3+SG
 zoonomicizáramos	zoonomicizar+V+PQP+1+PL
 zoonomicizara	zoonomicizar+V+PQP+1+SG
 zoonomicizáreis	zoonomicizar+V+PQP+2+PL
@@ -6707,6 +7098,7 @@ zoonomicizaras	zoonomicizar+V+PQP+2+SG
 zoonomicizaram	zoonomicizar+V+PQP+3+PL
 zoonomicizara	zoonomicizar+V+PQP+3+SG
 zoonomicizamos	zoonomicizar+V+PRF+1+PL
+zoonomicizámos	zoonomicizar+V+PRF+1+PL
 zoonomicizei	zoonomicizar+V+PRF+1+SG
 zoonomicizastes	zoonomicizar+V+PRF+2+PL
 zoonomicizaste	zoonomicizar+V+PRF+2+SG
@@ -6753,6 +7145,7 @@ zoonosologicizarás	zoonosologicizar+V+FUT+2+SG
 zoonosologicizarão	zoonosologicizar+V+FUT+3+PL
 zoonosologicizará	zoonosologicizar+V+FUT+3+SG
 zoonosologicizando	zoonosologicizar+V+GRD
+zoonosologicizemo	zoonosologicizar+V+IMP+1+PL
 zoonosologicizemos	zoonosologicizar+V+IMP+1+PL
 zoonosologicizai	zoonosologicizar+V+IMP+2+PL
 zoonosologiciza	zoonosologicizar+V+IMP+2+SG
@@ -6765,6 +7158,12 @@ zoonosologicizavas	zoonosologicizar+V+IMPF+2+SG
 zoonosologicizavam	zoonosologicizar+V+IMPF+3+PL
 zoonosologicizava	zoonosologicizar+V+IMPF+3+SG
 zoonosologicizar	zoonosologicizar+V+INF
+zoonosologicizarmos	zoonosologicizar+V+INF+1+PL
+zoonosologicizar	zoonosologicizar+V+INF+1+SG
+zoonosologicizardes	zoonosologicizar+V+INF+2+PL
+zoonosologicizares	zoonosologicizar+V+INF+2+SG
+zoonosologicizarem	zoonosologicizar+V+INF+3+PL
+zoonosologicizar	zoonosologicizar+V+INF+3+SG
 zoonosologicizáramos	zoonosologicizar+V+PQP+1+PL
 zoonosologicizara	zoonosologicizar+V+PQP+1+SG
 zoonosologicizáreis	zoonosologicizar+V+PQP+2+PL
@@ -6772,6 +7171,7 @@ zoonosologicizaras	zoonosologicizar+V+PQP+2+SG
 zoonosologicizaram	zoonosologicizar+V+PQP+3+PL
 zoonosologicizara	zoonosologicizar+V+PQP+3+SG
 zoonosologicizamos	zoonosologicizar+V+PRF+1+PL
+zoonosologicizámos	zoonosologicizar+V+PRF+1+PL
 zoonosologicizei	zoonosologicizar+V+PRF+1+SG
 zoonosologicizastes	zoonosologicizar+V+PRF+2+PL
 zoonosologicizaste	zoonosologicizar+V+PRF+2+SG
@@ -6818,6 +7218,7 @@ zoopatologicizarás	zoopatologicizar+V+FUT+2+SG
 zoopatologicizarão	zoopatologicizar+V+FUT+3+PL
 zoopatologicizará	zoopatologicizar+V+FUT+3+SG
 zoopatologicizando	zoopatologicizar+V+GRD
+zoopatologicizemo	zoopatologicizar+V+IMP+1+PL
 zoopatologicizemos	zoopatologicizar+V+IMP+1+PL
 zoopatologicizai	zoopatologicizar+V+IMP+2+PL
 zoopatologiciza	zoopatologicizar+V+IMP+2+SG
@@ -6830,6 +7231,12 @@ zoopatologicizavas	zoopatologicizar+V+IMPF+2+SG
 zoopatologicizavam	zoopatologicizar+V+IMPF+3+PL
 zoopatologicizava	zoopatologicizar+V+IMPF+3+SG
 zoopatologicizar	zoopatologicizar+V+INF
+zoopatologicizarmos	zoopatologicizar+V+INF+1+PL
+zoopatologicizar	zoopatologicizar+V+INF+1+SG
+zoopatologicizardes	zoopatologicizar+V+INF+2+PL
+zoopatologicizares	zoopatologicizar+V+INF+2+SG
+zoopatologicizarem	zoopatologicizar+V+INF+3+PL
+zoopatologicizar	zoopatologicizar+V+INF+3+SG
 zoopatologicizáramos	zoopatologicizar+V+PQP+1+PL
 zoopatologicizara	zoopatologicizar+V+PQP+1+SG
 zoopatologicizáreis	zoopatologicizar+V+PQP+2+PL
@@ -6837,6 +7244,7 @@ zoopatologicizaras	zoopatologicizar+V+PQP+2+SG
 zoopatologicizaram	zoopatologicizar+V+PQP+3+PL
 zoopatologicizara	zoopatologicizar+V+PQP+3+SG
 zoopatologicizamos	zoopatologicizar+V+PRF+1+PL
+zoopatologicizámos	zoopatologicizar+V+PRF+1+PL
 zoopatologicizei	zoopatologicizar+V+PRF+1+SG
 zoopatologicizastes	zoopatologicizar+V+PRF+2+PL
 zoopatologicizaste	zoopatologicizar+V+PRF+2+SG
@@ -6883,6 +7291,7 @@ zoopticizarás	zoopticizar+V+FUT+2+SG
 zoopticizarão	zoopticizar+V+FUT+3+PL
 zoopticizará	zoopticizar+V+FUT+3+SG
 zoopticizando	zoopticizar+V+GRD
+zoopticizemo	zoopticizar+V+IMP+1+PL
 zoopticizemos	zoopticizar+V+IMP+1+PL
 zoopticizai	zoopticizar+V+IMP+2+PL
 zoopticiza	zoopticizar+V+IMP+2+SG
@@ -6895,6 +7304,12 @@ zoopticizavas	zoopticizar+V+IMPF+2+SG
 zoopticizavam	zoopticizar+V+IMPF+3+PL
 zoopticizava	zoopticizar+V+IMPF+3+SG
 zoopticizar	zoopticizar+V+INF
+zoopticizarmos	zoopticizar+V+INF+1+PL
+zoopticizar	zoopticizar+V+INF+1+SG
+zoopticizardes	zoopticizar+V+INF+2+PL
+zoopticizares	zoopticizar+V+INF+2+SG
+zoopticizarem	zoopticizar+V+INF+3+PL
+zoopticizar	zoopticizar+V+INF+3+SG
 zoopticizáramos	zoopticizar+V+PQP+1+PL
 zoopticizara	zoopticizar+V+PQP+1+SG
 zoopticizáreis	zoopticizar+V+PQP+2+PL
@@ -6902,6 +7317,7 @@ zoopticizaras	zoopticizar+V+PQP+2+SG
 zoopticizaram	zoopticizar+V+PQP+3+PL
 zoopticizara	zoopticizar+V+PQP+3+SG
 zoopticizamos	zoopticizar+V+PRF+1+PL
+zoopticizámos	zoopticizar+V+PRF+1+PL
 zoopticizei	zoopticizar+V+PRF+1+SG
 zoopticizastes	zoopticizar+V+PRF+2+PL
 zoopticizaste	zoopticizar+V+PRF+2+SG
@@ -6948,6 +7364,7 @@ zooscopicizarás	zooscopicizar+V+FUT+2+SG
 zooscopicizarão	zooscopicizar+V+FUT+3+PL
 zooscopicizará	zooscopicizar+V+FUT+3+SG
 zooscopicizando	zooscopicizar+V+GRD
+zooscopicizemo	zooscopicizar+V+IMP+1+PL
 zooscopicizemos	zooscopicizar+V+IMP+1+PL
 zooscopicizai	zooscopicizar+V+IMP+2+PL
 zooscopiciza	zooscopicizar+V+IMP+2+SG
@@ -6960,6 +7377,12 @@ zooscopicizavas	zooscopicizar+V+IMPF+2+SG
 zooscopicizavam	zooscopicizar+V+IMPF+3+PL
 zooscopicizava	zooscopicizar+V+IMPF+3+SG
 zooscopicizar	zooscopicizar+V+INF
+zooscopicizarmos	zooscopicizar+V+INF+1+PL
+zooscopicizar	zooscopicizar+V+INF+1+SG
+zooscopicizardes	zooscopicizar+V+INF+2+PL
+zooscopicizares	zooscopicizar+V+INF+2+SG
+zooscopicizarem	zooscopicizar+V+INF+3+PL
+zooscopicizar	zooscopicizar+V+INF+3+SG
 zooscopicizáramos	zooscopicizar+V+PQP+1+PL
 zooscopicizara	zooscopicizar+V+PQP+1+SG
 zooscopicizáreis	zooscopicizar+V+PQP+2+PL
@@ -6967,6 +7390,7 @@ zooscopicizaras	zooscopicizar+V+PQP+2+SG
 zooscopicizaram	zooscopicizar+V+PQP+3+PL
 zooscopicizara	zooscopicizar+V+PQP+3+SG
 zooscopicizamos	zooscopicizar+V+PRF+1+PL
+zooscopicizámos	zooscopicizar+V+PRF+1+PL
 zooscopicizei	zooscopicizar+V+PRF+1+SG
 zooscopicizastes	zooscopicizar+V+PRF+2+PL
 zooscopicizaste	zooscopicizar+V+PRF+2+SG
@@ -7013,6 +7437,7 @@ zoosporicizarás	zoosporicizar+V+FUT+2+SG
 zoosporicizarão	zoosporicizar+V+FUT+3+PL
 zoosporicizará	zoosporicizar+V+FUT+3+SG
 zoosporicizando	zoosporicizar+V+GRD
+zoosporicizemo	zoosporicizar+V+IMP+1+PL
 zoosporicizemos	zoosporicizar+V+IMP+1+PL
 zoosporicizai	zoosporicizar+V+IMP+2+PL
 zoosporiciza	zoosporicizar+V+IMP+2+SG
@@ -7025,6 +7450,12 @@ zoosporicizavas	zoosporicizar+V+IMPF+2+SG
 zoosporicizavam	zoosporicizar+V+IMPF+3+PL
 zoosporicizava	zoosporicizar+V+IMPF+3+SG
 zoosporicizar	zoosporicizar+V+INF
+zoosporicizarmos	zoosporicizar+V+INF+1+PL
+zoosporicizar	zoosporicizar+V+INF+1+SG
+zoosporicizardes	zoosporicizar+V+INF+2+PL
+zoosporicizares	zoosporicizar+V+INF+2+SG
+zoosporicizarem	zoosporicizar+V+INF+3+PL
+zoosporicizar	zoosporicizar+V+INF+3+SG
 zoosporicizáramos	zoosporicizar+V+PQP+1+PL
 zoosporicizara	zoosporicizar+V+PQP+1+SG
 zoosporicizáreis	zoosporicizar+V+PQP+2+PL
@@ -7032,6 +7463,7 @@ zoosporicizaras	zoosporicizar+V+PQP+2+SG
 zoosporicizaram	zoosporicizar+V+PQP+3+PL
 zoosporicizara	zoosporicizar+V+PQP+3+SG
 zoosporicizamos	zoosporicizar+V+PRF+1+PL
+zoosporicizámos	zoosporicizar+V+PRF+1+PL
 zoosporicizei	zoosporicizar+V+PRF+1+SG
 zoosporicizastes	zoosporicizar+V+PRF+2+PL
 zoosporicizaste	zoosporicizar+V+PRF+2+SG
@@ -7078,6 +7510,7 @@ zootacticizarás	zootacticizar+V+FUT+2+SG
 zootacticizarão	zootacticizar+V+FUT+3+PL
 zootacticizará	zootacticizar+V+FUT+3+SG
 zootacticizando	zootacticizar+V+GRD
+zootacticizemo	zootacticizar+V+IMP+1+PL
 zootacticizemos	zootacticizar+V+IMP+1+PL
 zootacticizai	zootacticizar+V+IMP+2+PL
 zootacticiza	zootacticizar+V+IMP+2+SG
@@ -7090,6 +7523,12 @@ zootacticizavas	zootacticizar+V+IMPF+2+SG
 zootacticizavam	zootacticizar+V+IMPF+3+PL
 zootacticizava	zootacticizar+V+IMPF+3+SG
 zootacticizar	zootacticizar+V+INF
+zootacticizarmos	zootacticizar+V+INF+1+PL
+zootacticizar	zootacticizar+V+INF+1+SG
+zootacticizardes	zootacticizar+V+INF+2+PL
+zootacticizares	zootacticizar+V+INF+2+SG
+zootacticizarem	zootacticizar+V+INF+3+PL
+zootacticizar	zootacticizar+V+INF+3+SG
 zootacticizáramos	zootacticizar+V+PQP+1+PL
 zootacticizara	zootacticizar+V+PQP+1+SG
 zootacticizáreis	zootacticizar+V+PQP+2+PL
@@ -7097,6 +7536,7 @@ zootacticizaras	zootacticizar+V+PQP+2+SG
 zootacticizaram	zootacticizar+V+PQP+3+PL
 zootacticizara	zootacticizar+V+PQP+3+SG
 zootacticizamos	zootacticizar+V+PRF+1+PL
+zootacticizámos	zootacticizar+V+PRF+1+PL
 zootacticizei	zootacticizar+V+PRF+1+SG
 zootacticizastes	zootacticizar+V+PRF+2+PL
 zootacticizaste	zootacticizar+V+PRF+2+SG
@@ -7143,6 +7583,7 @@ zootaticizarás	zootaticizar+V+FUT+2+SG
 zootaticizarão	zootaticizar+V+FUT+3+PL
 zootaticizará	zootaticizar+V+FUT+3+SG
 zootaticizando	zootaticizar+V+GRD
+zootaticizemo	zootaticizar+V+IMP+1+PL
 zootaticizemos	zootaticizar+V+IMP+1+PL
 zootaticizai	zootaticizar+V+IMP+2+PL
 zootaticiza	zootaticizar+V+IMP+2+SG
@@ -7155,6 +7596,12 @@ zootaticizavas	zootaticizar+V+IMPF+2+SG
 zootaticizavam	zootaticizar+V+IMPF+3+PL
 zootaticizava	zootaticizar+V+IMPF+3+SG
 zootaticizar	zootaticizar+V+INF
+zootaticizarmos	zootaticizar+V+INF+1+PL
+zootaticizar	zootaticizar+V+INF+1+SG
+zootaticizardes	zootaticizar+V+INF+2+PL
+zootaticizares	zootaticizar+V+INF+2+SG
+zootaticizarem	zootaticizar+V+INF+3+PL
+zootaticizar	zootaticizar+V+INF+3+SG
 zootaticizáramos	zootaticizar+V+PQP+1+PL
 zootaticizara	zootaticizar+V+PQP+1+SG
 zootaticizáreis	zootaticizar+V+PQP+2+PL
@@ -7162,6 +7609,7 @@ zootaticizaras	zootaticizar+V+PQP+2+SG
 zootaticizaram	zootaticizar+V+PQP+3+PL
 zootaticizara	zootaticizar+V+PQP+3+SG
 zootaticizamos	zootaticizar+V+PRF+1+PL
+zootaticizámos	zootaticizar+V+PRF+1+PL
 zootaticizei	zootaticizar+V+PRF+1+SG
 zootaticizastes	zootaticizar+V+PRF+2+PL
 zootaticizaste	zootaticizar+V+PRF+2+SG
@@ -7208,6 +7656,7 @@ zootaxicizarás	zootaxicizar+V+FUT+2+SG
 zootaxicizarão	zootaxicizar+V+FUT+3+PL
 zootaxicizará	zootaxicizar+V+FUT+3+SG
 zootaxicizando	zootaxicizar+V+GRD
+zootaxicizemo	zootaxicizar+V+IMP+1+PL
 zootaxicizemos	zootaxicizar+V+IMP+1+PL
 zootaxicizai	zootaxicizar+V+IMP+2+PL
 zootaxiciza	zootaxicizar+V+IMP+2+SG
@@ -7220,6 +7669,12 @@ zootaxicizavas	zootaxicizar+V+IMPF+2+SG
 zootaxicizavam	zootaxicizar+V+IMPF+3+PL
 zootaxicizava	zootaxicizar+V+IMPF+3+SG
 zootaxicizar	zootaxicizar+V+INF
+zootaxicizarmos	zootaxicizar+V+INF+1+PL
+zootaxicizar	zootaxicizar+V+INF+1+SG
+zootaxicizardes	zootaxicizar+V+INF+2+PL
+zootaxicizares	zootaxicizar+V+INF+2+SG
+zootaxicizarem	zootaxicizar+V+INF+3+PL
+zootaxicizar	zootaxicizar+V+INF+3+SG
 zootaxicizáramos	zootaxicizar+V+PQP+1+PL
 zootaxicizara	zootaxicizar+V+PQP+1+SG
 zootaxicizáreis	zootaxicizar+V+PQP+2+PL
@@ -7227,6 +7682,7 @@ zootaxicizaras	zootaxicizar+V+PQP+2+SG
 zootaxicizaram	zootaxicizar+V+PQP+3+PL
 zootaxicizara	zootaxicizar+V+PQP+3+SG
 zootaxicizamos	zootaxicizar+V+PRF+1+PL
+zootaxicizámos	zootaxicizar+V+PRF+1+PL
 zootaxicizei	zootaxicizar+V+PRF+1+SG
 zootaxicizastes	zootaxicizar+V+PRF+2+PL
 zootaxicizaste	zootaxicizar+V+PRF+2+SG
@@ -7273,6 +7729,7 @@ zootecnicizarás	zootecnicizar+V+FUT+2+SG
 zootecnicizarão	zootecnicizar+V+FUT+3+PL
 zootecnicizará	zootecnicizar+V+FUT+3+SG
 zootecnicizando	zootecnicizar+V+GRD
+zootecnicizemo	zootecnicizar+V+IMP+1+PL
 zootecnicizemos	zootecnicizar+V+IMP+1+PL
 zootecnicizai	zootecnicizar+V+IMP+2+PL
 zootecniciza	zootecnicizar+V+IMP+2+SG
@@ -7285,6 +7742,12 @@ zootecnicizavas	zootecnicizar+V+IMPF+2+SG
 zootecnicizavam	zootecnicizar+V+IMPF+3+PL
 zootecnicizava	zootecnicizar+V+IMPF+3+SG
 zootecnicizar	zootecnicizar+V+INF
+zootecnicizarmos	zootecnicizar+V+INF+1+PL
+zootecnicizar	zootecnicizar+V+INF+1+SG
+zootecnicizardes	zootecnicizar+V+INF+2+PL
+zootecnicizares	zootecnicizar+V+INF+2+SG
+zootecnicizarem	zootecnicizar+V+INF+3+PL
+zootecnicizar	zootecnicizar+V+INF+3+SG
 zootecnicizáramos	zootecnicizar+V+PQP+1+PL
 zootecnicizara	zootecnicizar+V+PQP+1+SG
 zootecnicizáreis	zootecnicizar+V+PQP+2+PL
@@ -7292,6 +7755,7 @@ zootecnicizaras	zootecnicizar+V+PQP+2+SG
 zootecnicizaram	zootecnicizar+V+PQP+3+PL
 zootecnicizara	zootecnicizar+V+PQP+3+SG
 zootecnicizamos	zootecnicizar+V+PRF+1+PL
+zootecnicizámos	zootecnicizar+V+PRF+1+PL
 zootecnicizei	zootecnicizar+V+PRF+1+SG
 zootecnicizastes	zootecnicizar+V+PRF+2+PL
 zootecnicizaste	zootecnicizar+V+PRF+2+SG
@@ -7338,6 +7802,7 @@ zooterapicizarás	zooterapicizar+V+FUT+2+SG
 zooterapicizarão	zooterapicizar+V+FUT+3+PL
 zooterapicizará	zooterapicizar+V+FUT+3+SG
 zooterapicizando	zooterapicizar+V+GRD
+zooterapicizemo	zooterapicizar+V+IMP+1+PL
 zooterapicizemos	zooterapicizar+V+IMP+1+PL
 zooterapicizai	zooterapicizar+V+IMP+2+PL
 zooterapiciza	zooterapicizar+V+IMP+2+SG
@@ -7350,6 +7815,12 @@ zooterapicizavas	zooterapicizar+V+IMPF+2+SG
 zooterapicizavam	zooterapicizar+V+IMPF+3+PL
 zooterapicizava	zooterapicizar+V+IMPF+3+SG
 zooterapicizar	zooterapicizar+V+INF
+zooterapicizarmos	zooterapicizar+V+INF+1+PL
+zooterapicizar	zooterapicizar+V+INF+1+SG
+zooterapicizardes	zooterapicizar+V+INF+2+PL
+zooterapicizares	zooterapicizar+V+INF+2+SG
+zooterapicizarem	zooterapicizar+V+INF+3+PL
+zooterapicizar	zooterapicizar+V+INF+3+SG
 zooterapicizáramos	zooterapicizar+V+PQP+1+PL
 zooterapicizara	zooterapicizar+V+PQP+1+SG
 zooterapicizáreis	zooterapicizar+V+PQP+2+PL
@@ -7357,6 +7828,7 @@ zooterapicizaras	zooterapicizar+V+PQP+2+SG
 zooterapicizaram	zooterapicizar+V+PQP+3+PL
 zooterapicizara	zooterapicizar+V+PQP+3+SG
 zooterapicizamos	zooterapicizar+V+PRF+1+PL
+zooterapicizámos	zooterapicizar+V+PRF+1+PL
 zooterapicizei	zooterapicizar+V+PRF+1+SG
 zooterapicizastes	zooterapicizar+V+PRF+2+PL
 zooterapicizaste	zooterapicizar+V+PRF+2+SG
@@ -7403,6 +7875,7 @@ zooticizarás	zooticizar+V+FUT+2+SG
 zooticizarão	zooticizar+V+FUT+3+PL
 zooticizará	zooticizar+V+FUT+3+SG
 zooticizando	zooticizar+V+GRD
+zooticizemo	zooticizar+V+IMP+1+PL
 zooticizemos	zooticizar+V+IMP+1+PL
 zooticizai	zooticizar+V+IMP+2+PL
 zooticiza	zooticizar+V+IMP+2+SG
@@ -7415,6 +7888,12 @@ zooticizavas	zooticizar+V+IMPF+2+SG
 zooticizavam	zooticizar+V+IMPF+3+PL
 zooticizava	zooticizar+V+IMPF+3+SG
 zooticizar	zooticizar+V+INF
+zooticizarmos	zooticizar+V+INF+1+PL
+zooticizar	zooticizar+V+INF+1+SG
+zooticizardes	zooticizar+V+INF+2+PL
+zooticizares	zooticizar+V+INF+2+SG
+zooticizarem	zooticizar+V+INF+3+PL
+zooticizar	zooticizar+V+INF+3+SG
 zooticizáramos	zooticizar+V+PQP+1+PL
 zooticizara	zooticizar+V+PQP+1+SG
 zooticizáreis	zooticizar+V+PQP+2+PL
@@ -7422,6 +7901,7 @@ zooticizaras	zooticizar+V+PQP+2+SG
 zooticizaram	zooticizar+V+PQP+3+PL
 zooticizara	zooticizar+V+PQP+3+SG
 zooticizamos	zooticizar+V+PRF+1+PL
+zooticizámos	zooticizar+V+PRF+1+PL
 zooticizei	zooticizar+V+PRF+1+SG
 zooticizastes	zooticizar+V+PRF+2+PL
 zooticizaste	zooticizar+V+PRF+2+SG
@@ -7468,6 +7948,7 @@ zootomicizarás	zootomicizar+V+FUT+2+SG
 zootomicizarão	zootomicizar+V+FUT+3+PL
 zootomicizará	zootomicizar+V+FUT+3+SG
 zootomicizando	zootomicizar+V+GRD
+zootomicizemo	zootomicizar+V+IMP+1+PL
 zootomicizemos	zootomicizar+V+IMP+1+PL
 zootomicizai	zootomicizar+V+IMP+2+PL
 zootomiciza	zootomicizar+V+IMP+2+SG
@@ -7480,6 +7961,12 @@ zootomicizavas	zootomicizar+V+IMPF+2+SG
 zootomicizavam	zootomicizar+V+IMPF+3+PL
 zootomicizava	zootomicizar+V+IMPF+3+SG
 zootomicizar	zootomicizar+V+INF
+zootomicizarmos	zootomicizar+V+INF+1+PL
+zootomicizar	zootomicizar+V+INF+1+SG
+zootomicizardes	zootomicizar+V+INF+2+PL
+zootomicizares	zootomicizar+V+INF+2+SG
+zootomicizarem	zootomicizar+V+INF+3+PL
+zootomicizar	zootomicizar+V+INF+3+SG
 zootomicizáramos	zootomicizar+V+PQP+1+PL
 zootomicizara	zootomicizar+V+PQP+1+SG
 zootomicizáreis	zootomicizar+V+PQP+2+PL
@@ -7487,6 +7974,7 @@ zootomicizaras	zootomicizar+V+PQP+2+SG
 zootomicizaram	zootomicizar+V+PQP+3+PL
 zootomicizara	zootomicizar+V+PQP+3+SG
 zootomicizamos	zootomicizar+V+PRF+1+PL
+zootomicizámos	zootomicizar+V+PRF+1+PL
 zootomicizei	zootomicizar+V+PRF+1+SG
 zootomicizastes	zootomicizar+V+PRF+2+PL
 zootomicizaste	zootomicizar+V+PRF+2+SG
@@ -7605,6 +8093,7 @@ zoroastrianizarás	zoroastrianizar+V+FUT+2+SG
 zoroastrianizarão	zoroastrianizar+V+FUT+3+PL
 zoroastrianizará	zoroastrianizar+V+FUT+3+SG
 zoroastrianizando	zoroastrianizar+V+GRD
+zoroastrianizemo	zoroastrianizar+V+IMP+1+PL
 zoroastrianizemos	zoroastrianizar+V+IMP+1+PL
 zoroastrianizai	zoroastrianizar+V+IMP+2+PL
 zoroastrianiza	zoroastrianizar+V+IMP+2+SG
@@ -7617,6 +8106,12 @@ zoroastrianizavas	zoroastrianizar+V+IMPF+2+SG
 zoroastrianizavam	zoroastrianizar+V+IMPF+3+PL
 zoroastrianizava	zoroastrianizar+V+IMPF+3+SG
 zoroastrianizar	zoroastrianizar+V+INF
+zoroastrianizarmos	zoroastrianizar+V+INF+1+PL
+zoroastrianizar	zoroastrianizar+V+INF+1+SG
+zoroastrianizardes	zoroastrianizar+V+INF+2+PL
+zoroastrianizares	zoroastrianizar+V+INF+2+SG
+zoroastrianizarem	zoroastrianizar+V+INF+3+PL
+zoroastrianizar	zoroastrianizar+V+INF+3+SG
 zoroastrianizáramos	zoroastrianizar+V+PQP+1+PL
 zoroastrianizara	zoroastrianizar+V+PQP+1+SG
 zoroastrianizáreis	zoroastrianizar+V+PQP+2+PL
@@ -7624,6 +8119,7 @@ zoroastrianizaras	zoroastrianizar+V+PQP+2+SG
 zoroastrianizaram	zoroastrianizar+V+PQP+3+PL
 zoroastrianizara	zoroastrianizar+V+PQP+3+SG
 zoroastrianizamos	zoroastrianizar+V+PRF+1+PL
+zoroastrianizámos	zoroastrianizar+V+PRF+1+PL
 zoroastrianizei	zoroastrianizar+V+PRF+1+SG
 zoroastrianizastes	zoroastrianizar+V+PRF+2+PL
 zoroastrianizaste	zoroastrianizar+V+PRF+2+SG
@@ -7670,6 +8166,7 @@ zoroastricizarás	zoroastricizar+V+FUT+2+SG
 zoroastricizarão	zoroastricizar+V+FUT+3+PL
 zoroastricizará	zoroastricizar+V+FUT+3+SG
 zoroastricizando	zoroastricizar+V+GRD
+zoroastricizemo	zoroastricizar+V+IMP+1+PL
 zoroastricizemos	zoroastricizar+V+IMP+1+PL
 zoroastricizai	zoroastricizar+V+IMP+2+PL
 zoroastriciza	zoroastricizar+V+IMP+2+SG
@@ -7682,6 +8179,12 @@ zoroastricizavas	zoroastricizar+V+IMPF+2+SG
 zoroastricizavam	zoroastricizar+V+IMPF+3+PL
 zoroastricizava	zoroastricizar+V+IMPF+3+SG
 zoroastricizar	zoroastricizar+V+INF
+zoroastricizarmos	zoroastricizar+V+INF+1+PL
+zoroastricizar	zoroastricizar+V+INF+1+SG
+zoroastricizardes	zoroastricizar+V+INF+2+PL
+zoroastricizares	zoroastricizar+V+INF+2+SG
+zoroastricizarem	zoroastricizar+V+INF+3+PL
+zoroastricizar	zoroastricizar+V+INF+3+SG
 zoroastricizáramos	zoroastricizar+V+PQP+1+PL
 zoroastricizara	zoroastricizar+V+PQP+1+SG
 zoroastricizáreis	zoroastricizar+V+PQP+2+PL
@@ -7689,6 +8192,7 @@ zoroastricizaras	zoroastricizar+V+PQP+2+SG
 zoroastricizaram	zoroastricizar+V+PQP+3+PL
 zoroastricizara	zoroastricizar+V+PQP+3+SG
 zoroastricizamos	zoroastricizar+V+PRF+1+PL
+zoroastricizámos	zoroastricizar+V+PRF+1+PL
 zoroastricizei	zoroastricizar+V+PRF+1+SG
 zoroastricizastes	zoroastricizar+V+PRF+2+PL
 zoroastricizaste	zoroastricizar+V+PRF+2+SG

@@ -11,6 +11,7 @@ kafkianizarás	kafkianizar+V+FUT+2+SG
 kafkianizarão	kafkianizar+V+FUT+3+PL
 kafkianizará	kafkianizar+V+FUT+3+SG
 kafkianizando	kafkianizar+V+GRD
+kafkianizemo	kafkianizar+V+IMP+1+PL
 kafkianizemos	kafkianizar+V+IMP+1+PL
 kafkianizai	kafkianizar+V+IMP+2+PL
 kafkianiza	kafkianizar+V+IMP+2+SG
@@ -23,6 +24,12 @@ kafkianizavas	kafkianizar+V+IMPF+2+SG
 kafkianizavam	kafkianizar+V+IMPF+3+PL
 kafkianizava	kafkianizar+V+IMPF+3+SG
 kafkianizar	kafkianizar+V+INF
+kafkianizarmos	kafkianizar+V+INF+1+PL
+kafkianizar	kafkianizar+V+INF+1+SG
+kafkianizardes	kafkianizar+V+INF+2+PL
+kafkianizares	kafkianizar+V+INF+2+SG
+kafkianizarem	kafkianizar+V+INF+3+PL
+kafkianizar	kafkianizar+V+INF+3+SG
 kafkianizáramos	kafkianizar+V+PQP+1+PL
 kafkianizara	kafkianizar+V+PQP+1+SG
 kafkianizáreis	kafkianizar+V+PQP+2+PL
@@ -30,6 +37,7 @@ kafkianizaras	kafkianizar+V+PQP+2+SG
 kafkianizaram	kafkianizar+V+PQP+3+PL
 kafkianizara	kafkianizar+V+PQP+3+SG
 kafkianizamos	kafkianizar+V+PRF+1+PL
+kafkianizámos	kafkianizar+V+PRF+1+PL
 kafkianizei	kafkianizar+V+PRF+1+SG
 kafkianizastes	kafkianizar+V+PRF+2+PL
 kafkianizaste	kafkianizar+V+PRF+2+SG
@@ -76,6 +84,7 @@ kantianizarás	kantianizar+V+FUT+2+SG
 kantianizarão	kantianizar+V+FUT+3+PL
 kantianizará	kantianizar+V+FUT+3+SG
 kantianizando	kantianizar+V+GRD
+kantianizemo	kantianizar+V+IMP+1+PL
 kantianizemos	kantianizar+V+IMP+1+PL
 kantianizai	kantianizar+V+IMP+2+PL
 kantianiza	kantianizar+V+IMP+2+SG
@@ -88,6 +97,12 @@ kantianizavas	kantianizar+V+IMPF+2+SG
 kantianizavam	kantianizar+V+IMPF+3+PL
 kantianizava	kantianizar+V+IMPF+3+SG
 kantianizar	kantianizar+V+INF
+kantianizarmos	kantianizar+V+INF+1+PL
+kantianizar	kantianizar+V+INF+1+SG
+kantianizardes	kantianizar+V+INF+2+PL
+kantianizares	kantianizar+V+INF+2+SG
+kantianizarem	kantianizar+V+INF+3+PL
+kantianizar	kantianizar+V+INF+3+SG
 kantianizáramos	kantianizar+V+PQP+1+PL
 kantianizara	kantianizar+V+PQP+1+SG
 kantianizáreis	kantianizar+V+PQP+2+PL
@@ -95,6 +110,7 @@ kantianizaras	kantianizar+V+PQP+2+SG
 kantianizaram	kantianizar+V+PQP+3+PL
 kantianizara	kantianizar+V+PQP+3+SG
 kantianizamos	kantianizar+V+PRF+1+PL
+kantianizámos	kantianizar+V+PRF+1+PL
 kantianizei	kantianizar+V+PRF+1+SG
 kantianizastes	kantianizar+V+PRF+2+PL
 kantianizaste	kantianizar+V+PRF+2+SG
@@ -141,6 +157,7 @@ keplerianizarás	keplerianizar+V+FUT+2+SG
 keplerianizarão	keplerianizar+V+FUT+3+PL
 keplerianizará	keplerianizar+V+FUT+3+SG
 keplerianizando	keplerianizar+V+GRD
+keplerianizemo	keplerianizar+V+IMP+1+PL
 keplerianizemos	keplerianizar+V+IMP+1+PL
 keplerianizai	keplerianizar+V+IMP+2+PL
 keplerianiza	keplerianizar+V+IMP+2+SG
@@ -153,6 +170,12 @@ keplerianizavas	keplerianizar+V+IMPF+2+SG
 keplerianizavam	keplerianizar+V+IMPF+3+PL
 keplerianizava	keplerianizar+V+IMPF+3+SG
 keplerianizar	keplerianizar+V+INF
+keplerianizarmos	keplerianizar+V+INF+1+PL
+keplerianizar	keplerianizar+V+INF+1+SG
+keplerianizardes	keplerianizar+V+INF+2+PL
+keplerianizares	keplerianizar+V+INF+2+SG
+keplerianizarem	keplerianizar+V+INF+3+PL
+keplerianizar	keplerianizar+V+INF+3+SG
 keplerianizáramos	keplerianizar+V+PQP+1+PL
 keplerianizara	keplerianizar+V+PQP+1+SG
 keplerianizáreis	keplerianizar+V+PQP+2+PL
@@ -160,6 +183,7 @@ keplerianizaras	keplerianizar+V+PQP+2+SG
 keplerianizaram	keplerianizar+V+PQP+3+PL
 keplerianizara	keplerianizar+V+PQP+3+SG
 keplerianizamos	keplerianizar+V+PRF+1+PL
+keplerianizámos	keplerianizar+V+PRF+1+PL
 keplerianizei	keplerianizar+V+PRF+1+SG
 keplerianizastes	keplerianizar+V+PRF+2+PL
 keplerianizaste	keplerianizar+V+PRF+2+SG
@@ -206,6 +230,7 @@ keynesianizarás	keynesianizar+V+FUT+2+SG
 keynesianizarão	keynesianizar+V+FUT+3+PL
 keynesianizará	keynesianizar+V+FUT+3+SG
 keynesianizando	keynesianizar+V+GRD
+keynesianizemo	keynesianizar+V+IMP+1+PL
 keynesianizemos	keynesianizar+V+IMP+1+PL
 keynesianizai	keynesianizar+V+IMP+2+PL
 keynesianiza	keynesianizar+V+IMP+2+SG
@@ -218,6 +243,12 @@ keynesianizavas	keynesianizar+V+IMPF+2+SG
 keynesianizavam	keynesianizar+V+IMPF+3+PL
 keynesianizava	keynesianizar+V+IMPF+3+SG
 keynesianizar	keynesianizar+V+INF
+keynesianizarmos	keynesianizar+V+INF+1+PL
+keynesianizar	keynesianizar+V+INF+1+SG
+keynesianizardes	keynesianizar+V+INF+2+PL
+keynesianizares	keynesianizar+V+INF+2+SG
+keynesianizarem	keynesianizar+V+INF+3+PL
+keynesianizar	keynesianizar+V+INF+3+SG
 keynesianizáramos	keynesianizar+V+PQP+1+PL
 keynesianizara	keynesianizar+V+PQP+1+SG
 keynesianizáreis	keynesianizar+V+PQP+2+PL
@@ -225,6 +256,7 @@ keynesianizaras	keynesianizar+V+PQP+2+SG
 keynesianizaram	keynesianizar+V+PQP+3+PL
 keynesianizara	keynesianizar+V+PQP+3+SG
 keynesianizamos	keynesianizar+V+PRF+1+PL
+keynesianizámos	keynesianizar+V+PRF+1+PL
 keynesianizei	keynesianizar+V+PRF+1+SG
 keynesianizastes	keynesianizar+V+PRF+2+PL
 keynesianizaste	keynesianizar+V+PRF+2+SG
@@ -271,6 +303,7 @@ klerianizarás	klerianizar+V+FUT+2+SG
 klerianizarão	klerianizar+V+FUT+3+PL
 klerianizará	klerianizar+V+FUT+3+SG
 klerianizando	klerianizar+V+GRD
+klerianizemo	klerianizar+V+IMP+1+PL
 klerianizemos	klerianizar+V+IMP+1+PL
 klerianizai	klerianizar+V+IMP+2+PL
 klerianiza	klerianizar+V+IMP+2+SG
@@ -283,6 +316,12 @@ klerianizavas	klerianizar+V+IMPF+2+SG
 klerianizavam	klerianizar+V+IMPF+3+PL
 klerianizava	klerianizar+V+IMPF+3+SG
 klerianizar	klerianizar+V+INF
+klerianizarmos	klerianizar+V+INF+1+PL
+klerianizar	klerianizar+V+INF+1+SG
+klerianizardes	klerianizar+V+INF+2+PL
+klerianizares	klerianizar+V+INF+2+SG
+klerianizarem	klerianizar+V+INF+3+PL
+klerianizar	klerianizar+V+INF+3+SG
 klerianizáramos	klerianizar+V+PQP+1+PL
 klerianizara	klerianizar+V+PQP+1+SG
 klerianizáreis	klerianizar+V+PQP+2+PL
@@ -290,6 +329,7 @@ klerianizaras	klerianizar+V+PQP+2+SG
 klerianizaram	klerianizar+V+PQP+3+PL
 klerianizara	klerianizar+V+PQP+3+SG
 klerianizamos	klerianizar+V+PRF+1+PL
+klerianizámos	klerianizar+V+PRF+1+PL
 klerianizei	klerianizar+V+PRF+1+SG
 klerianizastes	klerianizar+V+PRF+2+PL
 klerianizaste	klerianizar+V+PRF+2+SG
@@ -336,6 +376,7 @@ kuaitianizarás	kuaitianizar+V+FUT+2+SG
 kuaitianizarão	kuaitianizar+V+FUT+3+PL
 kuaitianizará	kuaitianizar+V+FUT+3+SG
 kuaitianizando	kuaitianizar+V+GRD
+kuaitianizemo	kuaitianizar+V+IMP+1+PL
 kuaitianizemos	kuaitianizar+V+IMP+1+PL
 kuaitianizai	kuaitianizar+V+IMP+2+PL
 kuaitianiza	kuaitianizar+V+IMP+2+SG
@@ -348,6 +389,12 @@ kuaitianizavas	kuaitianizar+V+IMPF+2+SG
 kuaitianizavam	kuaitianizar+V+IMPF+3+PL
 kuaitianizava	kuaitianizar+V+IMPF+3+SG
 kuaitianizar	kuaitianizar+V+INF
+kuaitianizarmos	kuaitianizar+V+INF+1+PL
+kuaitianizar	kuaitianizar+V+INF+1+SG
+kuaitianizardes	kuaitianizar+V+INF+2+PL
+kuaitianizares	kuaitianizar+V+INF+2+SG
+kuaitianizarem	kuaitianizar+V+INF+3+PL
+kuaitianizar	kuaitianizar+V+INF+3+SG
 kuaitianizáramos	kuaitianizar+V+PQP+1+PL
 kuaitianizara	kuaitianizar+V+PQP+1+SG
 kuaitianizáreis	kuaitianizar+V+PQP+2+PL
@@ -355,6 +402,7 @@ kuaitianizaras	kuaitianizar+V+PQP+2+SG
 kuaitianizaram	kuaitianizar+V+PQP+3+PL
 kuaitianizara	kuaitianizar+V+PQP+3+SG
 kuaitianizamos	kuaitianizar+V+PRF+1+PL
+kuaitianizámos	kuaitianizar+V+PRF+1+PL
 kuaitianizei	kuaitianizar+V+PRF+1+SG
 kuaitianizastes	kuaitianizar+V+PRF+2+PL
 kuaitianizaste	kuaitianizar+V+PRF+2+SG
