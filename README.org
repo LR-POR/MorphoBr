@@ -39,10 +39,17 @@ listed form by form (see issue #143):
 
 - =rules/verbs.lexc= defines the inflection classes, each named after
   a model verb (=ABAFAR= for regular verbs in /-ar/, =PASSEAR= for
-  verbs in /-ear/, =BATER= for /-er/, =PARTIR= for /-ir/), and
+  verbs in /-ear/, =BATER= for /-er/, =PARTIR= for /-ir/, and classes
+  such as =ATRIBUIR= (/-uir/), =ADERIR= (/-erir/, /adiro/), =CONDUZIR=,
+  =FAZER= or =CONTER= for verbs that share an ending), and
   =rules/orthography.foma= the spelling alternations (/ficar/ →
   /fique/, /pagar/ → /pague/, /abraçar/ → /abrace/; /conhecer/ →
   /conheço/, /proteger/ → /protejo/, /distinguir/ → /distingo/).
+- =rules/classes.tsv= registers, for each class, the model verb, the
+  ending removed to get the stem (/aderir/ → /ad-/, so /preferir/ →
+  /pref-/ + /-iro/) and the suffix of the lemmas it applies to. A new
+  class is created from the forms of its model with
+  =tools/make-class.py MODEL ENDING=.
 - =lexicon/verbs/<model>.tsv= lists, one per line, the lemmas that
   inflect like the model verb (e.g. =lexicon/verbs/abafar.tsv=).
 - The =*.dict= files keep the entries that the rules do not generate:
@@ -52,7 +59,10 @@ The compiled transducer is the union of both, so the rules never change
 the content of the lexicon. A lemma is moved to the rules only if they
 generate nothing that was not in the =*.dict= files; then exactly the
 generated pairs are removed from them. =tools/rules-migrate.py= does
-this (and can be run again after a new class is added), and
+this, trying for each lemma the classes that match its ending from the
+most specific to the most general (it can be run again after a new
+class is added); since only lemmas that pass are moved, a new class
+never changes the lexicon, even if its model is badly chosen. And
 =tools/expand.sh= writes the complete full-form list (rules +
 =*.dict=, in canonical order). To check that a change in the rules or
 in the lists preserves the lexicon, run it before and after the change

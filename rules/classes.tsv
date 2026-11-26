@@ -1,0 +1,35 @@
+# Classes de flexão verbal (ver rules/verbs.lexc e #143).
+# modelo<TAB>terminação<TAB>aplica-se a<TAB>fronteira
+# - terminação: o radical de um lema é o lema sem ela;
+# - aplica-se a: sufixo dos lemas para os quais a classe é proposta
+#   (tools/rules-migrate.py tenta as classes do sufixo mais longo para o
+#   mais curto e fica com a primeira que passa no critério);
+# - fronteira: ^ (-ar) e ^E (-er/-ir) disparam as alternâncias de
+#   rules/orthography.foma; ^N é neutra (a terminação já inclui a
+#   consoante final do radical).
+# O nome da classe no lexc é o modelo em maiúsculas, e
+# lexicon/verbs/<modelo>.tsv lista seus lemas.
+abafar	ar	ar	^
+passear	ar	ear	^
+bater	er	er	^E
+partir	ir	ir	^E
+conduzir	uzir	uzir	^N
+atribuir	uir	uir	^N
+aderir	erir	erir	^N
+atrair	air	air	^N
+sentir	entir	entir	^N
+seguir	eguir	eguir	^N
+vestir	estir	estir	^N
+servir	ervir	ervir	^N
+cobrir	obrir	obrir	^N
+fugir	ugir	ugir	^N
+divertir	ertir	ertir	^N
+convergir	ergir	ergir	^N
+abolir	olir	olir	^N
+agredir	gredir	gredir	^N
+conter	ter	ter	^N
+advir	vir	vir	^N
+dizer	dizer	dizer	^N
+fazer	fazer	fazer	^N
+crer	crer	crer	^N
+ler	ler	ler	^N

@@ -2,9 +2,11 @@
 """Move para as regras (rules/ + lexicon/) os pares que elas reproduzem.
 
 Estratégia mista (ver #143): um lema ainda listado por extenso em verbs/*.dict
-é testado com a classe de flexão proposta para ele (pela terminação, ver
-CLASSES). Ele passa no critério se as regras não gerarem nenhum par que não
-esteja no dicionário (gerado ⊆ dicionário). Para os lemas que passam:
+é testado com as classes de flexão compatíveis com sua terminação (ver
+rules/classes.tsv), da mais específica para a mais geral. Ele passa no
+critério com uma classe se as regras não gerarem nenhum par que não esteja no
+dicionário (gerado ⊆ dicionário); fica com a primeira classe em que passar.
+Para os lemas que passam:
 
   - o lema é acrescentado a lexicon/verbs/<modelo>.tsv;
   - os pares gerados são removidos de verbs/*.dict; o que sobra (variantes,
@@ -27,9 +29,17 @@ import tempfile
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FOMA = os.environ.get("FOMA", "foma")
 
-# Classe proposta para cada lema, pela terminação (a primeira que casar).
-# A atribuição só é aceita se o lema passar no critério.
-CLASSES = [("ear", "passear"), ("ar", "abafar"), ("er", "bater"), ("ir", "partir")]
+def read_classes():
+    """(modelo, sufixo de aplicação) de rules/classes.tsv, do sufixo mais
+    longo para o mais curto (ordem do arquivo entre sufixos de mesmo tamanho)."""
+    rows = []
+    with open(os.path.join(ROOT, "rules", "classes.tsv"), encoding="utf-8") as fh:
+        for line in fh:
+            if line.startswith("#") or not line.strip():
+                continue
+            model, _ending, applies, _boundary = line.rstrip("\n").split("\t")
+            rows.append((model, applies))
+    return sorted(rows, key=lambda r: -len(r[1]))
 
 
 def read_dicts():
@@ -58,7 +68,7 @@ def write_lexicon(lex, lexdir):
     for lemma, model in lex.items():
         by_model[model].append(lemma)
     os.makedirs(lexdir, exist_ok=True)
-    for model in {m for _, m in CLASSES} | set(by_model):
+    for model in set(by_model):
         lemmas = sorted(by_model.get(model, []), key=lambda s: s.encode("utf-8"))
         with open(os.path.join(lexdir, model + ".tsv"), "w", encoding="utf-8") as fh:
             fh.writelines(l + "\n" for l in lemmas)
@@ -98,19 +108,31 @@ def main():
     dic = read_dicts()
     lex = read_lexicon()
 
-    # 1. propõe uma classe para cada lema ainda não migrado e testa o critério
-    cand = {}
+    # 1. para cada lema ainda não migrado, tenta as classes compatíveis (do
+    #    sufixo mais longo para o mais curto) e fica com a primeira que passa
+    classes = read_classes()
+    pending = {}
     for lemma in dic:
-        if lemma in lex:
-            continue
-        for suffix, model in CLASSES:
-            if lemma.endswith(suffix):
-                cand[lemma] = model
-                break
-    gen = generate(cand)
-    passed = {l: m for l, m in cand.items() if gen[l] and gen[l] <= dic[l]}
-    failed = len(cand) - len(passed)
-    print(f"candidatos: {len(cand)}  passam: {len(passed)}  não passam: {failed}")
+        if lemma not in lex:
+            models = [m for m, applies in classes if lemma.endswith(applies)]
+            if models:
+                pending[lemma] = models
+    ncand = len(pending)
+    passed = {}
+    while pending:
+        cand = {l: ms[0] for l, ms in pending.items()}
+        gen = generate(cand)
+        for lemma, model in cand.items():
+            if gen[lemma] and gen[lemma] <= dic[lemma]:
+                passed[lemma] = model
+                del pending[lemma]
+            else:
+                pending[lemma] = pending[lemma][1:]
+                if not pending[lemma]:
+                    del pending[lemma]
+    print(f"candidatos: {ncand}  passam: {len(passed)}  não passam: {ncand - len(passed)}")
+    for model, n in collections.Counter(passed.values()).most_common():
+        print(f"  {model}: {n}")
 
     # 2. confere com o léxico completo (já migrados + novos)
     new_lex = {**lex, **passed}
