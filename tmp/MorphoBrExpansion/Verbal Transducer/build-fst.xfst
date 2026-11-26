@@ -1,7 +1,0 @@
-!Copyright (C) 2019 Hélio L. B. Silva
-!Distributed under the terms of the GNU General Public License Version 3
-
-source regras.xfst
-read lexc nVerb.lexc
-compose net
-save stack nVerb.fst

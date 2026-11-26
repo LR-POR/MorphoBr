@@ -93,3 +93,12 @@ this resource, please use
 http://www.periodicos.letras.ufmg.br/index.php/textolivre/article/view/14294
 (first in the publications list).
 
+The derived nouns in /-idade/, adjectives in /-vel/, adverbs in
+/-mente/ and verbs in /-izar/ were produced by finite-state models of
+these word-formation processes developed in:
+
+- SILVA, H. L. B. /Expansão do MorphoBr através da modelagem
+  computacional de processos de formação de palavras em português/.
+  Dissertação (Mestrado em Linguística), Universidade Federal do
+  Ceará, Fortaleza, 2019. Data and transducers:
+  https://github.com/heliolbs/MorphoBrExpansion
