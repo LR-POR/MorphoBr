@@ -7,7 +7,7 @@
 # masculina e feminina de um diminutivo coincidem as duas análises viram
 # uma só, sem gênero. tools/dim.py gera os pares (para os lemas de
 # lexicon/dim/) e substitui os antigos build.sh e
-# BuildPairsFromFomaFST.sh. Ver README.org na raiz do repositório.
+# BuildPairsFromFomaFST.sh. Ver README.md na raiz do repositório.
 
 
 Author: Leonel F. de Alencar, leonel.de.alencar@ufc.br, Federal University of Ceará
