@@ -154,9 +154,11 @@ frequência. Uma palavra só entra no MorphoBr depois de conferida num dicionár
 - **Não é norma:** um texto mostra que a forma foi usada, não que está certa nem
   como se flexiona. Não substitui o Portal ou o VOLP para regras.
 - **Ruído:** nomes próprios, estrangeirismos, erros de digitação e de OCR.
-- **Classes fechadas:** o MorphoBr só cobre substantivos, adjetivos, verbos e
-  advérbios. Artigos, preposições, pronomes e conjunções aparecem como
-  "desconhecidos" e precisam ser filtrados.
+- **Classes fechadas:** o MorphoBr ainda só cobre substantivos, adjetivos,
+  verbos e advérbios. Artigos, preposições, pronomes e conjunções também devem
+  ser cobertos, mas falta decidir como armazená-los e organizá-los
+  ([#191](https://github.com/LR-POR/MorphoBr/issues/191)). Por enquanto são
+  excluídos da contagem.
 
 ### Experimento com amostras (2026-11-27)
 
@@ -179,7 +181,8 @@ parser. Os modelos do spaCy para o português são treinados no Bosque/UD, que
 segue decisões que podem conflitar com as deste documento (por exemplo, a
 fronteira entre adjetivo e substantivo, #69). Por isso:
 - as classes fechadas (artigos, preposições, pronomes, conjunções, numerais)
-  saem de uma lista explícita;
+  saem de uma lista explícita, `tools/corpus/closed_class.txt`. Elas são
+  cerca de 40% dos tokens e ainda não estão no MorphoBr (#191);
 - os nomes próprios são as palavras com maiúscula que nunca aparecem em
   minúscula no corpus.
 
@@ -220,6 +223,12 @@ fronteira entre adjetivo e substantivo, #69). Por isso:
   parecido com o Gutenberg. Ficou para depois.
 - As palavras que faltam continuam precisando de conferência em dicionário
   (seção 2.1) antes de entrar no MorphoBr.
+- Issues abertas com as lacunas encontradas: compostos com prefixos
+  ([#190](https://github.com/LR-POR/MorphoBr/issues/190)), classes fechadas
+  ([#191](https://github.com/LR-POR/MorphoBr/issues/191)), palavras ausentes
+  ([#192](https://github.com/LR-POR/MorphoBr/issues/192)) e clíticos de verbos
+  frequentes ([#107](https://github.com/LR-POR/MorphoBr/issues/107)).
+- Os scripts estão em `tools/corpus/` (#189).
 
 ## 6. Registro das decisões
 
