@@ -5,11 +5,14 @@ podem ser usados. Este documento é a referência para os fundamentos e os
 princípios linguísticos que guiam a construção e a manutenção do MorphoBr. Cada
 princípio deve se apoiar em referências citadas com a página (seção 8).
 
-> Documento de trabalho, para ir refinando até chegarmos a uma visão consolidada.
-> Começou em 2026-11-27 a partir de uma discussão sobre o que fazer quando as
-> fontes discordam. As decisões marcadas como **proposta** ainda não foram
-> tomadas; a pauta da reunião está em
-> [#184](https://github.com/LR-POR/MorphoBr/issues/184).
+> Documento de trabalho, sob revisão constante, para ir refinando até chegarmos
+> a uma visão consolidada. Começou em 2026-11-27 a partir de uma discussão sobre
+> o que fazer quando as fontes discordam, e tenta reunir as questões em aberto
+> que surgiram em várias issues (#69, #83, #88, #99, #129, #159, #164, #173,
+> entre outras; a lista está em
+> [#184](https://github.com/LR-POR/MorphoBr/issues/184)). As decisões marcadas
+> como **proposta** ainda não foram tomadas. Comentários e discordâncias são
+> bem-vindos nas issues ou em PRs que alterem este arquivo.
 
 ## 1. O problema
 
@@ -77,7 +80,7 @@ Teste com seis palavras, numa consulta pontual em 2026-11-27:
 
 O Portal também dá *aluna* e *gata* como lemas próprios. Se adotarmos este
 critério, o feminino dos substantivos passa a ser lema próprio, o que muda o
-modelo atual. **Questão em aberto para a reunião.**
+modelo atual. **Questão em aberto** (seção 7).
 
 ### Critério 2: não perder informação
 
