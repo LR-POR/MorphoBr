@@ -130,6 +130,18 @@ In order of preference:
 - MATEUS, Maria Helena Mira et al. *Gramática da língua portuguesa*. 2. ed.
   Lisboa: Caminho, 1989.
 
+### Morphology
+
+- SANDMANN, Antônio José. *Morfologia geral*. São Paulo: Contexto, 1991
+  (Repensando a Língua Portuguesa).
+- VILLALVA, Alina. *Morfologia do português*. Lisboa: Universidade Aberta,
+  2007 (European Portuguese).
+
+Course book, to be used as support and confirmed in the works above:
+
+- MARGOTTI, Felício Wessling; MARGOTTI, Rita de Cássia Mello Ferreira.
+  *Morfologia do português*. Florianópolis: UFSC, 2011.
+
 ### Language consultancy
 
 - [Ciberdúvidas da Língua Portuguesa](https://ciberduvidas.iscte-iul.pt/).
