@@ -15,12 +15,12 @@ Authors: Leonel F. de Alencar, Alexandre Rademaker, Bruno Cuconato.
 
 | Class | Lemmas | Pairs (form, analysis) |
 |---|---:|---:|
-| Nouns | 83,703 | 537,572 |
+| Nouns | 83,703 | 537,578 |
 | Adjectives | 55,468 | 543,778 |
 | Verbs | 28,095 | 2,052,004 |
 | Adverbs | 21,146 | 21,181 |
 | Verbs with clitics | 14,274 | 7,731,365 |
-| **Total** | | **10,885,900** |
+| **Total** | | **10,885,906** |
 
 Each entry pairs a form with an analysis:
 
@@ -267,11 +267,13 @@ discussed in [#143](https://github.com/LR-POR/MorphoBr/issues/143).
 
 ## Download
 
-See the [releases page](https://github.com/LR-POR/MorphoBr/releases). A new
-release with the compiled transducer and the complete full-form list is tracked
-in [#12](https://github.com/LR-POR/MorphoBr/issues/12); meanwhile, `morphobr.bin`
-can be downloaded from the artifacts of the latest
-[CI run](https://github.com/LR-POR/MorphoBr/actions/workflows/ci.yml) on `master`.
+The [releases](https://github.com/LR-POR/MorphoBr/releases) contain the
+compiled transducer (`morphobr.bin`) and the complete full-form list
+(`morphobr.tsv.gz`, the output of `tools/expand.sh`). The latest is
+[MorphoBr 2026.11](https://github.com/LR-POR/MorphoBr/releases/tag/v2026.11).
+The `morphobr.bin` of the current `master` can also be downloaded from the
+artifacts of the latest
+[CI run](https://github.com/LR-POR/MorphoBr/actions/workflows/ci.yml).
 
 ## Sources
 
