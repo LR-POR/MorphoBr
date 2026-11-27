@@ -1,6 +1,11 @@
-# Critérios para construir e manter o MorphoBr
+# Fundamentos e princípios linguísticos do MorphoBr
 
-> Documento de trabalho, para ir melhorando até chegarmos a uma visão consolidada.
+O README descreve o que é o projeto, como os dados estão organizados e como
+podem ser usados. Este documento é a referência para os fundamentos e os
+princípios linguísticos que guiam a construção e a manutenção do MorphoBr. Cada
+princípio deve se apoiar em referências citadas com a página (seção 8).
+
+> Documento de trabalho, para ir refinando até chegarmos a uma visão consolidada.
 > Começou em 2026-11-27 a partir de uma discussão sobre o que fazer quando as
 > fontes discordam. As decisões marcadas como **proposta** ainda não foram
 > tomadas; a pauta da reunião está em
@@ -182,3 +187,18 @@ arquivo `docs/decisions.md` (a definir).
 - Compatibilidade com o Bosque/UD: seguir a convenção deles quando ela diverge
   dos dicionários (#88)?
 - O que fazer com as formas que só aparecem em corpus?
+
+## 8. Referências citadas
+
+- CÂMARA JR., Joaquim Mattoso. *Estrutura da língua portuguesa*. Petrópolis:
+  Vozes, 1970.
+- MARGOTTI, Felício Wessling; MARGOTTI, Rita de Cássia Mello Ferreira.
+  *Morfologia do português*. Florianópolis: UFSC, 2011.
+- SANDMANN, Antônio José. *Morfologia geral*. São Paulo: Contexto, 1991.
+- VILLALVA, Alina. *Morfologia do português*. Lisboa: Universidade Aberta,
+  2007.
+- Dicionários: [Portal da Língua Portuguesa](https://www.portaldalinguaportuguesa.org/),
+  [Aulete](https://www.aulete.com.br/), [Priberam](https://dicionario.priberam.org/).
+
+A lista completa de referências do projeto está no README, seção *Linguistic
+references*.
