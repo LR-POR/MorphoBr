@@ -87,52 +87,10 @@ entries of a lemma stay together. After editing a dictionary, run
 
 ## Linguistic references
 
-Every correction of the data and every inflection rule should cite its source:
-a dictionary entry, a Base of the Orthographic Agreement or a grammar (with the
-page). Discussions in the issues use the following references.
-
-### Dictionaries and vocabularies
-
-In order of preference:
-
-1. [Portal da Língua Portuguesa](https://www.portaldalinguaportuguesa.org/)
-   (ILTEC, Universidade de Lisboa): the most reliable reference for inflection
-   and conjugation ([#51](https://github.com/LR-POR/MorphoBr/issues/51),
-   [#101](https://github.com/LR-POR/MorphoBr/issues/101)).
-2. [Vocabulário Ortográfico da Língua Portuguesa](https://www.academia.org.br/nossa-lingua/busca-no-vocabulario)
-   (VOLP, Academia Brasileira de Letras).
-3. [Wikcionário](https://pt.wiktionary.org/).
-4. [Michaelis](https://michaelis.uol.com.br/).
-5. [Priberam](https://dicionario.priberam.org/).
-6. [Houaiss](https://houaiss.uol.com.br/) (the online version is paid, so it
-   has low priority; printed editions are used in the issues).
-7. [Aulete](https://www.aulete.com.br/), one of the most traditional references
-   for Brazilian Portuguese.
-8. [Dicionário Aberto](https://dicionario-aberto.net/).
-9. [Infopédia](https://www.infopedia.pt/dicionarios/lingua-portuguesa/)
-   (Porto Editora), the main reference for European Portuguese
-   ([#101](https://github.com/LR-POR/MorphoBr/issues/101)).
-10. [Dicio](https://www.dicio.com.br/): to be used with caution and confirmed
-    in the sources above ([#60](https://github.com/LR-POR/MorphoBr/issues/60)).
-
-### Orthography
-
-- [Acordo Ortográfico da Língua Portuguesa (1990)](http://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990),
-  text on the Portal da Língua Portuguesa, which also lists the
-  [changes of spelling](http://www.portaldalinguaportuguesa.org/?action=novoacordo).
-  Forms of the previous spelling are kept
-  ([#93](https://github.com/LR-POR/MorphoBr/issues/93)).
-
-### Grammars
-
-- CUNHA, Celso; CINTRA, Lindley. *Nova gramática do português contemporâneo*.
-  2. ed. Rio de Janeiro: Nova Fronteira, 1985.
-- MATEUS, Maria Helena Mira et al. *Gramática da língua portuguesa*. 2. ed.
-  Lisboa: Caminho, 1989.
-
-### Language consultancy
-
-- [Ciberdúvidas da Língua Portuguesa](https://ciberduvidas.iscte-iul.pt/).
+Every correction of the data and every inflection rule cites its source. The
+dictionaries, grammars and other references, and the linguistic principles
+behind MorphoBr, are in [`docs/principles.md`](docs/principles.md) (in
+Portuguese).
 
 ## Inflection rules and full-form lists
 

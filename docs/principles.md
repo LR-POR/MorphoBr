@@ -1,0 +1,327 @@
+# Fundamentos e princípios linguísticos do MorphoBr
+
+O README descreve o que é o projeto, como os dados estão organizados e como
+podem ser usados. Este documento é a referência para os fundamentos e os
+princípios linguísticos que guiam a construção e a manutenção do MorphoBr. Cada
+princípio deve se apoiar em referências citadas com a página (seção 8).
+
+> Documento de trabalho, sob revisão constante, para ir refinando até chegarmos
+> a uma visão consolidada. Começou em 2026-11-27 a partir de uma discussão sobre
+> o que fazer quando as fontes discordam, e tenta reunir as questões em aberto
+> que surgiram em várias issues (#69, #83, #88, #99, #129, #159, #164, #173,
+> entre outras; a lista está em
+> [#184](https://github.com/LR-POR/MorphoBr/issues/184)). As decisões marcadas
+> como **proposta** ainda não foram tomadas. Comentários e discordâncias são
+> bem-vindos nas issues ou em PRs que alterem este arquivo.
+
+## 1. O problema
+
+Autores diferentes descrevem a morfologia do português com teorias diferentes.
+Alguns são formais e chegam a regras precisas, inclusive de estados finitos.
+Outros fazem uma descrição sem regras explícitas. Muitas vezes discordam sobre
+a análise de um mesmo fenômeno. Por exemplo, sobre o feminino dos substantivos
+(*professora*):
+
+- é **flexão** para Câmara Jr. (1970) e Margotti & Margotti (2011, pp. 70–71),
+  que é o modelo atual do MorphoBr (`professora professor+N+F+SG`);
+- é **derivação**, um lexema distinto, para Sandmann (1991, pp. 21–22 e 36–40)
+  e Villalva (2007, pp. 153–155).
+
+Uma pergunta como "isto é flexão ou derivação?" não tem resposta empírica: a
+resposta depende da teoria. Por isso o critério de decisão não pode ser
+"escolher o autor certo". Ele tem de vir dos objetivos do próprio MorphoBr.
+
+## 2. Dois tipos de pergunta
+
+### 2.1 Perguntas de fato: a forma existe e como se escreve?
+
+Exemplos: *pulo* é forma de *polir*? qual o plural dos nomes em *-z*? escreve-se
+*cumprimentamo-nos*?
+
+- Aqui não há teoria em jogo, só evidência.
+- Vale a ordem de preferência das referências (seção 8): Portal da Língua
+  Portuguesa, VOLP, dicionários, Acordo Ortográfico de 1990. Gramáticas e
+  livros de morfologia entram como evidência adicional, com a página.
+- Quando as fontes de dados discordam, registram-se as duas formas, como na
+  decisão de manter paradigmas completos
+  ([#8](https://github.com/LR-POR/MorphoBr/issues/8)).
+- A regularidade dos dados, sozinha, não é fonte. Uma mudança sem fonte forte
+  fica num PR rascunho que diz qual referência falta.
+
+### 2.2 Perguntas de modelagem: qual é o lema e quais traços entram?
+
+Exemplos: o lema de *professora* ([#129](https://github.com/LR-POR/MorphoBr/issues/129)),
+de *melhor* ([#88](https://github.com/LR-POR/MorphoBr/issues/88)), de *óculos*
+([#83](https://github.com/LR-POR/MorphoBr/issues/83)); se o diminutivo é
+`+DIM` do lema base ou lema próprio
+([#164](https://github.com/LR-POR/MorphoBr/issues/164)).
+
+Aqui os autores não estão errados: descrevem com teorias diferentes. Para
+estas perguntas, **proposta** de três critérios, aplicados em ordem.
+
+## 3. Critérios para as perguntas de modelagem (proposta)
+
+### Critério 1: o lema é a entrada dos dicionários de referência
+
+É um critério lexicográfico. Não depende de teoria, pode ser verificado e
+corresponde ao que o usuário espera ao procurar uma palavra. Segue a ordem de
+preferência da seção 8, com o Portal em primeiro lugar.
+
+Teste com seis palavras, numa consulta pontual em 2026-11-27:
+
+| Palavra | Portal | Aulete | Priberam | Resultado |
+|---|---|---|---|---|
+| *melhor* | lema próprio | entrada própria | entrada própria | lema próprio |
+| *pior* | lema próprio | entrada própria | entrada própria | lema próprio |
+| *óculos* | lema próprio **e** plural de *óculo* | entrada própria (s.m.pl.) | entrada própria | lema próprio |
+| *cabrita* | lema próprio **e** feminino do adj. *cabrito* | entrada própria | entrada própria | lema próprio |
+| *férias* | só plural de *féria* | entrada própria (s.f.pl.) | entrada própria | as fontes divergem |
+| *professora* | lema próprio | entrada própria | dentro de *professor* | maioria: lema próprio |
+
+O Portal também dá *aluna* e *gata* como lemas próprios. Se adotarmos este
+critério, o feminino dos substantivos passa a ser lema próprio, o que muda o
+modelo atual. **Questão em aberto** (seção 7).
+
+### Critério 2: não perder informação
+
+Entre duas análises, prefere-se a que permite converter para a outra com um
+script. Por exemplo, `professora professor+N+F+SG` permite gerar o lema
+*professora* para quem segue Villalva ou Sandmann. O caminho inverso exige
+conhecimento externo. Isso mantém o MorphoBr compatível com usuários que
+adotam convenções diferentes, como o Bosque/UD e as gramáticas DELPH-IN e LFG,
+sem tomar partido teórico.
+
+Os critérios 1 e 2 podem entrar em conflito, como acontece no caso de
+*professora*. Uma saída possível é dar o lema do dicionário e guardar a ligação
+com o masculino num traço ou num mapeamento separado (a definir).
+
+Quando as fontes divergem, uma opção é registrar as duas análises, como o
+Portal faz com *óculos* (lema próprio e plural de *óculo*).
+
+### Critério 3: regra para o que é regular e produtivo; lista para o resto
+
+Os testes de Sandmann (1991, pp. 23–24) servem aqui: lacunas, obrigatoriedade e
+produtividade automática. Eles não decidem se algo "é flexão". Decidem se vale
+gerar por regra de estados finitos (`rules/`) ou listar no `.dict`, que é a
+pergunta de engenharia que de fato temos
+([#143](https://github.com/LR-POR/MorphoBr/issues/143)).
+
+## 4. O papel dos autores
+
+- Os **formais** (Villalva, e os trabalhos de morfologia de estados finitos)
+  servem para estruturar as regras. Exemplo: *-zinho* se junta à palavra
+  flexionada, e *-inho* ao radical, por isso *leõezinhos* e *pãezinhos*
+  (Villalva 2007, pp. 122–124 e 163).
+- Os **descritivos** servem como fonte de dados e de exceções.
+- Nenhum autor decide sozinho uma questão de modelagem. As posições dos
+  autores entram no registro da decisão (seção 6).
+
+As referências estão na seção 8. As páginas que
+já encontramos para cada issue estão comentadas nas próprias issues (#69, #83,
+#88, #129, #159, #164, #173).
+
+## 5. Corpus como fonte de palavras
+
+**Proposta:** usar textos para encontrar palavras candidatas e medir
+frequência. Uma palavra só entra no MorphoBr depois de conferida num dicionário
+(seção 2.1).
+
+### Fontes escolhidas
+
+- o portal [Domínio Público](http://www.dominiopublico.gov.br/) do MEC;
+- o [Projeto Gutenberg](https://www.gutenberg.org/), que tem livros em
+  português;
+- a [Wikipédia em português](https://pt.wikipedia.org/) (CC BY-SA).
+
+### Pontos positivos
+
+- **Atestação:** se uma palavra aparece num texto real, ela existe. Isso ajuda
+  a achar palavras que faltam no MorphoBr e a decidir sobre estrangeirismos e
+  neologismos que os vocabulários ainda não registram
+  ([#148](https://github.com/LR-POR/MorphoBr/issues/148)). Villalva (2007, p. 26)
+  trata da distinção entre palavras possíveis, existentes e atestadas (ainda a
+  ler).
+- **Frequência:** mostra quais formas importam mais, por exemplo para
+  priorizar o que conferir à mão.
+- **Licença:** como os textos são livres, podem ser processados em lote, ao
+  contrário do Portal e do VOLP, que só admitem consultas pontuais.
+
+### Pontos negativos
+
+- **Ortografia antiga:** quase todo o domínio público é anterior às reformas de
+  1943, 1971 e 1990 (*pharmacia*, *êle*, *idéia*). Cada forma precisa ser
+  convertida ou marcada como grafia antiga, como já fazemos com as formas
+  anteriores ao Acordo ([#93](https://github.com/LR-POR/MorphoBr/issues/93)).
+- **Vocabulário:** sobretudo literário e antigo, muitas vezes europeu. Representa
+  mal o português brasileiro atual. A Wikipédia compensa em parte.
+- **Não é norma:** um texto mostra que a forma foi usada, não que está certa nem
+  como se flexiona. Não substitui o Portal ou o VOLP para regras.
+- **Ruído:** nomes próprios, estrangeirismos, erros de digitação e de OCR.
+- **Classes fechadas:** o MorphoBr ainda só cobre substantivos, adjetivos,
+  verbos e advérbios. Artigos, preposições, pronomes e conjunções também devem
+  ser cobertos, mas falta decidir como armazená-los e organizá-los
+  ([#191](https://github.com/LR-POR/MorphoBr/issues/191)). Por enquanto são
+  excluídos da contagem.
+
+### Experimento com amostras (2026-11-27)
+
+**Amostras:**
+- **Wikipédia:** 100 artigos aleatórios, com 1.747 sentenças e 31 mil tokens alfabéticos.
+- **Gutenberg:** cinco romances do século XIX, com 30 mil sentenças e 456 mil tokens: *Dom
+  Casmurro*, *Quincas Borba* e *Papéis Avulsos* (Machado de Assis), *Os Maias*
+  (Eça de Queirós) e *Novelas do Minho* (Camilo Castelo Branco).
+
+**Método:**
+1. Limpeza: cabeçalho do Gutenberg, quebras de linha, notas e títulos de seção.
+2. Segmentação em sentenças pela pontuação (`sentencizer`) e tokenização por
+   regras do spaCy (`spacy.blank('pt')`). O tokenizador mantém clíticos
+   (*parece-me*) e compostos (*pré-história*) como um token só, como no
+   MorphoBr.
+3. Análise com `flookup -i morphobr.bin` (release v2026.11).
+
+**Não usamos nenhum modelo treinado:** nem etiquetador, nem lematizador, nem
+parser. Os modelos do spaCy para o português são treinados no Bosque/UD, que
+segue decisões que podem conflitar com as deste documento (por exemplo, a
+fronteira entre adjetivo e substantivo, #69). Por isso:
+- as classes fechadas (artigos, preposições, pronomes, conjunções, numerais)
+  saem de uma lista explícita, `tools/corpus/closed_class.txt`. Elas são
+  cerca de 40% dos tokens e ainda não estão no MorphoBr (#191);
+- os nomes próprios são as palavras com maiúscula que nunca aparecem em
+  minúscula no corpus.
+
+| | Wikipédia | Gutenberg |
+|---|---|---|
+| Tokens avaliados (sem classes fechadas, nomes próprios e abreviaturas) | 14.280 | 234.901 |
+| Com análise no MorphoBr | **96,3%** | **79,0%** |
+| Sem análise: grafia antiga normalizável (*elle*, *fallar*, *annos*) | 10 | 20.428 |
+| Sem análise: outras (inclui grafia antiga sem acento, como *tambem*, *quasi*, *n'um*) | 394 | 25.556 |
+| Sem análise: clíticos | 2 | 2.155 |
+| Sem análise: compostos com hífen | 37 | 445 |
+| Sem análise: estrangeirismos prováveis | 85 | 630 |
+
+**O que se aproveita:**
+- **Vocabulário técnico e derivado** (Wikipédia): *micorrizas*, *fundacional*,
+  *macroalgas*, *endossimbiose*, *herbivoria*, *antropomorfização*,
+  *ideologismo*, *sinização*, *babalorixá*, *carniçal*, *elfo*, *mangá*. Na
+  amostra, cerca de 1% dos tokens de classes abertas são palavras portuguesas
+  que faltam. O resto é estrangeirismo, abreviatura, nome mal etiquetado ou
+  erro de digitação (*ressureição*, *despois*).
+- **Compostos com hífen**, uma lacuna sistemática: *pré-história*,
+  *quebra-cabeça*, *vice-rei*, *ex-marido*, *afro-brasileira*,
+  *pós-graduação*, *faixa-preta*. A amostra também traz grafias anteriores ao
+  Acordo (*co-estrelou*, hoje *coestrelou*).
+- **Clíticos de verbos frequentes** (Gutenberg): *parece-me*, *parece-lhe*,
+  *dou-lhe*, *dize-me*, *dera-lhe*, *está-se*. Nos dados, *parecer* só tem o
+  reflexivo (*parece-se*). Isso confirma as lacunas de valência de
+  [#107](https://github.com/LR-POR/MorphoBr/issues/107).
+
+**Conclusões:**
+- A Wikipédia é a fonte mais útil para achar palavras que faltam no português
+  atual.
+- No Gutenberg, quase tudo o que falta é grafia anterior a 1943, inclusive os
+  clíticos (*vel-o*, *fazel-o*). Para vocabulário, só serve depois de converter
+  a ortografia. Mesmo sem conversão, serve para os clíticos e para o
+  vocabulário literário.
+- O Domínio Público do MEC é literatura da mesma época e deve dar resultado
+  parecido com o Gutenberg. Ficou para depois.
+- As palavras que faltam continuam precisando de conferência em dicionário
+  (seção 2.1) antes de entrar no MorphoBr.
+- Issues abertas com as lacunas encontradas: compostos com prefixos
+  ([#190](https://github.com/LR-POR/MorphoBr/issues/190)), classes fechadas
+  ([#191](https://github.com/LR-POR/MorphoBr/issues/191)), palavras ausentes
+  ([#192](https://github.com/LR-POR/MorphoBr/issues/192)) e clíticos de verbos
+  frequentes ([#107](https://github.com/LR-POR/MorphoBr/issues/107)).
+- Os scripts estão em `tools/corpus/` (#189).
+
+## 6. Registro das decisões
+
+Para não recomeçar a discussão quando aparecer um autor novo, cada decisão de
+modelagem fica registrada com:
+
+1. a pergunta e a issue;
+2. as posições dos autores e dos dicionários, com as páginas;
+3. o critério aplicado (seção 3);
+4. a decisão e a data.
+
+As decisões tomadas podem ser listadas aqui, numa seção própria, ou num
+arquivo `docs/decisions.md` (a definir).
+
+## 7. Questões em aberto
+
+- Adotar o critério 1 mesmo quando ele muda o modelo atual (feminino dos
+  substantivos, #129)?
+- Como guardar a ligação entre lemas relacionados (*professora*/*professor*,
+  *melhor*/*bom*) sem perder informação (critério 2)?
+- Compatibilidade com o Bosque/UD: seguir a convenção deles quando ela diverge
+  dos dicionários (#88)?
+- O que fazer com as formas que só aparecem em corpus?
+
+## 8. Referências
+
+Toda correção dos dados e toda regra de flexão deve citar sua fonte: uma
+entrada de dicionário, uma Base do Acordo Ortográfico ou uma gramática (com a
+página). As discussões nas issues usam as referências abaixo.
+
+### Dicionários e vocabulários
+
+Em ordem de preferência:
+
+1. [Portal da Língua Portuguesa](https://www.portaldalinguaportuguesa.org/)
+   (ILTEC, Universidade de Lisboa): a referência mais confiável para flexão e
+   conjugação ([#51](https://github.com/LR-POR/MorphoBr/issues/51),
+   [#101](https://github.com/LR-POR/MorphoBr/issues/101)).
+2. [Vocabulário Ortográfico da Língua Portuguesa](https://www.academia.org.br/nossa-lingua/busca-no-vocabulario)
+   (VOLP, Academia Brasileira de Letras).
+3. [Wikcionário](https://pt.wiktionary.org/).
+4. [Michaelis](https://michaelis.uol.com.br/).
+5. [Priberam](https://dicionario.priberam.org/).
+6. [Houaiss](https://houaiss.uol.com.br/) (a versão online é paga e por isso
+   tem prioridade baixa; as issues usam edições impressas).
+7. [Aulete](https://www.aulete.com.br/), uma das referências mais tradicionais
+   do português brasileiro.
+8. [Dicionário Aberto](https://dicionario-aberto.net/).
+9. [Infopédia](https://www.infopedia.pt/dicionarios/lingua-portuguesa/)
+   (Porto Editora), a principal referência para o português europeu
+   ([#101](https://github.com/LR-POR/MorphoBr/issues/101)).
+10. [Dicio](https://www.dicio.com.br/): usar com cautela e confirmar nas fontes
+    acima ([#60](https://github.com/LR-POR/MorphoBr/issues/60)).
+
+O Portal e o VOLP podem ser consultados verbete a verbete, mas não baixados em
+lote.
+
+### Ortografia
+
+- [Acordo Ortográfico da Língua Portuguesa (1990)](http://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990),
+  texto no Portal da Língua Portuguesa, que também lista as
+  [mudanças de grafia](http://www.portaldalinguaportuguesa.org/?action=novoacordo).
+  As formas da grafia anterior são mantidas
+  ([#93](https://github.com/LR-POR/MorphoBr/issues/93)).
+
+### Gramáticas
+
+- CUNHA, Celso; CINTRA, Luís Filipe Lindley. *Nova gramática do português
+  contemporâneo*. Rio de Janeiro: Nova Fronteira, 1985.
+- MATEUS, Maria Helena Mira et al. *Gramática da língua portuguesa*. 2. ed.
+  Lisboa: Caminho, 1989.
+
+### Morfologia
+
+- BASÍLIO, Margarida. *Estruturas lexicais do português: uma abordagem
+  gerativa*. Petrópolis: Vozes, 1980.
+- CÂMARA JR., Joaquim Mattoso. *Estrutura da língua portuguesa*. Petrópolis:
+  Vozes, 1970.
+- MONTEIRO, José Lemos. *Morfologia portuguesa*. 4. ed. Campinas: Pontes,
+  2002.
+- SANDMANN, Antônio José. *Morfologia geral*. São Paulo: Contexto, 1991
+  (Repensando a Língua Portuguesa).
+- VILLALVA, Alina. *Morfologia do português*. Lisboa: Universidade Aberta,
+  2007 (português europeu).
+
+Apostila, para usar como apoio e confirmar nas obras acima:
+
+- MARGOTTI, Felício Wessling; MARGOTTI, Rita de Cássia Mello Ferreira.
+  *Morfologia do português*. Florianópolis: UFSC, 2011.
+
+### Consultoria linguística
+
+- [Ciberdúvidas da Língua Portuguesa](https://ciberduvidas.iscte-iul.pt/).
