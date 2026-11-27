@@ -158,12 +158,61 @@ frequência. Uma palavra só entra no MorphoBr depois de conferida num dicionár
   advérbios. Artigos, preposições, pronomes e conjunções aparecem como
   "desconhecidos" e precisam ser filtrados.
 
-### Experimento (em andamento)
+### Experimento com amostras (2026-11-27)
 
-Uma amostra de cada fonte, analisada com `flookup -i morphobr.bin` (release
-v2026.11), para classificar as palavras sem análise em: classes fechadas,
-nomes próprios, grafia antiga, estrangeirismos, erros e palavras que realmente
-faltam. Resultados a acrescentar aqui.
+**Amostras:**
+- **Wikipédia:** 100 artigos aleatórios, com 2.059 sentenças e 31 mil tokens alfabéticos.
+- **Gutenberg:** cinco romances do século XIX, com 37 mil sentenças e 456 mil tokens: *Dom
+  Casmurro*, *Quincas Borba* e *Papéis Avulsos* (Machado de Assis), *Os Maias*
+  (Eça de Queirós) e *Novelas do Minho* (Camilo Castelo Branco).
+
+**Método:**
+1. Limpeza: cabeçalho do Gutenberg, quebras de linha, notas e títulos de seção.
+2. Segmentação em sentenças e tokenização com o spaCy (`pt_core_news_sm`), que
+   mantém clíticos (*parece-me*) e compostos (*pré-história*) como um token só,
+   como no MorphoBr.
+3. Análise com `flookup -i morphobr.bin` (release v2026.11).
+
+A cobertura foi medida só nas classes que o MorphoBr cobre (NOUN, ADJ, VERB,
+AUX, ADV, segundo o spaCy).
+
+| | Wikipédia | Gutenberg |
+|---|---|---|
+| Tokens de classes abertas | 13.788 | 243.800 |
+| Com análise no MorphoBr | **97,0%** | **80,5%** |
+| Sem análise: grafia antiga normalizável (*elle*, *fallar*, *annos*) | 14 | 18.403 |
+| Sem análise: outras (inclui grafia antiga sem acento, como *tambem*, *quasi*, *n'um*) | 334 | 22.949 |
+| Sem análise: compostos com hífen | 42 | 3.248 |
+| Sem análise: clíticos | 2 | 2.443 |
+| Sem análise: estrangeirismos prováveis | 27 | 586 |
+
+**O que se aproveita:**
+- **Vocabulário técnico e derivado** (Wikipédia): *micorrizas*, *fundacional*,
+  *macroalgas*, *endossimbiose*, *herbivoria*, *antropomorfização*,
+  *ideologismo*, *sinização*, *babalorixá*, *carniçal*, *elfo*, *mangá*. Na
+  amostra, cerca de 1% dos tokens de classes abertas são palavras portuguesas
+  que faltam. O resto é estrangeirismo, abreviatura, nome mal etiquetado ou
+  erro de digitação (*ressureição*, *despois*).
+- **Compostos com hífen**, uma lacuna sistemática: *pré-história*,
+  *quebra-cabeça*, *vice-rei*, *ex-marido*, *afro-brasileira*,
+  *pós-graduação*, *faixa-preta*. A amostra também traz grafias anteriores ao
+  Acordo (*co-estrelou*, hoje *coestrelou*).
+- **Clíticos de verbos frequentes** (Gutenberg): *parece-me*, *parece-lhe*,
+  *dou-lhe*, *dize-me*, *dera-lhe*, *está-se*. Nos dados, *parecer* só tem o
+  reflexivo (*parece-se*). Isso confirma as lacunas de valência de
+  [#107](https://github.com/LR-POR/MorphoBr/issues/107).
+
+**Conclusões:**
+- A Wikipédia é a fonte mais útil para achar palavras que faltam no português
+  atual.
+- No Gutenberg, quase tudo o que falta é grafia anterior a 1943, inclusive os
+  clíticos (*vel-o*, *fazel-o*). Para vocabulário, só serve depois de converter
+  a ortografia. Mesmo sem conversão, serve para os clíticos e para o
+  vocabulário literário.
+- O Domínio Público do MEC é literatura da mesma época e deve dar resultado
+  parecido com o Gutenberg. Ficou para depois.
+- As palavras que faltam continuam precisando de conferência em dicionário
+  (seção 2.1) antes de entrar no MorphoBr.
 
 ## 6. Registro das decisões
 
