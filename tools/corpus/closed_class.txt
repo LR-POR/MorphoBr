@@ -1,6 +1,7 @@
 # Palavras de classe fechada (artigos, preposições e contrações, pronomes,
-# conjunções, numerais, alguns advérbios e interjeições) que o MorphoBr não
-# cobre. coverage.py as exclui da contagem. Uma palavra por linha.
+# conjunções, numerais, alguns advérbios e interjeições). O MorphoBr ainda não
+# as cobre; como armazená-las está em discussão em #191. Enquanto isso,
+# coverage.py as exclui da contagem e informa quantas são. Uma palavra por linha.
 a
 ah
 ainda

@@ -45,4 +45,4 @@ branco).
 | `fetch_gutenberg.py` | livros do Projeto Gutenberg pelo espelho oficial; IDs em português em <https://gutendex.com/books/?languages=pt> |
 | `prepare.py` | limpeza (`wiki`, `gutenberg`, `plain`), sentenças e tokens |
 | `coverage.py` | cobertura e categorias das palavras sem análise |
-| `closed_class.txt` | palavras de classe fechada, excluídas da contagem |
+| `closed_class.txt` | palavras de classe fechada, que o MorphoBr ainda não cobre (#191); são excluídas da contagem |

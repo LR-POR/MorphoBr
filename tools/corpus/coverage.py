@@ -9,7 +9,8 @@ PATH. Para cada arquivo, imprime um relatório; com --oov, grava as palavras
 sem análise (arquivo, categoria, palavra, frequência).
 
 Excluídos da contagem:
-- palavras de classe fechada (closed_class.txt), que o MorphoBr não cobre;
+- palavras de classe fechada (closed_class.txt), que o MorphoBr ainda não
+  cobre (#191);
 - nomes próprios: palavras com maiúscula que nunca aparecem em minúscula no
   mesmo arquivo;
 - símbolos, abreviaturas, números e números romanos.
@@ -95,7 +96,7 @@ def main():
         for w in toks:
             lw = w.lower()
             if lw in closed:
-                cnt['classe fechada'] += 1
+                cnt['classe fechada, ainda não coberta (#191)'] += 1
                 continue
             if w != lw and lw not in lowers:
                 cnt['nome próprio'] += 1
@@ -120,7 +121,7 @@ def main():
             oov[k][lw] += 1
         ev = cnt['avaliados'] or 1
         print(f'== {f}: {len(toks)} tokens alfabéticos')
-        for k in ('classe fechada', 'nome próprio', 'símbolo/abreviatura/romano'):
+        for k in ('classe fechada, ainda não coberta (#191)', 'nome próprio', 'símbolo/abreviatura/romano'):
             print(f'   excluídos ({k}): {cnt[k]}')
         print(f'   avaliados: {cnt["avaliados"]}; com análise: {cnt["com análise"]} '
               f'({100 * cnt["com análise"] / ev:.1f}%)')
