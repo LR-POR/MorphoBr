@@ -161,30 +161,37 @@ frequência. Uma palavra só entra no MorphoBr depois de conferida num dicionár
 ### Experimento com amostras (2026-11-27)
 
 **Amostras:**
-- **Wikipédia:** 100 artigos aleatórios, com 2.059 sentenças e 31 mil tokens alfabéticos.
-- **Gutenberg:** cinco romances do século XIX, com 37 mil sentenças e 456 mil tokens: *Dom
+- **Wikipédia:** 100 artigos aleatórios, com 1.747 sentenças e 31 mil tokens alfabéticos.
+- **Gutenberg:** cinco romances do século XIX, com 30 mil sentenças e 456 mil tokens: *Dom
   Casmurro*, *Quincas Borba* e *Papéis Avulsos* (Machado de Assis), *Os Maias*
   (Eça de Queirós) e *Novelas do Minho* (Camilo Castelo Branco).
 
 **Método:**
 1. Limpeza: cabeçalho do Gutenberg, quebras de linha, notas e títulos de seção.
-2. Segmentação em sentenças e tokenização com o spaCy (`pt_core_news_sm`), que
-   mantém clíticos (*parece-me*) e compostos (*pré-história*) como um token só,
-   como no MorphoBr.
+2. Segmentação em sentenças pela pontuação (`sentencizer`) e tokenização por
+   regras do spaCy (`spacy.blank('pt')`). O tokenizador mantém clíticos
+   (*parece-me*) e compostos (*pré-história*) como um token só, como no
+   MorphoBr.
 3. Análise com `flookup -i morphobr.bin` (release v2026.11).
 
-A cobertura foi medida só nas classes que o MorphoBr cobre (NOUN, ADJ, VERB,
-AUX, ADV, segundo o spaCy).
+**Não usamos nenhum modelo treinado:** nem etiquetador, nem lematizador, nem
+parser. Os modelos do spaCy para o português são treinados no Bosque/UD, que
+segue decisões que podem conflitar com as deste documento (por exemplo, a
+fronteira entre adjetivo e substantivo, #69). Por isso:
+- as classes fechadas (artigos, preposições, pronomes, conjunções, numerais)
+  saem de uma lista explícita;
+- os nomes próprios são as palavras com maiúscula que nunca aparecem em
+  minúscula no corpus.
 
 | | Wikipédia | Gutenberg |
 |---|---|---|
-| Tokens de classes abertas | 13.788 | 243.800 |
-| Com análise no MorphoBr | **97,0%** | **80,5%** |
-| Sem análise: grafia antiga normalizável (*elle*, *fallar*, *annos*) | 14 | 18.403 |
-| Sem análise: outras (inclui grafia antiga sem acento, como *tambem*, *quasi*, *n'um*) | 334 | 22.949 |
-| Sem análise: compostos com hífen | 42 | 3.248 |
-| Sem análise: clíticos | 2 | 2.443 |
-| Sem análise: estrangeirismos prováveis | 27 | 586 |
+| Tokens avaliados (sem classes fechadas, nomes próprios e abreviaturas) | 14.280 | 234.901 |
+| Com análise no MorphoBr | **96,3%** | **79,0%** |
+| Sem análise: grafia antiga normalizável (*elle*, *fallar*, *annos*) | 10 | 20.428 |
+| Sem análise: outras (inclui grafia antiga sem acento, como *tambem*, *quasi*, *n'um*) | 394 | 25.556 |
+| Sem análise: clíticos | 2 | 2.155 |
+| Sem análise: compostos com hífen | 37 | 445 |
+| Sem análise: estrangeirismos prováveis | 85 | 630 |
 
 **O que se aproveita:**
 - **Vocabulário técnico e derivado** (Wikipédia): *micorrizas*, *fundacional*,
