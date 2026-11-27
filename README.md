@@ -125,13 +125,19 @@ In order of preference:
 
 ### Grammars
 
-- CUNHA, Celso; CINTRA, Lindley. *Nova gramática do português contemporâneo*.
-  2. ed. Rio de Janeiro: Nova Fronteira, 1985.
+- CUNHA, Celso; CINTRA, Luís Filipe Lindley. *Nova gramática do português
+  contemporâneo*. Rio de Janeiro: Nova Fronteira, 1985.
 - MATEUS, Maria Helena Mira et al. *Gramática da língua portuguesa*. 2. ed.
   Lisboa: Caminho, 1989.
 
 ### Morphology
 
+- BASÍLIO, Margarida. *Estruturas lexicais do português: uma abordagem
+  gerativa*. Petrópolis: Vozes, 1980.
+- CÂMARA JR., Joaquim Mattoso. *Estrutura da língua portuguesa*. Petrópolis:
+  Vozes, 1970.
+- MONTEIRO, José Lemos. *Morfologia portuguesa*. 4. ed. Campinas: Pontes,
+  2002.
 - SANDMANN, Antônio José. *Morfologia geral*. São Paulo: Contexto, 1991
   (Repensando a Língua Portuguesa).
 - VILLALVA, Alina. *Morfologia do português*. Lisboa: Universidade Aberta,
