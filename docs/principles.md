@@ -36,7 +36,7 @@ Exemplos: *pulo* é forma de *polir*? qual o plural dos nomes em *-z*? escreve-s
 *cumprimentamo-nos*?
 
 - Aqui não há teoria em jogo, só evidência.
-- Vale a ordem de preferência das referências do README: Portal da Língua
+- Vale a ordem de preferência das referências (seção 8): Portal da Língua
   Portuguesa, VOLP, dicionários, Acordo Ortográfico de 1990. Gramáticas e
   livros de morfologia entram como evidência adicional, com a página.
 - Quando as fontes de dados discordam, registram-se as duas formas, como na
@@ -62,7 +62,7 @@ estas perguntas, **proposta** de três critérios, aplicados em ordem.
 
 É um critério lexicográfico. Não depende de teoria, pode ser verificado e
 corresponde ao que o usuário espera ao procurar uma palavra. Segue a ordem de
-preferência do README, com o Portal em primeiro lugar.
+preferência da seção 8, com o Portal em primeiro lugar.
 
 Teste com seis palavras, numa consulta pontual em 2026-11-27:
 
@@ -113,7 +113,7 @@ pergunta de engenharia que de fato temos
 - Nenhum autor decide sozinho uma questão de modelagem. As posições dos
   autores entram no registro da decisão (seção 6).
 
-As referências estão no README, seção *Linguistic references*. As páginas que
+As referências estão na seção 8. As páginas que
 já encontramos para cada issue estão comentadas nas próprias issues (#69, #83,
 #88, #129, #159, #164, #173).
 
@@ -188,17 +188,72 @@ arquivo `docs/decisions.md` (a definir).
   dos dicionários (#88)?
 - O que fazer com as formas que só aparecem em corpus?
 
-## 8. Referências citadas
+## 8. Referências
 
+Toda correção dos dados e toda regra de flexão deve citar sua fonte: uma
+entrada de dicionário, uma Base do Acordo Ortográfico ou uma gramática (com a
+página). As discussões nas issues usam as referências abaixo.
+
+### Dicionários e vocabulários
+
+Em ordem de preferência:
+
+1. [Portal da Língua Portuguesa](https://www.portaldalinguaportuguesa.org/)
+   (ILTEC, Universidade de Lisboa): a referência mais confiável para flexão e
+   conjugação ([#51](https://github.com/LR-POR/MorphoBr/issues/51),
+   [#101](https://github.com/LR-POR/MorphoBr/issues/101)).
+2. [Vocabulário Ortográfico da Língua Portuguesa](https://www.academia.org.br/nossa-lingua/busca-no-vocabulario)
+   (VOLP, Academia Brasileira de Letras).
+3. [Wikcionário](https://pt.wiktionary.org/).
+4. [Michaelis](https://michaelis.uol.com.br/).
+5. [Priberam](https://dicionario.priberam.org/).
+6. [Houaiss](https://houaiss.uol.com.br/) (a versão online é paga e por isso
+   tem prioridade baixa; as issues usam edições impressas).
+7. [Aulete](https://www.aulete.com.br/), uma das referências mais tradicionais
+   do português brasileiro.
+8. [Dicionário Aberto](https://dicionario-aberto.net/).
+9. [Infopédia](https://www.infopedia.pt/dicionarios/lingua-portuguesa/)
+   (Porto Editora), a principal referência para o português europeu
+   ([#101](https://github.com/LR-POR/MorphoBr/issues/101)).
+10. [Dicio](https://www.dicio.com.br/): usar com cautela e confirmar nas fontes
+    acima ([#60](https://github.com/LR-POR/MorphoBr/issues/60)).
+
+O Portal e o VOLP podem ser consultados verbete a verbete, mas não baixados em
+lote.
+
+### Ortografia
+
+- [Acordo Ortográfico da Língua Portuguesa (1990)](http://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990),
+  texto no Portal da Língua Portuguesa, que também lista as
+  [mudanças de grafia](http://www.portaldalinguaportuguesa.org/?action=novoacordo).
+  As formas da grafia anterior são mantidas
+  ([#93](https://github.com/LR-POR/MorphoBr/issues/93)).
+
+### Gramáticas
+
+- CUNHA, Celso; CINTRA, Luís Filipe Lindley. *Nova gramática do português
+  contemporâneo*. Rio de Janeiro: Nova Fronteira, 1985.
+- MATEUS, Maria Helena Mira et al. *Gramática da língua portuguesa*. 2. ed.
+  Lisboa: Caminho, 1989.
+
+### Morfologia
+
+- BASÍLIO, Margarida. *Estruturas lexicais do português: uma abordagem
+  gerativa*. Petrópolis: Vozes, 1980.
 - CÂMARA JR., Joaquim Mattoso. *Estrutura da língua portuguesa*. Petrópolis:
   Vozes, 1970.
+- MONTEIRO, José Lemos. *Morfologia portuguesa*. 4. ed. Campinas: Pontes,
+  2002.
+- SANDMANN, Antônio José. *Morfologia geral*. São Paulo: Contexto, 1991
+  (Repensando a Língua Portuguesa).
+- VILLALVA, Alina. *Morfologia do português*. Lisboa: Universidade Aberta,
+  2007 (português europeu).
+
+Apostila, para usar como apoio e confirmar nas obras acima:
+
 - MARGOTTI, Felício Wessling; MARGOTTI, Rita de Cássia Mello Ferreira.
   *Morfologia do português*. Florianópolis: UFSC, 2011.
-- SANDMANN, Antônio José. *Morfologia geral*. São Paulo: Contexto, 1991.
-- VILLALVA, Alina. *Morfologia do português*. Lisboa: Universidade Aberta,
-  2007.
-- Dicionários: [Portal da Língua Portuguesa](https://www.portaldalinguaportuguesa.org/),
-  [Aulete](https://www.aulete.com.br/), [Priberam](https://dicionario.priberam.org/).
 
-A lista completa de referências do projeto está no README, seção *Linguistic
-references*.
+### Consultoria linguística
+
+- [Ciberdúvidas da Língua Portuguesa](https://ciberduvidas.iscte-iul.pt/).
